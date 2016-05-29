@@ -1,0 +1,1559 @@
+#TITLE,KEY,VALUE,SWMH,,,,,,,,,,,x
+e_britannia,e_britannia,,Britannia,,,,,,,,,,,x
+e_britannia,e_britannia_adj,,British,,,,,,,,,,,x
+e_britannia,breton,,Prydain,,,,,,,,,,,x
+e_britannia,irish,,Alba,,,,,,,,,,,x
+e_britannia,pictish,,Alba,,,,,,,,,,,x
+e_britannia,scottish,,Alba,,,,,,,,,,,x
+e_britannia,welsh,,Prydain,,,,,,,,,,,x
+k_england,k_england,,England,,,,,,,,,,,x
+k_england,k_england_adj,,English,,,,,,,,,,,x
+k_england,breton,,Lloegyr,,,,,,,,,,,x
+k_england,irish,,Sasana,,,,,,,,,,,x
+k_england,pictish,,Lloegyr,,,,,,,,,,,x
+k_england,welsh,,Lloegyr,,,,,,,,,,,x
+d_northumberland,d_northumberland,,Northumberland,,,,,,,,,,,x
+d_northumberland,d_northumberland_adj,,Northumbrian,,,,,,,,,,,x
+d_northumberland,saxon,,Northumbria,,,,,,,,,,,x
+c_northumberland,PROV52,,Northumberland,,,,,,,,,,,x
+c_northumberland,c_northumberland_adj,,Northumbrian,,,,,,,,,,,x
+c_northumberland,saxon,,Northumbria,,,,,,,,,,,x
+b_morpeth,b_morpeth,,Morpeth,,,,,,,,,,,x
+b_bamburgh,b_bamburgh,,Bamburgh,,,,,,,,,,,x
+b_bamburgh,danish,,Bamborg,,,,,,,,,,,x
+b_bamburgh,norse,,Bamborg,,,,,,,,,,,x
+b_bamburgh,norwegian,,Bamborg,,,,,,,,,,,x
+b_bamburgh,swedish,,Bamborg,,,,,,,,,,,x
+b_hexham,b_hexham,,Hexham,,,,,,,,,,,x
+b_newcastle,b_newcastle,,Newcastle,,,,,,,,,,,x
+b_alnwick,b_alnwick,,Alnwick,,,,,,,,,,,x
+b_norham,b_norham,,Norham,,,,,,,,,,,x
+b_lindisfarne,b_lindisfarne,,Lindisfarne,,,,,,,,,,,x
+b_mitford,b_mitford,,Mitford,,,,,,,,,,,x
+c_durham,PROV56,,Durham,,,,,,,,,,,x
+c_durham,c_durham_adj,,Durhamian,,,,,,,,,,,x
+c_durham,c_durham_adj_danish,,Dunholmer,,,,,,,,,,,x
+c_durham,c_durham_adj_norse,,Dunholmer,,,,,,,,,,,x
+c_durham,c_durham_adj_norwegian,,Dunholmer,,,,,,,,,,,x
+c_durham,c_durham_adj_swedish,,Dunholmer,,,,,,,,,,,x
+c_durham,danish,,Dunholm,,,,,,,,,,,x
+c_durham,norse,,Dunholm,,,,,,,,,,,x
+c_durham,norwegian,,Dunholm,,,,,,,,,,,x
+c_durham,swedish,,Dunholm,,,,,,,,,,,x
+b_gateshead,b_gateshead,,Gateshead,,,,,,,,,,,x
+b_durham,b_durham,,Durham,,,,,,,,,,,x
+b_durham,danish,,Dunholm,,,,,,,,,,,x
+b_durham,norse,,Dunholm,,,,,,,,,,,x
+b_durham,norwegian,,Dunholm,,,,,,,,,,,x
+b_durham,swedish,,Dunholm,,,,,,,,,,,x
+b_chester-le-street,b_chester-le-street,,Chester-le-Street,,,,,,,,,,,x
+b_jarrow,b_jarrow,,Jarrow,,,,,,,,,,,x
+b_hartlepool,b_hartlepool,,Hartlepool,,,,,,,,,,,x
+b_auckland,b_auckland,,Auckland,,,,,,,,,,,x
+b_raby,b_raby,,Raby,,,,,,,,,,,x
+b_st_cuthbert,b_st_cuthbert,,St Cuthbert,,,,,,,,,,,x
+c_cumberland,PROV53,,Cumberland,,,,,,,,,,,x
+c_cumberland,c_cumberland_adj,,Cumberlander,,,,,,,,,,,x
+b_carlisle,b_carlisle,,Carlisle,,,,,,,,,,,x
+b_burgh,b_burgh,,Burgh,,,,,,,,,,,x
+b_gilsland,b_gilsland,,Gilsland,,,,,,,,,,,x
+b_penrith,b_penrith,,Penrith,,,,,,,,,,,x
+b_egremont,b_egremont,,Egremont,,,,,,,,,,,x
+b_papcastlet,b_papcastlet,,Papcastlet,,,,,,,,,,,x
+b_cockermouth,b_cockermouth,,Cockermouth,,,,,,,,,,,x
+b_dacre,b_dacre,,Dacre,,,,,,,,,,,x
+d_lancaster,d_lancaster,,Lancaster,,,,,,,,,,,x
+d_lancaster,d_lancaster_adj,,Lancastrian,,,,,,,,,,,x
+d_lancaster,d_lancaster_adj_welsh,,Rhegedian,,,,,,,,,,,x
+d_lancaster,welsh,,Rheged,,,,,,,,,,,x
+c_lancaster,PROV58,,Lancaster,,,,,,,,,,,x
+c_lancaster,c_lancaster_adj,,Lancastrian,,,,,,,,,,,x
+b_salford,b_salford,,Salford,,,,,,,,,,,x
+b_lancaster,b_lancaster,,Lancaster,,,,,,,,,,,x
+b_bolton,b_bolton,,Bolton,,,,,,,,,,,x
+b_preston,b_preston,,Preston,,,,,,,,,,,x
+b_sawley,b_sawley,,Sawley,,,,,,,,,,,x
+b_gisburn,b_gisburn,,Gisburn,,,,,,,,,,,x
+b_furness,b_furness,,Furness,,,,,,,,,,,x
+b_clitheroe,b_clitheroe,,Clitheroe,,,,,,,,,,,x
+c_westmorland,PROV55,,Westmorland,,,,,,,,,,,x
+c_westmorland,c_westmorland_adj,,Westmorlander,,,,,,,,,,,x
+b_appleby,b_appleby,,Appleby,,,,,,,,,,,x
+b_kendal,b_kendal,,Kendal,,,,,,,,,,,x
+b_lowther,b_lowther,,Lowther,,,,,,,,,,,x
+b_cartmel,b_cartmel,,Cartmel,,,,,,,,,,,x
+b_kirkby,b_kirkby,,Kirkby,,,,,,,,,,,x
+b_brough,b_brough,,Brough,,,,,,,,,,,x
+b_shap,b_shap,,Shap,,,,,,,,,,,x
+b_brougham,b_brougham,,Brougham,,,,,,,,,,,x
+c_chester,PROV59,,Chester,,,,,,,,,,,x
+c_chester,c_chester_adj,,Chesterian,,,,,,,,,,,x
+b_chester,b_chester,,Chester,,,,,,,,,,,x
+b_halton,b_halton,,Halton,,,,,,,,,,,x
+b_malpas,b_malpas,,Malpas,,,,,,,,,,,x
+b_northwich,b_northwich,,Northwich,,,,,,,,,,,x
+b_macclesfield,b_macclesfield,,Macclesfield,,,,,,,,,,,x
+b_beeston,b_beeston,,Beeston,,,,,,,,,,,x
+b_sandbach,b_sandbach,,Sandbach,,,,,,,,,,,x
+b_nantwich,b_nantwich,,Nantwich,,,,,,,,,,,x
+c_derby,PROV63,,Derby,,,,,,,,,,,x
+c_derby,c_derby_adj,,Derbyan,,,,,,,,,,,x
+c_derby,danish,,Djuraby,,,,,,,,,,,x
+c_derby,norse,,Djuraby,,,,,,,,,,,x
+c_derby,norwegian,,Djuraby,,,,,,,,,,,x
+c_derby,swedish,,Djuraby,,,,,,,,,,,x
+b_derby,b_derby,,Derby,,,,,,,,,,,x
+b_derby,danish,,Djuraby,,,,,,,,,,,x
+b_derby,norse,,Djuraby,,,,,,,,,,,x
+b_derby,norwegian,,Djuraby,,,,,,,,,,,x
+b_derby,swedish,,Djuraby,,,,,,,,,,,x
+b_bakewell,b_bakewell,,Bakewell,,,,,,,,,,,x
+b_repton,b_repton,,Repton,,,,,,,,,,,x
+b_bolsover,b_bolsover,,Bolsover,,,,,,,,,,,x
+b_castleton,b_castleton,,Castleton,,,,,,,,,,,x
+b_chesterfield,b_chesterfield,,Chesterfield,,,,,,,,,,,x
+b_burton,b_burton,,Burton,,,,,,,,,,,x
+b_wirksworth,b_wirksworth,,Wirksworth,,,,,,,,,,,x
+d_york,d_york,,York,,,,,,,,,,,x
+d_york,d_york_adj,,Yorkist,,,,,,,,,,,x
+d_york,d_york_adj_danish,,Jorvik,,,,,,,,,,,x
+d_york,d_york_adj_norse,,Jorvik,,,,,,,,,,,x
+d_york,d_york_adj_norwegian,,Jorvik,,,,,,,,,,,x
+d_york,d_york_adj_swedish,,Jorvik,,,,,,,,,,,x
+d_york,danish,,Jorvik,,,,,,,,,,,x
+d_york,norse,,Jorvik,,,,,,,,,,,x
+d_york,norwegian,,Jorvik,,,,,,,,,,,x
+d_york,swedish,,Jorvik,,,,,,,,,,,x
+c_york,PROV57,,York,,,,,,,,,,,x
+c_york,c_york_adj,,Yorkist,,,,,,,,,,,x
+c_york,danish,,Jorvik,,,,,,,,,,,x
+c_york,norse,,Jorvik,,,,,,,,,,,x
+c_york,norwegian,,Jorvik,,,,,,,,,,,x
+c_york,swedish,,Jorvik,,,,,,,,,,,x
+b_york,b_york,,York,,,,,,,,,,,x
+b_york,danish,,Jorvik,,,,,,,,,,,x
+b_york,norse,,Jorvik,,,,,,,,,,,x
+b_york,norwegian,,Jorvik,,,,,,,,,,,x
+b_york,swedish,,Jorvik,,,,,,,,,,,x
+b_richmond,b_richmond,,Richmond,,,,,,,,,,,x
+b_st_peters,b_st_peters,,St Peters,,,,,,,,,,,x
+b_scarborough,b_scarborough,,Scarborough,,,,,,,,,,,x
+b_scarborough,danish,,Skardaborg,,,,,,,,,,,x
+b_scarborough,norse,,Skardaborg,,,,,,,,,,,x
+b_scarborough,norwegian,,Skardaborg,,,,,,,,,,,x
+b_scarborough,swedish,,Skardaborg,,,,,,,,,,,x
+b_skipton,b_skipton,,Skipton,,,,,,,,,,,x
+b_pontefract,b_pontefract,,Pontefract,,,,,,,,,,,x
+b_hull,b_hull,,Hull,,,,,,,,,,,x
+b_conisbrough,b_conisbrough,,Conisbrough,,,,,,,,,,,x
+b_conisbrough,danish,,Kungsborg,,,,,,,,,,,x
+b_conisbrough,norse,,Kungsborg,,,,,,,,,,,x
+b_conisbrough,norwegian,,Kungsborg,,,,,,,,,,,x
+b_conisbrough,swedish,,Kungsborg,,,,,,,,,,,x
+c_lincoln,PROV61,,Lincoln,,,,,,,,,,,x
+c_lincoln,c_lincoln_adj,,Lincolnian,,,,,,,,,,,x
+b_gainsborough,b_gainsborough,,Gainsborough,,,,,,,,,,,x
+b_lincoln,b_lincoln,,Lincoln,,,,,,,,,,,x
+b_boston,b_boston,,Boston,,,,,,,,,,,x
+b_spalding,b_spalding,,Spalding,,,,,,,,,,,x
+b_stamford,b_stamford,,Stamford,,,,,,,,,,,x
+b_grantham,b_grantham,,Grantham,,,,,,,,,,,x
+b_louth,b_louth,,Louth,,,,,,,,,,,x
+b_bardney,b_bardney,,Bardney,,,,,,,,,,,x
+d_norfolk,d_norfolk,,East Anglia,,,,,,,,,,,x
+d_norfolk,d_norfolk_adj,,East Anglian,,,,,,,,,,,x
+d_norfolk,d_norfolk_adj_english,,Norfolkian,,,,,,,,,,,x
+d_norfolk,d_norfolk_adj_norman,,Norfolkian,,,,,,,,,,,x
+d_norfolk,english,,Norfolk,,,,,,,,,,,x
+d_norfolk,norman,,Norfolk,,,,,,,,,,,x
+c_norfolk,PROV70,,Norfolk,,,,,,,,,,,x
+c_norfolk,c_norfolk_adj,,Norfolkian,,,,,,,,,,,x
+b_norwich,b_norwich,,Norwich,,,,,,,,,,,x
+b_thetford,b_thetford,,Thetford,,,,,,,,,,,x
+b_buckenham,b_buckenham,,Buckenham,,,,,,,,,,,x
+b_lynn,b_lynn,,Lynn,,,,,,,,,,,x
+b_yarmouth,b_yarmouth,,Yarmouth,,,,,,,,,,,x
+b_elmham,b_elmham,,Elmham,,,,,,,,,,,x
+b_castle_rising,b_castle_rising,,Castle Rising,,,,,,,,,,,x
+b_chatteris,b_chatteris,,Chatteris,,,,,,,,,,,x
+c_suffolk,PROV71,,Suffolk,,,,,,,,,,,x
+c_suffolk,c_suffolk_adj,,Suffolkian,,,,,,,,,,,x
+b_ipswich,b_ipswich,,Ipswich,,,,,,,,,,,x
+b_ely,b_ely,,Ely,,,,,,,,,,,x
+b_bury,b_bury,,Bury,,,,,,,,,,,x
+b_lowestoft,b_lowestoft,,Lowestoft,,,,,,,,,,,x
+b_lowestoft,danish,,Lothvistoft,,,,,,,,,,,x
+b_lowestoft,norse,,Lothvistoft,,,,,,,,,,,x
+b_lowestoft,norwegian,,Lothvistoft,,,,,,,,,,,x
+b_lowestoft,swedish,,Lothvistoft,,,,,,,,,,,x
+b_dunwich,b_dunwich,,Dunwich,,,,,,,,,,,x
+b_stow,b_stow,,Stow,,,,,,,,,,,x
+b_bungay,b_bungay,,Bungay,,,,,,,,,,,x
+b_framlingham,b_framlingham,,Framlingham,,,,,,,,,,,x
+d_bedford,d_bedford,,Essex,,,,,,,,,,,x
+d_bedford,d_bedford_adj,,Essexian,,,,,,,,,,,x
+d_bedford,d_bedford_adj_english,,Bedforder,,,,,,,,,,,x
+d_bedford,d_bedford_adj_norman,,Bedforder,,,,,,,,,,,x
+d_bedford,english,,Bedford,,,,,,,,,,,x
+d_bedford,norman,,Bedford,,,,,,,,,,,x
+c_bedford,PROV69,,Bedford,,,,,,,,,,,x
+c_bedford,c_bedford_adj,,Bedforder,,,,,,,,,,,x
+b_bedford,b_bedford,,Bedford,,,,,,,,,,,x
+b_hertford,b_hertford,,Hertford,,,,,,,,,,,x
+b_st_albans,b_st_albans,,St Albans,,,,,,,,,,,x
+b_berkhamsted,b_berkhamsted,,Berkhamsted,,,,,,,,,,,x
+b_luton,b_luton,,Luton,,,,,,,,,,,x
+b_dunstable,b_dunstable,,Dunstable,,,,,,,,,,,x
+b_watford,b_watford,,Watford,,,,,,,,,,,x
+b_ashridge,b_ashridge,,Ashridge,,,,,,,,,,,x
+c_middlesex,PROV32,,Middlesex,,,,,,,,,,,x
+c_middlesex,c_middlesex_adj,,Middlesexian,,,,,,,,,,,x
+b_westminster,b_westminster,,Westminster,,,,,,,,,,,x
+b_westminster,norse,,Vestmystur,,,,,,,,,,,x
+b_london,b_london,,London,,,,,,,,,,,x
+b_london,norse,,Lundúnir,,,,,,,,,,,x
+b_st_pauls,b_st_pauls,,St Pauls,,,,,,,,,,,x
+b_tottenham,b_tottenham,,Tottenham,,,,,,,,,,,x
+b_fulham,b_fulham,,Fulham,,,,,,,,,,,x
+b_staines,b_staines,,Staines,,,,,,,,,,,x
+b_harrow,b_harrow,,Harrow,,,,,,,,,,,x
+b_chelsea,b_chelsea,,Chelsea,,,,,,,,,,,x
+c_essex,PROV72,,Essex,,,,,,,,,,,x
+c_essex,c_essex_adj,,Essexian,,,,,,,,,,,x
+b_maldon,b_maldon,,Maldon,,,,,,,,,,,x
+b_havering,b_havering,,Havering,,,,,,,,,,,x
+b_dunmow,b_dunmow,,Dunmow,,,,,,,,,,,x
+b_colchester,b_colchester,,Colchester,,,,,,,,,,,x
+b_waltham,b_waltham,,Waltham,,,,,,,,,,,x
+b_barking,b_barking,,Barking,,,,,,,,,,,x
+b_pleshey,b_pleshey,,Pleshey,,,,,,,,,,,x
+b_hedingham,b_hedingham,,Hedingham,,,,,,,,,,,x
+c_northampton,PROV68,,Northampton,,,,,,,,,,,x
+c_northampton,c_northampton_adj,,Northamptonian,,,,,,,,,,,x
+b_peterborough,b_peterborough,,Peterborough,,,,,,,,,,,x
+b_huntingdon,b_huntingdon,,Huntingdon,,,,,,,,,,,x
+b_ramsey,b_ramsey,,Ramsey,,,,,,,,,,,x
+b_northampton,b_northampton,,Northampton,,,,,,,,,,,x
+b_kettering,b_kettering,,Kettering,,,,,,,,,,,x
+b_cambridge,b_cambridge,,Cambridge,,,,,,,,,,,x
+b_crowland,b_crowland,,Crowland,,,,,,,,,,,x
+b_rockingham,b_rockingham,,Rockingham,,,,,,,,,,,x
+d_hereford,d_hereford,,Mercia,,,,,,,,,,,x
+d_hereford,d_hereford_adj,,Mercian,,,,,,,,,,,x
+d_hereford,d_hereford_adj_english,,Herefordian,,,,,,,,,,,x
+d_hereford,d_hereford_adj_norman,,Herefordian,,,,,,,,,,,x
+d_hereford,english,,Warwick,,,,,,,,,,,x
+d_hereford,norman,,Warwick,,,,,,,,,,,x
+c_leicester,PROV62,,Leicester,,,,,,,,,,,x
+c_leicester,c_leicester_adj,,Leicesterian,,,,,,,,,,,x
+b_leicester,b_leicester,,Leicester,,,,,,,,,,,x
+b_nottingham,b_nottingham,,Nottingham,,,,,,,,,,,x
+b_southwell,b_southwell,,Southwell,,,,,,,,,,,x
+b_newark,b_newark,,Newark,,,,,,,,,,,x
+b_hucknall,b_hucknall,,Hucknall,,,,,,,,,,,x
+b_tickhill,b_tickhill,,Tickhill,,,,,,,,,,,x
+b_worksop,b_worksop,,Worksop,,,,,,,,,,,x
+b_newstead,b_newstead,,Newstead,,,,,,,,,,,x
+c_warwick,PROV67,,Warwick,,,,,,,,,,,x
+c_warwick,c_warwick_adj,,Warwickian,,,,,,,,,,,x
+b_coventry,b_coventry,,Coventry,,,,,,,,,,,x
+b_warwick,b_warwick,,Warwick,,,,,,,,,,,x
+b_lichfield,b_lichfield,,Lichfield,,,,,,,,,,,x
+b_stafford,b_stafford,,Stafford,,,,,,,,,,,x
+b_tamworth,b_tamworth,,Tamworth,,,,,,,,,,,x
+b_kenilworth,b_kenilworth,,Kenilworth,,,,,,,,,,,x
+b_tutbury,b_tutbury,,Tutbury,,,,,,,,,,,x
+b_dudley,b_dudley,,Dudley,,,,,,,,,,,x
+c_worcester,PROV30,,Worcester,,,,,,,,,,,x
+c_worcester,c_worcester_adj,,Worcesterian,,,,,,,,,,,x
+b_worcester,b_worcester,,Worcester,,,,,,,,,,,x
+b_evesham,b_evesham,,Evesham,,,,,,,,,,,x
+b_droitwich,b_droitwich,,Droitwich,,,,,,,,,,,x
+b_kidderminster,b_kidderminster,,Kidderminster,,,,,,,,,,,x
+b_pershore,b_pershore,,Pershore,,,,,,,,,,,x
+b_malvern,b_malvern,,Malvern,,,,,,,,,,,x
+b_bromsgrove,b_bromsgrove,,Bromsgrove,,,,,,,,,,,x
+b_laughern,b_laughern,,Laughern,,,,,,,,,,,x
+d_gloucester,d_gloucester,,Hwicce,,,,,,,,,,,x
+d_gloucester,d_gloucester_adj,,Hwiccan,,,,,,,,,,,x
+d_gloucester,d_gloucester_adj_english,,Gloucesterian,,,,,,,,,,,x
+d_gloucester,d_gloucester_adj_norman,,Gloucesterian,,,,,,,,,,,x
+d_gloucester,english,,Gloucester,,,,,,,,,,,x
+d_gloucester,norman,,Gloucester,,,,,,,,,,,x
+c_gloucester,PROV21,,Gloucester,,,,,,,,,,,x
+c_gloucester,c_gloucester_adj,,Gloucesterian,,,,,,,,,,,x
+b_gloucester,b_gloucester,,Gloucester,,,,,,,,,,,x
+b_sudeley,b_sudeley,,Sudeley,,,,,,,,,,,x
+b_tewkesbury,b_tewkesbury,,Tewkesbury,,,,,,,,,,,x
+b_cheltenham,b_cheltenham,,Cheltenham,,,,,,,,,,,x
+b_cirencester,b_cirencester,,Cirencester,,,,,,,,,,,x
+b_winchcombe,b_winchcombe,,Winchcombe,,,,,,,,,,,x
+b_bristol,b_bristol,,Bristol,,,,,,,,,,,x
+b_hailes,b_hailes,,Hailes,,,,,,,,,,,x
+c_wiltshire,PROV23,,Wiltshire,,,,,,,,,,,x
+c_wiltshire,c_wiltshire_adj,,Wiltshirian,,,,,,,,,,,x
+b_wilton,b_wilton,,Wilton,,,,,,,,,,,x
+b_sarum,b_sarum,,Sarum,,,,,,,,,,,x
+b_clarendon,b_clarendon,,Clarendon,,,,,,,,,,,x
+b_malmesbury,b_malmesbury,,Malmesbury,,,,,,,,,,,x
+b_salisbury,b_salisbury,,Salisbury,,,,,,,,,,,x
+b_devizes,b_devizes,,Devizes,,,,,,,,,,,x
+b_ramsbury,b_ramsbury,,Ramsbury,,,,,,,,,,,x
+b_marlborough,b_marlborough,,Marlborough,,,,,,,,,,,x
+c_oxford,PROV22,,Oxford,,,,,,,,,,,x
+c_oxford,c_oxford_adj,,Oxfordian,,,,,,,,,,,x
+b_oxford,b_oxford,,Oxford,,,,,,,,,,,x
+b_wallingford,b_wallingford,,Wallingford,,,,,,,,,,,x
+b_abingdon,b_abingdon,,Abingdon,,,,,,,,,,,x
+b_buckingham,b_buckingham,,Buckingham,,,,,,,,,,,x
+b_banbury,b_banbury,,Banbury,,,,,,,,,,,x
+b_reading,b_reading,,Reading,,,,,,,,,,,x
+b_aylesbury,b_aylesbury,,Aylesbury,,,,,,,,,,,x
+b_eynsham,b_eynsham,,Eynsham,,,,,,,,,,,x
+d_canterbury,d_canterbury,,Kent,,,,,,,,,,,x
+d_canterbury,d_canterbury_adj,,Kentish,,,,,,,,,,,x
+c_surrey,PROV24,,Surrey,,,,,,,,,,,x
+c_surrey,c_surrey_adj,,Surreyan,,,,,,,,,,,x
+b_farnham,b_farnham,,Farnham,,,,,,,,,,,x
+b_guildford,b_guildford,,Guildford,,,,,,,,,,,x
+b_lambeth,b_lambeth,,Lambeth,,,,,,,,,,,x
+b_southwark,b_southwark,,Southwark,,,,,,,,,,,x
+b_woking,b_woking,,Woking,,,,,,,,,,,x
+b_chertsey,b_chertsey,,Chertsey,,,,,,,,,,,x
+b_croydon,b_croydon,,Croydon,,,,,,,,,,,x
+b_waverley,b_waverley,,Waverley,,,,,,,,,,,x
+c_kent,PROV73,,Kent,,,,,,,,,,,x
+c_kent,c_kent_adj,,Kentian,,,,,,,,,,,x
+b_rochester,b_rochester,,Rochester,,,,,,,,,,,x
+b_dover,b_dover,,Dover,,,,,,,,,,,x
+b_canterbury,b_canterbury,,Canterbury,,,,,,,,,,,x
+b_faversham,b_faversham,,Faversham,,,,,,,,,,,x
+b_sandwich,b_sandwich,,Sandwich,,,,,,,,,,,x
+b_lympne,b_lympne,,Lympne,,,,,,,,,,,x
+b_romney,b_romney,,Romney,,,,,,,,,,,x
+b_tonbridge,b_tonbridge,,Tonbridge,,,,,,,,,,,x
+c_sussex,PROV25,,Sussex,,,,,,,,,,,x
+c_sussex,c_sussex_adj,,Sussexian,,,,,,,,,,,x
+b_hastings,b_hastings,,Hastings,,,,,,,,,,,x
+b_pevensey,b_pevensey,,Pevensey,,,,,,,,,,,x
+b_chichester,b_chichester,,Chichester,,,,,,,,,,,x
+b_lewes,b_lewes,,Lewes,,,,,,,,,,,x
+b_arundel,b_arundel,,Arundel,,,,,,,,,,,x
+b_rye,b_rye,,Rye,,,,,,,,,,,x
+b_bramber,b_bramber,,Bramber,,,,,,,,,,,x
+b_bodiam,b_bodiam,,Bodiam,,,,,,,,,,,x
+d_somerset,d_somerset,,Wessex,,,,,,,,,,,x
+d_somerset,d_somerset_adj,,Wessexian,,,,,,,,,,,x
+d_somerset,d_somerset_adj_english,,Somersetian,,,,,,,,,,,x
+d_somerset,d_somerset_adj_norman,,Somersetian,,,,,,,,,,,x
+d_somerset,english,,Somerset,,,,,,,,,,,x
+d_somerset,norman,,Somerset,,,,,,,,,,,x
+c_winchester,PROV26,,Winchester,,,,,,,,,,,x
+c_winchester,c_winchester_adj,,Winchesterian,,,,,,,,,,,x
+c_winchester,saxon,,Wessex,,,,,,,,,,,x
+b_southampton,b_southampton,,Southampton,,,,,,,,,,,x
+b_portchester,b_portchester,,Portchester,,,,,,,,,,,x
+b_winchester,b_winchester,,Winchester,,,,,,,,,,,x
+b_carisbrooke,b_carisbrooke,,Carisbrooke,,,,,,,,,,,x
+b_romsey,b_romsey,,Romsey,,,,,,,,,,,x
+b_andover,b_andover,,Andover,,,,,,,,,,,x
+b_st_swithun,b_st_swithun,,St Swithun,,,,,,,,,,,x
+b_wherwell,b_wherwell,,Wherwell,,,,,,,,,,,x
+c_dorset,PROV27,,Dorset,,,,,,,,,,,x
+c_dorset,c_dorset_adj,,Dorsetian,,,,,,,,,,,x
+b_wareham,b_wareham,,Wareham,,,,,,,,,,,x
+b_corfe,b_corfe,,Corfe,,,,,,,,,,,x
+b_shaftesbury,b_shaftesbury,,Shaftesbury,,,,,,,,,,,x
+b_dorchester,b_dorchester,,Dorchester,,,,,,,,,,,x
+b_sherborne,b_sherborne,,Sherborne,,,,,,,,,,,x
+b_lyme,b_lyme,,Lyme,,,,,,,,,,,x
+b_weymouth,b_weymouth,,Weymouth,,,,,,,,,,,x
+b_wimborne,b_wimborne,,Wimborne,,,,,,,,,,,x
+c_somerset,PROV28,,Somerset,,,,,,,,,,,x
+c_somerset,c_somerset_adj,,Somersetian,,,,,,,,,,,x
+b_bath,b_bath,,Bath,,,,,,,,,,,x
+b_wells,b_wells,,Wells,,,,,,,,,,,x
+b_ilchester,b_ilchester,,Ilchester,,,,,,,,,,,x
+b_taunton,b_taunton,,Taunton,,,,,,,,,,,x
+b_muchelney,b_muchelney,,Muchelney,,,,,,,,,,,x
+b_castle_cary,b_castle_cary,,Castle Cary,,,,,,,,,,,x
+b_glastonbury,b_glastonbury,,Glastonbury,,,,,,,,,,,x
+b_cleeve,b_cleeve,,Cleeve,,,,,,,,,,,x
+k_wales,k_wales,,Wales,,,,,,,,,,,x
+k_wales,k_wales_adj,,Welsh,,,,,,,,,,,x
+k_wales,breton,,Kembre,,,,,,,,,,,x
+k_wales,irish,,Bhreatain Bheag,,,,,,,,,,,x
+k_wales,pictish,,Brythoniaid,,,,,,,,,,,x
+k_wales,welsh,,Brythoniaid,,,,,,,,,,,x
+d_gwynedd,d_gwynedd,,Gwynedd,,,,,,,,,,,x
+d_gwynedd,d_gwynedd_adj,,Gwyneddian,,,,,,,,,,,x
+c_gwynedd,PROV64,,Gwynedd,,,,,,,,,,,x
+c_gwynedd,c_gwynedd_adj,,Gwyneddian,,,,,,,,,,,x
+b_caernarfon,b_caernarfon,,Caernarfon,,,,,,,,,,,x
+b_degannwy,b_degannwy,,Degannwy,,,,,,,,,,,x
+b_bangor_fawr,b_bangor_fawr,,Bangor Fawr,,,,,,,,,,,x
+b_aberffraw,b_aberffraw,,Aberffraw,,,,,,,,,,,x
+b_aberffraw,english,,Anglesey,,,,,,,,,,,x
+b_aberffraw,norwegian,,Ongullsøy,,,,,,,,,,,x
+b_aberffraw,saxon,,Anglesey,,,,,,,,,,,x
+b_harlech,b_harlech,,Harlech,,,,,,,,,,,x
+b_cardigan,b_cardigan,,Cardigan,,,,,,,,,,,x
+b_conwy,b_conwy,,Conwy,,,,,,,,,,,x
+b_llanbadarn,b_llanbadarn,,Llanbadarn,,,,,,,,,,,x
+c_perfeddwlad,PROV60,,Perfeddwlad,,,,,,,,,,,x
+c_perfeddwlad,c_perfeddwlad_adj,,Perfeddwladian,,,,,,,,,,,x
+b_denbigh,b_denbigh,,Denbigh,,,,,,,,,,,x
+b_rhuddlan,b_rhuddlan,,Rhuddlan,,,,,,,,,,,x
+b_llanelwy,b_llanelwy,,Llanelwy,,,,,,,,,,,x
+b_flint,b_flint,,Flint,,,,,,,,,,,x
+b_ruthin,b_ruthin,,Ruthin,,,,,,,,,,,x
+b_basingwerk,b_basingwerk,,Basingwerk,,,,,,,,,,,x
+b_ewloe,b_ewloe,,Ewloe,,,,,,,,,,,x
+b_hawarden,b_hawarden,,Hawarden,,,,,,,,,,,x
+d_powys,d_powys,,Powys,,,,,,,,,,,x
+d_powys,d_powys_adj,,Powys,,,,,,,,,,,x
+c_powys,PROV65,,Powys,,,,,,,,,,,x
+c_powys,c_powys_adj,,Powysian,,,,,,,,,,,x
+b_caersws,b_caersws,,Caersws,,,,,,,,,,,x
+b_mathrafal,b_mathrafal,,Mathrafal,,,,,,,,,,,x
+b_llangollen,b_llangollen,,Llangollen,,,,,,,,,,,x
+b_llandinam,b_llandinam,,Llandinam,,,,,,,,,,,x
+b_glascwm,b_glascwm,,Glascwm,,,,,,,,,,,x
+b_radnor,b_radnor,,Radnor,,,,,,,,,,,x
+b_montgomery,b_montgomery,,Montgomery,,,,,,,,,,,x
+b_rhayader,b_rhayader,,Rhuddalt,,,,,,,,,,,x
+c_shrewsbury,PROV66,,Shrewsbury,,,,,,,,,,,x
+c_shrewsbury,c_shrewsbury_adj,,Shrewsburyan,,,,,,,,,,,x
+c_shrewsbury,english,,Shrewsbury,,,,,,,,,,,x
+c_shrewsbury,saxon,,Shropshire,,,,,,,,,,,x
+c_shrewsbury,welsh,,Pengwern,,,,,,,,,,,x
+b_shrewsbury,b_shrewsbury,,Shrewsbury,,,,,,,,,,,x
+b_clun,b_clun,,Clun,,,,,,,,,,,x
+b_wenlock,b_wenlock,,Wenlock,,,,,,,,,,,x
+b_ludlow,b_ludlow,,Ludlow,,,,,,,,,,,x
+b_whitchurch,b_whitchurch,,Whitchurch,,,,,,,,,,,x
+b_bridgnorth,b_bridgnorth,,Bridgnorth,,,,,,,,,,,x
+b_oswestry,b_oswestry,,Oswestry,,,,,,,,,,,x
+b_chirk,b_chirk,,Chirk,,,,,,,,,,,x
+c_hereford,PROV17,,Hereford,,,,,,,,,,,x
+c_hereford,c_hereford_adj,,Herefordian,,,,,,,,,,,x
+c_hereford,welsh,,Ergyng,,,,,,,,,,,x
+b_st_ethelberts,b_st_ethelberts,,St Ethelberts,,,,,,,,,,,x
+b_hereford,b_hereford,,Hereford,,,,,,,,,,,x
+b_hereford,welsh,,Din Aricon,,,,,,,,,,,x
+b_leominster,b_leominster,,Leominster,,,,,,,,,,,x
+b_archenfield,b_archenfield,,Archenfield,,,,,,,,,,,x
+b_ewyas_harold,b_ewyas_harold,,Ewyas Harold,,,,,,,,,,,x
+b_ledbury,b_ledbury,,Ledbury,,,,,,,,,,,x
+b_clifford,b_clifford,,Clifford,,,,,,,,,,,x
+b_brobury,b_brobury,,Brobury,,,,,,,,,,,x
+d_deheubarth,d_deheubarth,,Deheubarth,,,,,,,,,,,x
+d_deheubarth,d_deheubarth_adj,,Deheubarthian,,,,,,,,,,,x
+c_dyfed,PROV18,,Dyfed,,,,,,,,,,,x
+c_dyfed,c_dyfed_adj,,Dyfedian,,,,,,,,,,,x
+b_carmarthen,b_carmarthen,,Carmarthen,,,,,,,,,,,x
+b_dinefwr,b_dinefwr,,Dinefwr,,,,,,,,,,,x
+b_st_davids,b_st_davids,,St. Davids,,,,,,,,,,,x
+b_st_davids,norwegian,,Ramsøy,,,,,,,,,,,x
+b_st_davids,welsh,,Tyddewi,,,,,,,,,,,x
+b_kidwelly,b_kidwelly,,Kidwelly,,,,,,,,,,,x
+b_kidwelly,welsh,,Cydweli,,,,,,,,,,,x
+b_llandeilo,b_llandeilo,,Llandeilo,,,,,,,,,,,x
+b_pembroke,b_pembroke,,Pembroke,,,,,,,,,,,x
+b_narberth,b_narberth,,Narberth,,,,,,,,,,,x
+b_haverford,b_haverford,,Haverford,,,,,,,,,,,x
+c_glamorgan,PROV19,,Glamorgan,,,,,,,,,,,x
+c_glamorgan,c_glamorgan_adj,,Glamorganian,,,,,,,,,,,x
+b_cardiff,b_cardiff,,Cardiff,,,,,,,,,,,x
+b_neath,b_neath,,Neath,,,,,,,,,,,x
+b_llandaff,b_llandaff,,Llandaff,,,,,,,,,,,x
+b_caerphilly,b_caerphilly,,Caerphilly,,,,,,,,,,,x
+b_swansea,b_swansea,,Swansea,,,,,,,,,,,x
+b_loughor,b_loughor,,Loughor,,,,,,,,,,,x
+b_margam,b_margam,,Margam,,,,,,,,,,,x
+b_ogmore,b_ogmore,,Ogmore,,,,,,,,,,,x
+c_gwent,PROV20,,Gwent,,,,,,,,,,,x
+c_gwent,c_gwent_adj,,Gwentian,,,,,,,,,,,x
+b_caerwent,b_caerwent,,Caerwent,,,,,,,,,,,x
+b_chepstow,b_chepstow,,Chepstow,,,,,,,,,,,x
+b_abergavenny,b_abergavenny,,Abergavenny,,,,,,,,,,,x
+b_monmouth,b_monmouth,,Monmouth,,,,,,,,,,,x
+b_caerleon,b_caerleon,,Caerleon,,,,,,,,,,,x
+b_newport,b_newport,,Newport,,,,,,,,,,,x
+b_brecon,b_brecon,,Brecon,,,,,,,,,,,x
+b_tintern,b_tintern,,Tintern,,,,,,,,,,,x
+d_cornwall,d_cornwall,,Cornwall,,,,,,,,,,,x
+d_cornwall,d_cornwall_adj,,Cornish,,,,,,,,,,,x
+c_cornwall,PROV31,,Cornwall,,,,,,,,,,,x
+c_cornwall,c_cornwall_adj,,Cornish,,,,,,,,,,,x
+b_bodmin,b_bodmin,,Bodmin,,,,,,,,,,,x
+b_launceston,b_launceston,,Launceston,,,,,,,,,,,x
+b_st_germans,b_st_germans,,St. Germans,,,,,,,,,,,x
+b_truro,b_truro,,Truro,,,,,,,,,,,x
+b_liskeard,b_liskeard,,Liskeard,,,,,,,,,,,x
+b_tintagel,b_tintagel,,Tintagel,,,,,,,,,,,x
+b_st_michael,b_st_michael,,St. Michael,,,,,,,,,,,x
+b_restormel,b_restormel,,Restormel,,,,,,,,,,,x
+c_devon,PROV29,,Devon,,,,,,,,,,,x
+c_devon,c_devon_adj,,Devonian,,,,,,,,,,,x
+b_lydford,b_lydford,,Lydford,,,,,,,,,,,x
+b_exeter,b_exeter,,Exeter,,,,,,,,,,,x
+b_crediton,b_crediton,,Crediton,,,,,,,,,,,x
+b_totnes,b_totnes,,Totnes,,,,,,,,,,,x
+b_axminster,b_axminster,,Axminster,,,,,,,,,,,x
+b_tavistock,b_tavistock,,Tavistock,,,,,,,,,,,x
+b_buckfast,b_buckfast,,Buckfast,,,,,,,,,,,x
+b_dartmouth,b_dartmouth,,Dartmouth,,,,,,,,,,,x
+k_scotland,k_scotland,,Scotland,,,,,,,,,,,x
+k_scotland,k_scotland_adj,,Scottish,,,,,,,,,,,x
+k_scotland,breton,,Alba,,,,,,,,,,,x
+k_scotland,danish,,Skotland,,,,,,,,,,,x
+k_scotland,irish,,Alba,,,,,,,,,,,x
+k_scotland,norse,,Skotland,,,,,,,,,,,x
+k_scotland,norwegian,,Skottland,,,,,,,,,,,x
+k_scotland,pictish,,Pictland,,,,,,,,,,,x
+k_scotland,swedish,,Skottland,,,,,,,,,,,x
+k_scotland,welsh,,Alban,,,,,,,,,,,x
+d_the_isles,d_the_isles,,Man,,,,,,,,,,,x
+d_the_isles,d_the_isles_adj,,Manx,,,,,,,,,,,x
+d_the_isles,danish,,Mann,,,,,,,,,,,x
+d_the_isles,irish,,Mhannin,,,,,,,,,,,x
+d_the_isles,norse,,Mann,,,,,,,,,,,x
+d_the_isles,norwegian,,Mann,,,,,,,,,,,x
+d_the_isles,pictish,,Manu,,,,,,,,,,,x
+d_the_isles,swedish,,Mann,,,,,,,,,,,x
+d_the_isles,welsh,,Manaw,,,,,,,,,,,x
+c_isle_of_man,PROV54,,Isle of Man,,,,,,,,,,,x
+c_isle_of_man,c_isle_of_man_adj,,Manx,,,,,,,,,,,x
+c_isle_of_man,danish,,Mann,,,,,,,,,,,x
+c_isle_of_man,irish,,Ellan Mhannin,,,,,,,,,,,x
+c_isle_of_man,norse,,Mann,,,,,,,,,,,x
+c_isle_of_man,norwegian,,Mann,,,,,,,,,,,x
+c_isle_of_man,pictish,,Insee Manu,,,,,,,,,,,x
+c_isle_of_man,swedish,,Mann,,,,,,,,,,,x
+c_isle_of_man,welsh,,Ynys Manaw,,,,,,,,,,,x
+b_peel,b_peel,,Peel,,,,,,,,,,,x
+b_peel,danish,,Pålø,,,,,,,,,,,x
+b_peel,irish,,Purt ny h-Inshey,,,,,,,,,,,x
+b_peel,norse,,Pålø,,,,,,,,,,,x
+b_peel,norwegian,,Pålø,,,,,,,,,,,x
+b_peel,pictish,,Pirtinsee,,,,,,,,,,,x
+b_peel,swedish,,Pålø,,,,,,,,,,,x
+b_peel,welsh,,Porth Ynys,,,,,,,,,,,x
+b_rushen,b_rushen,,Rushen,,,,,,,,,,,x
+b_rushen,irish,,Rosien,,,,,,,,,,,x
+b_rushen,pictish,,Resan,,,,,,,,,,,x
+b_rushen,welsh,,Resyn,,,,,,,,,,,x
+b_maughold,b_maughold,,Maughold,,,,,,,,,,,x
+b_maughold,irish,,Macaille,,,,,,,,,,,x
+b_maughold,pictish,,Mauugan,,,,,,,,,,,x
+b_maughold,welsh,,Mawgan Sant,,,,,,,,,,,x
+b_douglas,b_douglas,,Douglas,,,,,,,,,,,x
+b_douglas,irish,,Duboglassio,,,,,,,,,,,x
+b_douglas,pictish,,Duunglasc,,,,,,,,,,,x
+b_douglas,welsh,,Duonglassafon,,,,,,,,,,,x
+b_kirk_michael,b_kirk_michael,,Kirk Michael,,,,,,,,,,,x
+b_kirk_michael,irish,,Cill Micheál,,,,,,,,,,,x
+b_kirk_michael,pictish,,Icluasc Mihagal,,,,,,,,,,,x
+b_kirk_michael,welsh,,Eglwys Mihangel,,,,,,,,,,,x
+b_sulby,b_sulby,,Sulby,,,,,,,,,,,x
+b_sulby,danish,,Sõlabyr,,,,,,,,,,,x
+b_sulby,irish,,Druígleann,,,,,,,,,,,x
+b_sulby,norwegian,,Sõlabyr,,,,,,,,,,,x
+b_sulby,pictish,,Drauuglan,,,,,,,,,,,x
+b_sulby,swedish,,Sõlabyr,,,,,,,,,,,x
+b_sulby,welsh,,Drywglyn,,,,,,,,,,,x
+b_inis_patraic,b_inis_patraic,,Inis Patraic,,,,,,,,,,,x
+b_inis_patraic,irish,,Inis Pátraic,,,,,,,,,,,x
+b_inis_patraic,pictish,,Inees Pedric,,,,,,,,,,,x
+b_inis_patraic,welsh,,Ynys Padric,,,,,,,,,,,x
+b_laxey,b_laxey,,Laxey,,,,,,,,,,,x
+b_laxey,irish,,Uisge Bradán,,,,,,,,,,,x
+b_laxey,pictish,,Ahonugad,,,,,,,,,,,x
+b_laxey,welsh,,Afoneogiaid,,,,,,,,,,,x
+d_galloway,d_galloway,,Galloway,,,,,,,,,,,x
+d_galloway,d_galloway_adj,,Gallowayan,,,,,,,,,,,x
+d_galloway,d_galloway_adj_welsh,,Strathclyde,,,,,,,,,,,x
+d_galloway,irish,,Gall-Ghaidhealaibh,,,,,,,,,,,x
+d_galloway,pictish,,Nouantia,,,,,,,,,,,x
+d_galloway,welsh,,Strathclyde,,,,,,,,,,,x
+c_galloway,PROV50,,Galloway,,,,,,,,,,,x
+c_galloway,c_galloway_adj,,Gallowayan,,,,,,,,,,,x
+c_galloway,irish,,Na Rannaibh,,,,,,,,,,,x
+c_galloway,pictish,,Nouantia,,,,,,,,,,,x
+c_galloway,welsh,,Nofant,,,,,,,,,,,x
+b_dumfries,b_dumfries,,Dumfries,,,,,,,,,,,x
+b_dumfries,irish,,Dùn Phris,,,,,,,,,,,x
+b_dumfries,pictish,,Dunrad,,,,,,,,,,,x
+b_dumfries,welsh,,Dinrhyd,,,,,,,,,,,x
+b_dunragit,b_dunragit,,Dunragit,,,,,,,,,,,x
+b_dunragit,irish,,Dùn Reicheit,,,,,,,,,,,x
+b_dunragit,pictish,,Dunreget,,,,,,,,,,,x
+b_dunragit,welsh,,Din Rheged,,,,,,,,,,,x
+b_whithorn,b_whithorn,,Whithorn,,,,,,,,,,,x
+b_whithorn,irish,,Taigh Mhàrtainn,,,,,,,,,,,x
+b_whithorn,pictish,,Taiuuan,,,,,,,,,,,x
+b_whithorn,welsh,,Tygwyn,,,,,,,,,,,x
+b_dunrod,b_dunrod,,Dunrod,,,,,,,,,,,x
+b_dunrod,irish,,Dùn Droighnein,,,,,,,,,,,x
+b_dunrod,pictish,,Dun Brin,,,,,,,,,,,x
+b_dunrod,welsh,,Din Brenin,,,,,,,,,,,x
+b_kirkcudbright,b_kirkcudbright,,Kirkcudbright,,,,,,,,,,,x
+b_kirkcudbright,irish,,Cill Chuithbeirt,,,,,,,,,,,x
+b_kirkcudbright,pictish,,Cuthberbatu,,,,,,,,,,,x
+b_kirkcudbright,welsh,,Cuddbertbetws,,,,,,,,,,,x
+b_glenluce,b_glenluce,,Glenluce,,,,,,,,,,,x
+b_glenluce,irish,,Ghlinn Lus,,,,,,,,,,,x
+b_glenluce,pictish,,Ulanchuan,,,,,,,,,,,x
+b_glenluce,welsh,,Glynchwyn,,,,,,,,,,,x
+b_wigtown,b_wigtown,,Wigtown,,,,,,,,,,,x
+b_wigtown,irish,,Baile na h-Ùige,,,,,,,,,,,x
+b_wigtown,pictish,,Betrah,,,,,,,,,,,x
+b_wigtown,welsh,,Faetref,,,,,,,,,,,x
+b_threave,b_threave,,Threave,,,,,,,,,,,x
+b_threave,irish,,Eilean na h-Uisge Dhè,,,,,,,,,,,x
+b_threave,pictish,,Insee Datrah,,,,,,,,,,,x
+b_threave,welsh,,Ynys Dytref,,,,,,,,,,,x
+c_carrick,PROV49,,Carrick,,,,,,,,,,,x
+c_carrick,c_carrick_adj,,Carrickian,,,,,,,,,,,x
+c_carrick,irish,,A' Charraig,,,,,,,,,,,x
+c_carrick,pictish,,Ueron,,,,,,,,,,,x
+c_carrick,welsh,,Aeron,,,,,,,,,,,x
+b_turnberry,b_turnberry,,Turnberry,,,,,,,,,,,x
+b_turnberry,irish,,Dùn Àir,,,,,,,,,,,x
+b_turnberry,pictish,,Dun Ueron,,,,,,,,,,,x
+b_turnberry,welsh,,Din Aeron,,,,,,,,,,,x
+b_dunure,b_dunure,,Dunure,,,,,,,,,,,x
+b_dunure,irish,,Dùn Iùbhair,,,,,,,,,,,x
+b_dunure,pictish,,Dunauen,,,,,,,,,,,x
+b_dunure,welsh,,Din Ywen,,,,,,,,,,,x
+b_maybole,b_maybole,,Maybole,,,,,,,,,,,x
+b_maybole,irish,,Am Magh Baoghail,,,,,,,,,,,x
+b_maybole,pictish,,Maescanatan,,,,,,,,,,,x
+b_maybole,welsh,,Y Maes Ynfytyn,,,,,,,,,,,x
+b_crossraguel,b_crossraguel,,Crossraguel,,,,,,,,,,,x
+b_crossraguel,irish,,Crois Riagal,,,,,,,,,,,x
+b_crossraguel,pictish,,Crosc Ruagal,,,,,,,,,,,x
+b_crossraguel,welsh,,Croes Rhygal,,,,,,,,,,,x
+b_loch_doon,b_loch_doon,,Loch Doon,,,,,,,,,,,x
+b_loch_doon,irish,,Loch Dhùin,,,,,,,,,,,x
+b_loch_doon,pictish,,Landun,,,,,,,,,,,x
+b_loch_doon,scottish,,Balloch,,,,,,,,,,,x
+b_loch_doon,welsh,,Llyndin,,,,,,,,,,,x
+b_ballantrae,b_ballantrae,,Ballantrae,,,,,,,,,,,x
+b_ballantrae,irish,,Baile na Tràgha,,,,,,,,,,,x
+b_ballantrae,pictish,,Tretrah,,,,,,,,,,,x
+b_ballantrae,welsh,,Traethtref,,,,,,,,,,,x
+b_culzean,b_culzean,,Culzean,,,,,,,,,,,x
+b_culzean,irish,,Ceann na Gleann,,,,,,,,,,,x
+b_culzean,pictish,,Pinaglan,,,,,,,,,,,x
+b_culzean,welsh,,Pennyglyn,,,,,,,,,,,x
+b_greenan,b_greenan,,Greenan,,,,,,,,,,,x
+b_greenan,irish,,Inbhir Àir,,,,,,,,,,,x
+b_greenan,pictish,,Abereron,,,,,,,,,,,x
+b_greenan,welsh,,Aberaeron,,,,,,,,,,,x
+c_clydesdale,PROV47,,Clydesdale,,,,,,,,,,,x
+c_clydesdale,c_clydesdale_adj,,Clydesdalish,,,,,,,,,,,x
+c_clydesdale,irish,,Dail Chluaidh,,,,,,,,,,,x
+c_clydesdale,pictish,,Damnunia,,,,,,,,,,,x
+c_clydesdale,welsh,,Alt Clut,,,,,,,,,,,x
+b_renfrew,b_renfrew,,Renfrew,,,,,,,,,,,x
+b_renfrew,irish,,Rinn Friù,,,,,,,,,,,x
+b_renfrew,pictish,,Bregurun,,,,,,,,,,,x
+b_renfrew,welsh,,Brigffroen,,,,,,,,,,,x
+b_st_kentigern,b_st_kentigern,,St Kentigern,,,,,,,,,,,x
+b_st_kentigern,irish,,Cill Mungo,,,,,,,,,,,x
+b_st_kentigern,pictish,,Cantearn,,,,,,,,,,,x
+b_st_kentigern,welsh,,Cyndeyrn Sant,,,,,,,,,,,x
+b_glasgow,b_glasgow,,Glasgow,,,,,,,,,,,x
+b_glasgow,irish,,Glaschu,,,,,,,,,,,x
+b_glasgow,pictish,,Catuuris,,,,,,,,,,,x
+b_glasgow,welsh,,Cathures,,,,,,,,,,,x
+b_lanark,b_lanark,,Lanark,,,,,,,,,,,x
+b_lanark,irish,,Lannraig,,,,,,,,,,,x
+b_lanark,pictish,,Lanirc,,,,,,,,,,,x
+b_lanark,welsh,,Lanerc,,,,,,,,,,,x
+b_cadzow,b_cadzow,,Cadzow,,,,,,,,,,,x
+b_cadzow,irish,,Bàile Ghobhainn,,,,,,,,,,,x
+b_cadzow,pictish,,Uuohan,,,,,,,,,,,x
+b_cadzow,welsh,,Guofan,,,,,,,,,,,x
+b_bothwell,b_bothwell,,Bothwell,,,,,,,,,,,x
+b_bothwell,irish,,Tobar na Màthar,,,,,,,,,,,x
+b_bothwell,pictish,,Mamuanon,,,,,,,,,,,x
+b_bothwell,welsh,,Mamffynnon,,,,,,,,,,,x
+b_lesmahagow,b_lesmahagow,,Lesmahagow,,,,,,,,,,,x
+b_lesmahagow,irish,,Lios MoChuda,,,,,,,,,,,x
+b_lesmahagow,pictish,,Lanmahau,,,,,,,,,,,x
+b_lesmahagow,welsh,,Llanmahagw,,,,,,,,,,,x
+b_dumbarton,b_dumbarton,,Dumbarton,,,,,,,,,,,x
+b_dumbarton,irish,,Dùn Breatainn,,,,,,,,,,,x
+b_dumbarton,pictish,,Alcluit,,,,,,,,,,,x
+b_dumbarton,welsh,,Alt Clut,,,,,,,,,,,x
+d_western_isles,d_western_isles,,The Isles,,,,,,,,,,,x
+d_western_isles,d_western_isles_adj,,Islander,,,,,,,,,,,x
+d_western_isles,danish,,Søreyar,,,,,,,,,,,x
+d_western_isles,irish,,Dál Riata,,,,,,,,,,,x
+d_western_isles,norse,,Suðreyjar,,,,,,,,,,,x
+d_western_isles,norwegian,,Søreyar,,,,,,,,,,,x
+d_western_isles,pictish,,Insee Hilth,,,,,,,,,,,x
+d_western_isles,swedish,,Söröarna,,,,,,,,,,,x
+d_western_isles,welsh,,Ynysoedd Heledd,,,,,,,,,,,x
+c_innse_gall,PROV35,,The Hebrides,,,,,,,,,,,x
+c_innse_gall,c_innse_gall_adj,,Hebridean,,,,,,,,,,,x
+c_innse_gall,danish,,Søreyar,,,,,,,,,,,x
+c_innse_gall,irish,,Innse Gall,,,,,,,,,,,x
+c_innse_gall,norse,,Suðreyjar,,,,,,,,,,,x
+c_innse_gall,norwegian,,Søreyar,,,,,,,,,,,x
+c_innse_gall,pictish,,Carnonac,,,,,,,,,,,x
+c_innse_gall,scottish,,Innse Gall,,,,,,,,,,,x
+c_innse_gall,swedish,,Söröarna,,,,,,,,,,,x
+c_innse_gall,welsh,,Ynysoedd Heledd,,,,,,,,,,,x
+b_snizort,b_snizort,,Snizort,,,,,,,,,,,x
+b_snizort,irish,,Cill Targhlain,,,,,,,,,,,x
+b_snizort,pictish,,Lantalarc,,,,,,,,,,,x
+b_snizort,welsh,,Llantalarican,,,,,,,,,,,x
+b_finlaggan,b_finlaggan,,Finlaggan,,,,,,,,,,,x
+b_finlaggan,irish,,Port an Eilein,,,,,,,,,,,x
+b_finlaggan,pictish,,Inseepirt,,,,,,,,,,,x
+b_finlaggan,welsh,,Ynysporth,,,,,,,,,,,x
+b_iona,b_iona,,Iona,,,,,,,,,,,x
+b_iona,irish,,Ì Chaluim Chille,,,,,,,,,,,x
+b_iona,pictish,,Auenle,,,,,,,,,,,x
+b_iona,welsh,,Ywenlle,,,,,,,,,,,x
+b_stornoway,b_stornoway,,Stornoway,,,,,,,,,,,x
+b_stornoway,danish,,Stornavik,,,,,,,,,,,x
+b_stornoway,irish,,Steòrnabhagh,,,,,,,,,,,x
+b_stornoway,norse,,Stornavik,,,,,,,,,,,x
+b_stornoway,norwegian,,Stornavåg,,,,,,,,,,,x
+b_stornoway,pictish,,Laueube,,,,,,,,,,,x
+b_stornoway,swedish,,Stornavik,,,,,,,,,,,x
+b_stornoway,welsh,,Llywiobae,,,,,,,,,,,x
+b_laggan,b_laggan,,Laggan,,,,,,,,,,,x
+b_laggan,irish,,Àird Talla,,,,,,,,,,,x
+b_laggan,pictish,,Nuuathuchel,,,,,,,,,,,x
+b_laggan,welsh,,Neuadduchel,,,,,,,,,,,x
+b_uig,b_uig,,Uig,,,,,,,,,,,x
+b_uig,danish,,Vik,,,,,,,,,,,x
+b_uig,irish,,Càrnais Ùige,,,,,,,,,,,x
+b_uig,norse,,Vik,,,,,,,,,,,x
+b_uig,norwegian,,Vik,,,,,,,,,,,x
+b_uig,pictish,,Betret,,,,,,,,,,,x
+b_uig,swedish,,Vik,,,,,,,,,,,x
+b_uig,welsh,,Baetraeth,,,,,,,,,,,x
+b_dunvegan,b_dunvegan,,Dunvegan,,,,,,,,,,,x
+b_dunvegan,irish,,Dùn Bheagain,,,,,,,,,,,x
+b_dunvegan,pictish,,Dun Bachain,,,,,,,,,,,x
+b_dunvegan,welsh,,Din Bychan,,,,,,,,,,,x
+b_dunyveg,b_dunyveg,,Dunyveg,,,,,,,,,,,x
+b_dunyveg,irish,,Dùn Naomhaig,,,,,,,,,,,x
+b_dunyveg,pictish,,Dun Galiuu,,,,,,,,,,,x
+b_dunyveg,welsh,,Din Galïau,,,,,,,,,,,x
+c_argyll,PROV45,,Argyll,,,,,,,,,,,x
+c_argyll,c_argyll_adj,,Argyllian,,,,,,,,,,,x
+c_argyll,irish,,Airer Goídel,,,,,,,,,,,x
+c_argyll,pictish,,Ebithan,,,,,,,,,,,x
+c_argyll,welsh,,Epiddant,,,,,,,,,,,x
+b_st_moluag,b_st_moluag,,St Moluag,,,,,,,,,,,x
+b_st_moluag,irish,,Naomh Moluóc,,,,,,,,,,,x
+b_st_moluag,pictish,,Malluoc,,,,,,,,,,,x
+b_st_moluag,welsh,,Malluoc Sant,,,,,,,,,,,x
+b_dunollie,b_dunollie,,Dunollie,,,,,,,,,,,x
+b_dunollie,irish,, Dùn Ollaigh,,,,,,,,,,,x
+b_dunollie,pictish,,Dun Ugastel,,,,,,,,,,,x
+b_dunollie,welsh,,Din Ogystal,,,,,,,,,,,x
+b_loch_awe,b_loch_awe,,Loch Awe,,,,,,,,,,,x
+b_loch_awe,irish,,Loch Obha,,,,,,,,,,,x
+b_loch_awe,pictish,,Lanahon,,,,,,,,,,,x
+b_loch_awe,welsh,,Llynafon,,,,,,,,,,,x
+b_sween,b_sween,,Seen,,,,,,,,,,,x
+b_sween,irish,,Dùn Suibhne,,,,,,,,,,,x
+b_sween,pictish,,Caer Sauunae,,,,,,,,,,,x
+b_sween,welsh,,Caer Sywny,,,,,,,,,,,x
+b_dunstaffnage,b_dunstaffnage,,Dunstaffnage,,,,,,,,,,,x
+b_dunstaffnage,irish,,Dùn Stafhainis,,,,,,,,,,,x
+b_dunstaffnage,pictish,,Dun Stapan,,,,,,,,,,,x
+b_dunstaffnage,welsh,,Din Staffpentir,,,,,,,,,,,x
+b_ardchattan,b_ardchattan,,Ardchattan,,,,,,,,,,,x
+b_ardchattan,pictish,,Uchdarcathan,,,,,,,,,,,x
+b_ardchattan,welsh,,Uchdercaddan,,,,,,,,,,,x
+b_kilmun,b_kilmun,,Kilmun,,,,,,,,,,,x
+b_kilmun,irish,,Cill Mhunna,,,,,,,,,,,x
+b_kilmun,pictish,,Caer Muun,,,,,,,,,,,x
+b_kilmun,welsh,,Caer Munn,,,,,,,,,,,x
+b_inverary,b_inverary,,Inverary,,,,,,,,,,,x
+b_inverary,irish,,Inbhir Aora,,,,,,,,,,,x
+b_inverary,pictish,,Aberera,,,,,,,,,,,x
+b_inverary,welsh,,Aberaera,,,,,,,,,,,x
+b_argh,b_argh,,Argh,,,,,,,,,,,x
+d_lothian,d_lothian,,Lothian,,,,,,,,,,,x
+d_lothian,d_lothian_adj,,Lothian,,,,,,,,,,,x
+d_lothian,irish,,Labhdaidh,,,,,,,,,,,x
+d_lothian,pictish,,Lut,,,,,,,,,,,x
+d_lothian,welsh,,Gododdin,,,,,,,,,,,x
+c_lothian,PROV48,,Lothian,,,,,,,,,,,x
+c_lothian,c_lothian_adj,,Lothian,,,,,,,,,,,x
+c_lothian,irish,,Labhdaidh,,,,,,,,,,,x
+c_lothian,pictish,,Lut,,,,,,,,,,,x
+c_lothian,welsh,,Lleuddiniawn,,,,,,,,,,,x
+b_edinburgh,b_edinburgh,,Edinburgh,,,,,,,,,,,x
+b_edinburgh,irish,,Dùn Eideann,,,,,,,,,,,x
+b_edinburgh,pictish,,Dun Eidan,,,,,,,,,,,x
+b_edinburgh,welsh,,Din Eidyn,,,,,,,,,,,x
+b_stirling,b_stirling,,Stirling,,,,,,,,,,,x
+b_stirling,irish,,Sruighlea,,,,,,,,,,,x
+b_stirling,pictish,,Iutheu,,,,,,,,,,,x
+b_stirling,welsh,,Iuddeu,,,,,,,,,,,x
+b_abercorn,b_abercorn,,Abercorn,,,,,,,,,,,x
+b_abercorn,irish,,Obar Chùirnidh,,,,,,,,,,,x
+b_abercorn,pictish,,Abercarn,,,,,,,,,,,x
+b_abercorn,welsh,,Abercarnedd,,,,,,,,,,,x
+b_linlithgow,b_linlithgow,,Linlithgow,,,,,,,,,,,x
+b_linlithgow,irish,,Gleann Iucha,,,,,,,,,,,x
+b_linlithgow,pictish,,Glanaluu,,,,,,,,,,,x
+b_linlithgow,welsh,,Glynallwedd,,,,,,,,,,,x
+b_falkirk,b_falkirk,,Falkirk,,,,,,,,,,,x
+b_falkirk,irish,,An Eaglais Bhreac,,,,,,,,,,,x
+b_falkirk,pictish,,Ecclescbret,,,,,,,,,,,x
+b_falkirk,welsh,,Ecclesbrith,,,,,,,,,,,x
+b_stow_of_wedale,b_stow_of_wedale,,Stow of Wedale,,,,,,,,,,,x
+b_stow_of_wedale,irish,,An Geal Àth,,,,,,,,,,,x
+b_stow_of_wedale,pictish,,Gallath,,,,,,,,,,,x
+b_stow_of_wedale,welsh,,Galladd,,,,,,,,,,,x
+b_leith,b_leith,,Leith,,,,,,,,,,,x
+b_leith,irish,,Inverlìte,,,,,,,,,,,x
+b_leith,pictish,,Aberlath,,,,,,,,,,,x
+b_leith,welsh,,Aberlydd,,,,,,,,,,,x
+b_torphichen,b_torphichen,,Torphichen,,,,,,,,,,,x
+b_torphichen,irish,,Tóir Féichín,,,,,,,,,,,x
+b_torphichen,pictish,,Trehechan,,,,,,,,,,,x
+b_torphichen,welsh,,Treffechan,,,,,,,,,,,x
+c_dunbar,PROV51,,Dunbar,,,,,,,,,,,x
+c_dunbar,c_dunbar_adj,,Dunbarian,,,,,,,,,,,x
+c_dunbar,irish,,Dùn Bár,,,,,,,,,,,x
+c_dunbar,pictish,,Utudina,,,,,,,,,,,x
+c_dunbar,welsh,,Din Baer,,,,,,,,,,,x
+b_dunbar,b_dunbar,,Dunbar,,,,,,,,,,,x
+b_dunbar,irish,,Dùn Bár,,,,,,,,,,,x
+b_dunbar,pictish,,Dun Ber,,,,,,,,,,,x
+b_dunbar,welsh,,Din Baer,,,,,,,,,,,x
+b_berwick,b_berwick,,Berwick,,,,,,,,,,,x
+b_berwick,irish,,Bearaig,,,,,,,,,,,x
+b_berwick,pictish,,Caer Brinech,,,,,,,,,,,x
+b_berwick,welsh,,Caer Bryneich,,,,,,,,,,,x
+b_thirlestane,b_thirlestane,,Thirlestane,,,,,,,,,,,x
+b_thirlestane,irish,,Labhdar,,,,,,,,,,,x
+b_thirlestane,pictish,,Lauuether,,,,,,,,,,,x
+b_thirlestane,welsh,,Lauwedder,,,,,,,,,,,x
+b_tyninghame,b_tyninghame,,Tyninghame,,,,,,,,,,,x
+b_tyninghame,irish,,Linnebaile,,,,,,,,,,,x
+b_tyninghame,pictish,,Pisctaltreh,,,,,,,,,,,x
+b_tyninghame,welsh,,Pistylltref,,,,,,,,,,,x
+b_gordon,b_gordon,,Gordon,,,,,,,,,,,x
+b_gordon,irish,,Gòr Dùn,,,,,,,,,,,x
+b_gordon,pictish,,Gor Dun,,,,,,,,,,,x
+b_gordon,welsh,,Gor Din,,,,,,,,,,,x
+b_huntly,b_huntly,,Huntly,,,,,,,,,,,x
+b_huntly,irish,,Srath Bhalgaidh,,,,,,,,,,,x
+b_huntly,pictish,,Istrad Bach,,,,,,,,,,,x
+b_huntly,welsh,,Ystrath Bach,,,,,,,,,,,x
+b_coldingham,b_coldingham,,Coldingham,,,,,,,,,,,x
+b_coldingham,irish,,Cillecnoc,,,,,,,,,,,x
+b_coldingham,pictish,,Lanbrin,,,,,,,,,,,x
+b_coldingham,welsh,,Llanbryn,,,,,,,,,,,x
+b_crichton,b_crichton,,Crichton,,,,,,,,,,,x
+b_crichton,irish,,Criochdún,,,,,,,,,,,x
+b_crichton,pictish,,Finuultreh,,,,,,,,,,,x
+b_crichton,welsh,,Ffinioltref,,,,,,,,,,,x
+c_teviotdale,PROV38,,Teviotdale,,,,,,,,,,,x
+c_teviotdale,c_teviotdale_adj,,Teviotdalian,,,,,,,,,,,x
+c_teviotdale,irish,,Cealsaidh,,,,,,,,,,,x
+c_teviotdale,pictish,,Heluua,,,,,,,,,,,x
+c_teviotdale,welsh,,Calchfynydd,,,,,,,,,,,x
+b_jedburgh,b_jedburgh,,Jedburgh,,,,,,,,,,,x
+b_jedburgh,irish,,Dùngot,,,,,,,,,,,x
+b_jedburgh,pictish,,Dungod,,,,,,,,,,,x
+b_jedburgh,welsh,,Dingod,,,,,,,,,,,x
+b_roxburgh,b_roxburgh,,Roxburgh,,,,,,,,,,,x
+b_roxburgh,irish,,Baile na h-Cearc,,,,,,,,,,,x
+b_roxburgh,pictish,,Iaartreh,,,,,,,,,,,x
+b_roxburgh,welsh,,Iârtref,,,,,,,,,,,x
+b_peebles,b_peebles,,Annandale,,,,,,,,,,,x
+b_peebles,irish,,Na Pùballan,,,,,,,,,,,x
+b_peebles,pictish,,Peball,,,,,,,,,,,x
+b_peebles,welsh,,Pebyll,,,,,,,,,,,x
+b_melrose,b_melrose,,Melrose,,,,,,,,,,,x
+b_melrose,irish,,Maol Ros,,,,,,,,,,,x
+b_melrose,pictish,,Maelruusan,,,,,,,,,,,x
+b_melrose,welsh,,Mailrhosan,,,,,,,,,,,x
+b_kelso,b_kelso,,Kelso,,,,,,,,,,,x
+b_kelso,irish,,Cealsaidh,,,,,,,,,,,x
+b_kelso,pictish,,Calchanith,,,,,,,,,,,x
+b_kelso,welsh,,Calchfynydd,,,,,,,,,,,x
+b_selkirk,b_selkirk,,Selkirk,,,,,,,,,,,x
+b_selkirk,irish,,Salcraig,,,,,,,,,,,x
+b_selkirk,pictish,,Halchraig,,,,,,,,,,,x
+b_selkirk,welsh,,Halchraig,,,,,,,,,,,x
+b_maxwell,b_maxwell,,Maxwell,,,,,,,,,,,x
+b_maxwell,irish,,Tobar na Mac,,,,,,,,,,,x
+b_maxwell,pictish,,Mabfanon,,,,,,,,,,,x
+b_maxwell,welsh,,Mabffynnon,,,,,,,,,,,x
+b_ednam,b_ednam,,Ednam,,,,,,,,,,,x
+b_ednam,irish,,Baile na h-Aodhàn,,,,,,,,,,,x
+b_ednam,pictish,,Aethontreh,,,,,,,,,,,x
+b_ednam,welsh,,Aeddantref,,,,,,,,,,,x
+d_albany,d_albany,,Albany,,,,,,,,,,,x
+d_albany,d_albany_adj,,Albanite,,,,,,,,,,,x
+d_albany,irish,,Albanigh,,,,,,,,,,,x
+d_albany,pictish,,Alban,,,,,,,,,,,x
+d_albany,welsh,,Alban,,,,,,,,,,,x
+c_gowrie,PROV43,,Gowrie,,,,,,,,,,,x
+c_gowrie,c_gowrie_adj,,Gowrian,,,,,,,,,,,x
+c_gowrie,irish,,Gobharaidh,,,,,,,,,,,x
+c_gowrie,pictish,,Circinn,,,,,,,,,,,x
+c_gowrie,welsh,,Caer Cinn,,,,,,,,,,,x
+b_scone,b_scone,,Scone,,,,,,,,,,,x
+b_scone,irish,,Sgoinde,,,,,,,,,,,x
+b_scone,pictish,,Sguun,,,,,,,,,,,x
+b_scone,welsh,,Sgon,,,,,,,,,,,x
+b_dunkeld,b_dunkeld,,Dunkeld,,,,,,,,,,,x
+b_dunkeld,irish,,Dùn Chailleann,,,,,,,,,,,x
+b_dunkeld,pictish,,Dun Celadon,,,,,,,,,,,x
+b_dunkeld,welsh,,Din Celyddon,,,,,,,,,,,x
+b_perth,b_perth,,Perth,,,,,,,,,,,x
+b_forteviot,b_forteviot,,Forteviot,,,,,,,,,,,x
+b_forteviot,irish,,Fothair Tabhaicht,,,,,,,,,,,x
+b_forteviot,pictish,,Nan Aruadocet,,,,,,,,,,,x
+b_forteviot,welsh,,Nant Arwyddocâd,,,,,,,,,,,x
+b_dundee,b_dundee,,Dundee,,,,,,,,,,,x
+b_dundee,irish,,Dùn Dèagh,,,,,,,,,,,x
+b_dundee,pictish,,Orrea,,,,,,,,,,,x
+b_dundee,welsh,,Dindân,,,,,,,,,,,x
+b_abernethy,b_abernethy,,Abernethy,,,,,,,,,,,x
+b_abernethy,irish,,Obar Neithich,,,,,,,,,,,x
+b_abernethy,pictish,,Aber Naiton,,,,,,,,,,,x
+b_abernethy,welsh,,Aber Neithon,,,,,,,,,,,x
+b_clunie,b_clunie,,Clunie,,,,,,,,,,,x
+b_clunie,irish,,Cluainidh,,,,,,,,,,,x
+b_clunie,pictish,,Luned,,,,,,,,,,,x
+b_clunie,welsh,,Llynaedd,,,,,,,,,,,x
+b_errol,b_errol,,Errol,,,,,,,,,,,x
+b_errol,irish,,Lannfothir,,,,,,,,,,,x
+b_errol,pictish,,Landafan,,,,,,,,,,,x
+b_errol,welsh,,Llandyffryn,,,,,,,,,,,x
+c_fife,PROV46,,Fife,,,,,,,,,,,x
+c_fife,c_fife_adj,,Fifenian,,,,,,,,,,,x
+c_fife,irish,,Fìobha,,,,,,,,,,,x
+c_fife,pictish,,Fib,,,,,,,,,,,x
+c_fife,welsh,,Gwidd,,,,,,,,,,,x
+b_dunfermline,b_dunfermline,,Dunfermline,,,,,,,,,,,x
+b_dunfermline,irish,,Dùn Phàrlain,,,,,,,,,,,x
+b_dunfermline,pictish,,Dunfurlan,,,,,,,,,,,x
+b_dunfermline,welsh,,Dinfirllyn,,,,,,,,,,,x
+b_cupar,b_cupar,,Cupar,,,,,,,,,,,x
+b_cupar,irish,,Compàirt,,,,,,,,,,,x
+b_cupar,pictish,,Cafredun,,,,,,,,,,,x
+b_cupar,welsh,,Cyffredin,,,,,,,,,,,x
+b_st_andrews,b_st_andrews,,St. Andrews,,,,,,,,,,,x
+b_st_andrews,irish,,Cill Rígmonaid,,,,,,,,,,,x
+b_st_andrews,pictish,,Pinbed,,,,,,,,,,,x
+b_st_andrews,welsh,,Pennbaedd,,,,,,,,,,,x
+b_kirkcaldy,b_kirkcaldy,,Kirkcaldy,,,,,,,,,,,x
+b_kirkcaldy,irish,,Cair Chaladain,,,,,,,,,,,x
+b_kirkcaldy,pictish,,Caercaled,,,,,,,,,,,x
+b_kirkcaldy,welsh,,Caer Caledin,,,,,,,,,,,x
+b_kinross,b_kinross,,Kinross,,,,,,,,,,,x
+b_kinross,irish,,Ceann Rois,,,,,,,,,,,x
+b_kinross,pictish,,Pinhadlen,,,,,,,,,,,x
+b_kinross,welsh,,Pennhadllin,,,,,,,,,,,x
+b_leuchars,b_leuchars,,Leuchars,,,,,,,,,,,x
+b_leuchars,irish,,Luachar,,,,,,,,,,,x
+b_leuchars,pictish,,Luchar,,,,,,,,,,,x
+b_leuchars,welsh,,Brwyn,,,,,,,,,,,x
+b_lochore,b_lochore,,Lochore,,,,,,,,,,,x
+b_lochore,irish,,Locháir,,,,,,,,,,,x
+b_lochore,pictish,,Laner,,,,,,,,,,,x
+b_lochore,welsh,,Llynaer,,,,,,,,,,,x
+b_falkland,b_falkland,,Falkland,,,,,,,,,,,x
+b_falkland,irish,,Fháclainne,,,,,,,,,,,x
+b_falkland,pictish,,Maluen,,,,,,,,,,,x
+b_falkland,welsh,,Malfin,,,,,,,,,,,x
+c_strathearn,PROV42,,Strathearn,,,,,,,,,,,x
+c_strathearn,c_strathearn_adj,,Strathearnian,,,,,,,,,,,x
+c_strathearn,irish,,Srath Èireann,,,,,,,,,,,x
+c_strathearn,pictish,,Uuanun,,,,,,,,,,,x
+c_strathearn,welsh,,Ystrad Iwerddon,,,,,,,,,,,x
+b_crieff,b_crieff,,Crieff,,,,,,,,,,,x
+b_crieff,irish,,Craoibh,,,,,,,,,,,x
+b_crieff,pictish,,Coiden,,,,,,,,,,,x
+b_crieff,welsh,,Coeden,,,,,,,,,,,x
+b_dunblane,b_dunblane,,Dunblane,,,,,,,,,,,x
+b_dunblane,irish,,Dùn Bhlàthain,,,,,,,,,,,x
+b_dunblane,pictish,,Dul Blaan,,,,,,,,,,,x
+b_dunblane,welsh,,Dinblyne,,,,,,,,,,,x
+b_tullibardine,b_tullibardine,,Tullibardine,,,,,,,,,,,x
+b_tullibardine,irish,,Dubhàth,,,,,,,,,,,x
+b_tullibardine,pictish,,Duunrud,,,,,,,,,,,x
+b_tullibardine,welsh,,Duonrhyd,,,,,,,,,,,x
+b_auchterarder,b_auchterarder,,Auchterarder,,,,,,,,,,,x
+b_auchterarder,irish,,Uachdar Ardair,,,,,,,,,,,x
+b_auchterarder,pictish,,Uchel,,,,,,,,,,,x
+b_auchterarder,welsh,,Hufenaruchel,,,,,,,,,,,x
+b_madderty,b_madderty,,Madderty,,,,,,,,,,,x
+b_madderty,irish,,Ceanndubh,,,,,,,,,,,x
+b_madderty,pictish,,Pintu,,,,,,,,,,,x
+b_madderty,welsh,,Penndu,,,,,,,,,,,x
+b_doune,b_doune,,Doune,,,,,,,,,,,x
+b_doune,irish,,An Dùn,,,,,,,,,,,x
+b_doune,pictish,,I Dun,,,,,,,,,,,x
+b_doune,welsh,,Y Din,,,,,,,,,,,x
+b_inchaffray,b_inchaffray,,Inchaffray,,,,,,,,,,,x
+b_inchaffray,irish,,Innis Oifrend,,,,,,,,,,,x
+b_inchaffray,pictish,,Insee Ufirin,,,,,,,,,,,x
+b_inchaffray,welsh,,Ynys Offeren,,,,,,,,,,,x
+b_kenmore,b_kenmore,,Kenmore,,,,,,,,,,,x
+b_kenmore,irish,,Bealach,,,,,,,,,,,x
+b_kenmore,pictish,,Bilauc,,,,,,,,,,,x
+b_kenmore,welsh,,Belauc,,,,,,,,,,,x
+c_atholl,PROV44,,Atholl,,,,,,,,,,,x
+c_atholl,c_atholl_adj,,Athollian,,,,,,,,,,,x
+c_atholl,irish,,Athfhotla,,,,,,,,,,,x
+c_atholl,pictish,,Fotla,,,,,,,,,,,x
+c_atholl,welsh,,Focla,,,,,,,,,,,x
+b_blair_atholl,b_blair_atholl,,Blair Atholl,,,,,,,,,,,x
+b_blair_atholl,irish,,Blàr Athfhotla,,,,,,,,,,,x
+b_blair_atholl,pictish,,Athfocla,,,,,,,,,,,x
+b_blair_atholl,welsh,,Brwydr Focla,,,,,,,,,,,x
+b_glen_dochart,b_glen_dochart,,Glen Dochart,,,,,,,,,,,x
+b_glen_dochart,irish,,Cillefhinn,,,,,,,,,,,x
+b_glen_dochart,pictish,,Lanuan,,,,,,,,,,,x
+b_glen_dochart,welsh,,Llangwyn,,,,,,,,,,,x
+b_pitlochry,b_pitlochry,,Pitlochry,,,,,,,,,,,x
+b_pitlochry,irish,,Mhaothlinne,,,,,,,,,,,x
+b_pitlochry,pictish,,Moulin,,,,,,,,,,,x
+b_pitlochry,welsh,,Porth Craig,,,,,,,,,,,x
+b_fortingall,b_fortingall,,Fortingall,,,,,,,,,,,x
+b_fortingall,irish,,Iubharcille,,,,,,,,,,,x
+b_fortingall,pictish,,Iuenlan,,,,,,,,,,,x
+b_fortingall,welsh,,Ywenllan,,,,,,,,,,,x
+b_grandtully,b_grandtully,,Grandtully,,,,,,,,,,,x
+b_grandtully,irish,,Lag an Ratha,,,,,,,,,,,x
+b_grandtully,pictish,,Uuag,,,,,,,,,,,x
+b_grandtully,welsh,,Gwag y Rhwdfa,,,,,,,,,,,x
+b_rannoch,b_rannoch,,Rannoch,,,,,,,,,,,x
+b_rannoch,irish,,Raineach,,,,,,,,,,,x
+b_rannoch,pictish,,Redan,,,,,,,,,,,x
+b_rannoch,welsh,,Rhedyn,,,,,,,,,,,x
+b_strathardle,b_strathardle,,Strathardle,,,,,,,,,,,x
+b_strathardle,irish,,Strath Àrdail,,,,,,,,,,,x
+b_strathardle,pictish,,Istrad Ardle,,,,,,,,,,,x
+b_strathardle,welsh,,Ystrad Aerdôl,,,,,,,,,,,x
+b_struan,b_struan,,Struan,,,,,,,,,,,x
+b_struan,irish,,Obar Pheallaidh,,,,,,,,,,,x
+b_struan,pictish,,Aberfel,,,,,,,,,,,x
+b_struan,welsh,,Aberfelly,,,,,,,,,,,x
+b_anthrachs,b_anthrachs,,Anthrachs,,,,,,,,,,,x
+d_moray,d_moray,,Moray,,,,,,,,,,,x
+d_moray,d_moray_adj,,Moray,,,,,,,,,,,x
+d_moray,irish,,Muireb,,,,,,,,,,,x
+d_moray,pictish,,Fortriu,,,,,,,,,,,x
+d_moray,welsh,,Gwrturio,,,,,,,,,,,x
+c_moray,PROV40,,Moray,,,,,,,,,,,x
+c_moray,irish,,Muireb,,,,,,,,,,,x
+c_moray,pictish,,Fortriu,,,,,,,,,,,x
+c_moray,welsh,,Gwrturio,,,,,,,,,,,x
+b_forres,b_forres,,Forres,,,,,,,,,,,x
+b_forres,irish,,Farrais,,,,,,,,,,,x
+b_forres,pictish,,Uerris,,,,,,,,,,,x
+b_forres,welsh,,Gwerrys,,,,,,,,,,,x
+b_cawdor,b_cawdor,,Cawdor,,,,,,,,,,,x
+b_cawdor,irish,,Caladar,,,,,,,,,,,x
+b_cawdor,pictish,,Caerdurn,,,,,,,,,,,x
+b_cawdor,welsh,,Caerdwrn,,,,,,,,,,,x
+b_elgin,b_elgin,,Elgin,,,,,,,,,,,x
+b_elgin,irish,,Ailgin,,,,,,,,,,,x
+b_elgin,pictish,,Eruan,,,,,,,,,,,x
+b_elgin,welsh,,Aergwyn,,,,,,,,,,,x
+b_nairn,b_nairn,,Nairn,,,,,,,,,,,x
+b_nairn,irish,,Inbhir Narann,,,,,,,,,,,x
+b_nairn,pictish,,Abernard,,,,,,,,,,,x
+b_nairn,welsh,,Abernard,,,,,,,,,,,x
+b_inverness,b_inverness,,Inverness,,,,,,,,,,,x
+b_inverness,irish,,Inbhir Nis,,,,,,,,,,,x
+b_inverness,pictish,,Abernis,,,,,,,,,,,x
+b_inverness,welsh,,Abernis,,,,,,,,,,,x
+b_lochindorb,b_lochindorb,,Lochindorb,,,,,,,,,,,x
+b_lochindorb,irish,,Loch nan Doirb,,,,,,,,,,,x
+b_lochindorb,pictish,,Lansildod,,,,,,,,,,,x
+b_lochindorb,welsh,,Llyn y Sildod,,,,,,,,,,,x
+b_kinloss,b_kinloss,,Kinloss,,,,,,,,,,,x
+b_kinloss,irish,,Cinnlois,,,,,,,,,,,x
+b_kinloss,pictish,,Canalosc,,,,,,,,,,,x
+b_kinloss,welsh,,Cynyddullosg,,,,,,,,,,,x
+b_urquhart,b_urquhart,,Urquhart,,,,,,,,,,,x
+b_urquhart,irish,,Airdchartdan,,,,,,,,,,,x
+b_urquhart,pictish,,Urcarthen,,,,,,,,,,,x
+b_urquhart,welsh,,Aercardden,,,,,,,,,,,x
+c_ross,PROV39,,Ross,,,,,,,,,,,x
+c_ross,c_ross_adj,,Rossian,,,,,,,,,,,x
+c_ross,irish,,Ros,,,,,,,,,,,x
+c_ross,pictish,,Fidach,,,,,,,,,,,x
+c_ross,welsh,,Gwidauc,,,,,,,,,,,x
+b_applecross,b_applecross,,Applecross,,,,,,,,,,,x
+b_applecross,irish,,Obar Crosain,,,,,,,,,,,x
+b_applecross,pictish,,Aporcrosan,,,,,,,,,,,x
+b_applecross,welsh,,Aporcrosan,,,,,,,,,,,x
+b_dingwall,b_dingwall,,Dingwall,,,,,,,,,,,x
+b_dingwall,danish,,Tingvall,,,,,,,,,,,x
+b_dingwall,irish,,Inbhir Pheofharain,,,,,,,,,,,x
+b_dingwall,norse,,Tingvall,,,,,,,,,,,x
+b_dingwall,norwegian,,Tingvall,,,,,,,,,,,x
+b_dingwall,pictish,,Aberpis,,,,,,,,,,,x
+b_dingwall,swedish,,Tingvall,,,,,,,,,,,x
+b_dingwall,welsh,,Aberpeffry,,,,,,,,,,,x
+b_rosemarkie,b_rosemarkie,,Rosemarkie,,,,,,,,,,,x
+b_rosemarkie,irish,,Ros Mhaircnidh,,,,,,,,,,,x
+b_rosemarkie,pictish,,Rosanmairch,,,,,,,,,,,x
+b_rosemarkie,welsh,,Rhosan Meirchnant,,,,,,,,,,,x
+b_fortrose,b_fortrose,,Fortrose,,,,,,,,,,,x
+b_fortrose,irish,,Dùnrois,,,,,,,,,,,x
+b_fortrose,pictish,,Caerrosan,,,,,,,,,,,x
+b_fortrose,welsh,,Caerrhosan,,,,,,,,,,,x
+b_fearn,b_fearn,,Fearn,,,,,,,,,,,x
+b_fearn,irish,,Manachainn Rois,,,,,,,,,,,x
+b_fearn,pictish,,Manech Rasan,,,,,,,,,,,x
+b_fearn,welsh,,Mynachdy Rhosan,,,,,,,,,,,x
+b_tain,b_tain,,Tain,,,,,,,,,,,x
+b_tain,irish,,Baile Dubhthaich,,,,,,,,,,,x
+b_tain,welsh,,Duthactref,,,,,,,,,,,x
+b_cromarty,b_cromarty,,Cromarty,,,,,,,,,,,x
+b_cromarty,irish,,Crombati,,,,,,,,,,,x
+b_cromarty,pictish,,Crucabachu,,,,,,,,,,,x
+b_cromarty,welsh,,Crwcabachwy,,,,,,,,,,,x
+b_avoch,b_avoch,,Avoch,,,,,,,,,,,x
+b_avoch,irish,,Abhach,,,,,,,,,,,x
+b_avoch,pictish,,Aberauc,,,,,,,,,,,x
+b_avoch,welsh,,Aberauc,,,,,,,,,,,x
+c_buchan,PROV41,,Buchan,,,,,,,,,,,x
+c_buchan,c_buchan_adj,,Buchanian,,,,,,,,,,,x
+c_buchan,irish,,Beanaomh,,,,,,,,,,,x
+c_buchan,pictish,,Ce,,,,,,,,,,,x
+c_buchan,welsh,,Cai,,,,,,,,,,,x
+b_aberdeen,b_aberdeen,,Aberdeen,,,,,,,,,,,x
+b_aberdeen,irish,,Obar Dabhuin,,,,,,,,,,,x
+b_aberdeen,welsh,,Aberdwyafon,,,,,,,,,,,x
+b_banff,b_banff,,Banff,,,,,,,,,,,x
+b_banff,irish,,Beanaomh,,,,,,,,,,,x
+b_banff,pictish,,Banaugluas,,,,,,,,,,,x
+b_banff,welsh,,Benywglwys,,,,,,,,,,,x
+b_deer,b_deer,,Deer,,,,,,,,,,,x
+b_deer,irish,,Fiadh,,,,,,,,,,,x
+b_deer,pictish,,Ceiru,,,,,,,,,,,x
+b_deer,welsh,,Ceirw,,,,,,,,,,,x
+b_kintore,b_kintore,,Kintore,,,,,,,,,,,x
+b_kintore,irish,,Ceann Tòrr,,,,,,,,,,,x
+b_kintore,pictish,,Pintar,,,,,,,,,,,x
+b_kintore,welsh,,Penntyrau,,,,,,,,,,,x
+b_inverurie,b_inverurie,,Inverurie,,,,,,,,,,,x
+b_inverurie,irish,,Inbhir Uraidh,,,,,,,,,,,x
+b_inverurie,pictish,,Aberury,,,,,,,,,,,x
+b_inverurie,welsh,,Aberury,,,,,,,,,,,x
+b_fyvie,b_fyvie,,Fyvie,,,,,,,,,,,x
+b_fyvie,irish,,Fiachein,,,,,,,,,,,x
+b_fyvie,pictish,,Carubran,,,,,,,,,,,x
+b_fyvie,welsh,,Carwbryn,,,,,,,,,,,x
+b_ellon,b_ellon,,Ellon,,,,,,,,,,,x
+b_ellon,irish,,Eilean,,,,,,,,,,,x
+b_ellon,pictish,,Inseeol,,,,,,,,,,,x
+b_ellon,welsh,,Ynysol,,,,,,,,,,,x
+b_st_machar,b_st_machar,,St Machar,,,,,,,,,,,x
+b_st_machar,irish,,Naomh Machar,,,,,,,,,,,x
+b_st_machar,pictish,,Mabaur,,,,,,,,,,,x
+b_st_machar,welsh,,Mabfawr Sant,,,,,,,,,,,x
+c_caithness,PROV37,,Caithness,,,,,,,,,,,x
+c_caithness,c_caithness_adj,,Caithnessian,,,,,,,,,,,x
+c_caithness,danish,,Katanæs,,,,,,,,,,,x
+c_caithness,irish,,Cataibh,,,,,,,,,,,x
+c_caithness,norse,,Katanæs,,,,,,,,,,,x
+c_caithness,norwegian,,Katanes,,,,,,,,,,,x
+c_caithness,pictish,,Cait,,,,,,,,,,,x
+c_caithness,swedish,,Katanäs,,,,,,,,,,,x
+c_caithness,welsh,,Caitnys,,,,,,,,,,,x
+b_wick,b_wick,,Wick,,,,,,,,,,,x
+b_wick,danish,,Vik,,,,,,,,,,,x
+b_wick,irish,,Inbhir Ùige,,,,,,,,,,,x
+b_wick,norse,,Vik,,,,,,,,,,,x
+b_wick,norwegian,,Vik,,,,,,,,,,,x
+b_wick,pictish,,Aberbachuu,,,,,,,,,,,x
+b_wick,swedish,,Vik,,,,,,,,,,,x
+b_wick,welsh,,Aberbachwy,,,,,,,,,,,x
+b_dunbeath,b_dunbeath,,Dunbeath,,,,,,,,,,,x
+b_dunbeath,irish,,Dùn Beithe,,,,,,,,,,,x
+b_dunbeath,pictish,,Dunbathac,,,,,,,,,,,x
+b_dunbeath,welsh,,Dinbyddag,,,,,,,,,,,x
+b_dornoch,b_dornoch,,Dornoch,,,,,,,,,,,x
+b_dornoch,irish,,Dòrnach,,,,,,,,,,,x
+b_dornoch,pictish,,Dirnfeth,,,,,,,,,,,x
+b_dornoch,welsh,,Dyrnfedd,,,,,,,,,,,x
+b_thurso,b_thurso,,Thurso,,,,,,,,,,,x
+b_thurso,danish,,Tyrså,,,,,,,,,,,x
+b_thurso,irish,,Inbhir Tarbhainn,,,,,,,,,,,x
+b_thurso,norse,,Tyrså,,,,,,,,,,,x
+b_thurso,norwegian,,Tyrså,,,,,,,,,,,x
+b_thurso,pictish,,Aberteuafon,,,,,,,,,,,x
+b_thurso,swedish,,Tjurså,,,,,,,,,,,x
+b_thurso,welsh,,Abertaewafon,,,,,,,,,,,x
+b_dunrobin,b_dunrobin,,Dunrobin,,,,,,,,,,,x
+b_dunrobin,irish,,Dùnrhobert,,,,,,,,,,,x
+b_dunrobin,pictish,,Dunrubert,,,,,,,,,,,x
+b_dunrobin,welsh,,Dinraibeart,,,,,,,,,,,x
+b_freswick,b_freswick,,Freswick,,,,,,,,,,,x
+b_freswick,danish,,Fresvik,,,,,,,,,,,x
+b_freswick,irish,,Obar Àrdair,,,,,,,,,,,x
+b_freswick,norse,,Fresvik,,,,,,,,,,,x
+b_freswick,norwegian,,Fresvik,,,,,,,,,,,x
+b_freswick,pictish,,Aberfauur,,,,,,,,,,,x
+b_freswick,swedish,,Fresvik,,,,,,,,,,,x
+b_freswick,welsh,,Aberfawr,,,,,,,,,,,x
+b_latheron,b_latheron,,Latheron,,,,,,,,,,,x
+b_latheron,irish,,Latharan,,,,,,,,,,,x
+b_latheron,pictish,,Lathaeron,,,,,,,,,,,x
+b_latheron,welsh,,Lladdaeron,,,,,,,,,,,x
+b_golspie,b_golspie,,Golspie,,,,,,,,,,,x
+b_golspie,irish,,Goillspidh,,,,,,,,,,,x
+b_golspie,pictish,,Fostreh,,,,,,,,,,,x
+b_golspie,welsh,,Ffostref,,,,,,,,,,,x
+k_ireland,k_ireland,,Ireland,,,,,,,,,,,x
+k_ireland,k_ireland_adj,,Irish,,,,,,,,,,,x
+k_ireland,breton,,Iwerzhon,,,,,,,,,,,x
+k_ireland,danish,,Irland,,,,,,,,,,,x
+k_ireland,irish,,Éire,,,,,,,,,,,x
+k_ireland,norse,,Irland,,,,,,,,,,,x
+k_ireland,norwegian,,Irland,,,,,,,,,,,x
+k_ireland,pictish,,Iuerthon,,,,,,,,,,,x
+k_ireland,swedish,,Irland,,,,,,,,,,,x
+k_ireland,welsh,,Iwerddon,,,,,,,,,,,x
+d_ulster,d_ulster,,Ulster,,,,,,,,,,,x
+d_ulster,d_ulster_adj,,Ulsterian,,,,,,,,,,,x
+d_ulster,d_ulster_adj_north_germanic,,Strangfjorder,,,,,,,,,,,x
+d_ulster,danish,,Strangfjord,,,,,,,,,,,x
+d_ulster,irish,,Ulaidh,,,,,,,,,,,x
+d_ulster,norse,,Strangfjorðr,,,,,,,,,,,x
+d_ulster,norwegian,,Strangfjord,,,,,,,,,,,x
+d_ulster,swedish,,Strangfjord,,,,,,,,,,,x
+c_ulster,PROV5,,Ulster,,,,,,,,,,,x
+c_ulster,c_ulster_adj,,Ulsterian,,,,,,,,,,,x
+c_ulster,c_ulster_adj_north_germanic,,Strangfjorder,,,,,,,,,,,x
+c_ulster,danish,,Strangfjord,,,,,,,,,,,x
+c_ulster,irish,,Ulaidh,,,,,,,,,,,x
+c_ulster,norse,,Strangfjorðr,,,,,,,,,,,x
+c_ulster,norwegian,,Strangfjord,,,,,,,,,,,x
+c_ulster,swedish,,Strangfjord,,,,,,,,,,,x
+b_downpatrick,b_downpatrick,,Downpatrick,,,,,,,,,,,x
+b_downpatrick,danish,,Strangfjord,,,,,,,,,,,x
+b_downpatrick,irish,,Dún Pádraig,,,,,,,,,,,x
+b_downpatrick,norse,,Strangfjorðr,,,,,,,,,,,x
+b_downpatrick,norwegian,,Strangfjord,,,,,,,,,,,x
+b_downpatrick,swedish,,Strangfjord,,,,,,,,,,,x
+b_dunseverick,b_dunseverick,,Dunseverick,,,,,,,,,,,x
+b_dunseverick,irish,,Dún Sobhairce,,,,,,,,,,,x
+b_bangor,b_bangor,,Bangor,,,,,,,,,,,x
+b_bangor,irish,,Inbhear Beg,,,,,,,,,,,x
+b_carrickfergus,b_carrickfergus,,Carrickfergus,,,,,,,,,,,x
+b_carrickfergus,irish,,Carraig Fhearghais,,,,,,,,,,,x
+b_connor,b_connor,,Connor,,,,,,,,,,,x
+b_connor,irish,,Con Doire,,,,,,,,,,,x
+b_dromore,b_dromore,,Dromore,,,,,,,,,,,x
+b_dromore,irish,,Druim Mór,,,,,,,,,,,x
+b_larne,b_larne,,Larne,,,,,,,,,,,x
+b_larne,irish,,Latharna,,,,,,,,,,,x
+b_dunluce,b_dunluce,,Dunluce,,,,,,,,,,,x
+b_dunluce,irish,,Dún Libhse,,,,,,,,,,,x
+c_oriel,PROV7,,Oriel,,,,,,,,,,,x
+c_oriel,c_oriel_adj,,Orielian,,,,,,,,,,,x
+c_oriel,irish,,Airgíalla,,,,,,,,,,,x
+b_clones,b_clones,,Clones,,,,,,,,,,,x
+b_clones,irish,,Cluain Eois,,,,,,,,,,,x
+b_armagh,b_armagh,,Armagh,,,,,,,,,,,x
+b_armagh,irish,,Ard Mhacha,,,,,,,,,,,x
+b_dundalk,b_dundalk,,Dundalk,,,,,,,,,,,x
+b_dundalk,danish,,Kerlingfjord,,,,,,,,,,,x
+b_dundalk,irish,,Dún Dealgan,,,,,,,,,,,x
+b_dundalk,norse,,Kerlingfjorðr,,,,,,,,,,,x
+b_dundalk,norwegian,,Kerlingfjord,,,,,,,,,,,x
+b_dundalk,swedish,,Kerlingfjord,,,,,,,,,,,x
+b_clogher,b_clogher,,Clogher,,,,,,,,,,,x
+b_clogher,irish,,Clochar,,,,,,,,,,,x
+b_drogheda,b_drogheda,,Drogheda,,,,,,,,,,,x
+b_drogheda,irish,,Droichead Átha,,,,,,,,,,,x
+b_monaghan,b_monaghan,,Monaghan,,,,,,,,,,,x
+b_monaghan,irish,,Muineachán,,,,,,,,,,,x
+b_olouth,b_olouth,,Louth,,,,,,,,,,,x
+b_olouth,irish,,Lúghbhaidh,,,,,,,,,,,x
+b_ardee,b_ardee,,Ardee,,,,,,,,,,,x
+b_ardee,irish,,Baile Átha Fhirdhia,,,,,,,,,,,x
+c_tyrone,PROV4,,Tyrone,,,,,,,,,,,x
+c_tyrone,c_tyrone_adj,,Tir Eoghainian,,,,,,,,,,,x
+c_tyrone,irish,,Tír Eoghain,,,,,,,,,,,x
+b_coleraine,b_coleraine,,Coleraine,,,,,,,,,,,x
+b_coleraine,irish,,Cúil Rathain,,,,,,,,,,,x
+b_dungannon,b_dungannon,,Dungannon,,,,,,,,,,,x
+b_dungannon,irish,,Dún Geanainn,,,,,,,,,,,x
+b_aileach,b_aileach,,Aileach,,,,,,,,,,,x
+b_aileach,irish,,Ailech,,,,,,,,,,,x
+b_maghera,b_maghera,,Maghera,,,,,,,,,,,x
+b_maghera,irish,,Machaire Rátha,,,,,,,,,,,x
+b_derry,b_derry,,Derry,,,,,,,,,,,x
+b_derry,irish,,Daire Coluimb Chille,,,,,,,,,,,x
+b_omagh,b_omagh,,Omagh,,,,,,,,,,,x
+b_omagh,irish,,An Óghmaigh,,,,,,,,,,,x
+b_tullyhogue,b_tullyhogue,,Tullyhogue,,,,,,,,,,,x
+b_tullyhogue,irish,,Tulaigh Óg,,,,,,,,,,,x
+b_dungiven,b_dungiven,,Dungiven,,,,,,,,,,,x
+b_dungiven,irish,,Dún Geimhin,,,,,,,,,,,x
+c_tyrconnell,PROV3,,Tyrconnell,,,,,,,,,,,x
+c_tyrconnell,c_tyrconnell_adj,,Tyrconnellian,,,,,,,,,,,x
+c_tyrconnell,irish,,Tír Chonaill,,,,,,,,,,,x
+b_gartan,b_gartan,,Gartan,,,,,,,,,,,x
+b_gartan,irish,,Gartán,,,,,,,,,,,x
+b_moville,b_moville,,Moville,,,,,,,,,,,x
+b_moville,irish,,Magh Bhile,,,,,,,,,,,x
+b_raphoe,b_raphoe,,Raphoe,,,,,,,,,,,x
+b_raphoe,irish,,Ráth Bhoth,,,,,,,,,,,x
+b_fahan,b_fahan,,Fahan,,,,,,,,,,,x
+b_fahan,irish,,Fathain,,,,,,,,,,,x
+b_donegal,b_donegal,,Donegal,,,,,,,,,,,x
+b_donegal,irish,,Dún na nGall,,,,,,,,,,,x
+b_ballyshannon,b_ballyshannon,,Ballyshannon,,,,,,,,,,,x
+b_ballyshannon,irish,,Béal Átha Seanaidh,,,,,,,,,,,x
+b_kilmacrenan,b_kilmacrenan,,Kilmacrenan,,,,,,,,,,,x
+b_kilmacrenan,irish,,Cill Mhic nEanain,,,,,,,,,,,x
+b_ballymacswiney,b_ballymacswiney,,Ballymacswiney,,,,,,,,,,,x
+b_ballymacswiney,irish,,Baile Mhic Suibhne,,,,,,,,,,,x
+d_connacht,d_connacht,,Connacht,,,,,,,,,,,x
+d_connacht,d_connacht_adj,,Connachtian,,,,,,,,,,,x
+d_connacht,irish,,Connachta,,,,,,,,,,,x
+c_breifne,PROV8,,Breifne,,,,,,,,,,,x
+c_breifne,c_breifne_adj,,Breifnian,,,,,,,,,,,x
+c_breifne,irish,,Bréifne,,,,,,,,,,,x
+b_dromahair,b_dromahair,,Dromahair,,,,,,,,,,,x
+b_dromahair,irish,,Droim Áth Thiar,,,,,,,,,,,x
+b_kilmore,b_kilmore,,Kilmore,,,,,,,,,,,x
+b_kilmore,irish,,Cill Mhór,,,,,,,,,,,x
+b_cavan,b_cavan,,Cavan,,,,,,,,,,,x
+b_cavan,irish,,An Cabhán,,,,,,,,,,,x
+b_longford,b_longford,,Longford,,,,,,,,,,,x
+b_longford,irish,,An Longphort,,,,,,,,,,,x
+b_ardagh,b_ardagh,,Ardagh,,,,,,,,,,,x
+b_ardagh,irish,,Ardachadh,,,,,,,,,,,x
+b_leitrim,b_leitrim,,Leitrim,,,,,,,,,,,x
+b_leitrim,irish,,Liatroim,,,,,,,,,,,x
+b_drumcliffe,b_drumcliffe,,Drumcliffe,,,,,,,,,,,x
+b_drumcliffe,irish,,Droim Chliabh,,,,,,,,,,,x
+b_kells,b_kells,,Kells,,,,,,,,,,,x
+b_kells,irish,,Ceann Lios,,,,,,,,,,,x
+c_connacht,PROV9,,Connacht,,,,,,,,,,,x
+c_connacht,c_connacht_adj,,Connachtian,,,,,,,,,,,x
+c_connacht,irish,,Connachta,,,,,,,,,,,x
+b_galway,b_galway,,Galway,,,,,,,,,,,x
+b_galway,irish,,Dún Bhun na Gaillimhe,,,,,,,,,,,x
+b_elphin,b_elphin,,Elphin,,,,,,,,,,,x
+b_elphin,irish,,Ail Finn,,,,,,,,,,,x
+b_tuam,b_tuam,,Tuam,,,,,,,,,,,x
+b_tuam,irish,,Tuaim Dá Ghualann,,,,,,,,,,,x
+b_clonfert,b_clonfert,,Clonfert,,,,,,,,,,,x
+b_clonfert,irish,,Cluain Fearta,,,,,,,,,,,x
+b_roscommon,b_roscommon,,Roscommon,,,,,,,,,,,x
+b_roscommon,irish,,Ros Comáin,,,,,,,,,,,x
+b_mayo,b_mayo,,Mayo,,,,,,,,,,,x
+b_mayo,irish,,Maigh Eó,,,,,,,,,,,x
+b_killala,b_killala,,Killala,,,,,,,,,,,x
+b_killala,irish,,Cill Ala,,,,,,,,,,,x
+b_anchory,b_anchory,,Anchory,,,,,,,,,,,x
+b_anchory,irish,,Baile Uí Fhiacháin,,,,,,,,,,,x
+d_meath,d_meath,,Meath,,,,,,,,,,,x
+d_meath,d_meath_adj,,Meathian,,,,,,,,,,,x
+d_meath,d_meath_adj_irish,,Taran,,,,,,,,,,,x
+d_meath,d_meath_adj_north_germanic,,Dubliner,,,,,,,,,,,x
+d_meath,danish,,Dublin,,,,,,,,,,,x
+d_meath,irish,,Mide,,,,,,,,,,,x
+d_meath,norse,,Dyflinn,,,,,,,,,,,x
+d_meath,norwegian,,Dublin,,,,,,,,,,,x
+d_meath,swedish,,Dublin,,,,,,,,,,,x
+c_kildare,PROV10,,Kildare,,,,,,,,,,,x
+c_kildare,c_kildare_adj,,Kildarian,,,,,,,,,,,x
+c_kildare,irish,,Cill Dara,,,,,,,,,,,x
+b_knockaulin,b_knockaulin,,Knockaulin,,,,,,,,,,,x
+b_knockaulin,irish,,Dún Ailinne,,,,,,,,,,,x
+b_athlone,b_athlone,,Athlone,,,,,,,,,,,x
+b_athlone,irish,,Baile Átha Luain,,,,,,,,,,,x
+b_kildare,b_kildare,,Kildare,,,,,,,,,,,x
+b_kildare,irish,,Cill Dara,,,,,,,,,,,x
+b_maynooth,b_maynooth,,Maynooth,,,,,,,,,,,x
+b_maynooth,irish,,Maigh Nuad,,,,,,,,,,,x
+b_st_brigit,b_st_brigit,,St Brigit,,,,,,,,,,,x
+b_st_brigit,irish,,Naomh Brigid,,,,,,,,,,,x
+b_rathangan,b_rathangan,,Rathangan,,,,,,,,,,,x
+b_rathangan,irish,,Ráth Iomgháin,,,,,,,,,,,x
+b_durrow,b_durrow,,Durrow,,,,,,,,,,,x
+b_durrow,irish,,Darú,,,,,,,,,,,x
+b_clonard,b_clonard,,Clonard,,,,,,,,,,,x
+b_clonard,irish,,Cluain Ioraird,,,,,,,,,,,x
+c_dublin,PROV11,,Dublin,,,,,,,,,,,x
+c_dublin,c_dublin_adj,,Dubliner,,,,,,,,,,,x
+c_dublin,irish,,Dubhlinn,,,,,,,,,,,x
+c_dublin,norse,,Dyflinn,,,,,,,,,,,x
+c_dublin,welsh,,Dulyn,,,,,,,,,,,x
+b_dublin,b_dublin,,Dublin,,,,,,,,,,,x
+b_dublin,irish,,Dubhlinn,,,,,,,,,,,x
+b_dublin,norse,,Dyflinn,,,,,,,,,,,x
+b_dublin,welsh,,Dulyn,,,,,,,,,,,x
+b_clondalkin,b_clondalkin,,Clondalkin,,,,,,,,,,,x
+b_finglas,b_finglas,,Finglas,,,,,,,,,,,x
+b_finglas,irish,,Fionnghlas,,,,,,,,,,,x
+b_wicklow,b_wicklow,,Wicklow,,,,,,,,,,,x
+b_wicklow,irish,,Cill Mhantáin,,,,,,,,,,,x
+b_ath_cliath,b_ath_cliath,,Ath Cliath,,,,,,,,,,,x
+b_ath_cliath,irish,,Baile Átha Cliath,,,,,,,,,,,x
+b_christ_church,b_christ_church,,Christ Church,,,,,,,,,,,x
+b_christ_church,irish,,Ardeaglais Chríost,,,,,,,,,,,x
+b_mellifont,b_mellifont,,Mellifont,,,,,,,,,,,x
+b_mellifont,irish,,An Mhainistir Mhór,,,,,,,,,,,x
+b_trim,b_trim,,Trim,,,,,,,,,,,x
+b_trim,irish,,Baile Átha Troim,,,,,,,,,,,x
+d_leinster,d_leinster,,Leinster,,,,,,,,,,,x
+d_leinster,d_leinster_adj,,Leinsterian,,,,,,,,,,,x
+d_leinster,d_leinster_adj_north_germanic,,Veisafjorder,,,,,,,,,,,x
+d_leinster,danish,,Veisafjord,,,,,,,,,,,x
+d_leinster,irish,,Laigin,,,,,,,,,,,x
+d_leinster,norse,,Veisafjorðr,,,,,,,,,,,x
+d_leinster,norwegian,,Veisafjord,,,,,,,,,,,x
+d_leinster,swedish,,Veisafjord,,,,,,,,,,,x
+c_leinster,PROV16,,Leinster,,,,,,,,,,,x
+c_leinster,c_leinster_adj,,Leinsterian,,,,,,,,,,,x
+c_leinster,c_leinster_adj_north_germanic,,Veisafjorder,,,,,,,,,,,x
+c_leinster,danish,,Veisafjord,,,,,,,,,,,x
+c_leinster,irish,,Laigin,,,,,,,,,,,x
+c_leinster,norse,,Veisafjorðr,,,,,,,,,,,x
+c_leinster,norwegian,,Veisafjord,,,,,,,,,,,x
+c_leinster,swedish,,Veisafjord,,,,,,,,,,,x
+b_wexford,b_wexford,,Wexford,,,,,,,,,,,x
+b_wexford,danish,,Veisafjord,,,,,,,,,,,x
+b_wexford,irish,,Loch Garman,,,,,,,,,,,x
+b_wexford,norse,,Veisafjorðr,,,,,,,,,,,x
+b_wexford,norwegian,,Veisafjord,,,,,,,,,,,x
+b_wexford,swedish,,Veisafjord,,,,,,,,,,,x
+b_leighlin,b_leighlin,,Leighlin,,,,,,,,,,,x
+b_leighlin,irish,,Leithghlinn,,,,,,,,,,,x
+b_arklow,b_arklow,,Arklow,,,,,,,,,,,x
+b_arklow,irish,,An tInbhear Mór,,,,,,,,,,,x
+b_carlow,b_carlow,,Carlow,,,,,,,,,,,x
+b_carlow,irish,,Ceatharlach,,,,,,,,,,,x
+b_ferns,b_ferns,,Ferns,,,,,,,,,,,x
+b_ferns,irish,,Fearna Mór Maedhóg,,,,,,,,,,,x
+b_glendalough,b_glendalough,,Glendalough,,,,,,,,,,,x
+b_glendalough,irish,,Gleann Dá Loch,,,,,,,,,,,x
+b_naas,b_naas,,Naas,,,,,,,,,,,x
+b_naas,irish,,Nás na Ríogh,,,,,,,,,,,x
+b_enniscorthy,b_enniscorthy,,Enniscorthy,,,,,,,,,,,x
+b_enniscorthy,irish,,Inis Córthaidh,,,,,,,,,,,x
+c_ossory,PROV12,,Ossory,,,,,,,,,,,x
+c_ossory,c_ossory_adj,,Ossoryan,,,,,,,,,,,x
+c_ossory,irish,,Osraige,,,,,,,,,,,x
+b_kilkenny,b_kilkenny,,Kilkenny,,,,,,,,,,,x
+b_kilkenny,irish,,Cill Chainnigh,,,,,,,,,,,x
+b_gowran,b_gowran,,Gowran,,,,,,,,,,,x
+b_gowran,irish,,Gabhrán,,,,,,,,,,,x
+b_clonmacnoise,b_clonmacnoise,,Clonmacnoise,,,,,,,,,,,x
+b_clonmacnoise,irish,,Cluain Mhic Nóis,,,,,,,,,,,x
+b_aghaboe,b_aghaboe,,Aghaboe,,,,,,,,,,,x
+b_aghaboe,irish,,Achadh Bhó,,,,,,,,,,,x
+b_jerpoint,b_jerpoint,,Jerpoint,,,,,,,,,,,x
+b_jerpoint,irish,,Sheireapúin,,,,,,,,,,,x
+b_callan,b_callan,,Callan,,,,,,,,,,,x
+b_callan,irish,,Callainn,,,,,,,,,,,x
+b_grennan,b_grennan,,Grennan,,,,,,,,,,,x
+b_grennan,irish,,An Ghrianán,,,,,,,,,,,x
+b_grannagh,b_grannagh,,Grannagh,,,,,,,,,,,x
+b_grannagh,irish,,An Greannach,,,,,,,,,,,x
+d_munster,d_munster,,Munster,,,,,,,,,,,x
+d_munster,d_munster_adj,,Munsterian,,,,,,,,,,,x
+d_munster,d_munster_adj_north_germanic,,Hlymrekian,,,,,,,,,,,x
+d_munster,danish,,Lymrek,,,,,,,,,,,x
+d_munster,irish,,Mumu,,,,,,,,,,,x
+d_munster,norse,,Hlymrek,,,,,,,,,,,x
+d_munster,norwegian,,Hlymrek,,,,,,,,,,,x
+d_munster,swedish,,Lymrek,,,,,,,,,,,x
+c_thomond,PROV13,,Thomond,,,,,,,,,,,x
+c_thomond,c_thomond_adj,,Thomondian,,,,,,,,,,,x
+c_thomond,c_thomond_adj_north_germanic,,Hlymrekian,,,,,,,,,,,x
+c_thomond,danish,,Lymrek,,,,,,,,,,,x
+c_thomond,irish,,Tuadhmhumhain,,,,,,,,,,,x
+c_thomond,norse,,Hlymrek,,,,,,,,,,,x
+c_thomond,norwegian,,Hlymrek,,,,,,,,,,,x
+c_thomond,swedish,,Lymrek,,,,,,,,,,,x
+b_limerick,b_limerick,,Limerick,,,,,,,,,,,x
+b_limerick,danish,,Lymrek,,,,,,,,,,,x
+b_limerick,irish,,Luimneach,,,,,,,,,,,x
+b_limerick,norse,,Hlymrek,,,,,,,,,,,x
+b_limerick,norwegian,,Hlymrek,,,,,,,,,,,x
+b_limerick,swedish,,Lymrek,,,,,,,,,,,x
+b_bunratty,b_bunratty,,Bunratty,,,,,,,,,,,x
+b_bunratty,irish,,Bun na Raite,,,,,,,,,,,x
+b_killaloe,b_killaloe,,Killaloe,,,,,,,,,,,x
+b_killaloe,irish,,Cill Dálua,,,,,,,,,,,x
+b_emly,b_emly,,Emly,,,,,,,,,,,x
+b_emly,irish,,Imleach Iubhair,,,,,,,,,,,x
+b_ennis,b_ennis,,Ennis,,,,,,,,,,,x
+b_ennis,irish,,Inis,,,,,,,,,,,x
+b_kilfenora,b_kilfenora,,Kilfenora,,,,,,,,,,,x
+b_kilfenora,irish,,Cill Fhionnúrach,,,,,,,,,,,x
+b_askeaton,b_askeaton,,Askeaton,,,,,,,,,,,x
+b_askeaton,irish,,Eas Géitine,,,,,,,,,,,x
+b_adare,b_adare,,Adare,,,,,,,,,,,x
+c_ormond,PROV15,,Ormond,,,,,,,,,,,x
+c_ormond,c_ormond_adj,,Ormondian,,,,,,,,,,,x
+c_ormond,c_ormond_adj_north_germanic,,Vedrafjorder,,,,,,,,,,,x
+c_ormond,danish,,Vedrafjord,,,,,,,,,,,x
+c_ormond,irish,,Urmhumhain,,,,,,,,,,,x
+c_ormond,norse,,Veðrafjorðr,,,,,,,,,,,x
+c_ormond,norwegian,,Vedrafjord,,,,,,,,,,,x
+c_ormond,swedish,,Vedrafjord,,,,,,,,,,,x
+b_waterford,b_waterford,,Waterford,,,,,,,,,,,x
+b_waterford,danish,,Vedrafjord,,,,,,,,,,,x
+b_waterford,irish,,Port Láirge,,,,,,,,,,,x
+b_waterford,norse,,Veðrafjorðr,,,,,,,,,,,x
+b_waterford,norwegian,,Vedrafjord,,,,,,,,,,,x
+b_waterford,swedish,,Vedrafjord,,,,,,,,,,,x
+b_cahir,b_cahir,,Cahir,,,,,,,,,,,x
+b_cahir,irish,,Cathair Dhún Iascaigh,,,,,,,,,,,x
+b_cashel,b_cashel,,Cashel,,,,,,,,,,,x
+b_cashel,irish,,Dún Caiseal,,,,,,,,,,,x
+b_clonmel,b_clonmel,,Clonmel,,,,,,,,,,,x
+b_clonmel,irish,,Cluain Meala,,,,,,,,,,,x
+b_lismore,b_lismore,,Lismore,,,,,,,,,,,x
+b_lismore,irish,,Lios Mór,,,,,,,,,,,x
+b_roscrea,b_roscrea,,Roscrea,,,,,,,,,,,x
+b_roscrea,irish,,Ros Cré,,,,,,,,,,,x
+b_nenagh,b_nenagh,,Nenagh,,,,,,,,,,,x
+b_nenagh,irish,,Aonach Urmhumhan,,,,,,,,,,,x
+b_fethard,b_fethard,,Fethard,,,,,,,,,,,x
+b_fethard,irish,,Fiodh Ard,,,,,,,,,,,x
+c_desmond,PROV14,,Desmond,,,,,,,,,,,x
+c_desmond,c_desmond_adj,,Desmondian,,,,,,,,,,,x
+c_desmond,irish,,Deasmhumhain,,,,,,,,,,,x
+b_cork,b_cork,,Cork,,,,,,,,,,,x
+b_cork,irish,,Corcaigh,,,,,,,,,,,x
+b_dunasead,b_dunasead,,Dunasead,,,,,,,,,,,x
+b_dunasead,irish,,Dún na Séad,,,,,,,,,,,x
+b_ross,b_ross,,Ross,,,,,,,,,,,x
+b_ross,irish,,Ros Ó gCairbre,,,,,,,,,,,x
+b_youghal,b_youghal,,Youghal,,,,,,,,,,,x
+b_youghal,irish,,Eochaill,,,,,,,,,,,x
+b_ardfert,b_ardfert,,Ardfert,,,,,,,,,,,x
+b_ardfert,irish,,Ard Fhearta,,,,,,,,,,,x
+b_cloyne,b_cloyne,,Cloyne,,,,,,,,,,,x
+b_cloyne,irish,,Cluain,,,,,,,,,,,x
+b_fermoy,b_fermoy,,Fermoy,,,,,,,,,,,x
+b_fermoy,irish,,Mainistir Fhear Maí,,,,,,,,,,,x
+b_blarney,b_blarney,,Blarney,,,,,,,,,,,x
+b_blarney,irish,,An Bhlarna,,,,,,,,,,,x

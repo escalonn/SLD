@@ -1,0 +1,805 @@
+#TITLE,KEY,VALUE,SWMH,,,,,,,,,,,x
+e_spain,e_spain,,Hispania,,,,,,,,,,,x
+e_spain,e_spain_adj,,Hispanian,,,,,,,,,,,x
+k_castille,k_castille,,Castille,,,,,,,,,,,x
+k_castille,k_castille_adj,,Castilian,,,,,,,,,,,x
+d_castilla,d_castilla,,Castille,,,,,,,,,,,x
+d_castilla,d_castilla_adj,,Castilian,,,,,,,,,,,x
+c_burgos,PROV199,,Burgos,,,,,,,,,,,x
+c_burgos,c_burgos_adj,,Burgosian,,,,,,,,,,,x
+b_aguilardecampo,b_aguilardecampo,,Aguilar de Campo,,,,,,,,,,,x
+b_burgos,b_burgos,,Burgos,,,,,,,,,,,x
+b_palencia,b_palencia,,Palencia,,,,,,,,,,,x
+b_silos,b_silos,,Silos,,,,,,,,,,,x
+b_castrobarte,b_castrobarte,,Castrobarte,,,,,,,,,,,x
+b_mirandadeebro,b_mirandadeebro,,Miranda de Ebro,,,,,,,,,,,x
+b_arandadeduero,b_arandadeduero,,Aranda de Duero,,,,,,,,,,,x
+b_carrion,b_carrion,,Carrión,,,,,,,,,,,x
+c_valladolid,PROV198,,Valladolid,,,,,,,,,,,x
+c_valladolid,c_valladolid_adj,,Valladolidan,,,,,,,,,,,x
+b_valladolid,b_valladolid,,Valladolid,,,,,,,,,,,x
+b_tordesillas,b_tordesillas,,Tordesillas,,,,,,,,,,,x
+b_segovia,b_segovia,,Segovia,,,,,,,,,,,x
+b_medinadelcampo,b_medinadelcampo,,Medina del Campo,,,,,,,,,,,x
+b_simancas,b_simancas,,Simancas,,,,,,,,,,,x
+b_penafiel,b_penafiel,,Peñafiel,,,,,,,,,,,x
+b_iscar,b_iscar,,Iscar,,,,,,,,,,,x
+b_avila,b_avila,,Avila,,,,,,,,,,,x
+c_soria,PROV200,,Soria,,,,,,,,,,,x
+c_soria,c_soria_adj,,Sorian,,,,,,,,,,,x
+b_soria,b_soria,,Soria,,,,,,,,,,,x
+b_osma,b_osma,,Osma,,,,,,,,,,,x
+b_almazan,b_almazan,,Almazán,,,,,,,,,,,x
+b_gormaz,b_gormaz,,Gormaz,,,,,,,,,,,x
+b_castromoro,b_castromoro,,Castromoro,,,,,,,,,,,x
+b_medinacelli,b_medinacelli,,Medinacelli,,,,,,,,,,,x
+b_sanleonardodeyague,b_sanleonardodeyague,,San Leonardo de Yagüe,,,,,,,,,,,x
+b_covaleda,b_covaleda,,Covaleda,,,,,,,,,,,x
+c_asturias_de_santillana,PROV154,,Asturias de Santillana,,,,,,,,,,,x
+c_asturias_de_santillana,c_asturias_de_santillana_adj,,Asturias de Santillanian,,,,,,,,,,,x
+b_santander,b_santander,,Santander,,,,,,,,,,,x
+b_santillanadelmar,b_santillanadelmar,,Santillana del Mar,,,,,,,,,,,x
+b_laredo,b_laredo,,Laredo,,,,,,,,,,,x
+b_castrourdiales,b_castrourdiales,,Castro Urdiales,,,,,,,,,,,x
+b_santona,b_santona,,Santoña,,,,,,,,,,,x
+b_reinosa,b_reinosa,,Reinosa,,,,,,,,,,,x
+b_suances,b_suances,,Suances,,,,,,,,,,,x
+b_camargo,b_camargo,,Camargo,,,,,,,,,,,x
+b_sanvicente,b_sanvicente,,San Vicente,,,,,,,,,,,x
+k_aragon,k_aragon,,Aragon,,,,,,,,,,,x
+k_aragon,k_aragon_adj,,Aragonian,,,,,,,,,,,x
+d_aragon,d_aragon,,Aragon,,,,,,,,,,,x
+d_aragon,d_aragon_adj,,Aragonese,,,,,,,,,,,x
+c_albarracin,PROV174,,Albarracin,,,,,,,,,,,x
+c_albarracin,c_albarracin_adj,,Albarracinian,,,,,,,,,,,x
+b_albarracin,b_albarracin,,Albarracin,,,,,,,,,,,x
+b_teruel,b_teruel,,Teruel,,,,,,,,,,,x
+b_hijar,b_hijar,,Híjar,,,,,,,,,,,x
+b_utrillas,b_utrillas,,Utrillas,,,,,,,,,,,x
+b_calanda,b_calanda,,Calanda,,,,,,,,,,,x
+b_montalban,b_montalban,,Montalbán,,,,,,,,,,,x
+b_alcaniz,b_alcaniz,,Alcañiz,,,,,,,,,,,x
+b_calamocha,b_calamocha,,Calamocha,,,,,,,,,,,x
+c_alto_aragon,PROV207,,Alto Aragón,,,,,,,,,,,x
+c_alto_aragon,c_alto_aragon_adj,,Alto Aragónian,,,,,,,,,,,x
+b_jaca,b_jaca,,Jaca,,,,,,,,,,,x
+b_huesca,b_huesca,,Huesca,,,,,,,,,,,x
+b_barbastro,b_barbastro,,Barbastro,,,,,,,,,,,x
+b_loarre,b_loarre,,Loarre,,,,,,,,,,,x
+b_ayerbe,b_ayerbe,,Ayerbe,,,,,,,,,,,x
+b_almudevar,b_almudevar,,Almudévar,,,,,,,,,,,x
+b_uncastillo,b_uncastillo,,Uncastillo,,,,,,,,,,,x
+b_alquezar,b_alquezar,,Alquézar,,,,,,,,,,,x
+c_zaragoza,PROV202,,Zaragoza,,,,,,,,,,,x
+c_zaragoza,c_zaragoza_adj,,Zaragozan,,,,,,,,,,,x
+c_zaragoza,andalusian_arabic,,Saraqusta,,,,,,,,,,,x
+c_zaragoza,bedouin_arabic,,Saraqusta,,,,,,,,,,,x
+c_zaragoza,egyptian_arabic,,Saraqusta,,,,,,,,,,,x
+c_zaragoza,levantine_arabic,,Saraqusta,,,,,,,,,,,x
+c_zaragoza,maghreb_arabic,,Saraqusta,,,,,,,,,,,x
+b_alagon,b_alagon,,Alagón,,,,,,,,,,,x
+b_zaragoza,b_zaragoza,,Zaragoza,,,,,,,,,,,x
+b_zaragoza,andalusian_arabic,,Saraqusta,,,,,,,,,,,x
+b_zaragoza,bedouin_arabic,,Saraqusta,,,,,,,,,,,x
+b_zaragoza,egyptian_arabic,,Saraqusta,,,,,,,,,,,x
+b_zaragoza,levantine_arabic,,Saraqusta,,,,,,,,,,,x
+b_zaragoza,maghreb_arabic,,Saraqusta,,,,,,,,,,,x
+b_veruela,b_veruela,,Veruela,,,,,,,,,,,x
+b_caspe,b_caspe,,Caspe,,,,,,,,,,,x
+b_borja,b_borja,,Borja,,,,,,,,,,,x
+b_medianadearagon,b_medianadearagon,,Mediana de Aragón,,,,,,,,,,,x
+b_ejea,b_ejea,,Ejea,,,,,,,,,,,x
+b_epila,b_epila,,Épila,,,,,,,,,,,x
+c_calatayud,PROV175,,Calatayud,,,,,,,,,,,x
+c_calatayud,c_calatayud_adj,,Calatayudian,,,,,,,,,,,x
+b_calatayud,b_calatayud,,Calatayud,,,,,,,,,,,x
+b_piedra,b_piedra,,Piedra,,,,,,,,,,,x
+b_alhamadearagon,b_alhamadearagon,,Alhama de Aragón,,,,,,,,,,,x
+b_nuevalos,b_nuevalos,,Nuévalos,,,,,,,,,,,x
+b_daroca,b_daroca,,Daroca,,,,,,,,,,,x
+b_munebrega,b_munebrega,,Munébrega,,,,,,,,,,,x
+b_calmarza,b_calmarza,,Calmarza,,,,,,,,,,,x
+b_cimballa,b_cimballa,,Cimballa,,,,,,,,,,,x
+d_barcelona,d_barcelona,,Barcelona,,,,,,,,,,,x
+d_barcelona,d_barcelona_adj,,Barcelonian,,,,,,,,,,,x
+c_barcelona,PROV204,,Barcelona,,,,,,,,,,,x
+c_barcelona,c_barcelona_adj,,Barcelonian,,,,,,,,,,,x
+c_barcelona,andalusian_arabic,,Barshiluna,,,,,,,,,,,x
+c_barcelona,bedouin_arabic,,Barshiluna,,,,,,,,,,,x
+c_barcelona,egyptian_arabic,,Barshiluna,,,,,,,,,,,x
+c_barcelona,levantine_arabic,,Barshiluna,,,,,,,,,,,x
+c_barcelona,maghreb_arabic,,Barshiluna,,,,,,,,,,,x
+b_berga,b_berga,,Berga,,,,,,,,,,,x
+b_barcelona,b_barcelona,,Barcelona,,,,,,,,,,,x
+b_barcelona,andalusian_arabic,,Madinat Barshiluna,,,,,,,,,,,x
+b_barcelona,bedouin_arabic,,Madinat Barshiluna,,,,,,,,,,,x
+b_barcelona,egyptian_arabic,,Madinat Barshiluna,,,,,,,,,,,x
+b_barcelona,levantine_arabic,,Madinat Barshiluna,,,,,,,,,,,x
+b_barcelona,maghreb_arabic,,Madinat Barshiluna,,,,,,,,,,,x
+b_vic,b_vic,,Vic,,,,,,,,,,,x
+b_manresa,b_manresa,,Manresa,,,,,,,,,,,x
+b_osona,b_osona,,Osona,,,,,,,,,,,x
+b_igualada,b_igualada,,Igualada,,,,,,,,,,,x
+b_vallparadis,b_vallparadis,,Vallparadís,,,,,,,,,,,x
+b_provencana,b_provencana,,Provençana,,,,,,,,,,,x
+c_urgell,PROV206,,Urgell,,,,,,,,,,,x
+c_urgell,c_urgell_adj,,Urgellian,,,,,,,,,,,x
+b_pallars,b_pallars,,Pallars,,,,,,,,,,,x
+b_urgell,b_urgell,,Urgell,,,,,,,,,,,x
+b_suert,b_suert,,Suert,,,,,,,,,,,x
+b_viella,b_viella,,Viella,,,,,,,,,,,x
+b_puigcerda,b_puigcerda,,Puigcerdà,,,,,,,,,,,x
+b_valledebohi,b_valledebohi,,Vall de Boí,,,,,,,,,,,x
+b_elpuidesegur,b_elpuidesegur,,El Pui de Segur,,,,,,,,,,,x
+b_tremp,b_tremp,,Tremp,,,,,,,,,,,x
+c_rosello,PROV211,,Rosello,,,,,,,,,,,x
+c_rosello,c_rosello_adj,,Rosellian,,,,,,,,,,,x
+b_cotlliure,b_cotlliure,,Cotlliure,,,,,,,,,,,x
+b_perpinya,b_perpinya,,Perpinyà,,,,,,,,,,,x
+b_elna,b_elna,,Elna,,,,,,,,,,,x
+b_cuixa,b_cuixa,,Cuixà,,,,,,,,,,,x
+b_prada,b_prada,,Prada,,,,,,,,,,,x
+b_oltrera,b_oltrera,,Oltrera,,,,,,,,,,,x
+b_canigo,b_canigo,,Canigó,,,,,,,,,,,x
+b_ceret,b_ceret,,Ceret,,,,,,,,,,,x
+c_empuries,PROV205,,Empuries,,,,,,,,,,,x
+c_empuries,c_empuries_adj,,Empuriesian,,,,,,,,,,,x
+b_empuries,b_empuries,,Empúries,,,,,,,,,,,x
+b_labisbaldemporda,b_labisbaldemporda,,La Bisbal d'Empordà,,,,,,,,,,,x
+b_girona,b_girona,,Girona,,,,,,,,,,,x
+b_figueras,b_figueras,,Figueres,,,,,,,,,,,x
+b_cerdana,b_cerdana,,Cerdanya,,,,,,,,,,,x
+b_besalu,b_besalu,,Besalú,,,,,,,,,,,x
+b_banyoles,b_banyoles,,Banyoles,,,,,,,,,,,x
+b_castelldaro,b_castelldaro,,Castell d'Aro,,,,,,,,,,,x
+c_lleida,PROV203,,Lleida,,,,,,,,,,,x
+c_lleida,c_lleida_adj,,Lleidan,,,,,,,,,,,x
+c_lleida,andalusian_arabic,,Larida,,,,,,,,,,,x
+c_lleida,bedouin_arabic,,Larida,,,,,,,,,,,x
+c_lleida,egyptian_arabic,,Larida,,,,,,,,,,,x
+c_lleida,levantine_arabic,,Larida,,,,,,,,,,,x
+c_lleida,maghreb_arabic,,Larida,,,,,,,,,,,x
+b_lleida,b_lleida,,Lleida,,,,,,,,,,,x
+b_lleida,andalusian_arabic,,Larida,,,,,,,,,,,x
+b_lleida,bedouin_arabic,,Larida,,,,,,,,,,,x
+b_lleida,egyptian_arabic,,Larida,,,,,,,,,,,x
+b_lleida,levantine_arabic,,Larida,,,,,,,,,,,x
+b_lleida,maghreb_arabic,,Larida,,,,,,,,,,,x
+b_cervera,b_cervera,,Cervera,,,,,,,,,,,x
+b_solsona,b_solsona,,Solsona,,,,,,,,,,,x
+b_agramunt,b_agramunt,,Agramunt,,,,,,,,,,,x
+b_tarrega,b_tarrega,,Tàrrega,,,,,,,,,,,x
+b_balaguer,b_balaguer,,Balaguer,,,,,,,,,,,x
+b_borgesblanques,b_borgesblanques,,Les Borges Blanques,,,,,,,,,,,x
+b_verdu,b_verdu,,Verdú,,,,,,,,,,,x
+c_tarragona,PROV173,,Tarragona,,,,,,,,,,,x
+c_tarragona,c_tarragona_adj,,Tarragonan,,,,,,,,,,,x
+c_tarragona,andalusian_arabic,,Turtusha,,,,,,,,,,,x
+c_tarragona,bedouin_arabic,,Turtusha,,,,,,,,,,,x
+c_tarragona,egyptian_arabic,,Turtusha,,,,,,,,,,,x
+c_tarragona,levantine_arabic,,Turtusha,,,,,,,,,,,x
+c_tarragona,maghreb_arabic,,Turtusha,,,,,,,,,,,x
+b_tarragona,b_tarragona,,Tarragona,,,,,,,,,,,x
+b_spantortosa,b_spantortosa,,Tortosa,,,,,,,,,,,x
+b_spantortosa,andalusian_arabic,,Turtusha,,,,,,,,,,,x
+b_spantortosa,bedouin_arabic,,Turtusha,,,,,,,,,,,x
+b_spantortosa,egyptian_arabic,,Turtusha,,,,,,,,,,,x
+b_spantortosa,levantine_arabic,,Turtusha,,,,,,,,,,,x
+b_spantortosa,maghreb_arabic,,Turtusha,,,,,,,,,,,x
+b_cambrils,b_cambrils,,Cambrils,,,,,,,,,,,x
+b_reus,b_reus,,Reus,,,,,,,,,,,x
+b_montblanc,b_montblanc,,Montblanc,,,,,,,,,,,x
+b_vendrell,b_vendrell,,Vendrell,,,,,,,,,,,x
+b_amposta,b_amposta,,Amposta,,,,,,,,,,,x
+b_sancugat,b_sancugat,,Sant Cugat,,,,,,,,,,,x
+d_valencia,d_valencia,,València,,,,,,,,,,,x
+d_valencia,d_valencia_adj,,Valencian,,,,,,,,,,,x
+c_castellon,PROV172,,Castellon,,,,,,,,,,,x
+c_castellon,c_castellon_adj,,Castellonian,,,,,,,,,,,x
+b_castellon,b_castellon,,Castelló,,,,,,,,,,,x
+b_alpuente,b_alpuente,,Alpuente,,,,,,,,,,,x
+b_nules,b_nules,,Nules,,,,,,,,,,,x
+b_vinaros,b_vinaros,,Vinaròs,,,,,,,,,,,x
+b_morella,b_morella,,Morella,,,,,,,,,,,x
+b_vilarreal,b_vilarreal,,Vila-Real,,,,,,,,,,,x
+b_burriana,b_burriana,,Burriana,,,,,,,,,,,x
+b_alcalaten,b_alcalaten,,Alcalatén,,,,,,,,,,,x
+c_valencia,PROV171,,Valencia,,,,,,,,,,,x
+c_valencia,c_valencia_adj,,Valèncian,,,,,,,,,,,x
+c_valencia,andalusian_arabic,,Balansiyya,,,,,,,,,,,x
+c_valencia,bedouin_arabic,,Balansiyya,,,,,,,,,,,x
+c_valencia,egyptian_arabic,,Balansiyya,,,,,,,,,,,x
+c_valencia,levantine_arabic,,Balansiyya,,,,,,,,,,,x
+c_valencia,maghreb_arabic,,Balansiyya,,,,,,,,,,,x
+b_gandia,b_gandia,,Gandia,,,,,,,,,,,x
+b_valencia,b_valencia,,València,,,,,,,,,,,x
+b_valencia,andalusian_arabic,,Balansiyya,,,,,,,,,,,x
+b_valencia,bedouin_arabic,,Balansiyya,,,,,,,,,,,x
+b_valencia,egyptian_arabic,,Balansiyya,,,,,,,,,,,x
+b_valencia,levantine_arabic,,Balansiyya,,,,,,,,,,,x
+b_valencia,maghreb_arabic,,Balansiyya,,,,,,,,,,,x
+b_jativa,b_jativa,,Xàtiva,,,,,,,,,,,x
+b_cuartdepoblet,b_cuartdepoblet,,Quart de Poblet,,,,,,,,,,,x
+b_alberique,b_alberique,,Alberic,,,,,,,,,,,x
+b_alacuas,b_alacuas,,Alacuàs,,,,,,,,,,,x
+b_torrent,b_torrent,,Torrent,,,,,,,,,,,x
+b_chiva,b_chiva,,Chiva,,,,,,,,,,,x
+c_denia,PROV170,,Denia,,,,,,,,,,,x
+c_denia,c_denia_adj,,Dénian,,,,,,,,,,,x
+c_denia,andalusian_arabic,,Deniyya,,,,,,,,,,,x
+c_denia,bedouin_arabic,,Deniyya,,,,,,,,,,,x
+c_denia,egyptian_arabic,,Deniyya,,,,,,,,,,,x
+c_denia,levantine_arabic,,Deniyya,,,,,,,,,,,x
+c_denia,maghreb_arabic,,Deniyya,,,,,,,,,,,x
+b_denia,b_denia,,Dénia,,,,,,,,,,,x
+b_denia,andalusian_arabic,,Deniyya,,,,,,,,,,,x
+b_denia,bedouin_arabic,,Deniyya,,,,,,,,,,,x
+b_denia,egyptian_arabic,,Deniyya,,,,,,,,,,,x
+b_denia,levantine_arabic,,Deniyya,,,,,,,,,,,x
+b_denia,maghreb_arabic,,Deniyya,,,,,,,,,,,x
+b_alicante,b_alicante,,Alacant,,,,,,,,,,,x
+b_elche,b_elche,,Elx,,,,,,,,,,,x
+b_villena,b_villena,,Villena,,,,,,,,,,,x
+b_orihuela,b_orihuela,,Orihuela,,,,,,,,,,,x
+b_castalla,b_castalla,,Castalla,,,,,,,,,,,x
+b_albatera,b_albatera,,Albatera,,,,,,,,,,,x
+b_benissa,b_benissa,,Benissa,,,,,,,,,,,x
+d_mallorca,d_mallorca,,Mallorca,,,,,,,,,,,x
+d_mallorca,d_mallorca_adj,,Mallorcan,,,,,,,,,,,x
+c_mallorca,PROV827,,Mallorca,,,,,,,,,,,x
+c_mallorca,c_mallorca_adj,,Mallorcan,,,,,,,,,,,x
+c_mallorca,andalusian_arabic,,Mayurqa,,,,,,,,,,,x
+c_mallorca,bedouin_arabic,,Mayurqa,,,,,,,,,,,x
+c_mallorca,egyptian_arabic,,Mayurqa,,,,,,,,,,,x
+c_mallorca,levantine_arabic,,Mayurqa,,,,,,,,,,,x
+c_mallorca,maghreb_arabic,,Mayurqa,,,,,,,,,,,x
+b_alcudia,b_alcudia,,Alcúdia,,,,,,,,,,,x
+b_palma,b_palma,,Palma,,,,,,,,,,,x
+b_palma,andalusian_arabic,,Madinat Mayurqa,,,,,,,,,,,x
+b_palma,bedouin_arabic,,Madinat Mayurqa,,,,,,,,,,,x
+b_palma,egyptian_arabic,,Madinat Mayurqa,,,,,,,,,,,x
+b_palma,levantine_arabic,,Madinat Mayurqa,,,,,,,,,,,x
+b_palma,maghreb_arabic,,Madinat Mayurqa,,,,,,,,,,,x
+b_algaida,b_algaida,,Algaida,,,,,,,,,,,x
+b_felanitx,b_felanitx,,Felanitx,,,,,,,,,,,x
+b_santaponsa,b_santaponsa,,Santa Ponsa,,,,,,,,,,,x
+b_eivissa,b_eivissa,,Eivissa,,,,,,,,,,,x
+b_manacor,b_manacor,,Manacor,,,,,,,,,,,x
+b_formentera,b_formentera,,Formentera,,,,,,,,,,,x
+c_menorca,PROV826,,Menorca,,,,,,,,,,,x
+c_menorca,c_menorca_adj,,Menorcan,,,,,,,,,,,x
+c_menorca,andalusian_arabic,,Manurqa,,,,,,,,,,,x
+c_menorca,bedouin_arabic,,Manurqa,,,,,,,,,,,x
+c_menorca,egyptian_arabic,,Manurqa,,,,,,,,,,,x
+c_menorca,levantine_arabic,,Manurqa,,,,,,,,,,,x
+c_menorca,maghreb_arabic,,Manurqa,,,,,,,,,,,x
+b_ciutadella,b_ciutadella,,Ciutadella,,,,,,,,,,,x
+b_ciutadella,andalusian_arabic,,Madinat al-Jazirah,,,,,,,,,,,x
+b_ciutadella,bedouin_arabic,,Madinat al-Jazirah,,,,,,,,,,,x
+b_ciutadella,egyptian_arabic,,Madinat al-Jazirah,,,,,,,,,,,x
+b_ciutadella,levantine_arabic,,Madinat al-Jazirah,,,,,,,,,,,x
+b_ciutadella,maghreb_arabic,,Madinat al-Jazirah,,,,,,,,,,,x
+b_mahon,b_mahon,,Maó,,,,,,,,,,,x
+b_alaior,b_alaior,,Alaior,,,,,,,,,,,x
+b_santaagueda,b_santaagueda,,Santa Àgueda,,,,,,,,,,,x
+b_esmercadal,b_esmercadal,,Es Mercadal,,,,,,,,,,,x
+b_santlluis,b_santlluis,,Sant Lluís,,,,,,,,,,,x
+b_ferreries,b_ferreries,,Ferreries,,,,,,,,,,,x
+b_escastell,b_escastell,,Es Castell,,,,,,,,,,,x
+k_navarra,k_navarra,,Navarra,,,,,,,,,,,x
+k_navarra,k_navarra_adj,,Navarrese,,,,,,,,,,,x
+d_navarra,d_navarra,,Navarra,,,,,,,,,,,x
+d_navarra,d_navarra_adj,,Navarran,,,,,,,,,,,x
+c_viscaya,PROV153,,Viscaya,,,,,,,,,,,x
+c_viscaya,c_viscaya_adj,,Viscayan,,,,,,,,,,,x
+b_irun,b_irun,,Irún,,,,,,,,,,,x
+b_sansebastian,b_sansebastian,,San Sebastián,,,,,,,,,,,x
+b_eibar,b_eibar,,Eibar,,,,,,,,,,,x
+b_onate,b_onate,,Oñate,,,,,,,,,,,x
+b_tolosa,b_tolosa,,Tolosa,,,,,,,,,,,x
+b_bilbao,b_bilbao,,Bilbao,,,,,,,,,,,x
+b_vitoria,b_vitoria,,Vitoria,,,,,,,,,,,x
+b_guernica,b_guernica,,Guernica,,,,,,,,,,,x
+c_navarra,PROV152,,Navarra,,,,,,,,,,,x
+c_navarra,c_navarra_adj,,Navarran,,,,,,,,,,,x
+b_pamplona,b_pamplona,,Pamplona,,,,,,,,,,,x
+b_leyre,b_leyre,,Leyre,,,,,,,,,,,x
+b_tudela,b_tudela,,Tudela,,,,,,,,,,,x
+b_tafalla,b_tafalla,,Tafalla,,,,,,,,,,,x
+b_olite,b_olite,,Olite,,,,,,,,,,,x
+b_carcastillo,b_carcastillo,,Carcastillo,,,,,,,,,,,x
+b_sanguesa,b_sanguesa,,Sangüesa,,,,,,,,,,,x
+b_estella,b_estella,,Estella,,,,,,,,,,,x
+c_najera,PROV201,,Nájera,,,,,,,,,,,x
+c_najera,c_najera_adj,,Nájeran,,,,,,,,,,,x
+b_haro,b_haro,,Haro,,,,,,,,,,,x
+b_logrone,b_logrone,,Logroño,,,,,,,,,,,x
+b_calahorra,b_calahorra,,Calahorra,,,,,,,,,,,x
+b_najera,b_najera,,Nájera,,,,,,,,,,,x
+b_arnedo,b_arnedo,,Arnedo,,,,,,,,,,,x
+b_alfara,b_alfara,,Alfara,,,,,,,,,,,x
+b_zizurmayor,b_zizurmayor,,Zizur Mayor,,,,,,,,,,,x
+b_santodomingodelacalzada,b_santodomingodelacalzada,,Santo Domingo de la Calzada,,,,,,,,,,,x
+k_asturias,k_asturias,,Asturias,,,,,,,,,,,x
+k_asturias,k_asturias_adj,,Asturian,,,,,,,,,,,x
+d_asturias,d_asturias,,Asturias,,,,,,,,,,,x
+d_asturias,d_asturias_adj,,Asturian,,,,,,,,,,,x
+c_asturias_de_oviedo,PROV155,,Asturias de Oviedo,,,,,,,,,,,x
+c_asturias_de_oviedo,c_asturias_de_oviedo_adj,,Oviedonian,,,,,,,,,,,x
+b_oviedo,b_oviedo,,Oviedo,,,,,,,,,,,x
+b_gijon,b_gijon,,Gijón,,,,,,,,,,,x
+b_cangasdeonis,b_cangasdeonis,,Cangas de Onís,,,,,,,,,,,x
+b_tineo,b_tineo,,Tineo,,,,,,,,,,,x
+b_cangasdelnarcea,b_cangasdelnarcea,,Cangas del Narcea,,,,,,,,,,,x
+b_villaviciosa,b_villaviciosa,,Villaviciosa,,,,,,,,,,,x
+b_luarca,b_luarca,,Luarca,,,,,,,,,,,x
+b_norena,b_norena,,Noreña,,,,,,,,,,,x
+c_astorga,PROV189,,Astorga,,,,,,,,,,,x
+c_astorga,c_astorga_adj,,Astorgan,,,,,,,,,,,x
+b_ponferrada,b_ponferrada,,Ponferrada,,,,,,,,,,,x
+b_bembibre,b_bembibre,,Bembibre,,,,,,,,,,,x
+b_ribadelago,b_ribadelago,,Ribadelago,,,,,,,,,,,x
+b_cacabelos,b_cacabelos,,Cacabelos,,,,,,,,,,,x
+b_fabero,b_fabero,,Fabero,,,,,,,,,,,x
+b_camponaraya,b_camponaraya,,Camponaraya,,,,,,,,,,,x
+b_toreno,b_toreno,,Toreno,,,,,,,,,,,x
+b_astorga,b_astorga,,Astorga,,,,,,,,,,,x
+d_leon,d_leon,,León,,,,,,,,,,,x
+d_leon,d_leon_adj,,Léonian,,,,,,,,,,,x
+c_leon,PROV190,,León,,,,,,,,,,,x
+c_leon,c_leon_adj,,Léonian,,,,,,,,,,,x
+b_leon,b_leon,,León,,,,,,,,,,,x
+b_valenciadecampos,b_valenciadecampos,,Valencia de Campos,,,,,,,,,,,x
+b_villablino,b_villablino,,Villablino,,,,,,,,,,,x
+b_sanpedrodeperix,b_sanpedrodeperix,,San Pedro de Périx,,,,,,,,,,,x
+b_saldana,b_saldana,,Saldaña,,,,,,,,,,,x
+b_sahagun,b_sahagun,,Sahagún,,,,,,,,,,,x
+b_larobla,b_larobla,,La Robla,,,,,,,,,,,x
+b_cistierna,b_cistierna,,Cistierna,,,,,,,,,,,x
+c_zamora,PROV191,,Zamora,,,,,,,,,,,x
+c_zamora,c_zamora_adj,,Zamoran,,,,,,,,,,,x
+b_zamora,b_zamora,,Zamora,,,,,,,,,,,x
+b_benavente,b_benavente,,Benavente,,,,,,,,,,,x
+b_fermoselle,b_fermoselle,,Fermoselle,,,,,,,,,,,x
+b_toro,b_toro,,Toro,,,,,,,,,,,x
+b_sanabria,b_sanabria,,Sanabria,,,,,,,,,,,x
+b_corrales,b_corrales,,Corrales,,,,,,,,,,,x
+b_fuentesauco,b_fuentesauco,,Fuentesaúco,,,,,,,,,,,x
+b_polvorosa,b_polvorosa,,Polvorosa,,,,,,,,,,,x
+c_salamanca,PROV192,,Salamanca,,,,,,,,,,,x
+c_salamanca,c_salamanca_adj,,Salamancan,,,,,,,,,,,x
+b_salbejar,b_salbejar,,Béjar,,,,,,,,,,,x
+b_salamanca,b_salamanca,,Salamanca,,,,,,,,,,,x
+b_ciudadrodrigo,b_ciudadrodrigo,,Ciudad Rodrigo,,,,,,,,,,,x
+b_bracamonte,b_bracamonte,,Bracamonte,,,,,,,,,,,x
+b_albadetormes,b_albadetormes,,Alba de Tormes,,,,,,,,,,,x
+b_terradillos,b_terradillos,,Terradillos,,,,,,,,,,,x
+b_carbajosadelasagrada,b_carbajosadelasagrada,,Carbajosa de la Sagrada,,,,,,,,,,,x
+b_lumbrales,b_lumbrales,,Lumbrales,,,,,,,,,,,x
+k_spanish_galicia,k_spanish_galicia,,Galicia,,,,,,,,,,,x
+k_spanish_galicia,k_spanish_galicia_adj,,Galician,,,,,,,,,,,x
+d_galicia,d_galicia,,Galicia,,,,,,,,,,,x
+d_galicia,d_galicia_adj,,Galician,,,,,,,,,,,x
+c_coruna,PROV156,,Coruña,,,,,,,,,,,x
+c_coruna,c_coruna_adj,,Coruñan,,,,,,,,,,,x
+b_corunna,b_corunna,,A Corunnã,,,,,,,,,,,x
+b_mondonedo,b_mondonedo,,Mondoñedo,,,,,,,,,,,x
+b_lugo,b_lugo,,Lugo,,,,,,,,,,,x
+b_ferrol,b_ferrol,,Ferrol,,,,,,,,,,,x
+b_villalba,b_villalba,,Villalba,,,,,,,,,,,x
+b_viveiro,b_viveiro,,Viveiro,,,,,,,,,,,x
+b_burela,b_burela,,Burela,,,,,,,,,,,x
+b_triacastela,b_triacastela,,Triacastela,,,,,,,,,,,x
+c_santiago,PROV157,,Santiago,,,,,,,,,,,x
+c_santiago,c_santiago_adj,,Santiagonian,,,,,,,,,,,x
+b_santiago,b_santiago,,Santiago,,,,,,,,,,,x
+b_vigo,b_vigo,,Vigo,,,,,,,,,,,x
+b_pontevedra,b_pontevedra,,Pontevedra,,,,,,,,,,,x
+b_tuy,b_tuy,,Tùy,,,,,,,,,,,x
+b_ourense,b_ourense,,Ourense,,,,,,,,,,,x
+b_verin,b_verin,,Verín,,,,,,,,,,,x
+b_padron,b_padron,,Padrón,,,,,,,,,,,x
+b_vilagarcia,b_vilagarcia,,Vilagarcía,,,,,,,,,,,x
+k_portugal,k_portugal,,Portugal,,,,,,,,,,,x
+k_portugal,k_portugal_adj,,Portuguese,,,,,,,,,,,x
+d_porto,d_porto,,Portucale,,,,,,,,,,,x
+d_porto,d_porto_adj,,Portucalese,,,,,,,,,,,x
+c_porto,PROV158,,Porto,,,,,,,,,,,x
+c_porto,c_porto_adj,,Portan,,,,,,,,,,,x
+b_braga,b_braga,,Braga,,,,,,,,,,,x
+b_porto,b_porto,,Porto,,,,,,,,,,,x
+b_guimaraes,b_guimaraes,,Guimarães,,,,,,,,,,,x
+b_vianadocastelo,b_vianadocastelo,,Viana do Castelo,,,,,,,,,,,x
+b_pontedelima,b_pontedelima,,Ponte de Lima,,,,,,,,,,,x
+b_barcelos,b_barcelos,,Barcelos,,,,,,,,,,,x
+b_arcosdevaldevez,b_arcosdevaldevez,,Arcos de Valdevez,,,,,,,,,,,x
+b_moncao,b_moncao,,Monção,,,,,,,,,,,x
+c_braganza,PROV188,,Bragança,,,,,,,,,,,x
+c_braganza,c_braganza_adj,,Bragançan,,,,,,,,,,,x
+b_braganza,b_braganza,,Bragança,,,,,,,,,,,x
+b_chaves,b_chaves,,Chaves,,,,,,,,,,,x
+b_vilareal,b_vilareal,,Vila Real,,,,,,,,,,,x
+b_torredemoncorvo,b_torredemoncorvo,,Torre de Moncorvo,,,,,,,,,,,x
+b_mogadouro,b_mogadouro,,Mogadouro,,,,,,,,,,,x
+b_castelomelhor,b_castelomelhor,,Castelo Melhor,,,,,,,,,,,x
+b_castelorodrigo,b_castelorodrigo,,Castelo Rodrigo,,,,,,,,,,,x
+b_azinhoso,b_azinhoso,,Azinhoso,,,,,,,,,,,x
+c_castelo_branco,PROV187,,Castelo Branco,,,,,,,,,,,x
+c_castelo_branco,c_castelo_branco_adj,,Castelo Branconian,,,,,,,,,,,x
+b_castelobranco,b_castelobranco,,Castelo Branco,,,,,,,,,,,x
+b_guarda,b_guarda,,Guarda,,,,,,,,,,,x
+b_covilha,b_covilha,,Covilhã,,,,,,,,,,,x
+b_acores,b_acores,,Açores,,,,,,,,,,,x
+b_trancoso,b_trancoso,,Trancoso,,,,,,,,,,,x
+b_sabugal,b_sabugal,,Sabugal,,,,,,,,,,,x
+b_pinhel,b_pinhel,,Pinhel,,,,,,,,,,,x
+b_almeida,b_almeida,,Almeida,,,,,,,,,,,x
+c_coimbra,PROV159,,Coimbra,,,,,,,,,,,x
+c_coimbra,c_coimbra_adj,,Coimbran,,,,,,,,,,,x
+c_coimbra,andalusian_arabic,,Qulumriyah,,,,,,,,,,,x
+c_coimbra,bedouin_arabic,,Qulumriyah,,,,,,,,,,,x
+c_coimbra,egyptian_arabic,,Qulumriyah,,,,,,,,,,,x
+c_coimbra,levantine_arabic,,Qulumriyah,,,,,,,,,,,x
+c_coimbra,maghreb_arabic,,Qulumriyah,,,,,,,,,,,x
+b_coimbra,b_coimbra,,Coimbra,,,,,,,,,,,x
+b_coimbra,andalusian_arabic,,Qulumriyah,,,,,,,,,,,x
+b_coimbra,bedouin_arabic,,Qulumriyah,,,,,,,,,,,x
+b_coimbra,egyptian_arabic,,Qulumriyah,,,,,,,,,,,x
+b_coimbra,levantine_arabic,,Qulumriyah,,,,,,,,,,,x
+b_coimbra,maghreb_arabic,,Qulumriyah,,,,,,,,,,,x
+b_viseu,b_viseu,,Viseu,,,,,,,,,,,x
+b_aveiro,b_aveiro,,Aveiro,,,,,,,,,,,x
+b_pedondo,b_pedondo,,Pedondo,,,,,,,,,,,x
+b_cantanhede,b_cantanhede,,Cantanhede,,,,,,,,,,,x
+b_condeixa,b_condeixa,,Condeixa,,,,,,,,,,,x
+b_montereal,b_montereal,,Monte Real,,,,,,,,,,,x
+b_penela,b_penela,,Penela,,,,,,,,,,,x
+d_beja,d_beja,,Beja,,,,,,,,,,,x
+d_beja,d_beja_adj,,Bejan,,,,,,,,,,,x
+c_lisboa,PROV160,,Lisboa,,,,,,,,,,,x
+c_lisboa,c_lisboa_adj,,Lisboan,,,,,,,,,,,x
+c_lisboa,andalusian_arabic,,Lishbuna,,,,,,,,,,,x
+c_lisboa,bedouin_arabic,,Lishbuna,,,,,,,,,,,x
+c_lisboa,egyptian_arabic,,Lishbuna,,,,,,,,,,,x
+c_lisboa,levantine_arabic,,Lishbuna,,,,,,,,,,,x
+c_lisboa,maghreb_arabic,,Lishbuna,,,,,,,,,,,x
+b_lisboa,b_lisboa,,Lisboa,,,,,,,,,,,x
+b_lisboa,andalusian_arabic,,Lishbuna,,,,,,,,,,,x
+b_lisboa,bedouin_arabic,,Lishbuna,,,,,,,,,,,x
+b_lisboa,egyptian_arabic,,Lishbuna,,,,,,,,,,,x
+b_lisboa,levantine_arabic,,Lishbuna,,,,,,,,,,,x
+b_lisboa,maghreb_arabic,,Lishbuna,,,,,,,,,,,x
+b_alcobaca,b_alcobaca,,Alcobaça,,,,,,,,,,,x
+b_setubal,b_setubal,,Setúbal,,,,,,,,,,,x
+b_batalha,b_batalha,,Batalha,,,,,,,,,,,x
+b_alenquer,b_alenquer,,Alenquer,,,,,,,,,,,x
+b_santarem,b_santarem,,Santarém,,,,,,,,,,,x
+b_atouguia,b_atouguia,,Atouguia,,,,,,,,,,,x
+b_tomar,b_tomar,,Tomar,,,,,,,,,,,x
+c_evora,PROV186,,Évora,,,,,,,,,,,x
+c_evora,c_evora_adj,,Évoran,,,,,,,,,,,x
+b_avis,b_avis,,Avis,,,,,,,,,,,x
+b_evora,b_evora,,Évora,,,,,,,,,,,x
+b_portalegre,b_portalegre,,Portalegre,,,,,,,,,,,x
+b_marvao,b_marvao,,Marvão,,,,,,,,,,,x
+b_castelodevide,b_castelodevide,,Castelo de Vide,,,,,,,,,,,x
+b_crato,b_crato,,Crato,,,,,,,,,,,x
+b_monforte,b_monforte,,Monforte,,,,,,,,,,,x
+b_ouguela,b_ouguela,,Ouguela,,,,,,,,,,,x
+c_alcacer_do_sal,PROV161,,Alcácer do Sal,,,,,,,,,,,x
+c_alcacer_do_sal,c_alcacer_do_sal_adj,,Alcácer do Salian,,,,,,,,,,,x
+b_alcacerdosal,b_alcacerdosal,,Alcácer do Sal,,,,,,,,,,,x
+b_alcacovas,b_alcacovas,,Alcáçovas,,,,,,,,,,,x
+b_espinheiro,b_espinheiro,,Espinheiro,,,,,,,,,,,x
+b_montemoronovo,b_montemoronovo,,Montemor-o-Novo,,,,,,,,,,,x
+b_alvito,b_alvito,,Alvito,,,,,,,,,,,x
+b_santiagodocacem,b_santiagodocacem,,Santiago do Cacém,,,,,,,,,,,x
+b_sines,b_sines,,Sines,,,,,,,,,,,x
+b_grandola,b_grandola,,Grândola,,,,,,,,,,,x
+c_mertola,PROV185,,Mértola,,,,,,,,,,,x
+c_mertola,c_mertola_adj,,Mértolan,,,,,,,,,,,x
+b_mertola,b_mertola,,Mértola,,,,,,,,,,,x
+b_beja,b_beja,,Beja,,,,,,,,,,,x
+b_monsaraz,b_monsaraz,,Monsaraz,,,,,,,,,,,x
+b_noudal,b_noudal,,Noudal,,,,,,,,,,,x
+b_moura,b_moura,,Moura,,,,,,,,,,,x
+b_portel,b_portel,,Portel,,,,,,,,,,,x
+b_serpa,b_serpa,,Serpa,,,,,,,,,,,x
+b_mourao,b_mourao,,Mourão,,,,,,,,,,,x
+d_algarve,d_algarve,,Algarve,,,,,,,,,,,x
+d_algarve,d_algarve_adj,,Algarvian,,,,,,,,,,,x
+c_silves,PROV162,,Silves,,,,,,,,,,,x
+c_silves,c_silves_adj,,Silvesian,,,,,,,,,,,x
+c_silves,andalusian_arabic,,Shlib,,,,,,,,,,,x
+c_silves,bedouin_arabic,,Shlib,,,,,,,,,,,x
+c_silves,egyptian_arabic,,Shlib,,,,,,,,,,,x
+c_silves,levantine_arabic,,Shlib,,,,,,,,,,,x
+c_silves,maghreb_arabic,,Shlib,,,,,,,,,,,x
+b_aljustrel,b_aljustrel,,Aljustrel,,,,,,,,,,,x
+b_silves,b_silves,,Silves,,,,,,,,,,,x
+b_silves,andalusian_arabic,,Shlib,,,,,,,,,,,x
+b_silves,bedouin_arabic,,Shlib,,,,,,,,,,,x
+b_silves,egyptian_arabic,,Shlib,,,,,,,,,,,x
+b_silves,levantine_arabic,,Shlib,,,,,,,,,,,x
+b_silves,maghreb_arabic,,Shlib,,,,,,,,,,,x
+b_lagos,b_lagos,,Lagos,,,,,,,,,,,x
+b_castroverde,b_castroverde,,Castro Verde,,,,,,,,,,,x
+b_odemira,b_odemira,,Odemira,,,,,,,,,,,x
+b_ourique,b_ourique,,Ourique,,,,,,,,,,,x
+b_monchique,b_monchique,,Monchique,,,,,,,,,,,x
+b_almodovar,b_almodovar,,Almodôvar,,,,,,,,,,,x
+c_faro,PROV163,,Faro,,,,,,,,,,,x
+c_faro,c_faro_adj,,Faronian,,,,,,,,,,,x
+c_faro,andalusian_arabic,,Uhshunubah,,,,,,,,,,,x
+c_faro,bedouin_arabic,,Uhshunubah,,,,,,,,,,,x
+c_faro,egyptian_arabic,,Uhshunubah,,,,,,,,,,,x
+c_faro,levantine_arabic,,Uhshunubah,,,,,,,,,,,x
+c_faro,maghreb_arabic,,Uhshunubah,,,,,,,,,,,x
+b_faro,b_faro,,Faro,,,,,,,,,,,x
+b_faro,andalusian_arabic,,Harun,,,,,,,,,,,x
+b_faro,bedouin_arabic,,Harun,,,,,,,,,,,x
+b_faro,egyptian_arabic,,Harun,,,,,,,,,,,x
+b_faro,levantine_arabic,,Harun,,,,,,,,,,,x
+b_faro,maghreb_arabic,,Harun,,,,,,,,,,,x
+b_loule,b_loule,,Loulé,,,,,,,,,,,x
+b_tavira,b_tavira,,Tavira,,,,,,,,,,,x
+b_castromarim,b_castromarim,,Castro Marim,,,,,,,,,,,x
+b_alcoutim,b_alcoutim,,Alcoutim,,,,,,,,,,,x
+b_aljezur,b_aljezur,,Aljezur,,,,,,,,,,,x
+b_saobrasdealportel,b_saobrasdealportel,,São Brás de Alportel,,,,,,,,,,,x
+b_olhao,b_olhao,,Olhão,,,,,,,,,,,x
+k_andalusia,k_andalusia,,Andalusia,,,,,,,,,,,x
+k_andalusia,k_andalusia_adj,,Andalusian,,,,,,,,,,,x
+d_cordoba,d_cordoba,,Cordoba,,,,,,,,,,,x
+d_cordoba,d_cordoba_adj,,Cordoban,,,,,,,,,,,x
+c_cordoba,PROV181,,Cordoba,,,,,,,,,,,x
+c_cordoba,c_cordoba_adj,,Cordoban,,,,,,,,,,,x
+c_cordoba,andalusian_arabic,,Qurtubah,,,,,,,,,,,x
+c_cordoba,bedouin_arabic,,Qurtubah,,,,,,,,,,,x
+c_cordoba,egyptian_arabic,,Qurtubah,,,,,,,,,,,x
+c_cordoba,levantine_arabic,,Qurtubah,,,,,,,,,,,x
+c_cordoba,maghreb_arabic,,Qurtubah,,,,,,,,,,,x
+b_cordoba,b_cordoba,,Cordoba,,,,,,,,,,,x
+b_cordoba,andalusian_arabic,,Qurtubah,,,,,,,,,,,x
+b_cordoba,bedouin_arabic,,Qurtubah,,,,,,,,,,,x
+b_cordoba,egyptian_arabic,,Qurtubah,,,,,,,,,,,x
+b_cordoba,levantine_arabic,,Qurtubah,,,,,,,,,,,x
+b_cordoba,maghreb_arabic,,Qurtubah,,,,,,,,,,,x
+b_alcolea,b_alcolea,,Alcolea,,,,,,,,,,,x
+b_cabra,b_cabra,,Cabra,,,,,,,,,,,x
+b_andujar,b_andujar,,Andújar,,,,,,,,,,,x
+b_lucena,b_lucena,,Lucena,,,,,,,,,,,x
+b_martos,b_martos,,Martós,,,,,,,,,,,x
+b_belalcazar,b_belalcazar,,Belalcázar,,,,,,,,,,,x
+b_canetedelastorres,b_canetedelastorres,,Cañete de las Torres,,,,,,,,,,,x
+c_la_mancha,PROV178,,La Mancha,,,,,,,,,,,x
+c_la_mancha,c_la_mancha_adj,,La Manchan,,,,,,,,,,,x
+b_alarcon,b_alarcon,,Alarcón,,,,,,,,,,,x
+b_laroda,b_laroda,,La Roda,,,,,,,,,,,x
+b_tarazona,b_tarazona,,Tarazona,,,,,,,,,,,x
+b_quintanardelrey,b_quintanardelrey,,Quintanar del Rey,,,,,,,,,,,x
+b_lagineta,b_lagineta,,La Gineta,,,,,,,,,,,x
+b_barrax,b_barrax,,Barrax,,,,,,,,,,,x
+b_munera,b_munera,,Munera,,,,,,,,,,,x
+b_jorquera,b_jorquera,,Jorquera,,,,,,,,,,,x
+c_calatrava,PROV196,,Calatrava,,,,,,,,,,,x
+c_calatrava,c_calatrava_adj,,Calatravan,,,,,,,,,,,x
+b_calatrava,b_calatrava,,Calatrava,,,,,,,,,,,x
+b_villareal,b_villareal,,Villa Real,,,,,,,,,,,x
+b_caracuel,b_caracuel,,Caracuel,,,,,,,,,,,x
+b_alcazardesanjuan,b_alcazardesanjuan,,Alcázar de San Juan,,,,,,,,,,,x
+b_alarcos,b_alarcos,,Alarcos,,,,,,,,,,,x
+b_medellin,b_medellin,,Medellin,,,,,,,,,,,x
+b_almadeo,b_almadeo,,Almadeo,,,,,,,,,,,x
+b_almodovardelcampo,b_almodovardelcampo,,Almodovar-del-Campo,,,,,,,,,,,x
+d_murcia,d_murcia,,Murcia,,,,,,,,,,,x
+d_murcia,d_murcia_adj,,Murcian,,,,,,,,,,,x
+c_almansa,PROV179,,Almansa,,,,,,,,,,,x
+c_almansa,c_almansa_adj,,Almansan,,,,,,,,,,,x
+b_almansa,b_almansa,,Almansa,,,,,,,,,,,x
+b_albacete,b_albacete,,Albacete,,,,,,,,,,,x
+b_hellin,b_hellin,,Hellín,,,,,,,,,,,x
+b_caudete,b_caudete,,Caudete,,,,,,,,,,,x
+b_villarrobledo,b_villarrobledo,,Villarrobledo,,,,,,,,,,,x
+b_alcaladeljucar,b_alcaladeljucar,,Alcalá del Júcar,,,,,,,,,,,x
+b_pozocanada,b_pozocanada,,Pozo Cañada,,,,,,,,,,,x
+b_tobarra,b_tobarra,,Tobarra,,,,,,,,,,,x
+c_murcia,PROV169,,Murcia,,,,,,,,,,,x
+c_murcia,c_murcia_adj,,Murcian,,,,,,,,,,,x
+c_murcia,andalusian_arabic,,Mursiya,,,,,,,,,,,x
+c_murcia,bedouin_arabic,,Mursiya,,,,,,,,,,,x
+c_murcia,egyptian_arabic,,Mursiya,,,,,,,,,,,x
+c_murcia,levantine_arabic,,Mursiya,,,,,,,,,,,x
+c_murcia,maghreb_arabic,,Mursiya,,,,,,,,,,,x
+b_murcia,b_murcia,,Murcia,,,,,,,,,,,x
+b_murcia,andalusian_arabic,,Mursiya,,,,,,,,,,,x
+b_murcia,bedouin_arabic,,Mursiya,,,,,,,,,,,x
+b_murcia,egyptian_arabic,,Mursiya,,,,,,,,,,,x
+b_murcia,levantine_arabic,,Mursiya,,,,,,,,,,,x
+b_murcia,maghreb_arabic,,Mursiya,,,,,,,,,,,x
+b_cartagena,b_cartagena,,Cartagena,,,,,,,,,,,x
+b_lorca,b_lorca,,Lorca,,,,,,,,,,,x
+b_alcantarilla,b_alcantarilla,,Alcantarilla,,,,,,,,,,,x
+b_medinasiyasa,b_medinasiyasa,,Medina Siyâsa,,,,,,,,,,,x
+b_molinalaseca,b_molinalaseca,,Molina la Seca,,,,,,,,,,,x
+b_yecla,b_yecla,,Yecla,,,,,,,,,,,x
+b_nogalte,b_nogalte,,Nogalte,,,,,,,,,,,x
+d_granada,d_granada,,Granada,,,,,,,,,,,x
+d_granada,d_granada_adj,,Granadan,,,,,,,,,,,x
+c_granada,PROV180,,Granada,,,,,,,,,,,x
+c_granada,c_granada_adj,,Granadan,,,,,,,,,,,x
+b_jaen,b_jaen,,Jaén,,,,,,,,,,,x
+b_granada,b_granada,,Granada,,,,,,,,,,,x
+b_elvira,b_elvira,,Elvira,,,,,,,,,,,x
+b_baeza,b_baeza,,Baeza,,,,,,,,,,,x
+b_moclin,b_moclin,,Moclin,,,,,,,,,,,x
+b_iznajar,b_iznajar,,Iznájar,,,,,,,,,,,x
+b_guadix,b_guadix,,Guadíx,,,,,,,,,,,x
+b_huelma,b_huelma,,Huelma,,,,,,,,,,,x
+c_almeria,PROV168,,Almeria,,,,,,,,,,,x
+c_almeria,c_almeria_adj,,Almerian,,,,,,,,,,,x
+b_pechina,b_pechina,,Pechina,,,,,,,,,,,x
+b_almeria,b_almeria,,Almería,,,,,,,,,,,x
+b_baza,b_baza,,Baza,,,,,,,,,,,x
+b_berja,b_berja,,Berja,,,,,,,,,,,x
+b_motril,b_motril,,Motril,,,,,,,,,,,x
+b_albox,b_albox,,Albox,,,,,,,,,,,x
+b_purchena,b_purchena,,Purchena,,,,,,,,,,,x
+b_vera,b_vera,,Vera,,,,,,,,,,,x
+c_malaga,PROV167,,Malaga,,,,,,,,,,,x
+c_malaga,c_malaga_adj,,Málagan,,,,,,,,,,,x
+b_antequera,b_antequera,,Antequera,,,,,,,,,,,x
+b_malaga,b_malaga,,Malaga,,,,,,,,,,,x
+b_benalmadena,b_benalmadena,,Benalmádena,,,,,,,,,,,x
+b_tamisa,b_tamisa,,Tamisa,,,,,,,,,,,x
+b_coin,b_coin,,Coín,,,,,,,,,,,x
+b_suel,b_suel,,Suel,,,,,,,,,,,x
+b_cartajima,b_cartajima,,Cartajima,,,,,,,,,,,x
+b_velezmalaga,b_velezmalaga,,Vélez-Málaga,,,,,,,,,,,x
+d_sevilla,d_sevilla,,Seville,,,,,,,,,,,x
+d_sevilla,d_sevilla_adj,,Sevillan,,,,,,,,,,,x
+c_sevilla,PROV182,,Seville,,,,,,,,,,,x
+c_sevilla,c_sevilla_adj,,Sevillan,,,,,,,,,,,x
+b_carmona,b_carmona,,Carmona,,,,,,,,,,,x
+b_sevilla,b_sevilla,,Seville,,,,,,,,,,,x
+b_ecija,b_ecija,,Écija ,,,,,,,,,,,x
+b_sevimoron,b_sevimoron,,Morón,,,,,,,,,,,x
+b_alcaladeguadaira,b_alcaladeguadaira,,Alcalá de Guadaíra,,,,,,,,,,,x
+b_doshermanas,b_doshermanas,,Dos Hermanas,,,,,,,,,,,x
+b_laalgaba,b_laalgaba,,La Algaba,,,,,,,,,,,x
+b_utrera,b_utrera,,Utrera,,,,,,,,,,,x
+c_cadiz,PROV165,,Cadiz,,,,,,,,,,,x
+c_cadiz,c_cadiz_adj,,Cadizian,,,,,,,,,,,x
+b_jerez,b_jerez,,Jeréz,,,,,,,,,,,x
+b_cadiz,b_cadiz,,Cádiz,,,,,,,,,,,x
+b_medinasidonia,b_medinasidonia,,Medina Sidonia,,,,,,,,,,,x
+b_arcos,b_arcos,,Arcos,,,,,,,,,,,x
+b_sanjosedelvalle,b_sanjosedelvalle,,San Jose del Valle,,,,,,,,,,,x
+b_sanlucadebarrameda,b_sanlucadebarrameda,,Sanlúcar de Barrameda,,,,,,,,,,,x
+b_sanfernando,b_sanfernando,,San Fernando,,,,,,,,,,,x
+b_alcaladelosgazules,b_alcaladelosgazules,,Alcalá de los Gazules,,,,,,,,,,,x
+c_algeciras,PROV166,,Algeciras,,,,,,,,,,,x
+c_algeciras,c_algeciras_adj,,Algeciran,,,,,,,,,,,x
+b_gibraltar,b_gibraltar,,Gibraltar,,,,,,,,,,,x
+b_algericas,b_algericas,,Algeciras,,,,,,,,,,,x
+b_ronda,b_ronda,,Ronda,,,,,,,,,,,x
+b_sanroque,b_sanroque,,San Roque,,,,,,,,,,,x
+b_tarifa,b_tarifa,,Tarifa,,,,,,,,,,,x
+b_estepona,b_estepona,,Estepona,,,,,,,,,,,x
+b_jimenadelafrontera,b_jimenadelafrontera,,Jimena de la Frontera,,,,,,,,,,,x
+b_casares,b_casares,,Casares,,,,,,,,,,,x
+c_aracena,PROV183,,Aracena,,,,,,,,,,,x
+c_aracena,c_aracena_adj,,Aracenan,,,,,,,,,,,x
+b_aracena,b_aracena,,Aracena,,,,,,,,,,,x
+b_italica,b_italica,,Itálica,,,,,,,,,,,x
+b_almonasterlareal,b_almonasterlareal,,Almonaster la Real,,,,,,,,,,,x
+b_calanas,b_calanas,,Calañas,,,,,,,,,,,x
+b_cortegana,b_cortegana,,Cortegana,,,,,,,,,,,x
+b_facanias,b_facanias,,Facanias,,,,,,,,,,,x
+b_alajar,b_alajar,,Alájar,,,,,,,,,,,x
+b_galaroza,b_galaroza,,Galaroza,,,,,,,,,,,x
+c_niebla,PROV164,,Niebla,,,,,,,,,,,x
+c_niebla,c_niebla_adj,,Nieblan,,,,,,,,,,,x
+b_huelva,b_huelva,,Huelva,,,,,,,,,,,x
+b_niebla,b_niebla,,Niebla,,,,,,,,,,,x
+b_lepe,b_lepe,,Lepe,,,,,,,,,,,x
+b_gibraleon,b_gibraleon,,Gibraleon,,,,,,,,,,,x
+b_nerva,b_nerva,,Nerva,,,,,,,,,,,x
+b_moguer,b_moguer,,Moguer,,,,,,,,,,,x
+b_almonte,b_almonte,,Almonte,,,,,,,,,,,x
+b_aljaraque,b_aljaraque,,Aljaraque,,,,,,,,,,,x
+d_badajoz,d_badajoz,,Badajoz,,,,,,,,,,,x
+d_badajoz,d_badajoz_adj,,Badajozan,,,,,,,,,,,x
+c_plasencia,PROV194,,Plasencia,,,,,,,,,,,x
+c_plasencia,c_plasencia_adj,,Plasencian,,,,,,,,,,,x
+b_hervas,b_hervas,,Hervás,,,,,,,,,,,x
+b_plasencia,b_plasencia,,Plasencia,,,,,,,,,,,x
+b_jaraiz,b_jaraiz,,Jaraíz,,,,,,,,,,,x
+b_lazarza,b_lazarza,,La Zarza,,,,,,,,,,,x
+b_montehermoso,b_montehermoso,,Montehermoso,,,,,,,,,,,x
+b_ventadelmoral,b_ventadelmoral,,Venta del Moral,,,,,,,,,,,x
+b_jarandilla,b_jarandilla,,Jarandilla,,,,,,,,,,,x
+b_talayuela,b_talayuela,,Talayuela,,,,,,,,,,,x
+c_alcantara,PROV193,,Alcantara,,,,,,,,,,,x
+c_alcantara,c_alcantara_adj,,Alcantaran,,,,,,,,,,,x
+b_alcantara,b_alcantara,,Alcantara,,,,,,,,,,,x
+b_coria,b_coria,,Coria,,,,,,,,,,,x
+b_moraleja,b_moraleja,,Moraleja,,,,,,,,,,,x
+b_brozas,b_brozas,,Brozas,,,,,,,,,,,x
+b_lamata,b_lamata,,La Mata,,,,,,,,,,,x
+b_racharachel,b_racharachel,,Racha Rachel,,,,,,,,,,,x
+b_lasnavasdelmadrono,b_lasnavasdelmadrono,,Las Navas del Madrono,,,,,,,,,,,x
+b_ceclavin,b_ceclavin,,Ceclavin,,,,,,,,,,,x
+c_caceres,PROV195,,Caceres,,,,,,,,,,,x
+c_caceres,c_caceres_adj,,Caceresian,,,,,,,,,,,x
+b_caceres,b_caceres,,Cáceres,,,,,,,,,,,x
+b_guadalupe,b_guadalupe,,Guadalupe,,,,,,,,,,,x
+b_trujillo,b_trujillo,,Trujillo,,,,,,,,,,,x
+b_alburquerque,b_alburquerque,,Alburquerque,,,,,,,,,,,x
+b_alia,b_alia,,Alia,,,,,,,,,,,x
+b_arroyodelalluz,b_arroyodelalluz,,Arroyo de la Luz,,,,,,,,,,,x
+b_logrosan,b_logrosan,,Logrosán,,,,,,,,,,,x
+b_alcuescar,b_alcuescar,,Alcuéscar,,,,,,,,,,,x
+c_badajoz,PROV184,,Badajoz,,,,,,,,,,,x
+c_badajoz,c_badajoz_adj,,Badajozian,,,,,,,,,,,x
+b_jerezdeloscaballeros,b_jerezdeloscaballeros,,Jeréz de los Caballeros ,,,,,,,,,,,x
+b_badajoz,b_badajoz,,Badajoz,,,,,,,,,,,x
+b_merida,b_merida,,Mérida,,,,,,,,,,,x
+b_zafra,b_zafra,,Zafra,,,,,,,,,,,x
+b_almendralejo,b_almendralejo,,Almendralejo,,,,,,,,,,,x
+b_villalbadelosbarros,b_villalbadelosbarros,,Villalba de los Barros,,,,,,,,,,,x
+b_guarena,b_guarena,,Guareña,,,,,,,,,,,x
+b_fuentedelmaestre,b_fuentedelmaestre,,Fuente del Maestre,,,,,,,,,,,x
+d_toledo,d_toledo,,Toledo,,,,,,,,,,,x
+d_toledo,d_toledo_adj,,Toledan,,,,,,,,,,,x
+c_toledo,PROV197,,Toledo,,,,,,,,,,,x
+c_toledo,c_toledo_adj,,Toledan,,,,,,,,,,,x
+c_toledo,andalusian_arabic,,Tulaytulah,,,,,,,,,,,x
+c_toledo,bedouin_arabic,,Tulaytulah,,,,,,,,,,,x
+c_toledo,egyptian_arabic,,Tulaytulah,,,,,,,,,,,x
+c_toledo,levantine_arabic,,Tulaytulah,,,,,,,,,,,x
+c_toledo,maghreb_arabic,,Tulaytulah,,,,,,,,,,,x
+b_madrid,b_madrid,,Madrid,,,,,,,,,,,x
+b_toledo,b_toledo,,Toledo,,,,,,,,,,,x
+b_toledo,andalusian_arabic,,Tulaytulah,,,,,,,,,,,x
+b_toledo,bedouin_arabic,,Tulaytulah,,,,,,,,,,,x
+b_toledo,egyptian_arabic,,Tulaytulah,,,,,,,,,,,x
+b_toledo,levantine_arabic,,Tulaytulah,,,,,,,,,,,x
+b_toledo,maghreb_arabic,,Tulaytulah,,,,,,,,,,,x
+b_orgaz,b_orgaz,,Orgaz,,,,,,,,,,,x
+b_tolemora,b_tolemora,,Mora,,,,,,,,,,,x
+b_talavera,b_talavera,,Talavera,,,,,,,,,,,x
+b_consuegra,b_consuegra,,Consuegra,,,,,,,,,,,x
+b_fuensalida,b_fuensalida,,Fuensalida,,,,,,,,,,,x
+b_illescas,b_illescas,,Illescas,,,,,,,,,,,x
+c_molina,PROV176,,Molina,,,,,,,,,,,x
+c_molina,c_molina_adj,,Molinan,,,,,,,,,,,x
+b_hinojosa,b_hinojosa,,Hinojosa,,,,,,,,,,,x
+b_molina,b_molina,,Molina,,,,,,,,,,,x
+b_elpedregal,b_elpedregal,,El Pedregal,,,,,,,,,,,x
+b_pinilla,b_pinilla,,Pinilla,,,,,,,,,,,x
+b_cabanillasdelcampo,b_cabanillasdelcampo,,Cabanillas del Campo,,,,,,,,,,,x
+b_elcasar,b_elcasar,,El Casar,,,,,,,,,,,x
+b_maranchon,b_maranchon,,Maranchón,,,,,,,,,,,x
+b_olmeda,b_olmeda,,Olmeda,,,,,,,,,,,x
+c_cuenca,PROV177,,Cuenca,,,,,,,,,,,x
+c_cuenca,c_cuenca_adj,,Cuencan,,,,,,,,,,,x
+c_cuenca,andalusian_arabic,,Kunka,,,,,,,,,,,x
+c_cuenca,bedouin_arabic,,Kunka,,,,,,,,,,,x
+c_cuenca,egyptian_arabic,,Kunka,,,,,,,,,,,x
+c_cuenca,levantine_arabic,,Kunka,,,,,,,,,,,x
+c_cuenca,maghreb_arabic,,Kunka,,,,,,,,,,,x
+b_siguenza,b_siguenza,,Sigüenza,,,,,,,,,,,x
+b_cuenca,b_cuenca,,Cuenca,,,,,,,,,,,x
+b_cuenca,andalusian_arabic,,Kunka,,,,,,,,,,,x
+b_cuenca,bedouin_arabic,,Kunka,,,,,,,,,,,x
+b_cuenca,egyptian_arabic,,Kunka,,,,,,,,,,,x
+b_cuenca,levantine_arabic,,Kunka,,,,,,,,,,,x
+b_cuenca,maghreb_arabic,,Kunka,,,,,,,,,,,x
+b_guadalajara,b_guadalajara,,Guadalajara,,,,,,,,,,,x
+b_ucles,b_ucles,,Ucles,,,,,,,,,,,x
+b_laspedroneras,b_laspedroneras,,Las Pedroñeras,,,,,,,,,,,x
+b_villanuevadelajara,b_villanuevadelajara,,Villanueva de la Jara,,,,,,,,,,,x
+b_tarancon,b_tarancon,,Tarancon,,,,,,,,,,,x
+b_sisante,b_sisante,,Sisante,,,,,,,,,,,x
+b_motadelcuervo,b_motadelcuervo,,Mota del Cuervo,,,,,,,,,,,x
