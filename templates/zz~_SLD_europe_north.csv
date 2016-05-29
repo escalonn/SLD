@@ -257,6 +257,9 @@ c_bornholm,norwegian,,Borgundarhólmi,,,,,,,,,,,x
 c_bornholm,swedish,,Borgundarhólmi,,,,,,,,,,,x
 b_hammershus,b_hammershus,,Hamar,,,,,,,,,,,x
 b_ronne,b_ronne,,Rothnæ,,,,,,,,,,,x
+d_nordfrisland,d_nordfrisland,,Utlande,,,,,,,,,,,x
+d_nordfrisland,d_nordfrisland_adj,,Utlandr,,,,,,,,,,,x
+d_nordfrisland,german,,Außenlande,,,,,,,,,,,x
 k_iceland,k_iceland,,Ísland,,,,,,,,,,,x
 k_iceland,k_iceland_adj,,Íslandskr,,,,,,,,,,,x
 d_iceland,d_iceland,,Ísland,,,,,,,,,,,x

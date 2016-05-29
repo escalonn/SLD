@@ -1,5 +1,10 @@
 #TITLE,KEY,VALUE,SWMH,,,,,,,,,,,x
 e_null,short_name,,yes,,,,,,,,,,,x
+k_bagratid_grand_principality,k_bagratid_grand_principality,,Hayk,,,,,,,,,,,x
+k_bagratid_grand_principality,k_bagratid_grand_principality_adj,,Haykian,,,,,,,,,,,x
+k_bagratid_grand_principality,foa,,ISHKHAN_FOA,,,,,,,,,,,x
+k_bagratid_grand_principality,title,,ISHKHAN,,,,,,,,,,,x
+k_bagratid_grand_principality,title_prefix,,ISHKHAN_OF,,,,,,,,,,,x
 k_taurica,k_taurica,,Qirim,,,,,,,,,,,x
 k_taurica,k_taurica_adj,,Qiriman,,,,,,,,,,,x
 k_taurica,k_taurica_adj_arberian,,Skythian,,,,,,,,,,,x

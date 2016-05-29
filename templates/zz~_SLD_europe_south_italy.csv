@@ -293,6 +293,10 @@ b_concordia,b_concordia,,Concordia,,,,,,,,,,,x
 e_italy,e_italy,,Italia,,,,,,,,,,,x
 e_italy,e_italy_adj,,Italiano,,,,,,,,,,,x
 e_italy,name_tier,,king,,,,,,,,,,,x
+k_genoa,k_genoa,,Genoa,,,,,,,,,,,x
+k_genoa,k_genoa_adj,,Genoese,,,,,,,,,,,x
+k_pisa,k_pisa,,Pisa,,,,,,,,,,,x
+k_pisa,k_pisa_adj,,Pisan,,,,,,,,,,,x
 k_italy,k_italy,,Lombardia,,,,,,,,,,,x
 k_italy,k_italy_adj,,Lombardian,,,,,,,,,,,x
 k_italy,greek,,Annonaria,,,,,,,,,,,x
@@ -769,6 +773,10 @@ b_piombino,b_piombino,,Piombino,,,,,,,,,,,x
 b_piombino,greek,,Poplonion,,,,,,,,,,,x
 b_piombino,roman,,Populunium,,,,,,,,,,,x
 b_bolgheri,b_bolgheri,,Bolgheri,,,,,,,,,,,x
+d_siena,d_siena,,Siena,,,,,,,,,,,x
+d_siena,d_siena_adj,,Siena,,,,,,,,,,,x
+d_siena,greek,,Saena,,,,,,,,,,,x
+d_siena,roman,,Saena,,,,,,,,,,,x
 k_patrimoniumpetri,k_patrimoniumpetri,,Patrimonium Sancti Petri,,,,,,,,,,,x
 k_patrimoniumpetri,k_patrimoniumpetri_adj,,Sanctimonialis,,,,,,,,,,,x
 k_patrimoniumpetri,short_name,,yes,,,,,,,,,,,x
@@ -1108,6 +1116,8 @@ k_sicily,k_sicily,,Sicilia,,,,,,,,,,,x
 k_sicily,k_sicily_adj,,Siciliani,,,,,,,,,,,x
 k_sicily,greek,,Italías,,,,,,,,,,,x
 k_sicily,roman,,Suburbicaria,,,,,,,,,,,x
+d_amalfi,d_amalfi,,Amalfi,,,,,,,,,,,x
+d_amalfi,d_amalfi_adj,,Amalfitani,,,,,,,,,,,x
 d_benevento,d_benevento,,Benevento,,,,,,,,,,,x
 d_benevento,d_benevento_adj,,Benevenetian,,,,,,,,,,,x
 d_benevento,greek,,Beneuenton,,,,,,,,,,,x

@@ -3821,6 +3821,8 @@ b_margam,norsegaelic,,Margam,,,,,,,,,,,x
 b_margam,saxon,,Margam,,,,,,,,,,,x
 b_margam,scottish,,Margam,,,,,,,,,,,x
 b_margam,welsh,,Margam,,,,,,,,,,,x
+k_ireland_titular,k_ireland_titular,,Tara,,,,,,,,,,,x
+k_ireland_titular,k_ireland_titular_adj,,Tara,,,,,,,,,,,x
 k_ireland,k_ireland,,…ire,,,,,,,,,,,x
 k_ireland,k_ireland_adj,,h…ireann,,,,,,,,,,,x
 k_ireland,anglonorse,,Õraland,,,,,,,,,,,x
@@ -7054,3 +7056,5 @@ b_cille_pheadair,norsegaelic,,Cille Pheadair,,,,,,,,,,,x
 b_cille_pheadair,saxon,,Cille Pheadair,,,,,,,,,,,x
 b_cille_pheadair,scottish,,Cille Pheadair,,,,,,,,,,,x
 b_cille_pheadair,welsh,,Cille Pheadair,,,,,,,,,,,x
+k_old_north,k_old_north,,Hen Ogledd,,,,,,,,,,,x
+k_old_north,k_old_north_adj,,Hen Ogleddian,,,,,,,,,,,x

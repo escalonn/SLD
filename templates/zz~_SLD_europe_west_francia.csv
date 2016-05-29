@@ -110,6 +110,9 @@ b_cambrai,german,,Kamerich,,,,,,,,,,,x
 b_saintspouplet,b_saintspouplet,,Saint-Souplet,,,,,,,,,,,x
 e_france,e_france,,France,,,,,,,,,,,x
 e_france,e_france_adj,,Français,,,,,,,,,,,x
+k_burgundy,k_burgundy,,Bourgogne,,,,,,,,,,,x
+k_burgundy,k_burgundy_adj,,Bourguignon,,,,,,,,,,,x
+k_burgundy,german,,Burgund,,,,,,,,,,,x
 d_arles,d_arles,,Arles,,,,,,,,,,,x
 d_arles,d_arles_adj,,Arlésien,,,,,,,,,,,x
 d_arles,greek,,Arelate,,,,,,,,,,,x
@@ -240,6 +243,9 @@ b_grenoble,greek,,Gratianopolis,,,,,,,,,,,x
 b_grenoble,roman,,Gratianopolis,,,,,,,,,,,x
 b_voreppe,b_voreppe,,Voreppe,,,,,,,,,,,x
 b_valbonnais,b_valbonnais,,Valbonnais,,,,,,,,,,,x
+k_brittany,k_brittany,,Breizh,,,,,,,,,,,x
+k_brittany,k_brittany_adj,,Brezhoneg,,,,,,,,,,,x
+k_brittany,norse,,Bertangaland,,,,,,,,,,,x
 d_brittany,d_brittany,,Breizh,,,,,,,,,,,x
 d_brittany,d_brittany_adj,,Brezhoneg,,,,,,,,,,,x
 d_brittany,norse,,Bertangaland,,,,,,,,,,,x
@@ -313,6 +319,8 @@ b_cancale,b_cancale,,Konkaven,,,,,,,,,,,x
 b_st_malo,b_st_malo,,Saint-Malo,,,,,,,,,,,x
 b_porhoet,b_porhoet,,Porhoët,,,,,,,,,,,x
 b_gael,b_gael,,Gwazel,,,,,,,,,,,x
+d_lowerbrittany,d_lowerbrittany,,Breizh Izel,,,,,,,,,,,x
+d_lowerbrittany,d_lowerbrittany_adj,,Breizh Brezhoneg,,,,,,,,,,,x
 k_france,k_france,,France,,,,,,,,,,,x
 k_france,k_france_adj,,French,,,,,,,,,,,x
 k_france,aragonese,,Franza,,,,,,,,,,,x

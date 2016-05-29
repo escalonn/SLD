@@ -2,6 +2,8 @@
 e_hre,e_hre,,Heiliges Römisches Reich,,,,,,,,,,,x
 e_hre,e_hre_adj,,Kaiserliche,,,,,,,,,,,x
 e_hre,short_name,,yes,,,,,,,,,,,x
+k_hansa,k_hansa,,The Hansa,,,,,,,,,,,x
+k_hansa,k_hansa_adj,,Hanseatic,,,,,,,,,,,x
 k_frisia,k_frisia,,Fryslân,,,,,,,,,,,x
 k_frisia,k_frisia_adj,,Fryske,,,,,,,,,,,x
 k_frisia,dutch,,Friesland,,,,,,,,,,,x
@@ -1517,9 +1519,10 @@ b_rejhrad,german,,Raigern,,,,,,,,,,,x
 b_rejhrad,moravian,,Rajhrad,,,,,,,,,,,x
 b_pohansko,b_pohansko,,Pohansko,,,,,,,,,,,x
 b_mikulcice,b_mikulcice,,Mikulcice,,,,,,,,,,,x
-k_burgundy,k_burgundy,,Bourgogne,,,,,,,,,,,x
-k_burgundy,k_burgundy_adj,,Bourguignon,,,,,,,,,,,x
-k_burgundy,german,,Burgund,,,,,,,,,,,x
+k_germany,k_germany,,Deutschland,,,,,,,,,,,x
+k_germany,k_germany_adj,,Deutsche,,,,,,,,,,,x
+k_lotharingia,k_lotharingia,,Lotharingen,,,,,,,,,,,x
+k_lotharingia,k_lotharingia_adj,,Lotharingi,,,,,,,,,,,x
 d_savoie,d_savoie,,Savoy,,,,,,,,,,,x
 d_savoie,d_savoie_adj,,Savoyard,,,,,,,,,,,x
 c_savoie,PROV237,,Savoia,,,,,,,,,,,x

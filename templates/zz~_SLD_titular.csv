@@ -1535,12 +1535,6 @@ d_ghanan_band,d_ghanan_band,,Ghanan Band,,,,,,,,,,,x
 d_ghanan_band,d_ghanan_band_adj,,Ghanan,,,,,,,,,,,x
 d_ghanan_band,foa,,CAPTAIN_FOA,,,,,,,,,,,x
 d_ghanan_band,title,,CAPTAIN,,,,,,,,,,,x
-k_hansa,k_hansa,,The Hansa,,,,,,,,,,,x
-k_hansa,k_hansa_adj,,Hanseatic,,,,,,,,,,,x
-k_germany,k_germany,,Deutschland,,,,,,,,,,,x
-k_germany,k_germany_adj,,Deutsche,,,,,,,,,,,x
-k_lotharingia,k_lotharingia,,Lotharingen,,,,,,,,,,,x
-k_lotharingia,k_lotharingia_adj,,Lotharingi,,,,,,,,,,,x
 e_roman_empire,e_roman_empire,,Roman Empire,,,,,,,,,,,x
 e_roman_empire,e_roman_empire_adj,,Roman,,,,,,,,,,,x
 e_roman_empire,short_name,,yes,,,,,,,,,,,x
@@ -1565,88 +1559,6 @@ e_roman_empire,romanian,,Imperiul Roman,,,,,,,,,,,x
 e_roman_empire,russian,,Rimskaya Imperiya,,,,,,,,,,,x
 e_roman_empire,serbian,,Rimsko Carstvo,,,,,,,,,,,x
 e_roman_empire,swedish,,Rómverska keisaradæmið,,,,,,,,,,,x
-d_nordfrisland,d_nordfrisland,,Utlande,,,,,,,,,,,x
-d_nordfrisland,d_nordfrisland_adj,,Utlandr,,,,,,,,,,,x
-d_nordfrisland,german,,Außenlande,,,,,,,,,,,x
-k_ireland_titular,k_ireland_titular,,Tara,,,,,,,,,,,x
-k_ireland_titular,k_ireland_titular_adj,,Tara,,,,,,,,,,,x
-k_old_north,k_old_north,,Hen Ogledd,,,,,,,,,,,x
-k_old_north,k_old_north_adj,,Hen Ogleddian,,,,,,,,,,,x
-k_genoa,k_genoa,,Genoa,,,,,,,,,,,x
-k_genoa,k_genoa_adj,,Genoese,,,,,,,,,,,x
-k_pisa,k_pisa,,Pisa,,,,,,,,,,,x
-k_pisa,k_pisa_adj,,Pisan,,,,,,,,,,,x
-d_siena,d_siena,,Siena,,,,,,,,,,,x
-d_siena,d_siena_adj,,Siena,,,,,,,,,,,x
-d_siena,greek,,Saena,,,,,,,,,,,x
-d_siena,roman,,Saena,,,,,,,,,,,x
-d_amalfi,d_amalfi,,Amalfi,,,,,,,,,,,x
-d_amalfi,d_amalfi_adj,,Amalfitani,,,,,,,,,,,x
-k_brittany,k_brittany,,Breizh,,,,,,,,,,,x
-k_brittany,k_brittany_adj,,Brezhoneg,,,,,,,,,,,x
-k_brittany,norse,,Bertangaland,,,,,,,,,,,x
-d_lowerbrittany,d_lowerbrittany,,Breizh Izel,,,,,,,,,,,x
-d_lowerbrittany,d_lowerbrittany_adj,,Breizh Brezhoneg,,,,,,,,,,,x
-e_spain,e_spain,,España,,,,,,,,,,,x
-e_spain,e_spain_adj,,Española,,,,,,,,,,,x
-e_spain,andalusian_arabic,,Isbaniyya,,,,,,,,,,,x
-e_spain,aragonese,,Espanya,,,,,,,,,,,x
-e_spain,basque,,Espainia,,,,,,,,,,,x
-e_spain,catalan,,Espanya,,,,,,,,,,,x
-e_spain,egyptian_arabic,,Isbaniyya,,,,,,,,,,,x
-e_spain,frankish,,Espagne,,,,,,,,,,,x
-e_spain,galician,,España,,,,,,,,,,,x
-e_spain,leonese,,España,,,,,,,,,,,x
-e_spain,levantine_arabic,,Isbaniyya,,,,,,,,,,,x
-e_spain,maghreb_arabic,,Isbaniyya,,,,,,,,,,,x
-e_spain,portuguese,,Espanha,,,,,,,,,,,x
-e_spain,sicilian_arabic,,Isbaniyya,,,,,,,,,,,x
-k_castille,k_castille,,Castilla,,,,,,,,,,,x
-k_castille,k_castille_adj,,Castellana,,,,,,,,,,,x
-k_castille,andalusian_arabic,,al-Qila,,,,,,,,,,,x
-k_castille,aragonese,,Castiella,,,,,,,,,,,x
-k_castille,basque,,Gaztela,,,,,,,,,,,x
-k_castille,bedouin_arabic,,al-Qila,,,,,,,,,,,x
-k_castille,catalan,,Castella,,,,,,,,,,,x
-k_castille,egyptian_arabic,,al-Qila,,,,,,,,,,,x
-k_castille,frankish,,Castille,,,,,,,,,,,x
-k_castille,galician,,Castela,,,,,,,,,,,x
-k_castille,leonese,,Castiella,,,,,,,,,,,x
-k_castille,levantine_arabic,,al-Qila,,,,,,,,,,,x
-k_castille,maghreb_arabic,,al-Qila,,,,,,,,,,,x
-k_castille,portuguese,,Castela,,,,,,,,,,,x
-k_castille,sicilian_arabic,,al-Qila,,,,,,,,,,,x
-d_alba_de_tormes,d_alba_de_tormes,,Alba de Tormes,,,,,,,,,,,x
-d_alba_de_tormes,d_alba_de_tormes_adj,,de Alba de Tormes,,,,,,,,,,,x
-d_medina_sidonia,d_medina_sidonia,,Medina Sidonia,,,,,,,,,,,x
-d_medina_sidonia,d_medina_sidonia_adj,,de Medina Sidonia,,,,,,,,,,,x
-d_alburquerque,d_alburquerque,,Alburquerque,,,,,,,,,,,x
-d_alburquerque,d_alburquerque_adj,,de Alburquerque,,,,,,,,,,,x
-d_medinaceli,d_medinaceli,,Medinaceli,,,,,,,,,,,x
-d_medinaceli,d_medinaceli_adj,,de Medinaceli,,,,,,,,,,,x
-d_infantado,d_infantado,,Infantado,,,,,,,,,,,x
-d_infantado,d_infantado_adj,,de Infantado,,,,,,,,,,,x
-d_gandia,d_gandia,,Gandia,,,,,,,,,,,x
-d_gandia,d_gandia_adj,,de Gandia,,,,,,,,,,,x
-d_cardona,d_cardona,,Cardona,,,,,,,,,,,x
-d_cardona,d_cardona_adj,,de Cardona,,,,,,,,,,,x
-k_spanish_galicia,k_spanish_galicia,,Galicia,,,,,,,,,,,x
-k_spanish_galicia,k_spanish_galicia_adj,,Gallega,,,,,,,,,,,x
-k_catalunya,k_catalunya,,Catalunya,,,,,,,,,,,x
-k_catalunya,k_catalunya_adj,,Catalana,,,,,,,,,,,x
-k_valencia,k_valencia,,Valencia,,,,,,,,,,,x
-k_valencia,k_valencia_adj,,Valenciana,,,,,,,,,,,x
-k_granada,k_granada,,Granada,,,,,,,,,,,x
-k_granada,k_granada_adj,,Granadina,,,,,,,,,,,x
-k_asturias,k_asturias,,Asturias,,,,,,,,,,,x
-k_asturias,k_asturias_adj,,Asturian,,,,,,,,,,,x
-d_asturias,d_asturias,,Asturias,,,,,,,,,,,x
-d_asturias,d_asturias_adj,,Asturian,,,,,,,,,,,x
-k_bagratid_grand_principality,k_bagratid_grand_principality,,Hayk,,,,,,,,,,,x
-k_bagratid_grand_principality,k_bagratid_grand_principality_adj,,Haykian,,,,,,,,,,,x
-k_bagratid_grand_principality,foa,,ISHKHAN_FOA,,,,,,,,,,,x
-k_bagratid_grand_principality,title,,ISHKHAN,,,,,,,,,,,x
-k_bagratid_grand_principality,title_prefix,,ISHKHAN_OF,,,,,,,,,,,x
 d_the_isles,d_the_isles,,Man,,,,,,,,,,,x
 d_the_isles,d_the_isles_adj,,Manx,,,,,,,,,,,x
 d_abbasid,d_abbasid,,Abbasid,,,,,,,,,,,x

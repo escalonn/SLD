@@ -47,7 +47,7 @@ def process_regions(parser, default_tree):
     return title_region
 
 def process_landed_titles(parser, lt_keys, title_region):
-    def recurse(tree, liege_region=None):
+    def recurse(tree, liege=None):
         for n, v in tree:
             if ck2parser.is_codename(n.val):
                 attrs = []
@@ -59,22 +59,31 @@ def process_landed_titles(parser, lt_keys, title_region):
                             value = ' '.join(s.val for s in v2)
                         attrs.append((n2.val, value))
                 title_attrs[n.val] = attrs
-                if n.val[0] in 'cb':
-                    title_region[n.val] = liege_region
-                if n.val[0] in 'dc':
-                    for _ in recurse(v, title_region.get(n.val)):
-                        pass
-                if n.val[0] in 'ek':
-                    try:
-                        title_region[n.val] = collections.Counter(
-                            recurse(v)).most_common()[0][0]
-                    except IndexError:
-                        pass
-                yield title_region.get(n.val)
+                if liege:
+                    title_vassals[liege].append(n.val)
+                recurse(v, n.val)
+                if n.val[0] == 'd':
+                    region = title_region.get(n.val)
+                    for vassal in title_vassals[n.val]:
+                        rerecurse(vassal, region)
+                elif n.val[0] in 'ek':
+                    counter = collections.Counter(title_region[t]
+                        for t in title_vassals[n.val] if t in title_region)
+                    if counter:
+                        region = min(counter.items(),
+                                     key=lambda x: (-x[1], x[0]))[0]
+                        rerecurse(n.val, region)
+
+    def rerecurse(title, region):
+        if title not in title_region:
+            title_region[title] = region
+            for vassal in title_vassals[title]:
+                rerecurse(vassal, region)
+
+    title_vassals = collections.defaultdict(list)
     title_attrs = collections.OrderedDict()
     for _, tree in parser.parse_files('common/landed_titles/*'):
-        for _ in recurse(tree):
-            pass
+        recurse(tree)
     return title_attrs
 
 def process_localisation(parser, title_attrs, prov_title):
