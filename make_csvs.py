@@ -156,7 +156,7 @@ def write_output(title_attrs, title_region, other_locs, prev_title_attrs,
 
 @print_time.print_time
 def main():
-    parser = ck2parser.SimpleParser(rootpath / 'SWMH_BETA/SWMH')
+    parser = ck2parser.SimpleParser(rootpath / 'SWMH-BETA/SWMH')
     default_tree = parser.parse_file(parser.file('map/default.map'))
     prov_title = process_provinces(parser, default_tree)
     title_region = process_regions(parser, default_tree)

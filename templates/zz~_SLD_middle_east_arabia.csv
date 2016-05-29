@@ -1,716 +1,875 @@
 #TITLE,KEY,VALUE,SWMH,,,,,,,,,,,x
-k_mesopotamia,k_mesopotamia,,Mesopotamia,,,,,,,,,,,x
-k_mesopotamia,k_mesopotamia_adj,,Mesopotamian,,,,,,,,,,,x
-d_kermanshah,d_kermanshah,,Kermanshah,,,,,,,,,,,x
-d_kermanshah,d_kermanshah_adj,,Kermanshahi,,,,,,,,,,,x
-c_qazwin,PROV664,,Qazwin,,,,,,,,,,,x
-c_qazwin,c_qazwin_adj,,Qazwinian,,,,,,,,,,,x
-b_lambsar,b_lambsar,,Lambsar,,,,,,,,,,,x
-b_qazwin,b_qazwin,,Qazwin,,,,,,,,,,,x
-b_ahmadabad,b_ahmadabad,,Ahmadabad,,,,,,,,,,,x
-b_avaj,b_avaj,,Avaj,,,,,,,,,,,x
-b_abeyek,b_abeyek,,Abeyek,,,,,,,,,,,x
-b_takestan,b_takestan,,Takestan,,,,,,,,,,,x
-b_alvand,b_alvand,,Alvand,,,,,,,,,,,x
-b_buinzahra,b_buinzahra,,Buin-Zahra,,,,,,,,,,,x
-c_kermanshah,PROV688,,Kermanshah,,,,,,,,,,,x
-c_kermanshah,c_kermanshah_adj,,Kermanshahian,,,,,,,,,,,x
-b_javanroud,b_javanroud,,Javanroud,,,,,,,,,,,x
-b_kermanshah,b_kermanshah,,Kermanshah,,,,,,,,,,,x
-b_hulwan,b_hulwan,,Hulwan,,,,,,,,,,,x
-b_paveh,b_paveh,,Paveh,,,,,,,,,,,x
-b_mahalkufa,b_mahalkufa,,Mah al-Kufa,,,,,,,,,,,x
-b_kangavar,b_kangavar,,Kangavar,,,,,,,,,,,x
-b_kuzaran,b_kuzaran,,Kuzaran,,,,,,,,,,,x
-b_ravansar,b_ravansar,,Ravansar,,,,,,,,,,,x
-c_luristan,PROV657,,Luristan,,,,,,,,,,,x
-c_luristan,c_luristan_adj,,Luristian,,,,,,,,,,,x
-b_dezbar,b_dezbar,,Dezbar,,,,,,,,,,,x
-b_khorramabad,b_khorramabad,,Khorramabad,,,,,,,,,,,x
-b_borujerd,b_borujerd,,Borujerd,,,,,,,,,,,x
-b_dorood,b_dorood,,Dorood,,,,,,,,,,,x
-b_aligoodarz,b_aligoodarz,,Aligoodarz,,,,,,,,,,,x
-b_koohdasht,b_koohdasht,,Koohdasht,,,,,,,,,,,x
-b_poledokhtar,b_poledokhtar,,Pol-e-Dokhtar,,,,,,,,,,,x
-b_alashtar,b_alashtar,,Alashtar,,,,,,,,,,,x
-d_tigris,d_tigris,,Tigris,,,,,,,,,,,x
-d_tigris,d_tigris_adj,,Tigran,,,,,,,,,,,x
-c_al_nadjaf,PROV692,,Al Nadjaf,,,,,,,,,,,x
-c_al_nadjaf,c_al_nadjaf_adj,,Al Nadjafian,,,,,,,,,,,x
-b_nadjaf,b_nadjaf,,Nadjaf,,,,,,,,,,,x
-b_kufah,b_kufah,,Kufah,,,,,,,,,,,x
-b_taqtaqanah,b_taqtaqanah,,Taqtaqanah,,,,,,,,,,,x
-b_rahbah,b_rahbah,,Rahbah,,,,,,,,,,,x
-b_jasim,b_jasim,,Jasim,,,,,,,,,,,x
-b_midhrawi,b_midhrawi,,Midhrawi,,,,,,,,,,,x
-b_rashid,b_rashid,,Rashid,,,,,,,,,,,x
-b_jaarah,b_jaarah,,Ja'arah,,,,,,,,,,,x
-c_ilam,PROV689,,Ilam,,,,,,,,,,,x
-c_ilam,c_ilam_adj,,Ilamian,,,,,,,,,,,x
-b_dehloran,b_dehloran,,Dehloran,,,,,,,,,,,x
-b_ilam,b_ilam,,Ilam,,,,,,,,,,,x
-b_chahartaghi,b_chahartaghi,,Chahar Taghi,,,,,,,,,,,x
-b_abdanan,b_abdanan,,Abdanan,,,,,,,,,,,x
-b_hezardar,b_hezardar,,Hezar Dar,,,,,,,,,,,x
-b_mehran,b_mehran,,Mehran,,,,,,,,,,,x
-b_ghalehghiran,b_ghalehghiran,,Ghal'eh Ghiran,,,,,,,,,,,x
-b_towhid,b_towhid,,Towhid,,,,,,,,,,,x
-c_tigris,PROV656,,Tigris,,,,,,,,,,,x
-c_tigris,c_tigris_adj,,Tigrisian,,,,,,,,,,,x
-b_majaralkabir,b_majaralkabir,,Majar Al-Kabir,,,,,,,,,,,x
-b_bismaya,b_bismaya,,Bismaya,,,,,,,,,,,x
-b_qalatsjergat,b_qalatsjergat,,Qalat Sjergat,,,,,,,,,,,x
-b_nuffar,b_nuffar,,Nuffar,,,,,,,,,,,x
-b_ishan,b_ishan,,Ishan,,,,,,,,,,,x
-b_Warka,b_Warka,,Warka,,,,,,,,,,,x
-b_samawah,b_samawah,,Samavah,,,,,,,,,,,x
-b_tellelhiba,b_tellelhiba,,Tell el-Hiba,,,,,,,,,,,x
-c_al_amarah,PROV690,,Al Amarah,,,,,,,,,,,x
-c_al_amarah,c_al_amarah_adj,,Al Amarahian,,,,,,,,,,,x
-b_amarah,b_amarah,,Amarah,,,,,,,,,,,x
-b_kutelamara,b_kutelamara,,Kut-El-Amara,,,,,,,,,,,x
-b_wasit,b_wasit,,Wasit,,,,,,,,,,,x
-b_badra,b_badra,,Badra,,,,,,,,,,,x
-b_suwaira,b_suwaira,,Suwaira,,,,,,,,,,,x
-b_hai,b_hai,,Hai,,,,,,,,,,,x
-b_azeeziaya,b_azeeziaya,,Azeeziaya,,,,,,,,,,,x
-b_zurbatiyah,b_zurbatiyah,,Zurbayiyah,,,,,,,,,,,x
-c_al_nasiryah,PROV691,,Al Nasiryah,,,,,,,,,,,x
-c_al_nasiryah,c_al_nasiryah_adj,,Al Nasiryahian,,,,,,,,,,,x
-b_nasiryah,b_nasiryah,,Nasiryah,,,,,,,,,,,x
-b_dhiqar,b_dhiqar,,Dhi Qar,,,,,,,,,,,x
-b_qalatsukkar,b_qalatsukkar,,Qalat Sukkar,,,,,,,,,,,x
-b_mukayyar,b_mukayyar,,Mukayyar,,,,,,,,,,,x
-b_shahrain,b_shahrain,,Shahrain,,,,,,,,,,,x
-b_telloh,b_telloh,,Telloh,,,,,,,,,,,x
-b_muntafiq,b_muntafiq,,Muntafiq,,,,,,,,,,,x
-b_shatra,b_shatra,,Shatra,,,,,,,,,,,x
-d_basra,d_basra,,Basra,,,,,,,,,,,x
-d_basra,d_basra_adj,,Basrite,,,,,,,,,,,x
-c_kufa,PROV655,,Kufa,,,,,,,,,,,x
-c_kufa,c_kufa_adj,,Kufan,,,,,,,,,,,x
-b_kufa,b_kufa,,Kufa,,,,,,,,,,,x
-b_bussayyah,b_bussayyah,,Bussayyah,,,,,,,,,,,x
-b_suqash,b_suqash,,Suq Ash,,,,,,,,,,,x
-b_hammar,b_hammar,,Hammar,,,,,,,,,,,x
-b_chibayish,b_chibayish,,Chibayish,,,,,,,,,,,x
-b_alqurnah,b_alqurnah,,Al-Qurnah,,,,,,,,,,,x
-b_shuyukh,b_shuyukh,,Shuyukh,,,,,,,,,,,x
-b_ragai,b_ragai,,Raga'i,,,,,,,,,,,x
-c_rummah,PROV654,,Rummah,,,,,,,,,,,x
-c_rummah,c_rummah_adj,,Rummahian,,,,,,,,,,,x
-b_hafaralbatin,b_hafaralbatin,,Hafar al Batin,,,,,,,,,,,x
-b_alqalt,b_alqalt,,Al Qalt,,,,,,,,,,,x
-b_samoudah,b_samoudah,,Samoudah,,,,,,,,,,,x
-b_qaisumah,b_qaisumah,,Qaisumah,,,,,,,,,,,x
-b_altheebiyah,b_altheebiyah,,Al Theebiyah,,,,,,,,,,,x
-b_arraqai,b_arraqai,,Ar Raqai,,,,,,,,,,,x
-b_assuayerah,b_assuayerah,,As Suayerah,,,,,,,,,,,x
-b_assufayri,b_assufayri,,As Sufayri,,,,,,,,,,,x
-c_kuwait,PROV650,,Kuwait,,,,,,,,,,,x
-c_kuwait,c_kuwait_adj,,Kuwaitan,,,,,,,,,,,x
-b_kuwait,b_kuwait,,Kuwait,,,,,,,,,,,x
-b_ikaros,b_ikaros,,Ikaros,,,,,,,,,,,x
-b_alwafra,b_alwafra,,Al Wafra,,,,,,,,,,,x
-b_khinan,b_khinan,,Khinan,,,,,,,,,,,x
-b_arrawdatayn,b_arrawdatayn,,Ar Rawdatayn,,,,,,,,,,,x
-b_ashshuaybah,b_ashshuaybah,,Ash Shuaybah,,,,,,,,,,,x
-b_anthemusias,b_anthemusias,,Anthemusias,,,,,,,,,,,x
-b_alfalalheel,b_alfalalheel,,Al Falalheel,,,,,,,,,,,x
-c_basra,PROV649,,Basra,,,,,,,,,,,x
-c_basra,c_basra_adj,,Basran,,,,,,,,,,,x
-b_basra,b_basra,,Basra,,,,,,,,,,,x
-b_ummqasr,b_ummqasr,,Umm Qasr,,,,,,,,,,,x
-b_azzubayr,b_azzubayr,,Az Zubayr,,,,,,,,,,,x
-b_arah,b_arah,,Arah,,,,,,,,,,,x
-b_mohammera,b_mohammera,,Mohammera,,,,,,,,,,,x
-b_sukelsheyuhk,b_sukelsheyuhk,,Suk el Sheyuhk,,,,,,,,,,,x
-b_kalaatderat,b_kalaatderat,,Kalaat Derat,,,,,,,,,,,x
-b_qurna,b_qurna,,Qurna,,,,,,,,,,,x
-d_baghdad,d_baghdad,,Baghdad,,,,,,,,,,,x
-d_baghdad,d_baghdad_adj,,Baghdadian,,,,,,,,,,,x
-c_karbala,PROV694,,Karbala,,,,,,,,,,,x
-c_karbala,c_karbala_adj,,Karbalan,,,,,,,,,,,x
-b_ainaltamur,b_ainaltamur,,Ain Al-Tamur,,,,,,,,,,,x
-b_karbala,b_karbala,,Karbala,,,,,,,,,,,x
-b_hindiya,b_hindiya,,Hindiya,,,,,,,,,,,x
-b_ofak,b_ofak,,Ofak,,,,,,,,,,,x
-b_hamzah,b_hamzah,,Hamzah,,,,,,,,,,,x
-b_shamiyah,b_shamiyah,,Shamiyah,,,,,,,,,,,x
-b_qisair,b_qisair,,Qiasir,,,,,,,,,,,x
-b_ukhaidir,b_ukhaidir,,Ukhaidir,,,,,,,,,,,x
-c_baghdad,PROV693,,Baghdad,,,,,,,,,,,x
-c_baghdad,c_baghdad_adj,,Baghdadian,,,,,,,,,,,x
-b_baqubah,b_baqubah,,Baqubah,,,,,,,,,,,x
-b_bagdad,b_bagdad,,Bagdad,,,,,,,,,,,x
-b_hillah,b_hillah,,Hillah,,,,,,,,,,,x
-b_iskandariya,b_iskandariya,,Iskandriya,,,,,,,,,,,x
-b_taji,b_taji,,Taji,,,,,,,,,,,x
-b_babel,b_babel,,Babel,,,,,,,,,,,x
-b_madain,b_madain,,Madain,,,,,,,,,,,x
-b_latifiya,b_latifiya,,Latifiya,,,,,,,,,,,x
-c_al_habbariyah,PROV715,,Al Habbariyah,,,,,,,,,,,x
-c_al_habbariyah,c_al_habbariyah_adj,,Al Habbariyahian,,,,,,,,,,,x
-b_alhabbariyah,b_alhabbariyah,,Al Habbariyah,,,,,,,,,,,x
-b_shabakah,b_shabakah,,Shabakah,,,,,,,,,,,x
-b_nukhaib,b_nukhaib,,Nukhaib,,,,,,,,,,,x
-b_qutaysh,b_qutaysh,,Qutaysh,,,,,,,,,,,x
-b_aljirami,b_aljirami,,Al-Jirami,,,,,,,,,,,x
-b_adhaman,b_adhaman,,Adhaman,,,,,,,,,,,x
-b_daydab,b_daydab,,Daydab,,,,,,,,,,,x
-b_nuayj,b_nuayj,,Nu'ayj,,,,,,,,,,,x
-c_deir,PROV695,,Deir,,,,,,,,,,,x
-c_deir,c_deir_adj,,Deirian,,,,,,,,,,,x
-b_anah,b_anah,,Anah,,,,,,,,,,,x
-b_anbar,b_anbar,,Anbar,,,,,,,,,,,x
-b_rutbah,b_rutbah,,Rutbah,,,,,,,,,,,x
-b_rawa,b_rawa,,Rawa,,,,,,,,,,,x
-b_hit,b_hit,,Hit,,,,,,,,,,,x
-b_ramadi,b_ramadi,,Ramadi,,,,,,,,,,,x
-b_kasra,b_kasra,,Kasra,,,,,,,,,,,x
-b_nehardea,b_nehardea,,Nehardea,,,,,,,,,,,x
-c_euphrates,PROV696,,Samarra,,,,,,,,,,,x
-c_euphrates,c_euphrates_adj,,Samarrian,,,,,,,,,,,x
-b_bayji,b_bayji,,Bayji,,,,,,,,,,,x
-b_tagrit,b_tagrit,,Tagrit,,,,,,,,,,,x
-b_samarra,b_samarra,,Samarra,,,,,,,,,,,x
-b_balad,b_balad,,Balad,,,,,,,,,,,x
-b_dujail,b_dujail,,Dujail,,,,,,,,,,,x
-b_amirli,b_amirli,,Amirli,,,,,,,,,,,x
-b_ishaqi,b_ishaqi,,Ishaqi,,,,,,,,,,,x
-b_faris,b_faris,,Faris,,,,,,,,,,,x
-c_kirkuk,PROV687,,Kirkuk,,,,,,,,,,,x
-c_kirkuk,c_kirkuk_adj,,Kirkukian,,,,,,,,,,,x
-b_kirkuk,b_kirkuk,,Kirkuk,,,,,,,,,,,x
-b_daquq,b_daquq,,Daquq,,,,,,,,,,,x
-b_ranya,b_ranya,,Ranya,,,,,,,,,,,x
-b_halabja,b_halabja,,Halabja,,,,,,,,,,,x
-b_makhmur,b_makhmur,,Makhmur,,,,,,,,,,,x
-b_dukan,b_dukan,,Dukan,,,,,,,,,,,x
-b_chuartan,b_chuartan,,Chuartan,,,,,,,,,,,x
-b_kifri,b_kifri,,Kifri,,,,,,,,,,,x
-d_mosul,d_mosul,,Mosul,,,,,,,,,,,x
-d_mosul,d_mosul_adj,,Mosulian,,,,,,,,,,,x
-c_mosul,PROV697,,Mosul,,,,,,,,,,,x
-c_mosul,c_mosul_adj,,Mosulian,,,,,,,,,,,x
-b_mosul,b_mosul,,Mosul,,,,,,,,,,,x
-b_bakhdida,b_bakhdida,,Bakhdida,,,,,,,,,,,x
-b_karamlish,b_karamlish,,Karamlish,,,,,,,,,,,x
-b_shekhan,b_shekhan,,Shekhan,,,,,,,,,,,x
-b_aqrah,b_aqrah,,Aqrah,,,,,,,,,,,x
-b_bartella,b_bartella,,Bartella,,,,,,,,,,,x
-b_arbil,b_arbil,,Arbil,,,,,,,,,,,x
-b_baqofah,b_baqofah,,Baqofah,,,,,,,,,,,x
-c_kurdistan,PROV685,,Kurdistan,,,,,,,,,,,x
-c_kurdistan,c_kurdistan_adj,,Kurdistanian,,,,,,,,,,,x
-b_duhok,b_duhok,,Duhok,,,,,,,,,,,x
-b_araden,b_araden,,Araden,,,,,,,,,,,x
-b_bebadi,b_bebadi,,Bebadi,,,,,,,,,,,x
-b_dehi,b_dehi,,Dehi,,,,,,,,,,,x
-b_harmashi,b_harmashi,,Harmashi,,,,,,,,,,,x
-b_marqayoma,b_marqayoma,,Mar Qayoma,,,,,,,,,,,x
-b_dawodiya,b_dawodiya,,Dawodiya,,,,,,,,,,,x
-b_sarsink,b_sarsink,,Sarsink,,,,,,,,,,,x
-c_sinjar,PROV711,,Sinjar,,,,,,,,,,,x
-c_sinjar,c_sinjar_adj,,Sinjarian,,,,,,,,,,,x
-b_sinjar,b_sinjar,,Sinjar,,,,,,,,,,,x
-b_hatra,b_hatra,,Hatra,,,,,,,,,,,x
-b_telassar,b_telassar,,Telassar,,,,,,,,,,,x
-b_nineveh,b_nineveh,,Nineveh,,,,,,,,,,,x
-b_talkayf,b_talkayf,,Tal Kayf,,,,,,,,,,,x
-b_baaj,b_baaj,,Ba'aj,,,,,,,,,,,x
-b_kouyunik,b_kouyunik,,Kouyunik,,,,,,,,,,,x
-b_nabiyunus,b_nabiyunus,,Nabi Yunus,,,,,,,,,,,x
-d_jazira,d_jazira,,Jazira,,,,,,,,,,,x
-d_jazira,d_jazira_adj,,Jaziran,,,,,,,,,,,x
-c_bira,PROV700,,Bira,,,,,,,,,,,x
-c_bira,c_bira_adj,,Biranian,,,,,,,,,,,x
-b_bira,b_bira,,Bira,,,,,,,,,,,x
-b_tella,b_tella,,Tella,,,,,,,,,,,x
-b_resaina,b_resaina,,Resaina,,,,,,,,,,,x
-b_qalarebete,b_qalarebete,,Qala-Rebete,,,,,,,,,,,x
-b_derik,b_derik,,Derik,,,,,,,,,,,x
-b_qoser,b_qoser,,Qoser,,,,,,,,,,,x
-b_samrah,b_samrah,,Samrah,,,,,,,,,,,x
-b_stewr,b_stewr,,Stewr,,,,,,,,,,,x
-c_al_jazira,PROV698,,Al Jazira,,,,,,,,,,,x
-c_al_jazira,c_al_jazira_adj,,Al Jaziran,,,,,,,,,,,x
-b_hasakah,b_hasakah,,Hasakah,,,,,,,,,,,x
-b_dayrik,b_dayrik,,Dayrik,,,,,,,,,,,x
-b_qamishhlo,b_qamishhlo,,Qamishhlo,,,,,,,,,,,x
-b_darbasiyah,b_darbasiyah,,Darbasiyah,,,,,,,,,,,x
-b_teltamer,b_teltamer,,Tel Tamer,,,,,,,,,,,x
-b_hamoukar,b_hamoukar,,Hamoukar,,,,,,,,,,,x
-b_amuda,b_amuda,,Amuda,,,,,,,,,,,x
-b_dakhiliyah,b_dakhiliyah,,Dakhiliyah,,,,,,,,,,,x
-c_amida,PROV683,,Amida,,,,,,,,,,,x
-c_amida,c_amida_adj,,Amidan,,,,,,,,,,,x
-b_kiaburc,b_kiaburc,,Kia Burc,,,,,,,,,,,x
-b_amida,b_amida,,Amida,,,,,,,,,,,x
-b_ulucamii,b_ulucamii,,Ulu Camii,,,,,,,,,,,x
-b_suraamede,b_suraamede,,Sura Amede,,,,,,,,,,,x
-b_mayyafarikin,b_mayyafarikin,,Mayyafarikin,,,,,,,,,,,x
-b_hazretisuleymancamii,b_hazretisuleymancamii,,Hazreti Suleyman Cami,,,,,,,,,,,x
-b_egil,b_egil,,Egil,,,,,,,,,,,x
-b_idtodyolataloho,b_idtodyolataloho,,Idto d-Yolat Aloh,,,,,,,,,,,x
-c_nisibin,PROV684,,Nisibin,,,,,,,,,,,x
-c_nisibin,c_nisibin_adj,,Nisibinian,,,,,,,,,,,x
-b_nusaybin,b_nusaybin,,Nusaybin,,,,,,,,,,,x
-b_savur,b_savur,,Savur,,,,,,,,,,,x
-b_dairodmorhannanyo,b_dairodmorhannanyo,,Dairo d-Mor Hannanyo,,,,,,,,,,,x
-b_kerburan,b_kerburan,,Kerburan,,,,,,,,,,,x
-b_cizre,b_cizre,,Cizre,,,,,,,,,,,x
-b_sittiradviyyemadrasa,b_sittiradviyyemadrasa,,Sitti Radviyye Madrasa,,,,,,,,,,,x
-b_dayrodmorgabriel,b_dayrodmorgabriel,,Dayro d-Mor Gabriel,,,,,,,,,,,x
-b_yaqobnsibnaya,b_yaqobnsibnaya,,Yaqob Nsibnaya,,,,,,,,,,,x
-k_arabia,k_arabia,,Arabia,,,,,,,,,,,x
-k_arabia,k_arabia_adj,,Arabian,,,,,,,,,,,x
-d_arabia_petrae,d_arabia_petrae,,Arabia,,,,,,,,,,,x
-d_arabia_petrae,d_arabia_petrae_adj,,Arabian,,,,,,,,,,,x
-c_al_aqabah,PROV784,,Al 'Aqabah,,,,,,,,,,,x
-c_al_aqabah,c_al_aqabah_adj,,Al Aqabahian,,,,,,,,,,,x
-b_aqabah,b_aqabah,,Aqabah,,,,,,,,,,,x
-b_reeshah,b_reeshah,,Reeshah,,,,,,,,,,,x
-b_quwairah,b_quwairah,,Quwairah,,,,,,,,,,,x
-b_mazraa,b_mazraa,,Mazraa,,,,,,,,,,,x
-b_feifa,b_feifa,,Feifa,,,,,,,,,,,x
-b_samar,b_samar,,Samar,,,,,,,,,,,x
-b_elifaz,b_elifaz,,Elifaz,,,,,,,,,,,x
-b_yotvata,b_yotvata,,Yotvata,,,,,,,,,,,x
-c_ar_ar,PROV716,,Shaka,,,,,,,,,,,x
+e_arabia,e_arabia,,Arabian Empire,,,,,,,,,,,x
+e_arabia,e_arabia_adj,,Arabian,,,,,,,,,,,x
+e_arabia,short_name,,yes,,,,,,,,,,,x
+k_arabia,k_arabia,,Arabiyya,,,,,,,,,,,x
+k_arabia,k_arabia_adj,,Arabiyyan,,,,,,,,,,,x
+d_arabia_petrae,d_arabia_petrae,,Al-Jawf,,,,,,,,,,,x
+d_arabia_petrae,d_arabia_petrae_adj,,Al-Jawfi,,,,,,,,,,,x
+d_arabia_petrae,greek,,Arabia Petraea,,,,,,,,,,,x
+d_arabia_petrae,roman,,Arabia Petraea,,,,,,,,,,,x
+c_ar_ar,PROV716,,Al-Jawf,,,,,,,,,,,x
 c_ar_ar,c_ar_ar_adj,,Shakian,,,,,,,,,,,x
-b_shaka,b_shaka,,Shaka,,,,,,,,,,,x
-b_ammaryah,b_ammaryah,,Ammaryah,,,,,,,,,,,x
-b_dumat_al_jundal,b_dumat_al_jundal,,Dumat Al Jundat,,,,,,,,,,,x
-b_umm_kunsur,b_umm_kunsur,,Umm Kunsur,,,,,,,,,,,x
-b_ruthiyah,b_ruthiyah,,Ruthiyah,,,,,,,,,,,x
-b_qasa,b_qasa,,Qasa,,,,,,,,,,,x
-b_uwayquilah,b_uwayquilah,,Uwayquilah,,,,,,,,,,,x
-b_judaidah,b_judaidah,,Judaudah,,,,,,,,,,,x
+b_maridfortress,b_maridfortress,,Marid,,,,,,,,,,,x
+b_sakakah,b_sakakah,,Sakakah,,,,,,,,,,,x
+b_dumat_al_jundal,b_dumat_al_jundal,,Dumat al-Jundal,,,,,,,,,,,x
 c_maan,PROV783,,Maan,,,,,,,,,,,x
 c_maan,c_maan_adj,,Ma'anian,,,,,,,,,,,x
 b_maan,b_maan,,Ma'an,,,,,,,,,,,x
-b_mutah,b_mutah,,Mu'tah,,,,,,,,,,,x
-b_shubak,b_shubak,,Shubak,,,,,,,,,,,x
-b_maanaljafr,b_maanaljafr,,Al-Jafr,,,,,,,,,,,x
-b_buseira,b_buseira,,Buseira,,,,,,,,,,,x
-b_maanalhasa,b_maanalhasa,,Al-Hasa,,,,,,,,,,,x
-b_afra,b_afra,,Afra,,,,,,,,,,,x
-b_bubeita,b_bubeita,,Bubeita,,,,,,,,,,,x
-c_tabuk,PROV721,,Tabuk,,,,,,,,,,,x
-c_tabuk,c_tabuk_adj,,Tabukian,,,,,,,,,,,x
-b_tabuk,b_tabuk,,Tabuk,,,,,,,,,,,x
-b_duba,b_duba,,Duba,,,,,,,,,,,x
-b_mariyiat,b_mariyiat,,Mariyiat,,,,,,,,,,,x
-b_muwaylih,b_muwaylih,,Muwaylih,,,,,,,,,,,x
-b_abu_ujayyijat,b_abu_ujayyijat,,Abu Ujayyijat,,,,,,,,,,,x
-b_gabouk,b_gabouk,,Gabouk,,,,,,,,,,,x
-b_shaghab,b_shaghab,,Shaghab,,,,,,,,,,,x
-b_sharmah,b_sharmah,,Sharmah,,,,,,,,,,,x
-c_petra,PROV722,,Petra,,,,,,,,,,,x
-c_petra,c_petra_adj,,Petran,,,,,,,,,,,x
-b_tophel,b_tophel,,Tophel,,,,,,,,,,,x
-b_petra,b_petra,,Petra,,,,,,,,,,,x
-b_wadi_musa,b_wadi_musa,,Wadi Musa,,,,,,,,,,,x
-b_bozrah,b_bozrah,,Bozrah,,,,,,,,,,,x
-b_shoubak,b_shoubak,,Shoubak,,,,,,,,,,,x
-b_abdelliya,b_abdelliya,,Abdelliya,,,,,,,,,,,x
-b_hamza,b_hamza,,Hamza,,,,,,,,,,,x
-b_husseiniya,b_husseiniya,,Husseiniya,,,,,,,,,,,x
-d_medina,d_medina,,Medina,,,,,,,,,,,x
-d_medina,d_medina_adj,,Medinan,,,,,,,,,,,x
-c_al_jawf,PROV717,,Al Jawf,,,,,,,,,,,x
-c_al_jawf,c_al_jawf_adj,,Al Jawfian,,,,,,,,,,,x
-b_al_jawf,b_al_jawf,,Al Jawf,,,,,,,,,,,x
-b_sakakah,b_sakakah,,Sakakah,,,,,,,,,,,x
-b_aladan,b_aladan,,Al Adan,,,,,,,,,,,x
-b_dumat_al_jandal,b_dumat_al_jandal,,Dumat Al Jandal,,,,,,,,,,,x
-b_radifah,b_radifah,,Al Radifah,,,,,,,,,,,x
-b_tuwayr,b_tuwayr,,At Tuwayr,,,,,,,,,,,x
-b_tyer,b_tyer,,At Tyer,,,,,,,,,,,x
-b_qurayyat,b_qurayyat,,Qurayyat,,,,,,,,,,,x
-c_hijaz,PROV720,,Hijaz,,,,,,,,,,,x
+b_madyan,b_madyan,,Madyan,,,,,,,,,,,x
+d_amman,d_amman,,Bahrayn,,,,,,,,,,,x
+d_amman,d_amman_adj,,Bahrayni,,,,,,,,,,,x
+c_damman,PROV651,,Al-Qatif,,,,,,,,,,,x
+c_damman,c_damman_adj,,Dammani,,,,,,,,,,,x
+c_damman,assyrian,,Hatta,,,,,,,,,,,x
+b_qatif,b_qatif,,Qatif,,,,,,,,,,,x
+b_qatif,assyrian,,Hatta,,,,,,,,,,,x
+b_darin,b_darin,,Daryn,,,,,,,,,,,x
+b_zara,b_zara,,Zara,,,,,,,,,,,x
+b_safwan,b_safwan,,Safwan,,,,,,,,,,,x
+c_al_hasa,PROV652,,Al-Ahsa,,,,,,,,,,,x
+c_al_hasa,c_al_hasa_adj,,Al Hasan,,,,,,,,,,,x
+b_alhasa,b_alhasa,,Al Hasa,,,,,,,,,,,x
+b_uqair,b_uqair,,Uqair,,,,,,,,,,,x
+b_jowatha,b_jowatha,,Jowatha,,,,,,,,,,,x
+b_rumailah,b_rumailah,,Rumailah,,,,,,,,,,,x
+c_bahrein,PROV653,,Bahrayn,,,,,,,,,,,x
+c_bahrein,c_bahrein_adj,,Bahreinian,,,,,,,,,,,x
+b_awal,b_awal,,Awal,,,,,,,,,,,x
+b_manama,b_manama,,Manama,,,,,,,,,,,x
+b_khamis,b_khamis,,Khamis,,,,,,,,,,,x
+c_qatar,PROV784,,Qatar,,,,,,,,,,,x
+c_qatar,assyrian,,Beth Qatraye,,,,,,,,,,,x
+b_murwab,b_murwab,,Murwab,,,,,,,,,,,x
+d_medina,d_medina,,Hijaz,,,,,,,,,,,x
+d_medina,d_medina_adj,,Hijazi,,,,,,,,,,,x
+c_hijaz,PROV720,,Al-Ula,,,,,,,,,,,x
 c_hijaz,c_hijaz_adj,,Hijazian,,,,,,,,,,,x
 b_al_ola,b_al_ola,,Al 'Ula,,,,,,,,,,,x
 b_tayma,b_tayma,,Tayma,,,,,,,,,,,x
-b_leuke_kome,b_leuke_kome,,Leuke Kome,,,,,,,,,,,x
-b_higra,b_higra,,Higra,,,,,,,,,,,x
-b_madain_salih,b_madain_salih,,Madain Salih,,,,,,,,,,,x
-b_mughayra,b_mughayra,,Mughayra,,,,,,,,,,,x
-b_samur,b_samur,,Samur,,,,,,,,,,,x
-b_tawala,b_tawala,,Tawala,,,,,,,,,,,x
-c_medina,PROV718,,Medina,,,,,,,,,,,x
-c_medina,c_medina_adj,,Medinan,,,,,,,,,,,x
-b_medina,b_medina,,Medina,,,,,,,,,,,x
-b_khaybar,b_khaybar,,Khaybar,,,,,,,,,,,x
-b_rabig,b_rabig,,Rabig,,,,,,,,,,,x
+b_alwajh,b_alwajh,,Al-Wajh,,,,,,,,,,,x
+b_higra,b_higra,,Al-Hijr,,,,,,,,,,,x
+c_tabuk,PROV721,,Tabuk,,,,,,,,,,,x
+c_tabuk,c_tabuk_adj,,Tabukian,,,,,,,,,,,x
+b_tabuk,b_tabuk,,Tabuk,,,,,,,,,,,x
+b_alawnid,b_alawnid,,Al-Awnid,,,,,,,,,,,x
+b_muwaylih,b_muwaylih,,Muwaylih,,,,,,,,,,,x
+c_yanbu,PROV1283,,Yanbu,,,,,,,,,,,x
 b_yanbu,b_yanbu,,Yanbu,,,,,,,,,,,x
-b_kuba,b_kuba,,Kuba,,,,,,,,,,,x
-b_farsh,b_farsh,,Farsh,,,,,,,,,,,x
-b_sidi_hamzah,b_sidi_hamzah,,Sidi Hamzah,,,,,,,,,,,x
-b_milha,b_milha,,Milha,,,,,,,,,,,x
-c_mecca,PROV719,,Mecca,,,,,,,,,,,x
+b_aljar,b_aljar,,Al-Jar,,,,,,,,,,,x
+b_alhawra,b_alhawra,,Al-Hawra,,,,,,,,,,,x
+b_rabig,b_rabig,,Rabig,,,,,,,,,,,x
+c_medina,PROV718,,Madinah,,,,,,,,,,,x
+c_medina,c_medina_adj,,Medinan,,,,,,,,,,,x
+b_qalatmedina,b_qalatmedina,,Qal'at al-Madinah,,,,,,,,,,,x
+b_medina,b_medina,,Madinah,,,,,,,,,,,x
+b_khaybar,b_khaybar,,Khaybar,,,,,,,,,,,x
+b_madinabanusulaim,b_madinabanusulaim,,Madinah Banu Sulaim,,,,,,,,,,,x
+b_rabadha,b_rabadha,,Rabadha,,,,,,,,,,,x
+c_mecca,PROV719,,Makkah,,,,,,,,,,,x
 c_mecca,c_mecca_adj,,Meccan,,,,,,,,,,,x
-b_mecca,b_mecca,,Mecca,,,,,,,,,,,x
-b_jeddah,b_jeddah,,Jeddah,,,,,,,,,,,x
 b_taif,b_taif,,Ta'if,,,,,,,,,,,x
-b_al_johfa,b_al_johfa,,Al Johfa,,,,,,,,,,,x
+b_mecca,b_mecca,,Makkah,,,,,,,,,,,x
+b_jeddah,b_jeddah,,Jiddah,,,,,,,,,,,x
 b_turubah,b_turubah,,Turubah,,,,,,,,,,,x
-b_al_lith,b_al_lith,,Al Lith,,,,,,,,,,,x
-b_jmumum,b_jmumum,,Jmumum,,,,,,,,,,,x
-b_qunfudhah,b_qunfudhah,,Qunfudhah,,,,,,,,,,,x
+b_khulays,b_khulays,,Khulays,,,,,,,,,,,x
 c_asir,PROV861,,Asir,,,,,,,,,,,x
 c_asir,c_asir_adj,,Asirian,,,,,,,,,,,x
-b_kamaran,b_kamaran,,Kamaran,,,,,,,,,,,x
-b_bahah,b_bahah,,Bahah,,,,,,,,,,,x
-b_najran,b_najran,,Najran,,,,,,,,,,,x
-b_sadah,b_sadah,,Sadah,,,,,,,,,,,x
-b_hajjah,b_hajjah,,Hajjah,,,,,,,,,,,x
-b_hamr,b_hamr,,Hamr,,,,,,,,,,,x
-b_huth,b_huth,,Huth,,,,,,,,,,,x
-b_abs,b_abs,,Abs,,,,,,,,,,,x
-d_sanaa,d_sanaa,,Sanaa,,,,,,,,,,,x
-d_sanaa,d_sanaa_adj,,Sanaan,,,,,,,,,,,x
-c_bayda,PROV857,,Bayda,,,,,,,,,,,x
+b_qunfudhah,b_qunfudhah,,Qunfudhah,,,,,,,,,,,x
+b_bariq,b_bariq,,Bariq,,,,,,,,,,,x
+b_hali,b_hali,,Hali,,,,,,,,,,,x
+b_jurash,b_jurash,,Jurash,,,,,,,,,,,x
+d_nefoud,d_nefoud,,Najd,,,,,,,,,,,x
+d_nefoud,d_nefoud_adj,,Najdi,,,,,,,,,,,x
+d_nefoud,greek,,Arabia Deserta,,,,,,,,,,,x
+d_nefoud,roman,,Arabia Deserta,,,,,,,,,,,x
+c_hail,PROV864,,Hail,,,,,,,,,,,x
+c_hail,c_hail_adj,,Hailian,,,,,,,,,,,x
+b_hail,b_hail,,Ha'il,,,,,,,,,,,x
+b_fadak,b_fadak,,Fadak,,,,,,,,,,,x
+b_unayzah,b_unayzah,,Unayzah,,,,,,,,,,,x
+b_samira,b_samira,,Samira,,,,,,,,,,,x
+b_naqra,b_naqra,,An-Naqra,,,,,,,,,,,x
+c_hajr,PROV863,,Al-Yamamah,,,,,,,,,,,x
+c_hajr,c_hajr_adj,,Hajrian,,,,,,,,,,,x
+b_al_hajr,b_al_hajr,,Al-Hajr,,,,,,,,,,,x
+b_diriyyah,b_diriyyah,,Diriyyah,,,,,,,,,,,x
+b_yamamah,b_yamamah,,Al-Khadharim,,,,,,,,,,,x
+b_manfuha,b_manfuha,,Mafuha,,,,,,,,,,,x
+b_al_majmaah,b_al_majmaah,,Al-Majma'ah,,,,,,,,,,,x
+c_halaban,PROV862,,Ranyah,,,,,,,,,,,x
+c_halaban,c_halaban_adj,,Halabanian,,,,,,,,,,,x
+b_ranyah,b_ranyah,,Ranyah,,,,,,,,,,,x
+b_dawasir,b_dawasir,,Dawasir,,,,,,,,,,,x
+c_al_jawf,PROV717,,Fayd,,,,,,,,,,,x
+c_al_jawf,c_al_jawf_adj,,Al Jawfian,,,,,,,,,,,x
+b_fayd,b_fayd,,Fayd,,,,,,,,,,,x
+b_zubala,b_zubala,,Zubala,,,,,,,,,,,x
+b_aghfur,b_aghfur,,Al-Aghfur,,,,,,,,,,,x
+c_rummah,PROV654,,Hafar,,,,,,,,,,,x
+c_rummah,c_rummah_adj,,Rummahian,,,,,,,,,,,x
+b_hafaralbatin,b_hafaralbatin,,Hafar al Batin,,,,,,,,,,,x
+b_nibaj,b_nibaj,,Nibaj,,,,,,,,,,,x
+k_oman,k_oman,,Uman,,,,,,,,,,,x
+k_oman,k_oman_adj,,Umani,,,,,,,,,,,x
+k_oman,assyrian,,Beth Mazunaye,,,,,,,,,,,x
+d_oman,d_oman,,Uman,,,,,,,,,,,x
+d_oman,d_oman_adj,,Umani,,,,,,,,,,,x
+d_oman,assyrian,,Beth Mazunaye,,,,,,,,,,,x
+c_dhu_zabi,PROV870,,Julfar,,,,,,,,,,,x
+c_dhu_zabi,c_dhu_zabi_adj,,Dhu Zabian,,,,,,,,,,,x
+b_julfar,b_julfar,,Julfar,,,,,,,,,,,x
+b_tawam,b_tawam,,Tawam,,,,,,,,,,,x
+c_hajar,PROV869,,Nizwa,,,,,,,,,,,x
+c_hajar,c_hajar_adj,,Hajarian,,,,,,,,,,,x
+b_qalatnizwa,b_qalatnizwa,,Qal'at al-Nizwa,,,,,,,,,,,x
+b_nizwa,b_nizwa,,Nizwa,,,,,,,,,,,x
+b_bahla,b_bahla,,Bahla,,,,,,,,,,,x
+b_nakhal,b_nakhal,,Nakhal,,,,,,,,,,,x
+b_rustaq_nizwa,b_rustaq_nizwa,,Rustaq,,,,,,,,,,,x
+c_muscat,PROV868,,Masqat,,,,,,,,,,,x
+c_muscat,c_muscat_adj,,Muscatian,,,,,,,,,,,x
+b_qalatmirani,b_qalatmirani,,Mirani,,,,,,,,,,,x
+b_muscat,b_muscat,,Muscat,,,,,,,,,,,x
+b_sur,b_sur,,Sur,,,,,,,,,,,x
+b_qalhat,b_qalhat,,Qalhat,,,,,,,,,,,x
+b_quryat,b_quryat,,Quryat,,,,,,,,,,,x
+c_suhar,PROV1592,,Suhar,,,,,,,,,,,x
+b_qalatsuhar,b_qalatsuhar,,Qal'at al-Suhar,,,,,,,,,,,x
+b_sohar,b_sohar,,Suhar,,,,,,,,,,,x
+b_dibba,b_dibba,,Dibba,,,,,,,,,,,x
+b_khorfakkan,b_khorfakkan,,Fakkan,,,,,,,,,,,x
+c_duqm,PROV867,,Duqm,,,,,,,,,,,x
+c_duqm,c_duqm_adj,,Duqmian,,,,,,,,,,,x
+b_duqm,b_duqm,,Duqm,,,,,,,,,,,x
+k_yemen,k_yemen,,Yaman,,,,,,,,,,,x
+k_yemen,k_yemen_adj,,Yamani,,,,,,,,,,,x
+k_yemen,greek,,Arabia Felix,,,,,,,,,,,x
+k_yemen,roman,,Arabia Felix,,,,,,,,,,,x
+d_zabid,d_zabid,,Zabid,,,,,,,,,,,x
+d_zabid,d_zabid_adj,,Zabidi,,,,,,,,,,,x
+c_bayda,PROV857,,al-Ma'afir,,,,,,,,,,,x
 c_bayda,c_bayda_adj,,Baydanian,,,,,,,,,,,x
-b_bayda,b_bayda,,Bayda,,,,,,,,,,,x
-b_habban,b_habban,,Habban,,,,,,,,,,,x
-b_ashshubaykah,b_ashshubaykah,,Ash Shubaykah,,,,,,,,,,,x
-b_timna,b_timna,,Timna,,,,,,,,,,,x
-b_ataq,b_ataq,,Ataq,,,,,,,,,,,x
-b_zinjibar,b_zinjibar,,Zinjibar,,,,,,,,,,,x
-b_alkhabr,b_alkhabr,,Al-Khabr,,,,,,,,,,,x
-b_yashbum,b_yashbum,,Yashbum,,,,,,,,,,,x
-c_sanaa,PROV860,,Sanaa,,,,,,,,,,,x
-c_sanaa,c_sanaa_adj,,Sanaan,,,,,,,,,,,x
-b_sanaa,b_sanaa,,Sanaa,,,,,,,,,,,x
-b_marib,b_marib,,Marib,,,,,,,,,,,x
-b_qataba,b_qataba,,Qataba,,,,,,,,,,,x
-b_dhamar,b_dhamar,,Dhamar,,,,,,,,,,,x
-b_jabalannabishuayb,b_jabalannabishuayb,,Jabal an Nabi Shuayb,,,,,,,,,,,x
-b_jabaltiyal,b_jabaltiyal,,Jabal Tiyal,,,,,,,,,,,x
-b_hodeida,b_hodeida,,Hodeida,,,,,,,,,,,x
-b_harib,b_harib,,Harib,,,,,,,,,,,x
-c_taizz,PROV859,,Taizz,,,,,,,,,,,x
-c_taizz,c_taizz_adj,,Taizzian,,,,,,,,,,,x
-b_ibb,b_ibb,,Ibb,,,,,,,,,,,x
-b_mocha,b_mocha,,Mocha,,,,,,,,,,,x
-b_taizz,b_taizz,,Taizz,,,,,,,,,,,x
-b_zafar,b_zafar,,Zafar,,,,,,,,,,,x
-b_perim,b_perim,,Perim,,,,,,,,,,,x
-b_shuqra,b_shuqra,,Shuqra,,,,,,,,,,,x
-b_jibla,b_jibla,,Jibla,,,,,,,,,,,x
-b_dhisufal,b_dhisufal,,Dhi Sufal,,,,,,,,,,,x
+b_qalatzabid,b_qalatzabid,,Qal'at al-Zabid,,,,,,,,,,,x
+b_zabid,b_zabid,,Zabid,,,,,,,,,,,x
+b_mahjam,b_mahjam,,al-Mahjam,,,,,,,,,,,x
+b_mocha,b_mocha,,Mukha,,,,,,,,,,,x
+b_hodeida,b_hodeida,,Hudaydah,,,,,,,,,,,x
+c_tihama,PROV1496,,Tihama,,,,,,,,,,,x
+b_jizan,b_jizan,,Jizan,,,,,,,,,,,x
+b_kamaran,b_kamaran,,Kamaran,,,,,,,,,,,x
+b_harad,b_harad,,Harad,,,,,,,,,,,x
 c_aden,PROV858,,Aden,,,,,,,,,,,x
 c_aden,c_aden_adj,,Adenian,,,,,,,,,,,x
+b_qalatsira,b_qalatsira,,Sira,,,,,,,,,,,x
 b_aden,b_aden,,Aden,,,,,,,,,,,x
+b_ahwar,b_ahwar,,Ahwar,,,,,,,,,,,x
 b_lahej,b_lahej,,Lahej,,,,,,,,,,,x
-b_dhala,b_dhala,,Dhala,,,,,,,,,,,x
-b_alawbhali,b_alawbhali,,Al Awbhali,,,,,,,,,,,x
-b_jaar,b_jaar,,Jaar,,,,,,,,,,,x
-b_alkawd,b_alkawd,,Al Kawd,,,,,,,,,,,x
-b_almilah,b_almilah,,Al Milah,,,,,,,,,,,x
-b_alarbadi,b_alarbadi,,Al Arbadi,,,,,,,,,,,x
-c_kathiri,PROV856,,Kathiri,,,,,,,,,,,x
+b_khadra,b_khadra,,al-Khadra,,,,,,,,,,,x
+b_zinjibar,b_zinjibar,,Zinjibar,,,,,,,,,,,x
+d_sanaa,d_sanaa,,Sanaa,,,,,,,,,,,x
+d_sanaa,d_sanaa_adj,,Sanaan,,,,,,,,,,,x
+c_rafha,PROV865,,Sadah,,,,,,,,,,,x
+c_rafha,c_rafha_adj,,Rafhan,,,,,,,,,,,x
+b_sadah,b_sadah,,Sadah,,,,,,,,,,,x
+b_najran,b_najran,,Najran,,,,,,,,,,,x
+b_huth,b_huth,,Huth,,,,,,,,,,,x
+c_sanaa,PROV860,,Sanaa,,,,,,,,,,,x
+c_sanaa,c_sanaa_adj,,Sanaan,,,,,,,,,,,x
+b_qalaatsanaa,b_qalaatsanaa,,al-Qasr,,,,,,,,,,,x
+b_sanaa,b_sanaa,,San'a,,,,,,,,,,,x
+b_dhamar,b_dhamar,,Dhamar,,,,,,,,,,,x
+b_marib,b_marib,,Marib,,,,,,,,,,,x
+b_radaa,b_radaa,,Rada'a,,,,,,,,,,,x
+b_zafar,b_zafar,,Zafar,,,,,,,,,,,x
+c_shibam,PROV1254,,Kawkaban,,,,,,,,,,,x
+b_shibamsanaa,b_shibamsanaa,,Kawkaban,,,,,,,,,,,x
+b_thula,b_thula,,Thula,,,,,,,,,,,x
+b_kahlan,b_kahlan,,Kahlan,,,,,,,,,,,x
+c_taizz,PROV859,,Taizz,,,,,,,,,,,x
+c_taizz,c_taizz_adj,,Taizzian,,,,,,,,,,,x
+b_jibla,b_jibla,,Jiblah,,,,,,,,,,,x
+b_taizz,b_taizz,,Taizz,,,,,,,,,,,x
+b_ibb,b_ibb,,Ibb,,,,,,,,,,,x
+b_janad,b_janad,,Janad,,,,,,,,,,,x
+b_yarim,b_yarim,,Yarim,,,,,,,,,,,x
+d_hadramaut,d_hadramaut,,Hadramawt,,,,,,,,,,,x
+d_hadramaut,d_hadramaut_adj,,Hadramawti,,,,,,,,,,,x
+c_dhofar,PROV866,,Zufar,,,,,,,,,,,x
+c_dhofar,c_dhofar_adj,,Dhofarian,,,,,,,,,,,x
+b_salalah,b_salalah,,Zufar,,,,,,,,,,,x
+b_mirbat,b_mirbat,,Mirbat,,,,,,,,,,,x
+b_raysut,b_raysut,,Raysut,,,,,,,,,,,x
+c_kathiri,PROV856,,Hadramawt,,,,,,,,,,,x
 c_kathiri,c_kathiri_adj,,Kathirian,,,,,,,,,,,x
-b_shabwa,b_shabwa,,Shabwa,,,,,,,,,,,x
-b_lodar,b_lodar,,Lodar,,,,,,,,,,,x
-b_qana,b_qana,,Qana,,,,,,,,,,,x
+b_shibam,b_shibam,,Shibam,,,,,,,,,,,x
+b_tarimhadramaut,b_tarimhadramaut,,Tarim,,,,,,,,,,,x
 b_seiyun,b_seiyun,,Seiyun,,,,,,,,,,,x
-b_mukalla,b_mukalla,,Mukalla,,,,,,,,,,,x
-b_shihar,b_shihar,,Shihar,,,,,,,,,,,x
-b_nisab,b_nisab,,Nisab,,,,,,,,,,,x
-b_azzan,b_azzan,,Azzan,,,,,,,,,,,x
-c_socotra,PROV1369,,Socotra,,,,,,,,,,,x
+b_maifaa,b_maifaa,,Maifa'a,,,,,,,,,,,x
+c_mahra,PROV855,,Mahra,,,,,,,,,,,x
+c_mahra,c_mahra_adj,,Mahran,,,,,,,,,,,x
+b_shihr,b_shihr,,Shihr,,,,,,,,,,,x
+b_qishn,b_qishn,,Qishn,,,,,,,,,,,x
+c_socotra,PROV1552,,Suqutra,,,,,,,,,,,x
 c_socotra,c_socotra,,Socotra,,,,,,,,,,,x
 c_socotra,c_socotra_adj,,Socotran,,,,,,,,,,,x
 b_qualnsiyah,b_qualnsiyah,,Qualnsiyah,,,,,,,,,,,x
 b_tamrida,b_tamrida,,Tamrida,,,,,,,,,,,x
 b_qadub,b_qadub,,Qadub,,,,,,,,,,,x
-b_steroh,b_steroh,,Steroh,,,,,,,,,,,x
-b_asma,b_asma,,Asma,,,,,,,,,,,x
-b_siqirah,b_siqirah,,Siqirah,,,,,,,,,,,x
-b_qashiu,b_qashiu,,Qashiu,,,,,,,,,,,x
-d_oman,d_oman,,Oman,,,,,,,,,,,x
-d_oman,d_oman_adj,,Omani,,,,,,,,,,,x
-c_dhu_zabi,PROV870,,Dhu Zabi,,,,,,,,,,,x
-c_dhu_zabi,c_dhu_zabi_adj,,Dhu Zabian,,,,,,,,,,,x
-b_sohar,b_sohar,,Sohar,,,,,,,,,,,x
-b_dibba,b_dibba,,Dibba,,,,,,,,,,,x
-b_qutuf,b_qutuf,,Qutuf,,,,,,,,,,,x
-b_dhuzabi,b_dhuzabi,,Dhu Zabi,,,,,,,,,,,x
-b_khorfakkan,b_khorfakkan,,Khor Fakkan,,,,,,,,,,,x
-b_dubai,b_dubai,,Dubai,,,,,,,,,,,x
-b_julfar,b_julfar,,Julfar,,,,,,,,,,,x
-b_sharjah,b_sharjah,,Sharjah,,,,,,,,,,,x
-c_hajar,PROV869,,Hajar,,,,,,,,,,,x
-c_hajar,c_hajar_adj,,Hajarian,,,,,,,,,,,x
-b_alhamra,b_alhamra,,Al Hamra,,,,,,,,,,,x
-b_nizwa,b_nizwa,,Nizwa,,,,,,,,,,,x
-b_ibri,b_ibri,,Ibri,,,,,,,,,,,x
-b_jabrin,b_jabrin,,Jabrin,,,,,,,,,,,x
-b_rustaq,b_rustaq,,Rustaq,,,,,,,,,,,x
-b_haran,b_haran,,Haran,,,,,,,,,,,x
-b_masruq,b_masruq,,Masruq,,,,,,,,,,,x
-b_yanqui,b_yanqui,,Yanqui,,,,,,,,,,,x
-c_muscat,PROV868,,Muscat,,,,,,,,,,,x
-c_muscat,c_muscat_adj,,Muscatian,,,,,,,,,,,x
-b_muscat,b_muscat,,Muscat,,,,,,,,,,,x
-b_sur,b_sur,,Sur,,,,,,,,,,,x
-b_samail,b_samail,,Samail,,,,,,,,,,,x
-b_adam,b_adam,,Adam,,,,,,,,,,,x
-b_ibra,b_ibra,,Ibra,,,,,,,,,,,x
-b_sabt,b_sabt,,Sabt,,,,,,,,,,,x
-b_lizq,b_lizq,,Lizq,,,,,,,,,,,x
-b_shiya,b_shiya,,Shiya,,,,,,,,,,,x
-c_duqm,PROV867,,Duqm,,,,,,,,,,,x
-c_duqm,c_duqm_adj,,Duqmian,,,,,,,,,,,x
-b_duqm,b_duqm,,Duqm,,,,,,,,,,,x
-b_aljazir,b_aljazir,,Al Jazir,,,,,,,,,,,x
-b_bank,b_bank,,Bank,,,,,,,,,,,x
-b_harima,b_harima,,Harima,,,,,,,,,,,x
-b_nimr,b_nimr,,Nimr,,,,,,,,,,,x
-b_mahut,b_mahut,,Mahur,,,,,,,,,,,x
-b_hubara,b_hubara,,Hubara,,,,,,,,,,,x
-b_masirah,b_masirah,,Masirah,,,,,,,,,,,x
-c_dhofar,PROV866,,Dhofar,,,,,,,,,,,x
-c_dhofar,c_dhofar_adj,,Dhofarian,,,,,,,,,,,x
-b_salalah,b_salalah,,Salalah,,,,,,,,,,,x
-b_thamarit,b_thamarit,,Thamarit,,,,,,,,,,,x
-b_raysut,b_raysut,,Raysut,,,,,,,,,,,x
-b_amal,b_amal,,Amal,,,,,,,,,,,x
-b_shisr,b_shisr,,Shisr,,,,,,,,,,,x
-b_dawkah,b_dawkah,,Dawkah,,,,,,,,,,,x
-b_durrah,b_durrah,,Durrah,,,,,,,,,,,x
-b_harzan,b_harzan,,Harzan,,,,,,,,,,,x
-c_mahra,PROV855,,Mahra,,,,,,,,,,,x
-c_mahra,c_mahra_adj,,Mahran,,,,,,,,,,,x
-b_ghaydah,b_ghaydah,,Ghaydah,,,,,,,,,,,x
-b_nishtun,b_nishtun,,Nishtun,,,,,,,,,,,x
-b_damqwat,b_damqwat,,Damqwat,,,,,,,,,,,x
-b_qishn,b_qishn,,Qishn,,,,,,,,,,,x
-b_haswayn,b_haswayn,,Haswayn,,,,,,,,,,,x
-b_itab,b_itab,,Itab,,,,,,,,,,,x
-b_alkurah,b_alkurah,,Al Kurah,,,,,,,,,,,x
-b_alhalya,b_alhalya,,Al Halya,,,,,,,,,,,x
-d_nefoud,d_nefoud,,Nefoud,,,,,,,,,,,x
-d_nefoud,d_nefoud_adj,,Nefoudi,,,,,,,,,,,x
-c_rafha,PROV865,,Rafha,,,,,,,,,,,x
-c_rafha,c_rafha_adj,,Rafhan,,,,,,,,,,,x
-b_rafha,b_rafha,,Rafha,,,,,,,,,,,x
-b_aljumaymah,b_aljumaymah,,Al-Jumaymah,,,,,,,,,,,x
-b_timiat,b_timiat,,Timiat,,,,,,,,,,,x
-b_markuz,b_markuz,,Markuz,,,,,,,,,,,x
-b_lawqah,b_lawqah,,Lawqah,,,,,,,,,,,x
-b_duwayd,b_duwayd,,Duwayd,,,,,,,,,,,x
-b_uwayqilah,b_uwayqilah,,Uwayqilah,,,,,,,,,,,x
-b_ashshir,b_ashshir,,Ash Shir,,,,,,,,,,,x
-c_hail,PROV864,,Hail,,,,,,,,,,,x
-c_hail,c_hail_adj,,Hailian,,,,,,,,,,,x
-b_hail,b_hail,,Ha'il,,,,,,,,,,,x
-b_asshinan,b_asshinan,,Asshinan,,,,,,,,,,,x
-b_alghazalah,b_alghazalah,,Al-Ghazalah,,,,,,,,,,,x
-b_baqa,b_baqa,,Baqa,,,,,,,,,,,x
-b_iqdah,b_iqdah,,Iqdah,,,,,,,,,,,x
-b_mawqaq,b_mawqaq,,Mawqaq,,,,,,,,,,,x
-b_murayfiq,b_murayfiq,,Murayfiq,,,,,,,,,,,x
-b_saban,b_saban,,Sab'an,,,,,,,,,,,x
-c_hajr,PROV863,,Hajr,,,,,,,,,,,x
-c_hajr,c_hajr_adj,,Hajrian,,,,,,,,,,,x
-b_alhudaydah,b_alhudaydah,,Al Hudaydah,,,,,,,,,,,x
-b_assalif,b_assalif,,As Salif,,,,,,,,,,,x
-b_almaqah,b_almaqah,,Almaqah,,,,,,,,,,,x
-b_abha,b_abha,,Abha,,,,,,,,,,,x
-b_khamismushait,b_khamismushait,,Khamis Mushait,,,,,,,,,,,x
-b_bisha,b_bisha,,Bisha,,,,,,,,,,,x
-b_baljurashi,b_baljurashi,,Baljurashi,,,,,,,,,,,x
-b_jizan,b_jizan,,Jizan,,,,,,,,,,,x
-c_halaban,PROV862,,Halaban,,,,,,,,,,,x
-c_halaban,c_halaban_adj,,Halabanian,,,,,,,,,,,x
-b_afif,b_afif,,Afif,,,,,,,,,,,x
-b_badaiidyan,b_badaiidyan,,Badai Idyan,,,,,,,,,,,x
-b_alqaiyah,b_alqaiyah,,Al-Qaiyah,,,,,,,,,,,x
-b_aljammaniyah,b_aljammaniyah,,Al-Jammaniyah,,,,,,,,,,,x
-b_albijadiyah,b_albijadiyah,,Al-Bijadiyah,,,,,,,,,,,x
-b_almaklah,b_almaklah,,Al-Maklah,,,,,,,,,,,x
-b_albaharah,b_albaharah,,Al-Baharah,,,,,,,,,,,x
-b_arradum,b_arradum,,Ar-Radum,,,,,,,,,,,x
-d_amman,d_amman,,Damman,,,,,,,,,,,x
-d_amman,d_amman_adj,,Dammani,,,,,,,,,,,x
-c_damman,PROV651,,Damman,,,,,,,,,,,x
-c_damman,c_damman_adj,,Dammani,,,,,,,,,,,x
-b_avan,b_avan,,Avan,,,,,,,,,,,x
-b_najmah,b_najmah,,Najmah,,,,,,,,,,,x
-b_qatif,b_qatif,,Qatif,,,,,,,,,,,x
-b_damman,b_damman,,Damman,,,,,,,,,,,x
-b_jubail,b_jubail,,Jubail,,,,,,,,,,,x
-b_alaba,b_alaba,,Al Aba,,,,,,,,,,,x
-b_alhinnah,b_alhinnah,,Al Hinnah,,,,,,,,,,,x
-b_abuhadriya,b_abuhadriya,,Abu Hadriya,,,,,,,,,,,x
-c_al_hasa,PROV652,,Al Hasa,,,,,,,,,,,x
-c_al_hasa,c_al_hasa_adj,,Al Hasan,,,,,,,,,,,x
-b_alhasa,b_alhasa,,Al Hasa,,,,,,,,,,,x
-b_holuf,b_holuf,,Holuf,,,,,,,,,,,x
-b_foda,b_foda,,Foda,,,,,,,,,,,x
-b_khobar,b_khobar,,Khobar,,,,,,,,,,,x
-b_almubarraz,b_almubarraz,,Al Mubarraz,,,,,,,,,,,x
-b_aloyoon,b_aloyoon,,Al Oyoon,,,,,,,,,,,x
-b_alomran,b_alomran,,Al Omran,,,,,,,,,,,x
-b_ghunan,b_ghunan,,Ghunan,,,,,,,,,,,x
-b_abqaiq,b_abqaiq,,Abqaoq,,,,,,,,,,,x
-c_bahrein,PROV653,,Bahrein,,,,,,,,,,,x
-c_bahrein,c_bahrein_adj,,Bahreinian,,,,,,,,,,,x
-b_muharraq,b_muharraq,,Muharraq,,,,,,,,,,,x
-b_manama,b_manama,,Manama,,,,,,,,,,,x
-b_umm_al_nasan,b_umm_al_nasan,,Umm al Nasan,,,,,,,,,,,x
-b_sitra,b_sitra,,Sitra,,,,,,,,,,,x
-b_jidda,b_jidda,,Jidda,,,,,,,,,,,x
-b_ummalsabaan,b_ummalsabaan,,Umm al Sabaan,,,,,,,,,,,x
-b_hamala,b_hamala,,Hamala,,,,,,,,,,,x
-b_aldur,b_aldur,,Al Dur,,,,,,,,,,,x
 d_sinai,d_sinai,,Sinai,,,,,,,,,,,x
 d_sinai,d_sinai_adj,,Sinaite,,,,,,,,,,,x
-c_farama,PROV788,,Farama,,,,,,,,,,,x
-c_farama,c_farama_adj,,Faraman,,,,,,,,,,,x
-b_farama,b_farama,,Farama,,,,,,,,,,,x
-b_sin,b_sin,,Sin,,,,,,,,,,,x
-b_seyan,b_seyan,,Seyan,,,,,,,,,,,x
-b_romani,b_romani,,Romani,,,,,,,,,,,x
-b_birqatia,b_birqatia,,Bir Qatia,,,,,,,,,,,x
-b_birelabd,b_birelabd,,Bir El-Abd,,,,,,,,,,,x
-b_zaaraniq,b_zaaraniq,,Zaaraniq,,,,,,,,,,,x
-b_mustabiq,b_mustabiq,,Mustabiq,,,,,,,,,,,x
-c_sinai,PROV785,,Sinai,,,,,,,,,,,x
+d_sinai,coptic,,Sina,,,,,,,,,,,x
+c_sinai,PROV785,,Nekhel,,,,,,,,,,,x
 c_sinai,c_sinai_adj,,Sinaian,,,,,,,,,,,x
-b_attur,b_attur,,At Tur,,,,,,,,,,,x
-b_sharmelsheikh,b_sharmelsheikh,,Sharm el-Sheikh,,,,,,,,,,,x
-b_mamlah,b_mamlah,,Mamlah,,,,,,,,,,,x
-b_nuweiba,b_nuweiba,,Nuweiba,,,,,,,,,,,x
-b_sinbarqa,b_sinbarqa,,Barqa,,,,,,,,,,,x
-b_dahab,b_dahab,,Dahab,,,,,,,,,,,x
-b_jabalsamra,b_jabalsamra,,Jabal Samra,,,,,,,,,,,x
-b_nabq,b_nabq,,Nabq,,,,,,,,,,,x
-c_eilat,PROV786,,Eilat,,,,,,,,,,,x
+b_qalaatalgindi,b_qalaatalgindi,,Qalaat Al-Jundi,,,,,,,,,,,x
+b_rassidr,b_rassidr,,Rass Sidr,,,,,,,,,,,x
+b_nekhel,b_nekhel,,Nekhel,,,,,,,,,,,x
+b_nekhelcastle,b_nekhelcastle,,An-Nekhel,,,,,,,,,,,x
+c_eilat,PROV786,,Jabal Katrina,,,,,,,,,,,x
 c_eilat,c_eilat_adj,,Eilatian,,,,,,,,,,,x
-b_eilat,b_eilat,,Eilat,,,,,,,,,,,x
-b_yahel,b_yahel,,Yahel,,,,,,,,,,,x
-b_lotan,b_lotan,,Lotan,,,,,,,,,,,x
-b_ketura,b_ketura,,Ketura,,,,,,,,,,,x
-b_sapir,b_sapir,,Sapir,,,,,,,,,,,x
-b_urim,b_urim,,Urim,,,,,,,,,,,x
-b_tzofar,b_tzofar,,Tzofar,,,,,,,,,,,x
-b_eliot,b_eliot,,Eliot,,,,,,,,,,,x
+b_wadielsybiaya,b_wadielsybiaya,,Wadi El Sybaiya,,,,,,,,,,,x
+b_eltormonestary,b_eltormonestary,,Al-Tur,,,,,,,,,,,x
+b_eltormonestary,greek,,Rhaitou,,,,,,,,,,,x
+b_eltormonestary,roman,,Rhaitou,,,,,,,,,,,x
+b_monestaryofsaincathrine,b_monestaryofsaincathrine,,Monì tìs Agìas Ekaterìnis,,,,,,,,,,,x
 c_el-arish,PROV787,,El-Arish,,,,,,,,,,,x
 c_el-arish,c_el-arish_adj,,El-Arishian,,,,,,,,,,,x
+c_el-arish,coptic,,Peremun,,,,,,,,,,,x
+c_el-arish,greek,,Pelousion,,,,,,,,,,,x
+c_el-arish,roman,,Pelusium,,,,,,,,,,,x
 b_arish,b_arish,,Arish,,,,,,,,,,,x
+b_arish,coptic,,Hrinokorura,,,,,,,,,,,x
+b_arish,greek,,Rinokoloura,,,,,,,,,,,x
+b_arish,roman,,Rhinocolura,,,,,,,,,,,x
+b_farama,b_farama,,Farama,,,,,,,,,,,x
+b_farama,coptic,,Peremun,,,,,,,,,,,x
+b_farama,greek,,Pelousion,,,,,,,,,,,x
+b_farama,roman,,Pelusium,,,,,,,,,,,x
 b_tukkot,b_tukkot,,Tukkot,,,,,,,,,,,x
-b_kharruba,b_kharruba,,Kharruba,,,,,,,,,,,x
-b_masyada,b_masyada,,Masyada,,,,,,,,,,,x
-b_birelhamma,b_birelhamma,,Bir El-Hamma,,,,,,,,,,,x
-b_mitmatna,b_mitmatna,,Mitmatna,,,,,,,,,,,x
-b_abuaweigila,b_abuaweigila,,Abu-Aweigila,,,,,,,,,,,x
-b_zuwayid,b_zuwayid,,Zuwayid,,,,,,,,,,,x
-d_damascus,d_damascus,,Damascus,,,,,,,,,,,x
-d_damascus,d_damascus_adj,,Damascan,,,,,,,,,,,x
-c_damascus,PROV728,,Damascus,,,,,,,,,,,x
-c_damascus,c_damascus_adj,,Damascan,,,,,,,,,,,x
-b_qsarbardawil,b_qsarbardawil,,Qsar Bardawil,,,,,,,,,,,x
-b_damascus,b_damascus,,Damascus,,,,,,,,,,,x
-b_daraa,b_daraa,,Daraa,,,,,,,,,,,x
-b_shahba,b_shahba,,Shahba,,,,,,,,,,,x
-b_suada,b_suada,,Suada,,,,,,,,,,,x
-b_alsanamayn,b_alsanamayn,,Al-Sanamayn,,,,,,,,,,,x
-b_izra,b_izra,,Izra,,,,,,,,,,,x
-b_duma,b_duma,,Duma,,,,,,,,,,,x
-c_irbid,PROV725,,Irbid,,,,,,,,,,,x
-c_irbid,c_irbid_adj,,Irbidian,,,,,,,,,,,x
-b_aljun,b_aljun,,Aljun,,,,,,,,,,,x
-b_irbid,b_irbid,,Irbid,,,,,,,,,,,x
-b_pella,b_pella,,Pella,,,,,,,,,,,x
-b_yarmouk,b_yarmouk,,Yarmouk,,,,,,,,,,,x
-b_habisjaldak,b_habisjaldak,,Habis Jaldak,,,,,,,,,,,x
-b_aydoun,b_aydoun,,Aydoun,,,,,,,,,,,x
-b_ummqais,b_ummqais,,Umm Qais,,,,,,,,,,,x
-b_gadera,b_gadera,,Gadera,,,,,,,,,,,x
-c_al_mafraq,PROV726,,Al Mafraq,,,,,,,,,,,x
-c_al_mafraq,c_al_mafraq_adj,,Al Mafraqian,,,,,,,,,,,x
-b_mafraq,b_mafraq,,Mafraq,,,,,,,,,,,x
-b_thughra,b_thughra,,Thughra,,,,,,,,,,,x
-b_jarash,b_jarash,,Jarash,,,,,,,,,,,x
-b_nasib,b_nasib,,Nasib,,,,,,,,,,,x
-b_buwayda,b_buwayda,,Buwayda,,,,,,,,,,,x
-b_ramtah,b_ramtah,,Ramtah,,,,,,,,,,,x
-b_taebah,b_taebah,,Taebah,,,,,,,,,,,x
-b_elemtaih,b_elemtaih,,Elemtaih,,,,,,,,,,,x
-c_az_zarqa,PROV714,,Az Zarqa,,,,,,,,,,,x
-c_az_zarqa,c_az_zarqa_adj,,Az Zarqan,,,,,,,,,,,x
-b_zarqa,b_zarqa,,Zarqa,,,,,,,,,,,x
-b_qasramra,b_qasramra,,Qasr Amra,,,,,,,,,,,x
-b_russeifa,b_russeifa,,Russeifa,,,,,,,,,,,x
-b_qasralhallabat,b_qasralhallabat,,Qasr al Hallabat,,,,,,,,,,,x
-b_shabib,b_shabib,,Shabib,,,,,,,,,,,x
-b_hashemiyya,b_hashemiyya,,Hashemiyya,,,,,,,,,,,x
-b_khurqah,b_khurqah,,Khurqah,,,,,,,,,,,x
-b_amratamad,b_amratamad,,Amrat Amad,,,,,,,,,,,x
-c_amman,PROV724,,Amman,,,,,,,,,,,x
-c_amman,c_amman_adj,,Ammanian,,,,,,,,,,,x
-b_amman,b_amman,,Amman,,,,,,,,,,,x
-b_dhiban,b_dhiban,,Dhiban,,,,,,,,,,,x
-b_salt,b_salt,,Salt,,,,,,,,,,,x
-b_mahis,b_mahis,,Mahis,,,,,,,,,,,x
-b_fuheis,b_fuheis,,Fuheis,,,,,,,,,,,x
-b_deir_alla,b_deir_alla,,Deir Alla,,,,,,,,,,,x
-b_jerash,b_jerash,,Jerash,,,,,,,,,,,x
-b_al_balqa,b_al_balqa,,Al Balqa,,,,,,,,,,,x
-d_syria,d_syria,,Syria,,,,,,,,,,,x
-d_syria,d_syria_adj,,Syrian,,,,,,,,,,,x
-c_syria,PROV727,,Bostra,,,,,,,,,,,x
-c_syria,c_syria_adj,,Bostrian,,,,,,,,,,,x
-b_amrah,b_amrah,,Amrah,,,,,,,,,,,x
-b_otaybah,b_otaybah,,Otaybah,,,,,,,,,,,x
-b_adra,b_adra,,Adra,,,,,,,,,,,x
-b_jarba,b_jarba,,Jarba,,,,,,,,,,,x
-b_qasmiye,b_qasmiye,,Qásmiyé,,,,,,,,,,,x
-b_hayjanah,b_hayjanah,,Hayjanah,,,,,,,,,,,x
-b_buraq,b_buraq,,Buraq,,,,,,,,,,,x
-b_baly,b_baly,,Baly,,,,,,,,,,,x
-c_druz,PROV713,,Druz,,,,,,,,,,,x
-c_druz,c_druz_adj,,Druzian,,,,,,,,,,,x
-b_salkhard,b_salkhard,,Salkhard,,,,,,,,,,,x
-b_dibin,b_dibin,,Dibin,,,,,,,,,,,x
-b_awas,b_awas,,Awas,,,,,,,,,,,x
-b_busra,b_busra,,Busra,,,,,,,,,,,x
-b_ghariyah,b_ghariyah,,Ghariyah,,,,,,,,,,,x
-b_shannireh,b_shannireh,,Shannireh,,,,,,,,,,,x
-b_samj,b_samj,,Samj,,,,,,,,,,,x
-b_thoula,b_thoula,,T'houla,,,,,,,,,,,x
-c_suwaida,PROV712,,Suwaida,,,,,,,,,,,x
-c_suwaida,c_suwaida_adj,,Suwaidan,,,,,,,,,,,x
-b_suwaida,b_suwaida,,Suwaida,,,,,,,,,,,x
-b_raha,b_raha,,Raha,,,,,,,,,,,x
-b_taraba,b_taraba,,Taraba,,,,,,,,,,,x
-b_nimreh,b_nimreh,,Nimreh,,,,,,,,,,,x
-b_salah,b_salah,,Salah,,,,,,,,,,,x
-b_busan,b_busan,,Busan,,,,,,,,,,,x
-b_tlilin,b_tlilin,,Tlilin,,,,,,,,,,,x
-b_qummoualad,b_qummoualad,,Qumm Oualad,,,,,,,,,,,x
-c_tadmor,PROV729,,Al-Sukhnah,,,,,,,,,,,x
+b_rafah,b_rafah,,Rafah,,,,,,,,,,,x
+b_rafah,greek,,Raphia,,,,,,,,,,,x
+b_rafah,roman,,Raphia,,,,,,,,,,,x
+k_mesopotamia,k_mesopotamia,,al-Iraq,,,,,,,,,,,x
+k_mesopotamia,k_mesopotamia_adj,,Iraqi,,,,,,,,,,,x
+k_mesopotamia,assyrian,,Bet Aramaye,,,,,,,,,,,x
+d_tigris,d_tigris,,al-Batihah,,,,,,,,,,,x
+d_tigris,d_tigris_adj,,Batihan,,,,,,,,,,,x
+c_tigris,PROV656,,Wasit,,,,,,,,,,,x
+c_tigris,c_tigris_adj,,Tigrisian,,,,,,,,,,,x
+c_tigris,assyrian,,Kashkar,,,,,,,,,,,x
+b_wasit,b_wasit,,Wasit,,,,,,,,,,,x
+b_wasit,assyrian,,Kashkar,,,,,,,,,,,x
+b_fammassilh,b_fammassilh,,Famm as-Silh,,,,,,,,,,,x
+b_almadar,b_almadar,,Al-Madar,,,,,,,,,,,x
+b_arrushafa,b_arrushafa,,Ar-Rushafa,,,,,,,,,,,x
+b_alfarut,b_alfarut,,Al-Farut,,,,,,,,,,,x
+b_nahrsabus,b_nahrsabus,,Nahr Sabus,,,,,,,,,,,x
+c_al_nasiryah,PROV691,,Al-Batihah,,,,,,,,,,,x
+c_al_nasiryah,c_al_nasiryah_adj,,Al Nasiryahian,,,,,,,,,,,x
+b_assaliq,b_assaliq,,as-Saliq,,,,,,,,,,,x
+b_niffar,b_niffar,,Niffar,,,,,,,,,,,x
+c_basra,PROV649,,Basrah,,,,,,,,,,,x
+c_basra,c_basra_adj,,Basran,,,,,,,,,,,x
+c_basra,assyrian,,Perath d’Maishan,,,,,,,,,,,x
+b_qalatbasra,b_qalatbasra,,Qal'at al-Basrah,,,,,,,,,,,x
+b_basra,b_basra,,Basrah,,,,,,,,,,,x
+b_basra,assyrian,,Perath d’Maishan,,,,,,,,,,,x
+b_abbadan,b_abbadan,,Abbadan,,,,,,,,,,,x
+b_alubulla,b_alubulla,,Al-Ubulla,,,,,,,,,,,x
+b_bayan,b_bayan,,Bayan,,,,,,,,,,,x
+b_kazima,b_kazima,,Kazima,,,,,,,,,,,x
+d_kufa,d_kufa,,al-Kufa,,,,,,,,,,,x
+d_kufa,d_kufa_adj,,Kufan,,,,,,,,,,,x
+c_al_nadjaf,PROV692,,Qadisiyyah,,,,,,,,,,,x
+c_al_nadjaf,c_al_nadjaf_adj,,Al Nadjafian,,,,,,,,,,,x
+b_qadisiyyah,b_qadisiyyah,,Qadisiyyah,,,,,,,,,,,x
+b_waqisa,b_waqisa,,Waqisa,,,,,,,,,,,x
+b_masjidsad,b_masjidsad,,Masjid Sa'd,,,,,,,,,,,x
+c_kufa,PROV655,,Al-Kufah,,,,,,,,,,,x
+c_kufa,c_kufa_adj,,Kufan,,,,,,,,,,,x
+c_kufa,assyrian,,Hirta,,,,,,,,,,,x
+b_qalatkufa,b_qalatkufa,,Qal'at al-Kufah,,,,,,,,,,,x
+b_kufa,b_kufa,,Kufa,,,,,,,,,,,x
+b_nadjaf,b_nadjaf,,Nadjaf,,,,,,,,,,,x
+b_alhirah,b_alhirah,,Al-Hirah,,,,,,,,,,,x
+b_alhirah,assyrian,,Hirta,,,,,,,,,,,x
+c_karbala,PROV694,,Karbala,,,,,,,,,,,x
+c_karbala,c_karbala_adj,,Karbalan,,,,,,,,,,,x
+b_ukhaidir,b_ukhaidir,,Al-Ukhaidir,,,,,,,,,,,x
+b_karbala,b_karbala,,Karbala,,,,,,,,,,,x
+b_ainaltamur,b_ainaltamur,,Ain-al-Tamr,,,,,,,,,,,x
+b_safata,b_safata,,Safata,,,,,,,,,,,x
+d_kermanshah,d_kermanshah,,Lorestan,,,,,,,,,,,x
+d_kermanshah,d_kermanshah_adj,,Lorestaní,,,,,,,,,,,x
+c_luristan,PROV657,,Luristan,,,,,,,,,,,x
+c_luristan,c_luristan_adj,,Luristian,,,,,,,,,,,x
+b_dezbar,b_dezbar,,Dezbar,,,,,,,,,,,x
+b_khorramabad,b_khorramabad,,Khorramabad,,,,,,,,,,,x
+b_borujerd,b_borujerd,,Borujerd,,,,,,,,,,,x
+b_aligoodarz,b_aligoodarz,,Aligoodarz,,,,,,,,,,,x
+b_koohdasht,b_koohdasht,,Koohdasht,,,,,,,,,,,x
+b_alashtar,b_alashtar,,Alashtar,,,,,,,,,,,x
+d_baghdad,d_baghdad,,Baghdad,,,,,,,,,,,x
+d_baghdad,d_baghdad_adj,,Baghdadian,,,,,,,,,,,x
+c_baghdad,PROV693,,Baghdad,,,,,,,,,,,x
+c_baghdad,c_baghdad_adj,,Baghdadian,,,,,,,,,,,x
+c_baghdad,assyrian,,Seliq,,,,,,,,,,,x
+c_baghdad,greek,,Ktesiphon,,,,,,,,,,,x
+c_baghdad,roman,,Ctesiphon,,,,,,,,,,,x
+b_qalatbaghdad,b_qalatbaghdad,,Qal'at al-Baghdad,,,,,,,,,,,x
+b_bagdad,b_bagdad,,Bagdad,,,,,,,,,,,x
+b_madain,b_madain,,Mada'in,,,,,,,,,,,x
+b_madain,assyrian,,Seliq,,,,,,,,,,,x
+b_madain,greek,,Ktesiphon,,,,,,,,,,,x
+b_madain,roman,,Ctesiphon,,,,,,,,,,,x
+b_muhawwal,b_muhawwal,,Al-Muhawwal,,,,,,,,,,,x
+b_baradan,b_baradan,,Baradan,,,,,,,,,,,x
+b_nahrawan,b_nahrawan,,Jisr Nahrawan,,,,,,,,,,,x
+b_awana,b_awana,,Awana,,,,,,,,,,,x
+c_al_amarah,PROV690,,Nahrawan,,,,,,,,,,,x
+c_al_amarah,c_al_amarah_adj,,Al Amarahian,,,,,,,,,,,x
+c_al_amarah,assyrian,,Dasqarta d’Malka,,,,,,,,,,,x
+b_bandanijin,b_bandanijin,,Bandanijin,,,,,,,,,,,x
+b_baqubah,b_baqubah,,Baqubah,,,,,,,,,,,x
+b_daskara,b_daskara,,Daskara,,,,,,,,,,,x
+b_daskara,assyrian,,Dasqarta d’Malka,,,,,,,,,,,x
+b_jalula,b_jalula,,Jalula,,,,,,,,,,,x
+b_barazarruz,b_barazarruz,,Baraz-ar-Ruz,,,,,,,,,,,x
+b_iskaf_nahrawan,b_iskaf_nahrawan,,Iskaf,,,,,,,,,,,x
+c_tadmor,PROV729,,Al-Hillah,,,,,,,,,,,x
 c_tadmor,c_tadmor_adj,,Al-Sukhnahn,,,,,,,,,,,x
-b_husaiba,b_husaiba,,Husaiba,,,,,,,,,,,x
-b_bukamal,b_bukamal,,Bukamal,,,,,,,,,,,x
-b_alqaim,b_alqaim,,Al-Qa'im,,,,,,,,,,,x
-b_salhiyah,b_salhiyah,,Salhiyah,,,,,,,,,,,x
-b_assusah,b_assusah,,As-Susah,,,,,,,,,,,x
-b_subaykhan,b_subaykhan,,Subaykhan,,,,,,,,,,,x
-b_asharah,b_asharah,,Asharah,,,,,,,,,,,x
-b_alqunjah,b_alqunjah,,Al-Qunjah,,,,,,,,,,,x
-c_al_bichri,PROV710,,Al Bichri,,,,,,,,,,,x
+b_numaniya,b_numaniya,,Numaniya,,,,,,,,,,,x
+b_numaniya,assyrian,,Zabe,,,,,,,,,,,x
+b_annil,b_annil,,an-Nil,,,,,,,,,,,x
+b_jarjaraya,b_jarjaraya,,Jarjaraya,,,,,,,,,,,x
+b_hillah,b_hillah,,Hillah,,,,,,,,,,,x
+b_birmallaha,b_birmallaha,,Bir Mallaha,,,,,,,,,,,x
+d_samarra,d_samarra,,Samarrah,,,,,,,,,,,x
+d_samarra,d_samarra_adj,,Samarran,,,,,,,,,,,x
+c_deir,PROV695,,Anbar,,,,,,,,,,,x
+c_deir,c_deir_adj,,Deirian,,,,,,,,,,,x
+c_deir,greek,,Anatha,,,,,,,,,,,x
+c_deir,roman,,Anatha,,,,,,,,,,,x
+b_anah,b_anah,,Anah,,,,,,,,,,,x
+b_anah,greek,,Anatha,,,,,,,,,,,x
+b_anah,roman,,Anatha,,,,,,,,,,,x
+b_haditha_anbar,b_haditha_anbar,,Al-Haditha,,,,,,,,,,,x
+b_hit,b_hit,,Hit,,,,,,,,,,,x
+b_anbar_iraq,b_anbar_iraq,,Al-Anbar,,,,,,,,,,,x
+b_anbar_iraq,assyrian,,Peroz Shabur,,,,,,,,,,,x
+c_druz,PROV713,,Takrit,,,,,,,,,,,x
+c_druz,c_druz_adj,,Druzian,,,,,,,,,,,x
+c_druz,assyrian,,Tirhan,,,,,,,,,,,x
+c_druz,greek,,Birtha,,,,,,,,,,,x
+c_druz,roman,,Birtha,,,,,,,,,,,x
+b_qalattagrit,b_qalattagrit,,Qal'at al-Takrit,,,,,,,,,,,x
+b_tagrit,b_tagrit,,Takrit,,,,,,,,,,,x
+b_tagrit,assyrian,,Tagrit,,,,,,,,,,,x
+b_tagrit,greek,,Birtha,,,,,,,,,,,x
+b_tagrit,roman,,Birtha,,,,,,,,,,,x
+b_jabulta,b_jabulta,,Jabulta,,,,,,,,,,,x
+b_jabulta,assyrian,,Gbiltha,,,,,,,,,,,x
+b_barimma,b_barimma,,Barimma,,,,,,,,,,,x
+c_euphrates,PROV696,,Samarrah,,,,,,,,,,,x
+c_euphrates,c_euphrates_adj,,Samarrian,,,,,,,,,,,x
+c_euphrates,greek,,Souma,,,,,,,,,,,x
+c_euphrates,roman,,Sumere,,,,,,,,,,,x
+b_alqadisiyyah,b_alqadisiyyah,,Al-Qadisiyyah,,,,,,,,,,,x
+b_samarra,b_samarra,,Samarra,,,,,,,,,,,x
+b_samarra,greek,,Souma,,,,,,,,,,,x
+b_samarra,roman,,Sumere,,,,,,,,,,,x
+b_ukbara,b_ukbara,,Ukbara,,,,,,,,,,,x
+b_balad,b_balad,,Balad,,,,,,,,,,,x
+b_harba,b_harba,,Harba,,,,,,,,,,,x
+b_aldur,b_aldur,,Al-Dur,,,,,,,,,,,x
+d_kurdistan,d_kurdistan,,Kurdistan,,,,,,,,,,,x
+d_kurdistan,d_kurdistan_adj,,Kurdistaní,,,,,,,,,,,x
+d_kurdistan,adhari,,Kordestan,,,,,,,,,,,x
+d_kurdistan,daylamite,,Kordestan,,,,,,,,,,,x
+d_kurdistan,khorasani,,Kordestan,,,,,,,,,,,x
+d_kurdistan,oghuz,,Kürdistan,,,,,,,,,,,x
+d_kurdistan,persian,,Kordestan,,,,,,,,,,,x
+d_kurdistan,turkish,,Kürdistan,,,,,,,,,,,x
+d_kurdistan,turkmen,,Kürdistan,,,,,,,,,,,x
+c_kirkuk,PROV687,,Daquqa,,,,,,,,,,,x
+c_kirkuk,c_kirkuk_adj,,Kirkukian,,,,,,,,,,,x
+c_kirkuk,greek,,Korkyra,,,,,,,,,,,x
+c_kirkuk,oghuz,,Dakuk,,,,,,,,,,,x
+c_kirkuk,roman,,Corcura,,,,,,,,,,,x
+c_kirkuk,turkish,,Dakuk,,,,,,,,,,,x
+c_kirkuk,turkmen,,Dakuk,,,,,,,,,,,x
+b_daquq,b_daquq,,Daquq,,,,,,,,,,,x
+b_daquq,oghuz,,Dakuk,,,,,,,,,,,x
+b_daquq,turkish,,Dakuk,,,,,,,,,,,x
+b_daquq,turkmen,,Dakuk,,,,,,,,,,,x
+b_kirkuk,b_kirkuk,,Kirkuk,,,,,,,,,,,x
+b_kirkuk,assyrian,,Karka d-Beth Slokh,,,,,,,,,,,x
+b_kirkuk,greek,,Korkyra,,,,,,,,,,,x
+b_kirkuk,kurdish,,Kerkûk,,,,,,,,,,,x
+b_kirkuk,oghuz,,Kerkük,,,,,,,,,,,x
+b_kirkuk,roman,,Corcura,,,,,,,,,,,x
+b_kirkuk,turkish,,Kerkük,,,,,,,,,,,x
+b_kirkuk,turkmen,,Kerkük,,,,,,,,,,,x
+b_hanijar,b_hanijar,,Hanijar,,,,,,,,,,,x
+b_lashom,b_lashom,,Lashom,,,,,,,,,,,x
+c_shahrazur,PROV715,,Shahrazur,,,,,,,,,,,x
+c_shahrazur,c_shahrazur_adj,,Shahrazuri,,,,,,,,,,,x
+c_shahrazur,c_shahrazur_adj_kurdish,,Sehrezûri,,,,,,,,,,,x
+c_shahrazur,c_shahrazur_adj_oghuz,,Šehr-i Zori,,,,,,,,,,,x
+c_shahrazur,c_shahrazur_adj_turkish,,Šehr-i Zori,,,,,,,,,,,x
+c_shahrazur,c_shahrazur_adj_turkmen,,Šehr-i Zori,,,,,,,,,,,x
+c_shahrazur,kurdish,,Sehrezûr,,,,,,,,,,,x
+c_shahrazur,oghuz,,Šehr-i Zor,,,,,,,,,,,x
+c_shahrazur,turkish,,Šehr-i Zor,,,,,,,,,,,x
+c_shahrazur,turkmen,,Šehr-i Zor,,,,,,,,,,,x
+b_shahrazur,b_shahrazur,,Shahrazur,,,,,,,,,,,x
+b_shahrazur,kurdish,,Sehrezûr,,,,,,,,,,,x
+b_shahrazur,oghuz,,Šehr-i Zor,,,,,,,,,,,x
+b_shahrazur,turkish,,Šehr-i Zor,,,,,,,,,,,x
+b_shahrazur,turkmen,,Šehr-i Zor,,,,,,,,,,,x
+b_tiranshah,b_tiranshah,,Tiranshah,,,,,,,,,,,x
+b_sine,b_sine,,Sine,,,,,,,,,,,x
+c_kermanshah,PROV688,,Kermanshah,,,,,,,,,,,x
+c_kermanshah,c_kermanshah_adj,,Kermanshahian,,,,,,,,,,,x
+b_kangivar,b_kangivar,,Kangivár,,,,,,,,,,,x
+b_kermanshah,b_kermanshah,,Kermánsháh,,,,,,,,,,,x
+b_hulwan,b_hulwan,,Hulwán,,,,,,,,,,,x
+b_mahalkufa,b_mahalkufa,,Máh-al-Kúfa,,,,,,,,,,,x
+k_aljazira,k_aljazira,,Al Jazira,,,,,,,,,,,x
+k_aljazira,k_aljazira_adj,,Jaziran,,,,,,,,,,,x
+k_aljazira,k_aljazira_adj_greek,,Assyrian,,,,,,,,,,,x
+k_aljazira,greek,,Assyria,,,,,,,,,,,x
+k_aljazira,roman,,Assyria,,,,,,,,,,,x
+d_amida,d_amida,,Amid,,,,,,,,,,,x
+d_amida,d_amida_adj,,Amidan,,,,,,,,,,,x
+d_amida,d_amida_adj_andalusian_arabic,,Diyar Bakrian,,,,,,,,,,,x
+d_amida,d_amida_adj_armenian,,Aghdznikan,,,,,,,,,,,x
+d_amida,d_amida_adj_bedouin_arabic,,Diyar Bakrian,,,,,,,,,,,x
+d_amida,d_amida_adj_egyptian_arabic,,Diyar Bakrian,,,,,,,,,,,x
+d_amida,d_amida_adj_greek,,Arzanenan,,,,,,,,,,,x
+d_amida,d_amida_adj_levantine_arabic,,Diyar Bakrian,,,,,,,,,,,x
+d_amida,d_amida_adj_maghreb_arabic,,Diyar Bakrian,,,,,,,,,,,x
+d_amida,d_amida_adj_oghuz,,Diyar-i Bekrian,,,,,,,,,,,x
+d_amida,d_amida_adj_sicilian_arabic,,Diyar Bakrian,,,,,,,,,,,x
+d_amida,d_amida_adj_turkish,,Diyar-i Bekrian,,,,,,,,,,,x
+d_amida,d_amida_adj_turkmen,,Diyar-i Bekrian,,,,,,,,,,,x
+d_amida,andalusian_arabic,,Diyar Bakr,,,,,,,,,,,x
+d_amida,armenian,,Aghdznik,,,,,,,,,,,x
+d_amida,bedouin_arabic,,Diyar Bakr,,,,,,,,,,,x
+d_amida,egyptian_arabic,,Diyar Bakr,,,,,,,,,,,x
+d_amida,greek,,Arzanene,,,,,,,,,,,x
+d_amida,kurdish,,Amed,,,,,,,,,,,x
+d_amida,levantine_arabic,,Diyar Bakr,,,,,,,,,,,x
+d_amida,maghreb_arabic,,Diyar Bakr,,,,,,,,,,,x
+d_amida,oghuz,,Diyar-i Bekr,,,,,,,,,,,x
+d_amida,sicilian_arabic,,Diyar Bakr,,,,,,,,,,,x
+d_amida,turkish,,Diyar-i Bekr,,,,,,,,,,,x
+d_amida,turkmen,,Diyar-i Bekr,,,,,,,,,,,x
+c_amida,PROV683,,Amida,,,,,,,,,,,x
+c_amida,c_amida_adj,,Amidan,,,,,,,,,,,x
+c_amida,c_amida_adj_andalusian_arabic,,Âmidan,,,,,,,,,,,x
+c_amida,c_amida_adj_armenian,,Tigranokertan,,,,,,,,,,,x
+c_amida,c_amida_adj_bedouin_arabic,,Âmidan,,,,,,,,,,,x
+c_amida,c_amida_adj_egyptian_arabic,,Âmidan,,,,,,,,,,,x
+c_amida,c_amida_adj_kurdish,,Amedian,,,,,,,,,,,x
+c_amida,c_amida_adj_levantine_arabic,,Âmidan,,,,,,,,,,,x
+c_amida,c_amida_adj_maghreb_arabic,,Âmidan,,,,,,,,,,,x
+c_amida,c_amida_adj_oghuz,,Diyar-i Bekrian,,,,,,,,,,,x
+c_amida,c_amida_adj_sicilian_arabic,,Âmidan,,,,,,,,,,,x
+c_amida,c_amida_adj_turkish,,Diyar-i Bekrian,,,,,,,,,,,x
+c_amida,c_amida_adj_turkmen,,Diyar-i Bekrian,,,,,,,,,,,x
+c_amida,andalusian_arabic,,Âmid,,,,,,,,,,,x
+c_amida,armenian,,Tigranakert,,,,,,,,,,,x
+c_amida,assyrian,,Amid,,,,,,,,,,,x
+c_amida,bedouin_arabic,,Âmid,,,,,,,,,,,x
+c_amida,egyptian_arabic,,Âmid,,,,,,,,,,,x
+c_amida,kurdish,,Amed,,,,,,,,,,,x
+c_amida,levantine_arabic,,Âmid,,,,,,,,,,,x
+c_amida,maghreb_arabic,,Âmid,,,,,,,,,,,x
+c_amida,oghuz,,Diyar-i Bekr,,,,,,,,,,,x
+c_amida,sicilian_arabic,,Âmid,,,,,,,,,,,x
+c_amida,turkish,,Diyar-i Bekr,,,,,,,,,,,x
+c_amida,turkmen,,Diyar-i Bekr,,,,,,,,,,,x
+b_kiaburc,b_kiaburc,,Kia Burc,,,,,,,,,,,x
+b_amida,b_amida,,Amida,,,,,,,,,,,x
+b_amida,andalusian_arabic,,Âmid,,,,,,,,,,,x
+b_amida,armenian,,Tigranakert,,,,,,,,,,,x
+b_amida,assyrian,,Amid,,,,,,,,,,,x
+b_amida,bedouin_arabic,,Âmid,,,,,,,,,,,x
+b_amida,egyptian_arabic,,Âmid,,,,,,,,,,,x
+b_amida,kurdish,,Amed,,,,,,,,,,,x
+b_amida,levantine_arabic,,Âmid,,,,,,,,,,,x
+b_amida,maghreb_arabic,,Âmid,,,,,,,,,,,x
+b_amida,oghuz,,Diyar-i Bekr,,,,,,,,,,,x
+b_amida,sicilian_arabic,,Âmid,,,,,,,,,,,x
+b_amida,turkish,,Diyar-i Bekr,,,,,,,,,,,x
+b_amida,turkmen,,Diyar-i Bekr,,,,,,,,,,,x
+b_ulucamii,b_ulucamii,,Ulu Camii,,,,,,,,,,,x
+b_ulucamii,armenian,,Surp Giragos,,,,,,,,,,,x
+b_ulucamii,greek,,Monì tìs Agios Giragos,,,,,,,,,,,x
+b_suraamede,b_suraamede,,Sura Amede,,,,,,,,,,,x
+b_hazretisuleymancamii,b_hazretisuleymancamii,,Hazreti Suleyman Cami,,,,,,,,,,,x
+b_egil,b_egil,,Egil,,,,,,,,,,,x
+b_idtodyolataloho,b_idtodyolataloho,,Idto d-Yolat Aloh,,,,,,,,,,,x
+c_hisn_kayf,PROV1482,,Hisn Kayf,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_andalusian_arabic,,Mayyafariqinan,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_armenian,,Harsenkevian,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_bedouin_arabic,,Mayyafariqinan,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_egyptian_arabic,,Mayyafariqinan,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_greek,,Kiphan,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_kurdish,,Heskîfan,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_levantine_arabic,,Mayyafariqinan,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_maghreb_arabic,,Mayyafariqinan,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_oghuz,,Hasankeyfan,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_sicilian_arabic,,Mayyafariqinan,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_turkish,,Hasankeyfan,,,,,,,,,,,x
+c_hisn_kayf,c_hisn_kayf_adj_turkmen,,Hasankeyfan,,,,,,,,,,,x
+c_hisn_kayf,andalusian_arabic,,Mayyafariqin,,,,,,,,,,,x
+c_hisn_kayf,armenian,,Nprkert,,,,,,,,,,,x
+c_hisn_kayf,assyrian,,Mayperqit,,,,,,,,,,,x
+c_hisn_kayf,bedouin_arabic,,Mayyafariqin,,,,,,,,,,,x
+c_hisn_kayf,egyptian_arabic,,Mayyafariqin,,,,,,,,,,,x
+c_hisn_kayf,greek,,Martyropolis,,,,,,,,,,,x
+c_hisn_kayf,kurdish,,Heskîf,,,,,,,,,,,x
+c_hisn_kayf,levantine_arabic,,Mayyafariqin,,,,,,,,,,,x
+c_hisn_kayf,maghreb_arabic,,Mayyafariqin,,,,,,,,,,,x
+c_hisn_kayf,oghuz,,Hasankeyf,,,,,,,,,,,x
+c_hisn_kayf,sicilian_arabic,,Mayyafariqin,,,,,,,,,,,x
+c_hisn_kayf,turkish,,Hasankeyf,,,,,,,,,,,x
+c_hisn_kayf,turkmen,,Hasankeyf,,,,,,,,,,,x
+b_mayyafarikin,b_mayyafarikin,,Mayyafarikin,,,,,,,,,,,x
+b_mayyafarikin,andalusian_arabic,,Mayyafariqin,,,,,,,,,,,x
+b_mayyafarikin,armenian,,Nprkert,,,,,,,,,,,x
+b_mayyafarikin,assyrian,,Mayperqit,,,,,,,,,,,x
+b_mayyafarikin,bedouin_arabic,,Mayyafariqin,,,,,,,,,,,x
+b_mayyafarikin,egyptian_arabic,,Mayyafariqin,,,,,,,,,,,x
+b_mayyafarikin,greek,,Martyropolis,,,,,,,,,,,x
+b_mayyafarikin,kurdish,,Farqîn,,,,,,,,,,,x
+b_mayyafarikin,levantine_arabic,,Mayyafariqin,,,,,,,,,,,x
+b_mayyafarikin,maghreb_arabic,,Mayyafariqin,,,,,,,,,,,x
+b_mayyafarikin,oghuz,,Meyafarikîn,,,,,,,,,,,x
+b_mayyafarikin,sicilian_arabic,,Mayyafariqin,,,,,,,,,,,x
+b_mayyafarikin,turkish,,Meyafarikîn,,,,,,,,,,,x
+b_mayyafarikin,turkmen,,Meyafarikîn,,,,,,,,,,,x
+b_hisnkayf,b_hisnkayf,,Hisn Kayf,,,,,,,,,,,x
+b_hisnkayf,armenian,,Harsenkev,,,,,,,,,,,x
+b_hisnkayf,assyrian,,Hésn Kayfa,,,,,,,,,,,x
+b_hisnkayf,greek,,Kiphas,,,,,,,,,,,x
+b_hisnkayf,kurdish,,Heskîf,,,,,,,,,,,x
+b_hisnkayf,oghuz,,Hasankeyf,,,,,,,,,,,x
+b_hisnkayf,turkish,,Hasankeyf,,,,,,,,,,,x
+b_hisnkayf,turkmen,,Hasankeyf,,,,,,,,,,,x
+b_siird,b_siird,,Si'ird,,,,,,,,,,,x
+b_siird,armenian,,Sgert,,,,,,,,,,,x
+b_siird,assyrian,,Si'reth,,,,,,,,,,,x
+b_siird,greek,,Sirte,,,,,,,,,,,x
+b_siird,kurdish,,Sêrt,,,,,,,,,,,x
+b_siird,oghuz,,Si'irt,,,,,,,,,,,x
+b_siird,turkish,,Si'irt,,,,,,,,,,,x
+b_siird,turkmen,,Si'irt,,,,,,,,,,,x
+b_arzan,b_arzan,,Ardzen,,,,,,,,,,,x
+b_arzan,andalusian_arabic,,Arzan,,,,,,,,,,,x
+b_arzan,assyrian,,Arzun,,,,,,,,,,,x
+b_arzan,bedouin_arabic,,Arzan,,,,,,,,,,,x
+b_arzan,egyptian_arabic,,Arzan,,,,,,,,,,,x
+b_arzan,greek,,Nikephorion,,,,,,,,,,,x
+b_arzan,kurdish,,Arzan,,,,,,,,,,,x
+b_arzan,levantine_arabic,,Arzan,,,,,,,,,,,x
+b_arzan,maghreb_arabic,,Arzan,,,,,,,,,,,x
+b_arzan,oghuz,,Erzen,,,,,,,,,,,x
+b_arzan,sicilian_arabic,,Arzan,,,,,,,,,,,x
+b_arzan,turkish,,Erzen,,,,,,,,,,,x
+b_arzan,turkmen,,Erzen,,,,,,,,,,,x
+d_jazira,d_jazira,,Diyar Mudar,,,,,,,,,,,x
+d_jazira,d_jazira_adj,,Mudaran,,,,,,,,,,,x
+d_jazira,d_jazira_adj_greek,,Euphratensian,,,,,,,,,,,x
+d_jazira,greek,,Euphratensis,,,,,,,,,,,x
+d_jazira,roman,,Euphratensis,,,,,,,,,,,x
+c_asas,PROV709,,Ar-Raqqah,,,,,,,,,,,x
+c_asas,c_asas_adj,,Asasian,,,,,,,,,,,x
+c_asas,c_asas_adj_greek,,Kallinikan,,,,,,,,,,,x
+c_asas,greek,,Kallinikos,,,,,,,,,,,x
+c_asas,roman,,Callinicum,,,,,,,,,,,x
+b_rakka,b_rakka,,ar-Raqqah,,,,,,,,,,,x
+b_rakka,greek,,Kallinikos,,,,,,,,,,,x
+b_rakka,roman,,Callinicum,,,,,,,,,,,x
+b_qalatjabar,b_qalatjabar,,Qal'at Ja'bar,,,,,,,,,,,x
+b_qalatjabar,greek,,Dausara,,,,,,,,,,,x
+b_qalatjabar,oghuz,,Caber Hisar,,,,,,,,,,,x
+b_qalatjabar,roman,,Dausara,,,,,,,,,,,x
+b_qalatjabar,turkish,,Caber Hisar,,,,,,,,,,,x
+b_qalatjabar,turkmen,,Caber Hisar,,,,,,,,,,,x
+b_talabyad,b_talabyad,,Tal Abyad,,,,,,,,,,,x
+b_resafa,b_resafa,,Resafa,,,,,,,,,,,x
+b_resafa,greek,,Sergioupolis,,,,,,,,,,,x
+b_resafa,roman,,Sergiopolis,,,,,,,,,,,x
+b_ar-rafiqa,b_ar-rafiqa,,ar-Rafiqah,,,,,,,,,,,x
+b_bizunasyria,b_bizunasyria,,Bizuna,,,,,,,,,,,x
+b_zarzakka,b_zarzakka,,Mar Zakka,,,,,,,,,,,x
+c_al_bichri,PROV710,,Rahba,,,,,,,,,,,x
 c_al_bichri,c_al_bichri_adj,,Al Bichrian,,,,,,,,,,,x
-b_bichri,b_bichri,,Bichri,,,,,,,,,,,x
+c_al_bichri,c_al_bichri_adj_greek,,Kirkesian,,,,,,,,,,,x
+c_al_bichri,assyrian,,Qerqesin,,,,,,,,,,,x
+c_al_bichri,greek,,Kirkesion,,,,,,,,,,,x
+c_al_bichri,roman,,Circesium,,,,,,,,,,,x
+b_bichri,b_bichri,,ar-Rahba,,,,,,,,,,,x
 b_deiralzur,b_deiralzur,,Deir al-Zur,,,,,,,,,,,x
-b_osrhoene,b_osrhoene,,Osrhoene,,,,,,,,,,,x
+b_deiralzur,armenian,,Der Zor,,,,,,,,,,,x
+b_deiralzur,greek,,Deir,,,,,,,,,,,x
+b_deiralzur,roman,,Deir,,,,,,,,,,,x
+b_osrhoene,b_osrhoene,,Qarqisiya,,,,,,,,,,,x
+b_osrhoene,assyrian,,Qerqesin,,,,,,,,,,,x
+b_osrhoene,greek,,Kirkesion,,,,,,,,,,,x
+b_osrhoene,roman,,Circesium,,,,,,,,,,,x
 b_abukamal,b_abukamal,,Abu Kamal,,,,,,,,,,,x
 b_shamiyya,b_shamiyya,,Shamiyya,,,,,,,,,,,x
 b_mayadin,b_mayadin,,Mayadin,,,,,,,,,,,x
 b_sirhi,b_sirhi,,Sirhi,,,,,,,,,,,x
 b_mhaymidah,b_mhaymidah,,Mhaymidah,,,,,,,,,,,x
+c_harran,PROV1238,,Harran,,,,,,,,,,,x
+c_harran,c_harran_adj,,Harranan,,,,,,,,,,,x
+c_harran,c_harran_adj_greek,,Karraian,,,,,,,,,,,x
+c_harran,greek,,Karrai,,,,,,,,,,,x
+c_harran,roman,,Carrhae,,,,,,,,,,,x
+b_harran,b_harran,,Harran,,,,,,,,,,,x
+b_harran,greek,,Karrai,,,,,,,,,,,x
+b_harran,roman,,Carrhae,,,,,,,,,,,x
+b_tallmazwan,b_tallmazwan,,Tall Mazwan,,,,,,,,,,,x
+b_akcakale,b_akcakale,,Akçakale,,,,,,,,,,,x
+b_ceylanpinar,b_ceylanpinar,,Ceylanpinar,,,,,,,,,,,x
+d_diyareast,d_diyareast,,Diyar Rabi'a,,,,,,,,,,,x
+d_diyareast,d_diyareast_adj,,Rabian,,,,,,,,,,,x
+c_mardin,PROV1239,,Mardin,,,,,,,,,,,x
+c_mardin,c_mardin_adj,,Mardinian,,,,,,,,,,,x
+c_mardin,c_mardin_adj_andalusian_arabic,,Mâridînian,,,,,,,,,,,x
+c_mardin,c_mardin_adj_bedouin_arabic,,Mâridînian,,,,,,,,,,,x
+c_mardin,c_mardin_adj_egyptian_arabic,,Mâridînian,,,,,,,,,,,x
+c_mardin,c_mardin_adj_greek,,Maridan,,,,,,,,,,,x
+c_mardin,c_mardin_adj_kurdish,,Mêrdînian,,,,,,,,,,,x
+c_mardin,c_mardin_adj_levantine_arabic,,Mâridînian,,,,,,,,,,,x
+c_mardin,c_mardin_adj_maghreb_arabic,,Mâridînian,,,,,,,,,,,x
+c_mardin,c_mardin_adj_sicilian_arabic,,Mâridînian,,,,,,,,,,,x
+c_mardin,andalusian_arabic,,Mâridîn,,,,,,,,,,,x
+c_mardin,assyrian,,Merdô,,,,,,,,,,,x
+c_mardin,bedouin_arabic,,Mâridîn,,,,,,,,,,,x
+c_mardin,egyptian_arabic,,Mâridîn,,,,,,,,,,,x
+c_mardin,greek,,Marida,,,,,,,,,,,x
+c_mardin,kurdish,,Mêrdîn,,,,,,,,,,,x
+c_mardin,levantine_arabic,,Mâridîn,,,,,,,,,,,x
+c_mardin,maghreb_arabic,,Mâridîn,,,,,,,,,,,x
+c_mardin,sicilian_arabic,,Mâridîn,,,,,,,,,,,x
+b_maridin,b_maridin,,Maridin,,,,,,,,,,,x
+b_maridin,andalusian_arabic,,Mâridîn,,,,,,,,,,,x
+b_maridin,armenian,,Marida,,,,,,,,,,,x
+b_maridin,assyrian,,Merdô,,,,,,,,,,,x
+b_maridin,bedouin_arabic,,Mâridîn,,,,,,,,,,,x
+b_maridin,egyptian_arabic,,Mâridîn,,,,,,,,,,,x
+b_maridin,greek,,Marida,,,,,,,,,,,x
+b_maridin,kurdish,,Mêrdîn,,,,,,,,,,,x
+b_maridin,levantine_arabic,,Mâridîn,,,,,,,,,,,x
+b_maridin,maghreb_arabic,,Mâridîn,,,,,,,,,,,x
+b_maridin,sicilian_arabic,,Mâridîn,,,,,,,,,,,x
+b_resaina,b_resaina,,Resaina,,,,,,,,,,,x
+b_resaina,andalusian_arabic,,Ra's al-Ayn,,,,,,,,,,,x
+b_resaina,assyrian,,Reš Ayna,,,,,,,,,,,x
+b_resaina,bedouin_arabic,,Ra's al-Ayn,,,,,,,,,,,x
+b_resaina,egyptian_arabic,,Ra's al-Ayn,,,,,,,,,,,x
+b_resaina,levantine_arabic,,Ra's al-Ayn,,,,,,,,,,,x
+b_resaina,maghreb_arabic,,Ra's al-Ayn,,,,,,,,,,,x
+b_resaina,oghuz,,Resulayn,,,,,,,,,,,x
+b_resaina,sicilian_arabic,,Ra's al-Ayn,,,,,,,,,,,x
+b_resaina,turkish,,Resulayn,,,,,,,,,,,x
+b_resaina,turkmen,,Resulayn,,,,,,,,,,,x
+b_dunaysir,b_dunaysir,,Dunaysir,,,,,,,,,,,x
+b_dunaysir,andalusian_arabic,,Dunaysir,,,,,,,,,,,x
+b_dunaysir,armenian,,Tyel-Armen,,,,,,,,,,,x
+b_dunaysir,bedouin_arabic,,Dunaysir,,,,,,,,,,,x
+b_dunaysir,egyptian_arabic,,Dunaysir,,,,,,,,,,,x
+b_dunaysir,greek,,Margdis,,,,,,,,,,,x
+b_dunaysir,kurdish,,Qoser,,,,,,,,,,,x
+b_dunaysir,levantine_arabic,,Dunaysir,,,,,,,,,,,x
+b_dunaysir,maghreb_arabic,,Dunaysir,,,,,,,,,,,x
+b_dunaysir,oghuz,,Tell-Ermen,,,,,,,,,,,x
+b_dunaysir,sicilian_arabic,,Dunaysir,,,,,,,,,,,x
+b_dunaysir,turkish,,Tell-Ermen,,,,,,,,,,,x
+b_dunaysir,turkmen,,Tell-Ermen,,,,,,,,,,,x
+b_dairodmorhannanyo,b_dairodmorhannanyo,,Dairo d-Mor Hannanyo,,,,,,,,,,,x
+b_alsywaydaturkey,b_alsywaydaturkey,,Al-Suwayda,,,,,,,,,,,x
+b_alsywaydaturkey,oghuz,,Siverek,,,,,,,,,,,x
+b_alsywaydaturkey,turkish,,Siverek,,,,,,,,,,,x
+b_alsywaydaturkey,turkmen,,Siverek,,,,,,,,,,,x
+c_amadiya,PROV684,,Amadiyah,,,,,,,,,,,x
+c_amadiya,c_amadiya_adj,,Amadiyan,,,,,,,,,,,x
+c_amadiya,c_amadiya_adj_armenian,,Korchaykan,,,,,,,,,,,x
+c_amadiya,c_amadiya_adj_greek,,Corduenan,,,,,,,,,,,x
+c_amadiya,c_amadiya_adj_kurdish,,Kardoxi,,,,,,,,,,,x
+c_amadiya,armenian,,Korchayk,,,,,,,,,,,x
+c_amadiya,assyrian,,Amadiya,,,,,,,,,,,x
+c_amadiya,greek,,Corduene,,,,,,,,,,,x
+c_amadiya,kurdish,,Kardox,,,,,,,,,,,x
+c_amadiya,oghuz,,Amadiye,,,,,,,,,,,x
+c_amadiya,turkish,,Amadiye,,,,,,,,,,,x
+c_amadiya,turkmen,,Amadiye,,,,,,,,,,,x
+b_amadiyah,b_amadiyah,,Imadiyah,,,,,,,,,,,x
+b_amadiyah,assyrian,,Amadiya,,,,,,,,,,,x
+b_amadiyah,kurdish,,Amêdî,,,,,,,,,,,x
+b_amadiyah,oghuz,,Amadiye,,,,,,,,,,,x
+b_amadiyah,turkish,,Amadiye,,,,,,,,,,,x
+b_amadiyah,turkmen,,Amadiye,,,,,,,,,,,x
+b_hakkari,b_hakkari,,Colamerg,,,,,,,,,,,x
+b_hakkari,armenian,,Ilmar,,,,,,,,,,,x
+b_hakkari,kurdish,,Colemêrg,,,,,,,,,,,x
+b_hakkari,oghuz,,Çölemerik,,,,,,,,,,,x
+b_hakkari,turkish,,Çölemerik,,,,,,,,,,,x
+b_hakkari,turkmen,,Çölemerik,,,,,,,,,,,x
+b_alki,b_alki,,Alki,,,,,,,,,,,x
+b_alki,kurdish,,Elkê,,,,,,,,,,,x
+b_alki,oghuz,,Elki,,,,,,,,,,,x
+b_alki,turkish,,Elki,,,,,,,,,,,x
+b_alki,turkmen,,Elki,,,,,,,,,,,x
+c_al_jazira,PROV698,,Jazîrat ibn 'Umar,,,,,,,,,,,x
+c_al_jazira,c_al_jazira_adj,,Jazîrat ibn 'Umaran,,,,,,,,,,,x
+c_al_jazira,c_al_jazira_adj_assyrian,,Gziran,,,,,,,,,,,x
+c_al_jazira,c_al_jazira_adj_greek,,Bethzabdan,,,,,,,,,,,x
+c_al_jazira,c_al_jazira_adj_kurdish,,Cizîran,,,,,,,,,,,x
+c_al_jazira,c_al_jazira_adj_oghuz,,Cizran,,,,,,,,,,,x
+c_al_jazira,c_al_jazira_adj_turkish,,Cizran,,,,,,,,,,,x
+c_al_jazira,c_al_jazira_adj_turkmen,,Cizran,,,,,,,,,,,x
+c_al_jazira,assyrian,,Gazarta,,,,,,,,,,,x
+c_al_jazira,greek,,Bethzabde,,,,,,,,,,,x
+c_al_jazira,kurdish,,Cizîr,,,,,,,,,,,x
+c_al_jazira,oghuz,,Cizre,,,,,,,,,,,x
+c_al_jazira,turkish,,Cizre,,,,,,,,,,,x
+c_al_jazira,turkmen,,Cizre,,,,,,,,,,,x
+b_jazirat,b_jazirat,,Jazîrat ibn 'Umar,,,,,,,,,,,x
+b_jazirat,assyrian,,Gzira,,,,,,,,,,,x
+b_jazirat,greek,,Bethzabde,,,,,,,,,,,x
+b_jazirat,kurdish,,Cizîr,,,,,,,,,,,x
+b_jazirat,oghuz,,Cizre,,,,,,,,,,,x
+b_jazirat,turkish,,Cizre,,,,,,,,,,,x
+b_jazirat,turkmen,,Cizre,,,,,,,,,,,x
+b_barqaid,b_barqaid,,Barqa'id,,,,,,,,,,,x
+b_faysabur,b_faysabur,,Faysabur,,,,,,,,,,,x
+b_faysabur,kurdish,,Faysh-Khabur,,,,,,,,,,,x
+b_faysabur,pahlavi,,Peroz Shapur,,,,,,,,,,,x
+c_sinjar,PROV711,,Sinjar,,,,,,,,,,,x
+c_sinjar,c_sinjar_adj,,Sinjarian,,,,,,,,,,,x
+c_sinjar,c_sinjar_adj_assyrian,,Beth Arabayan,,,,,,,,,,,x
+c_sinjar,c_sinjar_adj_greek,,Singaran,,,,,,,,,,,x
+c_sinjar,c_sinjar_adj_kurdish,,Sengalan,,,,,,,,,,,x
+c_sinjar,assyrian,,Beth Arabaye,,,,,,,,,,,x
+c_sinjar,greek,,Singara,,,,,,,,,,,x
+c_sinjar,kurdish,,Sengal,,,,,,,,,,,x
+c_sinjar,roman,,Singara,,,,,,,,,,,x
+b_sinjar,b_sinjar,,Sinjar,,,,,,,,,,,x
+b_sinjar,assyrian,,Šiggar,,,,,,,,,,,x
+b_sinjar,greek,,Singara,,,,,,,,,,,x
+b_sinjar,kurdish,,Sengal,,,,,,,,,,,x
+b_sinjar,roman,,Singara,,,,,,,,,,,x
+b_tallafar,b_tallafar,,Tall Afar,,,,,,,,,,,x
+b_tallafar,oghuz,,Telafer,,,,,,,,,,,x
+b_tallafar,turkish,,Telafer,,,,,,,,,,,x
+b_tallafar,turkmen,,Telafer,,,,,,,,,,,x
+b_hayyal,b_hayyal,,Tall Hayyal,,,,,,,,,,,x
+b_baaj,b_baaj,,Ba'aj,,,,,,,,,,,x
+b_makisin,b_makisin,,Makisin,,,,,,,,,,,x
+c_bira,PROV700,,Nasîbîn,,,,,,,,,,,x
+c_bira,c_bira_adj,,Nasîbînan,,,,,,,,,,,x
+c_bira,c_bira_adj_armenian,,Mtsbinan,,,,,,,,,,,x
+c_bira,c_bira_adj_greek,,Nisibinan,,,,,,,,,,,x
+c_bira,c_bira_adj_oghuz,,Nusaybinan,,,,,,,,,,,x
+c_bira,c_bira_adj_turkish,,Nusaybinan,,,,,,,,,,,x
+c_bira,c_bira_adj_turkmen,,Nusaybinan,,,,,,,,,,,x
+c_bira,armenian,,Mtsbin,,,,,,,,,,,x
+c_bira,assyrian,,Nsibin,,,,,,,,,,,x
+c_bira,greek,,Nisibis,,,,,,,,,,,x
+c_bira,kurdish,,Nisêbîn,,,,,,,,,,,x
+c_bira,oghuz,,Nusaybin,,,,,,,,,,,x
+c_bira,turkish,,Nusaybin,,,,,,,,,,,x
+c_bira,turkmen,,Nusaybin,,,,,,,,,,,x
+b_nasibin,b_nasibin,,Nasibin,,,,,,,,,,,x
+b_nasibin,andalusian_arabic,,Nasîbîn,,,,,,,,,,,x
+b_nasibin,armenian,,Mtsbin,,,,,,,,,,,x
+b_nasibin,assyrian,,Nsibin,,,,,,,,,,,x
+b_nasibin,bedouin_arabic,,Nasîbîn,,,,,,,,,,,x
+b_nasibin,egyptian_arabic,,Nasîbîn,,,,,,,,,,,x
+b_nasibin,greek,,Nisibis,,,,,,,,,,,x
+b_nasibin,kurdish,,Nisêbîn,,,,,,,,,,,x
+b_nasibin,levantine_arabic,,Nasîbîn,,,,,,,,,,,x
+b_nasibin,maghreb_arabic,,Nasîbîn,,,,,,,,,,,x
+b_nasibin,oghuz,,Nusaybin,,,,,,,,,,,x
+b_nasibin,sicilian_arabic,,Nasîbîn,,,,,,,,,,,x
+b_nasibin,turkish,,Nusaybin,,,,,,,,,,,x
+b_nasibin,turkmen,,Nusaybin,,,,,,,,,,,x
+b_dara,b_dara,,Dara,,,,,,,,,,,x
+b_araban,b_araban,,Araban,,,,,,,,,,,x
+b_amuda,b_amuda,,Amuda,,,,,,,,,,,x
+b_amuda,kurdish,,Amûdê,,,,,,,,,,,x
+c_nineveh,PROV685,,Ninawa,,,,,,,,,,,x
+c_nineveh,c_nineveh_adj,,Ninawan,,,,,,,,,,,x
+c_nineveh,c_nineveh_adj_assyrian,,Hadyaban,,,,,,,,,,,x
+c_nineveh,assyrian,,Hadyab,,,,,,,,,,,x
+b_bartella,b_bartella,,Bartella,,,,,,,,,,,x
+b_karamlish,b_karamlish,,Karamlish,,,,,,,,,,,x
+b_bakhdida,b_bakhdida,,Bakhdida,,,,,,,,,,,x
+b_bakhdida,assyrian,,Beth Khdeda,,,,,,,,,,,x
+b_baqofah,b_baqofah,,Baqofah,,,,,,,,,,,x
+b_baqofah,assyrian,,Beth Qopa,,,,,,,,,,,x
+b_duhok,b_duhok,,Duhok,,,,,,,,,,,x
+b_duhok,andalusian_arabic,,Nohidrah,,,,,,,,,,,x
+b_duhok,assyrian,,Nohadra,,,,,,,,,,,x
+b_duhok,bedouin_arabic,,Nohidrah,,,,,,,,,,,x
+b_duhok,egyptian_arabic,,Nohidrah,,,,,,,,,,,x
+b_duhok,levantine_arabic,,Nohidrah,,,,,,,,,,,x
+b_duhok,maghreb_arabic,,Nohidrah,,,,,,,,,,,x
+b_duhok,sicilian_arabic,,Nohidrah,,,,,,,,,,,x
+b_dehi,b_dehi,,Dehi,,,,,,,,,,,x
+c_erbil,PROV1591,,Erbil,,,,,,,,,,,x
+c_erbil,c_erbil_adj,,Erbilian,,,,,,,,,,,x
+c_erbil,c_erbil_adj_andalusian_arabic,,Arbilian,,,,,,,,,,,x
+c_erbil,c_erbil_adj_assyrian,,Arbelian,,,,,,,,,,,x
+c_erbil,c_erbil_adj_bedouin_arabic,,Arbilian,,,,,,,,,,,x
+c_erbil,c_erbil_adj_egyptian_arabic,,Arbilian,,,,,,,,,,,x
+c_erbil,c_erbil_adj_greek,,Arbelian,,,,,,,,,,,x
+c_erbil,c_erbil_adj_levantine_arabic,,Arbilian,,,,,,,,,,,x
+c_erbil,c_erbil_adj_maghreb_arabic,,Arbilian,,,,,,,,,,,x
+c_erbil,c_erbil_adj_sicilian_arabic,,Arbilian,,,,,,,,,,,x
+c_erbil,andalusian_arabic,,Arbil,,,,,,,,,,,x
+c_erbil,assyrian,,Arbel,,,,,,,,,,,x
+c_erbil,bedouin_arabic,,Arbil,,,,,,,,,,,x
+c_erbil,egyptian_arabic,,Arbil,,,,,,,,,,,x
+c_erbil,greek,,Arbela,,,,,,,,,,,x
+c_erbil,kurdish,,Erbil,,,,,,,,,,,x
+c_erbil,levantine_arabic,,Arbil,,,,,,,,,,,x
+c_erbil,maghreb_arabic,,Arbil,,,,,,,,,,,x
+c_erbil,roman,,Arbela,,,,,,,,,,,x
+c_erbil,sicilian_arabic,,Arbil,,,,,,,,,,,x
+b_arbil,b_arbil,,Arbil,,,,,,,,,,,x
+b_arbil,assyrian,,Arbel,,,,,,,,,,,x
+b_arbil,greek,,Arbela,,,,,,,,,,,x
+b_arbil,kurdish,,Erbil,,,,,,,,,,,x
+b_arbil,roman,,Arbela,,,,,,,,,,,x
+b_shaqlawa,b_shaqlawa,,Shaqlabad,,,,,,,,,,,x
+b_darabad,b_darabad,,Darband,,,,,,,,,,,x
+b_darabad,assyrian,,Beth Wazik,,,,,,,,,,,x
+c_mosul,PROV697,,Mosul,,,,,,,,,,,x
+c_mosul,c_mosul_adj,,Mosulian,,,,,,,,,,,x
+c_mosul,c_mosul_adj_assyrian,,Ninwan,,,,,,,,,,,x
+c_mosul,c_mosul_adj_greek,,Mepsilan,,,,,,,,,,,x
+c_mosul,assyrian,,Nînwe,,,,,,,,,,,x
+c_mosul,greek,,Mepsila,,,,,,,,,,,x
+c_mosul,kurdish,,Mûsil,,,,,,,,,,,x
+c_mosul,roman,,Mepsila,,,,,,,,,,,x
+b_mosulcastle,b_mosulcastle,,Qala'at al-Mosul,,,,,,,,,,,x
+b_mosulcastle,greek,,Kastron Mepsila,,,,,,,,,,,x
+b_mosulcastle,roman,,Castrum Mepsila,,,,,,,,,,,x
+b_mosul,b_mosul,,Mosul,,,,,,,,,,,x
+b_mosul,assyrian,,Nînwe,,,,,,,,,,,x
+b_mosul,greek,,Mepsila,,,,,,,,,,,x
+b_mosul,kurdish,,Mûsil,,,,,,,,,,,x
+b_mosul,roman,,Mepsila,,,,,,,,,,,x
+b_baladmosul,b_baladmosul,,Balad,,,,,,,,,,,x
+b_bawazij,b_bawazij,,Bawazij,,,,,,,,,,,x
+b_bawazij,assyrian,,Beth Wazik,,,,,,,,,,,x
+b_haditha,b_haditha,,Haditha,,,,,,,,,,,x
+b_haditha,assyrian,,Hdatta,,,,,,,,,,,x
