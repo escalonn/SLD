@@ -30,7 +30,6 @@ k_castille,portuguese,,Castela,,,,,,,,,,,x
 k_castille,sicilian_arabic,,al-Qila,,,,,,,,,,,x
 d_castilla,d_castilla,,Castilla,,,,,,,,,,,x
 d_castilla,d_castilla_adj,,Castellana,,,,,,,,,,,x
-d_castilla,name_tier,,count,,,,,,,,,,,x
 d_castilla,andalusian_arabic,,al-Qila,,,,,,,,,,,x
 d_castilla,aragonese,,Castiella,,,,,,,,,,,x
 d_castilla,basque,,Gaztela,,,,,,,,,,,x
@@ -44,6 +43,7 @@ d_castilla,levantine_arabic,,al-Qila,,,,,,,,,,,x
 d_castilla,maghreb_arabic,,al-Qila,,,,,,,,,,,x
 d_castilla,portuguese,,Castela,,,,,,,,,,,x
 d_castilla,sicilian_arabic,,al-Qila,,,,,,,,,,,x
+d_castilla,name_tier,,count,,,,,,,,,,,x
 c_burgos,PROV199,,Burgos,,,,,,,,,,,x
 c_burgos,c_burgos_adj,,Burgosian,,,,,,,,,,,x
 c_burgos,andalusian_arabic,,Burchia,,,,,,,,,,,x
@@ -716,7 +716,6 @@ b_olite,maghreb_arabic,,Ulith,,,,,,,,,,,x
 b_olite,sicilian_arabic,,Ulith,,,,,,,,,,,x
 c_viscaya,PROV153,,Viscaya,,,,,,,,,,,x
 c_viscaya,c_viscaya_adj,,Viscayan,,,,,,,,,,,x
-c_viscaya,name_tier,,baron,,,,,,,,,,,x
 c_viscaya,andalusian_arabic,,Bisqayya,,,,,,,,,,,x
 c_viscaya,basque,,Bizkaia,,,,,,,,,,,x
 c_viscaya,bedouin_arabic,,Bisqayya,,,,,,,,,,,x
@@ -728,6 +727,7 @@ c_viscaya,levantine_arabic,,Bisqayya,,,,,,,,,,,x
 c_viscaya,maghreb_arabic,,Bisqayya,,,,,,,,,,,x
 c_viscaya,portuguese,,Biscaia,,,,,,,,,,,x
 c_viscaya,sicilian_arabic,,Bisqayya,,,,,,,,,,,x
+c_viscaya,name_tier,,baron,,,,,,,,,,,x
 b_arteaga,b_arteaga,,Arteaga,,,,,,,,,,,x
 b_arteaga,andalusian_arabic,,Yrtiyyah,,,,,,,,,,,x
 b_arteaga,bedouin_arabic,,Yrtiyyah,,,,,,,,,,,x
@@ -1959,7 +1959,6 @@ b_loarre,maghreb_arabic,,Lubbar,,,,,,,,,,,x
 b_loarre,sicilian_arabic,,Lubbar,,,,,,,,,,,x
 d_barcelona,d_barcelona,,Barcelona,,,,,,,,,,,x
 d_barcelona,d_barcelona_adj,,Barcelonian,,,,,,,,,,,x
-d_barcelona,name_tier,,count,,,,,,,,,,,x
 d_barcelona,andalusian_arabic,,Barshiluna,,,,,,,,,,,x
 d_barcelona,basque,,Bartzelona,,,,,,,,,,,x
 d_barcelona,bedouin_arabic,,Barshiluna,,,,,,,,,,,x
@@ -1970,6 +1969,7 @@ d_barcelona,levantine_arabic,,Barshiluna,,,,,,,,,,,x
 d_barcelona,maghreb_arabic,,Barshiluna,,,,,,,,,,,x
 d_barcelona,roman,,Barcino,,,,,,,,,,,x
 d_barcelona,sicilian_arabic,,Barshiluna,,,,,,,,,,,x
+d_barcelona,name_tier,,count,,,,,,,,,,,x
 c_barcelona,PROV204,,Barcelona,,,,,,,,,,,x
 c_barcelona,c_barcelona_adj,,Barcelonian,,,,,,,,,,,x
 c_barcelona,andalusian_arabic,,Barshiluna,,,,,,,,,,,x
@@ -4080,13 +4080,13 @@ b_manzanares,portuguese,,Mançanares,,,,,,,,,,,x
 b_manzanares,sicilian_arabic,,Wadi-ar-Raml,,,,,,,,,,,x
 c_molina,PROV176,,Molina,,,,,,,,,,,x
 c_molina,c_molina_adj,,Molinan,,,,,,,,,,,x
-c_molina,name_tier,,baron,,,,,,,,,,,x
 c_molina,andalusian_arabic,,Barusa,,,,,,,,,,,x
 c_molina,bedouin_arabic,,Barusa,,,,,,,,,,,x
 c_molina,egyptian_arabic,,Barusa,,,,,,,,,,,x
 c_molina,levantine_arabic,,Barusa,,,,,,,,,,,x
 c_molina,maghreb_arabic,,Barusa,,,,,,,,,,,x
 c_molina,sicilian_arabic,,Barusa,,,,,,,,,,,x
+c_molina,name_tier,,baron,,,,,,,,,,,x
 b_molina,b_molina,,Molina,,,,,,,,,,,x
 b_molina,andalusian_arabic,,Mulina,,,,,,,,,,,x
 b_molina,bedouin_arabic,,Mulina,,,,,,,,,,,x

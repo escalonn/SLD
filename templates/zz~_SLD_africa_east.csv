@@ -220,8 +220,8 @@ d_nobatia,d_nobatia,,Nobatia,,,,,,,,,,,x
 d_nobatia,d_nobatia_adj,,Nobatian,,,,,,,,,,,x
 c_nubia,PROV792,,Nubia,,,,,,,,,,,x
 c_nubia,c_nubia_adj,,Nubian,,,,,,,,,,,x
-c_nubia,c_nubia_adj_greek,,Pakhôran,,,,,,,,,,,x
 c_nubia,greek,,Pakhôras,,,,,,,,,,,x
+c_nubia,c_nubia_adj_greek,,Pakhôran,,,,,,,,,,,x
 c_nubia,nubian,,Para,,,,,,,,,,,x
 c_nubia,roman,,Pachoras,,,,,,,,,,,x
 b_faras,b_faras,,Faras,,,,,,,,,,,x
@@ -244,9 +244,9 @@ b_kulb,b_kulb,,Kulb,,,,,,,,,,,x
 b_gemai,b_gemai,,Gemai,,,,,,,,,,,x
 c_qasribrim,PROV1500,,Qasr Ibrim,,,,,,,,,,,x
 c_qasribrim,c_qasribrim_adj,,Qasribriman,,,,,,,,,,,x
-c_qasribrim,c_qasribrim_adj_greek,,Primian,,,,,,,,,,,x
 c_qasribrim,coptic,,Prim,,,,,,,,,,,x
 c_qasribrim,greek,,Primis,,,,,,,,,,,x
+c_qasribrim,c_qasribrim_adj_greek,,Primian,,,,,,,,,,,x
 c_qasribrim,roman,,Premis,,,,,,,,,,,x
 b_qasribrim,b_qasribrim,,Qasr Ibrim,,,,,,,,,,,x
 b_qasribrim,coptic,,Prim,,,,,,,,,,,x
@@ -293,10 +293,10 @@ d_aydhab,d_aydhab_adj,,Aydhabí,,,,,,,,,,,x
 c_aydhab,PROV1501,,Aydhab,,,,,,,,,,,x
 c_aydhab,c_aydhab,,Aydhab,,,,,,,,,,,x
 c_aydhab,c_aydhab_adj,,Aydhaban,,,,,,,,,,,x
-c_aydhab,c_aydhab_adj_greek,,Berenikan,,,,,,,,,,,x
-c_aydhab,c_aydhab_adj_roman,,Berenikan,,,,,,,,,,,x
 c_aydhab,greek,,Berenike,,,,,,,,,,,x
+c_aydhab,c_aydhab_adj_greek,,Berenikan,,,,,,,,,,,x
 c_aydhab,roman,,Berenice,,,,,,,,,,,x
+c_aydhab,c_aydhab_adj_roman,,Berenikan,,,,,,,,,,,x
 b_aydhab,b_aydhab,,Aydhab,,,,,,,,,,,x
 b_aydhab,greek,,Berenike,,,,,,,,,,,x
 b_aydhab,roman,,Berenice,,,,,,,,,,,x
@@ -309,10 +309,10 @@ b_hajar,b_hajar,,Hajar,,,,,,,,,,,x
 c_suakin,PROV1503,,Suakin,,,,,,,,,,,x
 c_suakin,c_suakin,,Suakin,,,,,,,,,,,x
 c_suakin,c_suakin_adj,,Suakinan,,,,,,,,,,,x
-c_suakin,c_suakin_adj_greek,,Limen Evangelian,,,,,,,,,,,x
-c_suakin,c_suakin_adj_roman,,Limen Evangelian,,,,,,,,,,,x
 c_suakin,greek,,Limen Evangelis,,,,,,,,,,,x
+c_suakin,c_suakin_adj_greek,,Limen Evangelian,,,,,,,,,,,x
 c_suakin,roman,,Limen Evangelis,,,,,,,,,,,x
+c_suakin,c_suakin_adj_roman,,Limen Evangelian,,,,,,,,,,,x
 b_alkabli,b_alkabli,,Al-Kabli,,,,,,,,,,,x
 b_sawakin,b_sawakin,,Suwakín,,,,,,,,,,,x
 b_sawakin,greek,,Limen Evangelis,,,,,,,,,,,x

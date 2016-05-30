@@ -111,9 +111,18 @@ def process_localisation(parser, title_attrs, prov_title):
                     pass
     return other_locs
 
-def sort_attrs(attrs, lt_keys, cultures):
-    for pairs in attrs.values():
-        pairs.sort(key=lambda x: (x[0] in cultures, x[0] in lt_keys, x))
+def attrs_sort_key(item, title, lt_keys, cultures):
+    key, value = item
+    retval = [key in lt_keys, key in cultures]
+    if key in lt_keys:
+        return True, (item,)
+    if key in cultures:
+        key = title + '_' + key
+    else:
+        adj_match = re.fullmatch('(.+)_adj(_.*)', key)
+        if adj_match:
+            key = adj_match.group(1) + adj_match.group(2) + '_adj'
+    return False, (key, item)
 
 def read_prev():
     prev_title_attrs = collections.defaultdict(dict)
@@ -176,7 +185,8 @@ def main():
     title_attrs = process_landed_titles(parser, lt_keys | cultures,
                                         title_region)
     other_locs = process_localisation(parser, title_attrs, prov_title)
-    sort_attrs(title_attrs, lt_keys, cultures)
+    for title, pairs in title_attrs.items():
+        pairs.sort(key=lambda x: attrs_sort_key(x, title, lt_keys, cultures))
     prev_title_attrs, prev_other_locs = read_prev()
     write_output(title_attrs, title_region, other_locs, prev_title_attrs,
                  prev_other_locs)

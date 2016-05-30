@@ -13,9 +13,9 @@ k_frisia,german,,Friesland,,,,,,,,,,,x
 k_frisia,low_german,,Frieslaand,,,,,,,,,,,x
 d_holland,d_holland,,Holland,,,,,,,,,,,x
 d_holland,d_holland_adj,,Hollander,,,,,,,,,,,x
-d_holland,name_tier,,count,,,,,,,,,,,x
 d_holland,frankish,,Hollande,,,,,,,,,,,x
 d_holland,frisian,,Hollân,,,,,,,,,,,x
+d_holland,name_tier,,count,,,,,,,,,,,x
 c_holland,PROV80,,Holland,,,,,,,,,,,x
 c_holland,c_holland_adj,,Hollander,,,,,,,,,,,x
 b_haarlem,b_haarlem,,Haarlem,,,,,,,,,,,x
@@ -43,8 +43,8 @@ b_vlissingen,frankish,,Flessingue,,,,,,,,,,,x
 b_vlissingen,frisian,,Flissingen,,,,,,,,,,,x
 d_utrecht,d_utrecht,,Utrecht,,,,,,,,,,,x
 d_utrecht,d_utrecht_adj,,Utrechtse,,,,,,,,,,,x
-d_utrecht,name_tier,,count,,,,,,,,,,,x
 d_utrecht,frisian,,Utert,,,,,,,,,,,x
+d_utrecht,name_tier,,count,,,,,,,,,,,x
 c_sticht,PROV82,,Sticht,,,,,,,,,,,x
 c_sticht,c_sticht_adj,,Stichtian,,,,,,,,,,,x
 b_woerden,b_woerden,,Woerden,,,,,,,,,,,x
@@ -167,16 +167,16 @@ b_stavoren,german,,Staveren,,,,,,,,,,,x
 b_dokkum,b_dokkum,,Dokkum,,,,,,,,,,,x
 k_upper_lorraine,k_upper_lorraine,,Oberlothringen,,,,,,,,,,,x
 k_upper_lorraine,k_upper_lorraine_adj,,Oberlothringische,,,,,,,,,,,x
-k_upper_lorraine,name_tier,,duke,,,,,,,,,,,x
 k_upper_lorraine,dutch,,Opper Lotharingen,,,,,,,,,,,x
 k_upper_lorraine,frankish,,Haute Lotharingie,,,,,,,,,,,x
 k_upper_lorraine,german,,Oberlothringen,,,,,,,,,,,x
+k_upper_lorraine,name_tier,,duke,,,,,,,,,,,x
 d_trier,d_trier,,Trier,,,,,,,,,,,x
 d_trier,d_trier_adj,,Trierische,,,,,,,,,,,x
+d_trier,frankish,,Trèves,,,,,,,,,,,x
 d_trier,foa,,FE_FOA,,,,,,,,,,,x
 d_trier,title,,FE,,,,,,,,,,,x
 d_trier,title_prefix,,FE_OF,,,,,,,,,,,x
-d_trier,frankish,,Trèves,,,,,,,,,,,x
 c_trier,PROV118,,Trier,,,,,,,,,,,x
 c_trier,c_trier_adj,,Trierian,,,,,,,,,,,x
 c_trier,frankish,,Trèves,,,,,,,,,,,x
@@ -238,13 +238,13 @@ b_orchimont,b_orchimont,,Orchimont,,,,,,,,,,,x
 b_orval,b_orval,,Orval,,,,,,,,,,,x
 d_pfalz,d_pfalz,,Pfalzgrafschaft bei Rhein,,,,,,,,,,,x
 d_pfalz,d_pfalz_adj,,Pfälzische,,,,,,,,,,,x
+d_pfalz,dutch,,Paltsgraafschap aan de Rijn,,,,,,,,,,,x
+d_pfalz,frankish,,Comté Palatinat du Rhin,,,,,,,,,,,x
+d_pfalz,german,,Pfalzgrafschaft bei Rhein,,,,,,,,,,,x
 d_pfalz,foa,,PALATINE_FOA,,,,,,,,,,,x
 d_pfalz,short_name,,yes,,,,,,,,,,,x
 d_pfalz,title,,PALATINE,,,,,,,,,,,x
 d_pfalz,title_female,,PALATINEA,,,,,,,,,,,x
-d_pfalz,dutch,,Paltsgraafschap aan de Rijn,,,,,,,,,,,x
-d_pfalz,frankish,,Comté Palatinat du Rhin,,,,,,,,,,,x
-d_pfalz,german,,Pfalzgrafschaft bei Rhein,,,,,,,,,,,x
 c_pfalz,PROV124,,Pfalz,,,,,,,,,,,x
 c_pfalz,c_pfalz_adj,,Pfalzian,,,,,,,,,,,x
 c_pfalz,dutch,,Palts,,,,,,,,,,,x
@@ -357,10 +357,10 @@ b_toul,b_toul,,Toul,,,,,,,,,,,x
 b_toul,german,,Tull,,,,,,,,,,,x
 k_lower_lorraine,k_lower_lorraine,,Niederlothringen,,,,,,,,,,,x
 k_lower_lorraine,k_lower_lorraine_adj,,Niederlothringische,,,,,,,,,,,x
-k_lower_lorraine,name_tier,,duke,,,,,,,,,,,x
 k_lower_lorraine,dutch,,Neder Lotharingen,,,,,,,,,,,x
 k_lower_lorraine,frankish,,Basse Lotharingie,,,,,,,,,,,x
 k_lower_lorraine,german,,Niederlothringen,,,,,,,,,,,x
+k_lower_lorraine,name_tier,,duke,,,,,,,,,,,x
 d_liege,d_liege,,Liége,,,,,,,,,,,x
 d_liege,d_liege_adj,,Liégeois,,,,,,,,,,,x
 d_liege,dutch,,Luik,,,,,,,,,,,x
@@ -416,11 +416,11 @@ b_duren,b_duren,,Düren,,,,,,,,,,,x
 b_duren,german,,Düren,,,,,,,,,,,x
 d_koln,d_koln,,Köln,,,,,,,,,,,x
 d_koln,d_koln_adj,,Kölsche,,,,,,,,,,,x
+d_koln,dutch,,Keulen,,,,,,,,,,,x
+d_koln,frankish,,Cologne,,,,,,,,,,,x
 d_koln,foa,,FE_FOA,,,,,,,,,,,x
 d_koln,title,,FE,,,,,,,,,,,x
 d_koln,title_prefix,,FE_OF,,,,,,,,,,,x
-d_koln,dutch,,Keulen,,,,,,,,,,,x
-d_koln,frankish,,Cologne,,,,,,,,,,,x
 c_koln,PROV119,,Köln,,,,,,,,,,,x
 c_koln,c_koln_adj,,Kölnian,,,,,,,,,,,x
 c_koln,dutch,,Keulen,,,,,,,,,,,x
@@ -877,9 +877,9 @@ b_straubing,b_straubing,,Straubing,,,,,,,,,,,x
 b_straubing,greek,,Sorvioduron,,,,,,,,,,,x
 b_straubing,roman,,Sorviodurum,,,,,,,,,,,x
 b_regensburg,b_regensburg,,Regensburg,,,,,,,,,,,x
-b_regensburg,name_tier,,count,,,,,,,,,,,x
 b_regensburg,greek,,Kastra Regina,,,,,,,,,,,x
 b_regensburg,roman,,Castra Regina,,,,,,,,,,,x
+b_regensburg,name_tier,,count,,,,,,,,,,,x
 b_landshut,b_landshut,,Landshut,,,,,,,,,,,x
 b_ingolstadt,b_ingolstadt,,Ingolstadt,,,,,,,,,,,x
 d_tyrol,d_tyrol,,Tirol,,,,,,,,,,,x
@@ -961,11 +961,11 @@ b_diessen,b_diessen,,Diessen,,,,,,,,,,,x
 b_dingolfing,b_dingolfing,,Dingolfing,,,,,,,,,,,x
 d_salzburg,d_salzburg,,Salzburg,,,,,,,,,,,x
 d_salzburg,d_salzburg_adj,,Salzburgische,,,,,,,,,,,x
+d_salzburg,greek,,Iuvavum,,,,,,,,,,,x
+d_salzburg,roman,,Iuvavum,,,,,,,,,,,x
 d_salzburg,foa,,FE_FOA,,,,,,,,,,,x
 d_salzburg,title,,FE,,,,,,,,,,,x
 d_salzburg,title_prefix,,FE_OF,,,,,,,,,,,x
-d_salzburg,greek,,Iuvavum,,,,,,,,,,,x
-d_salzburg,roman,,Iuvavum,,,,,,,,,,,x
 c_salzburg,PROV448,,Salzburg,,,,,,,,,,,x
 c_salzburg,c_salzburg_adj,,Salzburgian,,,,,,,,,,,x
 c_salzburg,greek,,Iuvavum,,,,,,,,,,,x
@@ -983,12 +983,12 @@ d_osterreich,greek,,Noricum Ripense,,,,,,,,,,,x
 d_osterreich,roman,,Noricum Ripense,,,,,,,,,,,x
 c_osterreich,PROV449,,Österreich,,,,,,,,,,,x
 c_osterreich,c_osterreich_adj,,Österreicher,,,,,,,,,,,x
+c_osterreich,greek,,Ouindobouna,,,,,,,,,,,x
+c_osterreich,roman,,Vindobona,,,,,,,,,,,x
 c_osterreich,foa,,MARGRAVE_FOA,,,,,,,,,,,x
 c_osterreich,title,,MARGRAVE,,,,,,,,,,,x
 c_osterreich,title_female,,MARGRAVINE,,,,,,,,,,,x
 c_osterreich,title_prefix,,MARGRAVE_OF,,,,,,,,,,,x
-c_osterreich,greek,,Ouindobouna,,,,,,,,,,,x
-c_osterreich,roman,,Vindobona,,,,,,,,,,,x
 b_pochlarn,b_pochlarn,,Pöchlarn,,,,,,,,,,,x
 b_wien,b_wien,,Wien,,,,,,,,,,,x
 b_wien,greek,,Ouindobouna,,,,,,,,,,,x
@@ -1083,11 +1083,11 @@ b_offenburg,b_offenburg,,Offenburg,,,,,,,,,,,x
 b_schaffhausen,b_schaffhausen,,Schaffhausen,,,,,,,,,,,x
 d_chur,d_chur,,Chur,,,,,,,,,,,x
 d_chur,d_chur_adj,,Churische,,,,,,,,,,,x
+d_chur,greek,,Curia,,,,,,,,,,,x
+d_chur,roman,,Curia,,,,,,,,,,,x
 d_chur,foa,,FE_FOA,,,,,,,,,,,x
 d_chur,title,,FE,,,,,,,,,,,x
 d_chur,title_prefix,,FE_OF,,,,,,,,,,,x
-d_chur,greek,,Curia,,,,,,,,,,,x
-d_chur,roman,,Curia,,,,,,,,,,,x
 c_chur,PROV247,,Chur,,,,,,,,,,,x
 c_chur,c_chur,,Churian,,,,,,,,,,,x
 c_chur,c_chur_adj,,Churische,,,,,,,,,,,x
@@ -1105,11 +1105,11 @@ d_alsace,frankish,,Alsace,,,,,,,,,,,x
 d_alsace,german,,Elsass,,,,,,,,,,,x
 c_nordgau,PROV126,,Nordgau,,,,,,,,,,,x
 c_nordgau,c_nordgau_adj,,Nordgauer,,,,,,,,,,,x
+c_nordgau,dutch,,Noordgouw,,,,,,,,,,,x
 c_nordgau,foa,,LANDGRAVE_FOA,,,,,,,,,,,x
 c_nordgau,title,,LANDGRAVE,,,,,,,,,,,x
 c_nordgau,title_female,,LANDGRAVINE,,,,,,,,,,,x
 c_nordgau,title_prefix,,LANDGRAVE_OF,,,,,,,,,,,x
-c_nordgau,dutch,,Noordgouw,,,,,,,,,,,x
 b_egisheim,b_egisheim,,Egisheim,,,,,,,,,,,x
 b_egisheim,frankish,,Eguisheim,,,,,,,,,,,x
 b_egisheim,german,,Egisheim,,,,,,,,,,,x
@@ -1127,11 +1127,11 @@ b_selz,frankish,,Seltz,,,,,,,,,,,x
 b_selz,german,,Selz,,,,,,,,,,,x
 c_sundgau,PROV134,,Sundgau,,,,,,,,,,,x
 c_sundgau,c_sundgau_adj,,Sundgauer,,,,,,,,,,,x
+c_sundgau,dutch,,Sundgouw,,,,,,,,,,,x
 c_sundgau,foa,,LANDGRAVE_FOA,,,,,,,,,,,x
 c_sundgau,title,,LANDGRAVE,,,,,,,,,,,x
 c_sundgau,title_female,,LANDGRAVINE,,,,,,,,,,,x
 c_sundgau,title_prefix,,LANDGRAVE_OF,,,,,,,,,,,x
-c_sundgau,dutch,,Sundgouw,,,,,,,,,,,x
 b_kolmar,b_kolmar,,Kolmar,,,,,,,,,,,x
 b_murbach,b_murbach,,Murbach,,,,,,,,,,,x
 b_altkirch,b_altkirch,,Altkirch,,,,,,,,,,,x
@@ -1239,12 +1239,12 @@ k_bohemia,k_bohemia,,Czechy,,,,,,,,,,,x
 k_bohemia,k_bohemia_adj,,Ceský,,,,,,,,,,,x
 d_bohemia,d_bohemia,,Czeske,,,,,,,,,,,x
 d_bohemia,d_bohemia_adj,,Bohemian,,,,,,,,,,,x
-d_bohemia,foa,,DB_FOA,,,,,,,,,,,x
-d_bohemia,title,,DB,,,,,,,,,,,x
-d_bohemia,title_prefix,,DB_OF,,,,,,,,,,,x
 d_bohemia,bohemian,,Czechy,,,,,,,,,,,x
 d_bohemia,german,,Böhmen,,,,,,,,,,,x
 d_bohemia,moravian,,Czechy,,,,,,,,,,,x
+d_bohemia,foa,,DB_FOA,,,,,,,,,,,x
+d_bohemia,title,,DB,,,,,,,,,,,x
+d_bohemia,title_prefix,,DB_OF,,,,,,,,,,,x
 c_praha,PROV437,,Praha,,,,,,,,,,,x
 c_praha,c_praha_adj,,Pragian,,,,,,,,,,,x
 c_praha,bohemian,,Praha,,,,,,,,,,,x
@@ -1421,13 +1421,13 @@ b_primda,german,,Pfraumberg,,,,,,,,,,,x
 b_primda,moravian,,Przimda,,,,,,,,,,,x
 d_moravia,d_moravia,,Morawske,,,,,,,,,,,x
 d_moravia,d_moravia_adj,,Moravian,,,,,,,,,,,x
-d_moravia,foa,,DM_FOA,,,,,,,,,,,x
-d_moravia,title,,DM,,,,,,,,,,,x
-d_moravia,title_prefix,,DM_OF,,,,,,,,,,,x
 d_moravia,bohemian,,Morava,,,,,,,,,,,x
 d_moravia,german,,Mähren,,,,,,,,,,,x
 d_moravia,moravian,,Morava,,,,,,,,,,,x
 d_moravia,polish,,Morawa,,,,,,,,,,,x
+d_moravia,foa,,DM_FOA,,,,,,,,,,,x
+d_moravia,title,,DM,,,,,,,,,,,x
+d_moravia,title_prefix,,DM_OF,,,,,,,,,,,x
 c_olomouc,PROV440,,Olomouc,,,,,,,,,,,x
 c_olomouc,c_olomouc_adj,,Olomoucian,,,,,,,,,,,x
 c_olomouc,bohemian,,Olomouc,,,,,,,,,,,x
@@ -1650,7 +1650,6 @@ k_pomerania,saxon,,Winedaland,,,,,,,,,,,x
 k_pomerania,swedish,,Vindarland,,,,,,,,,,,x
 d_mecklemburg,d_mecklemburg,,Mecklenburg,,,,,,,,,,,x
 d_mecklemburg,d_mecklemburg_adj,,Mecklenburgian,,,,,,,,,,,x
-d_mecklemburg,d_mecklemburg_adj_pommeranian,,Weligradian,,,,,,,,,,,x
 d_mecklemburg,andalusian_arabic,,Qal'at Nakon,,,,,,,,,,,x
 d_mecklemburg,anglonorse,,Mikelenborg,,,,,,,,,,,x
 d_mecklemburg,bedouin_arabic,,Qal'at Nakon,,,,,,,,,,,x
@@ -1672,6 +1671,7 @@ d_mecklemburg,norsegaelic,,Mikelenborg,,,,,,,,,,,x
 d_mecklemburg,norwegian,,Mikelenborg,,,,,,,,,,,x
 d_mecklemburg,polish,,Meklemburgia,,,,,,,,,,,x
 d_mecklemburg,pommeranian,,Veligrad,,,,,,,,,,,x
+d_mecklemburg,d_mecklemburg_adj_pommeranian,,Weligradian,,,,,,,,,,,x
 d_mecklemburg,russian,,Veligrad,,,,,,,,,,,x
 d_mecklemburg,sanhaja,,Qal'at Nakon,,,,,,,,,,,x
 d_mecklemburg,serbian,,Veligrad,,,,,,,,,,,x
@@ -2654,32 +2654,32 @@ b_darlowo,russian,,Darlowo,,,,,,,,,,,x
 b_darlowo,serbian,,Darlowo,,,,,,,,,,,x
 d_rugen,d_rugen,,Rügen,,,,,,,,,,,x
 d_rugen,d_rugen_adj,,Rügish,,,,,,,,,,,x
-d_rugen,d_rugen_adj_bohemian,,Ruján,,,,,,,,,,,x
-d_rugen,d_rugen_adj_bosnian,,Rugish,,,,,,,,,,,x
-d_rugen,d_rugen_adj_bulgarian,,Rugish,,,,,,,,,,,x
-d_rugen,d_rugen_adj_croatian,,Rugish,,,,,,,,,,,x
-d_rugen,d_rugen_adj_karantanci,,Rugish,,,,,,,,,,,x
-d_rugen,d_rugen_adj_moravian,,Ruján,,,,,,,,,,,x
-d_rugen,d_rugen_adj_north_germanic,,Rygian,,,,,,,,,,,x
-d_rugen,d_rugen_adj_polish,,Ruján,,,,,,,,,,,x
-d_rugen,d_rugen_adj_pommeranian,,Ranan,,,,,,,,,,,x
-d_rugen,d_rugen_adj_russian,,Rugish,,,,,,,,,,,x
 d_rugen,anglonorse,,Rygen,,,,,,,,,,,x
 d_rugen,bohemian,,Rujána,,,,,,,,,,,x
+d_rugen,d_rugen_adj_bohemian,,Ruján,,,,,,,,,,,x
 d_rugen,bosnian,,Rugia,,,,,,,,,,,x
+d_rugen,d_rugen_adj_bosnian,,Rugish,,,,,,,,,,,x
 d_rugen,bulgarian,,Rugia,,,,,,,,,,,x
+d_rugen,d_rugen_adj_bulgarian,,Rugish,,,,,,,,,,,x
 d_rugen,croatian,,Rugia,,,,,,,,,,,x
+d_rugen,d_rugen_adj_croatian,,Rugish,,,,,,,,,,,x
 d_rugen,danish,,Rygen,,,,,,,,,,,x
 d_rugen,gothic,,Rygen,,,,,,,,,,,x
 d_rugen,icelandic,,Rygen,,,,,,,,,,,x
 d_rugen,karantanci,,Rugia,,,,,,,,,,,x
+d_rugen,d_rugen_adj_karantanci,,Rugish,,,,,,,,,,,x
 d_rugen,moravian,,Rujána,,,,,,,,,,,x
+d_rugen,d_rugen_adj_moravian,,Ruján,,,,,,,,,,,x
 d_rugen,norse,,Rygen,,,,,,,,,,,x
 d_rugen,norsegaelic,,Rygen,,,,,,,,,,,x
+d_rugen,d_rugen_adj_north_germanic,,Rygian,,,,,,,,,,,x
 d_rugen,norwegian,,Rygen,,,,,,,,,,,x
 d_rugen,polish,,Rugia,,,,,,,,,,,x
+d_rugen,d_rugen_adj_polish,,Ruján,,,,,,,,,,,x
 d_rugen,pommeranian,,Rana,,,,,,,,,,,x
+d_rugen,d_rugen_adj_pommeranian,,Ranan,,,,,,,,,,,x
 d_rugen,russian,,Rugye,,,,,,,,,,,x
+d_rugen,d_rugen_adj_russian,,Rugish,,,,,,,,,,,x
 d_rugen,serbian,,Rugia,,,,,,,,,,,x
 d_rugen,swedish,,Rygen,,,,,,,,,,,x
 c_rugen,PROV304,,Rügen,,,,,,,,,,,x
@@ -2807,11 +2807,6 @@ b_stralsund,russian,,Sztrela,,,,,,,,,,,x
 b_stralsund,serbian,,Sztrela,,,,,,,,,,,x
 d_brandenburg,d_brandenburg,,Nordmark,,,,,,,,,,,x
 d_brandenburg,d_brandenburg_adj,,Nordmärkisch,,,,,,,,,,,x
-d_brandenburg,d_brandenburg_adj_pommeranian,,Brennaburgian,,,,,,,,,,,x
-d_brandenburg,foa,,MARGRAVE_FOA,,,,,,,,,,,x
-d_brandenburg,title,,MARGRAVE,,,,,,,,,,,x
-d_brandenburg,title_female,,MARGRAVINE,,,,,,,,,,,x
-d_brandenburg,title_prefix,,MARGRAVE_OF,,,,,,,,,,,x
 d_brandenburg,bohemian,,Braniborz,,,,,,,,,,,x
 d_brandenburg,bosnian,,Brenna,,,,,,,,,,,x
 d_brandenburg,bulgarian,,Brenna,,,,,,,,,,,x
@@ -2820,8 +2815,13 @@ d_brandenburg,karantanci,,Brenna,,,,,,,,,,,x
 d_brandenburg,moravian,,Braniborz,,,,,,,,,,,x
 d_brandenburg,polish,,Branibór,,,,,,,,,,,x
 d_brandenburg,pommeranian,,Brennaburg,,,,,,,,,,,x
+d_brandenburg,d_brandenburg_adj_pommeranian,,Brennaburgian,,,,,,,,,,,x
 d_brandenburg,russian,,Brenna,,,,,,,,,,,x
 d_brandenburg,serbian,,Brenna,,,,,,,,,,,x
+d_brandenburg,foa,,MARGRAVE_FOA,,,,,,,,,,,x
+d_brandenburg,title,,MARGRAVE,,,,,,,,,,,x
+d_brandenburg,title_female,,MARGRAVINE,,,,,,,,,,,x
+d_brandenburg,title_prefix,,MARGRAVE_OF,,,,,,,,,,,x
 c_brandenburg,PROV365,,Brandenburg,,,,,,,,,,,x
 c_brandenburg,c_brandenburg_adj,,Brandenburgische,,,,,,,,,,,x
 c_brandenburg,bohemian,,Braniborz,,,,,,,,,,,x

@@ -44,16 +44,12 @@ b_karnburg,russian,,Krnskigrad,,,,,,,,,,,x
 b_karnburg,serbian,,Krnskigrad,,,,,,,,,,,x
 d_istria,d_istria,,Istra,,,,,,,,,,,x
 d_istria,d_istria_adj,,Istrian,,,,,,,,,,,x
-d_istria,d_istria_adj_german,,Istrische,,,,,,,,,,,x
-d_istria,foa,,MARGRAVE_FOA,,,,,,,,,,,x
-d_istria,title,,MARGRAVE,,,,,,,,,,,x
-d_istria,title_female,,MARGRAVINE,,,,,,,,,,,x
-d_istria,title_prefix,,MARGRAVE_OF,,,,,,,,,,,x
 d_istria,bohemian,,Istrie,,,,,,,,,,,x
 d_istria,bosnian,,Istra,,,,,,,,,,,x
 d_istria,bulgarian,,Istra,,,,,,,,,,,x
 d_istria,croatian,,Istra,,,,,,,,,,,x
 d_istria,german,,Istrien,,,,,,,,,,,x
+d_istria,d_istria_adj_german,,Istrische,,,,,,,,,,,x
 d_istria,greek,,Histria,,,,,,,,,,,x
 d_istria,hungarian,,Isztria,,,,,,,,,,,x
 d_istria,karantanci,,Istra,,,,,,,,,,,x
@@ -64,6 +60,10 @@ d_istria,roman,,Histria,,,,,,,,,,,x
 d_istria,russian,,Istra,,,,,,,,,,,x
 d_istria,serbian,,Istra,,,,,,,,,,,x
 d_istria,szekely,,Isztria,,,,,,,,,,,x
+d_istria,foa,,MARGRAVE_FOA,,,,,,,,,,,x
+d_istria,title,,MARGRAVE,,,,,,,,,,,x
+d_istria,title_female,,MARGRAVINE,,,,,,,,,,,x
+d_istria,title_prefix,,MARGRAVE_OF,,,,,,,,,,,x
 c_istria,PROV458,,Merania,,,,,,,,,,,x
 c_istria,c_istria_adj,,Istrian,,,,,,,,,,,x
 c_istria,bavarian,,Meranien,,,,,,,,,,,x
@@ -395,12 +395,12 @@ b_varese,greek,,Baretion,,,,,,,,,,,x
 b_varese,roman,,Baretium,,,,,,,,,,,x
 d_verona,d_verona,,Verona,,,,,,,,,,,x
 d_verona,d_verona_adj,,Veronian,,,,,,,,,,,x
+d_verona,greek,,Venetia,,,,,,,,,,,x
+d_verona,roman,,Venetia,,,,,,,,,,,x
 d_verona,foa,,MARGRAVE_FOA,,,,,,,,,,,x
 d_verona,title,,MARGRAVE,,,,,,,,,,,x
 d_verona,title_female,,MARGRAVINE,,,,,,,,,,,x
 d_verona,title_prefix,,MARGRAVE_OF,,,,,,,,,,,x
-d_verona,greek,,Venetia,,,,,,,,,,,x
-d_verona,roman,,Venetia,,,,,,,,,,,x
 c_treviso,PROV357,,Treviso,,,,,,,,,,,x
 c_treviso,c_treviso_adj,,Trevisian,,,,,,,,,,,x
 c_treviso,greek,,Tarbision,,,,,,,,,,,x
@@ -490,12 +490,12 @@ b_domodossola,b_domodossola,,Ël Dòm,,,,,,,,,,,x
 b_nibbiola,b_nibbiola,,Nibiola,,,,,,,,,,,x
 c_ivrea,PROV1130,,Ivrea,,,,,,,,,,,x
 c_ivrea,c_ivrea_adj,,Eporediese,,,,,,,,,,,x
+c_ivrea,greek,,Eporedia,,,,,,,,,,,x
+c_ivrea,roman,,Eporedia,,,,,,,,,,,x
 c_ivrea,foa,,MARQUISATE_FOA,,,,,,,,,,,x
 c_ivrea,title,,MARQUISATE,,,,,,,,,,,x
 c_ivrea,title_female,,MARCHESA,,,,,,,,,,,x
 c_ivrea,title_prefix,,MARQUISATE_OF,,,,,,,,,,,x
-c_ivrea,greek,,Eporedia,,,,,,,,,,,x
-c_ivrea,roman,,Eporedia,,,,,,,,,,,x
 b_ivrea,b_ivrea,,Invreja,,,,,,,,,,,x
 b_ivrea,greek,,Eporedia,,,,,,,,,,,x
 b_ivrea,roman,,Eporedia,,,,,,,,,,,x
@@ -521,12 +521,12 @@ d_monferrato,d_monferrato,,Monferrato,,,,,,,,,,,x
 d_monferrato,d_monferrato_adj,,Monferratian,,,,,,,,,,,x
 c_monferrato,PROV232,,Monferrato,,,,,,,,,,,x
 c_monferrato,c_monferrato_adj,,Monferratian,,,,,,,,,,,x
+c_monferrato,greek,,Asta,,,,,,,,,,,x
+c_monferrato,roman,,Hasta,,,,,,,,,,,x
 c_monferrato,foa,,MARQUISATE_FOA,,,,,,,,,,,x
 c_monferrato,title,,MARQUISATE,,,,,,,,,,,x
 c_monferrato,title_female,,MARCHESA,,,,,,,,,,,x
 c_monferrato,title_prefix,,MARQUISATE_OF,,,,,,,,,,,x
-c_monferrato,greek,,Asta,,,,,,,,,,,x
-c_monferrato,roman,,Hasta,,,,,,,,,,,x
 b_alessandria,b_alessandria,,Lissandria,,,,,,,,,,,x
 b_casale,b_casale,,Casal Monfrà,,,,,,,,,,,x
 b_asti,b_asti,,Ast,,,,,,,,,,,x
@@ -584,12 +584,12 @@ b_noliligure,b_noliligure,,Nöi,,,,,,,,,,,x
 b_castellodimonteursino,b_castellodimonteursino,,Castello di Monte Ursino,,,,,,,,,,,x
 c_finale,PROV1129,,Finale,,,,,,,,,,,x
 c_finale,c_finale_adj,,Finalese,,,,,,,,,,,x
+c_finale,greek,,Albingaunon,,,,,,,,,,,x
+c_finale,roman,,Album Ingaunum,,,,,,,,,,,x
 c_finale,foa,,MARQUISATE_FOA,,,,,,,,,,,x
 c_finale,title,,MARQUISATE,,,,,,,,,,,x
 c_finale,title_female,,MARCHESA,,,,,,,,,,,x
 c_finale,title_prefix,,MARQUISATE_OF,,,,,,,,,,,x
-c_finale,greek,,Albingaunon,,,,,,,,,,,x
-c_finale,roman,,Album Ingaunum,,,,,,,,,,,x
 b_albenga,b_albenga,,Arbenga,,,,,,,,,,,x
 b_albenga,greek,,Albingaunon,,,,,,,,,,,x
 b_albenga,roman,,Album Ingaunum,,,,,,,,,,,x
@@ -779,10 +779,10 @@ d_siena,greek,,Saena,,,,,,,,,,,x
 d_siena,roman,,Saena,,,,,,,,,,,x
 k_patrimoniumpetri,k_patrimoniumpetri,,Patrimonium Sancti Petri,,,,,,,,,,,x
 k_patrimoniumpetri,k_patrimoniumpetri_adj,,Sanctimonialis,,,,,,,,,,,x
-k_patrimoniumpetri,short_name,,yes,,,,,,,,,,,x
 k_patrimoniumpetri,armenian,,Exarchos Ravenna,,,,,,,,,,,x
 k_patrimoniumpetri,greek,,Exarchos Ravenna,,,,,,,,,,,x
 k_patrimoniumpetri,roman,,Exarchatus Ravennatis,,,,,,,,,,,x
+k_patrimoniumpetri,short_name,,yes,,,,,,,,,,,x
 d_ferrara,d_ferrara,,Ferrara,,,,,,,,,,,x
 d_ferrara,d_ferrara_adj,,Ferraran,,,,,,,,,,,x
 c_ferrara,PROV353,,Ferrara,,,,,,,,,,,x
@@ -866,11 +866,11 @@ d_ancona,greek,,Pikentine,,,,,,,,,,,x
 d_ancona,roman,,Picenum Suburbicarum,,,,,,,,,,,x
 c_ancona,PROV350,,Ancona,,,,,,,,,,,x
 c_ancona,c_ancona_adj,,Anconian,,,,,,,,,,,x
+c_ancona,greek,,Ankon,,,,,,,,,,,x
 c_ancona,foa,,MARQUISATE_FOA,,,,,,,,,,,x
 c_ancona,title,,MARQUISATE,,,,,,,,,,,x
 c_ancona,title_female,,MARCHESA,,,,,,,,,,,x
 c_ancona,title_prefix,,MARQUISATE_OF,,,,,,,,,,,x
-c_ancona,greek,,Ankon,,,,,,,,,,,x
 b_ancona,b_ancona,,Ancona,,,,,,,,,,,x
 b_ancona,greek,,Ankon,,,,,,,,,,,x
 b_osimo,b_osimo,,Osimo,,,,,,,,,,,x
@@ -883,12 +883,12 @@ b_tolentino,roman,,Tolentinum,,,,,,,,,,,x
 b_mondavio,b_mondavio,,Mondavi,,,,,,,,,,,x
 c_fermo,PROV1116,,Fermo,,,,,,,,,,,x
 c_fermo,c_fermo_adj,,Fermano,,,,,,,,,,,x
+c_fermo,greek,,Firmon,,,,,,,,,,,x
+c_fermo,roman,,Firmum,,,,,,,,,,,x
 c_fermo,foa,,MARQUISATE_FOA,,,,,,,,,,,x
 c_fermo,title,,MARQUISATE,,,,,,,,,,,x
 c_fermo,title_female,,MARCHESA,,,,,,,,,,,x
 c_fermo,title_prefix,,MARQUISATE_OF,,,,,,,,,,,x
-c_fermo,greek,,Firmon,,,,,,,,,,,x
-c_fermo,roman,,Firmum,,,,,,,,,,,x
 b_tortoreto,b_tortoreto,,Tortoreto,,,,,,,,,,,x
 b_ascolipiceno,b_ascolipiceno,,Ascule,,,,,,,,,,,x
 b_ascolipiceno,greek,,Askoulon,,,,,,,,,,,x
@@ -898,12 +898,12 @@ b_fermo,greek,,Firmon,,,,,,,,,,,x
 b_fermo,roman,,Firmum,,,,,,,,,,,x
 c_camerino,PROV1117,,Camerino,,,,,,,,,,,x
 c_camerino,c_camerino_adj,,Camerinese,,,,,,,,,,,x
+c_camerino,greek,,Kamarinon,,,,,,,,,,,x
+c_camerino,roman,,Camerinum,,,,,,,,,,,x
 c_camerino,foa,,MARQUISATE_FOA,,,,,,,,,,,x
 c_camerino,title,,MARQUISATE,,,,,,,,,,,x
 c_camerino,title_female,,MARCHESA,,,,,,,,,,,x
 c_camerino,title_prefix,,MARQUISATE_OF,,,,,,,,,,,x
-c_camerino,greek,,Kamarinon,,,,,,,,,,,x
-c_camerino,roman,,Camerinum,,,,,,,,,,,x
 b_roccaflea,b_roccaflea,,Rocca Flea,,,,,,,,,,,x
 b_caldarola,b_caldarola,,Caldarola,,,,,,,,,,,x
 b_preci,b_preci,,Preci,,,,,,,,,,,x
@@ -1099,12 +1099,12 @@ b_tharros,greek,,Thàrras,,,,,,,,,,,x
 b_tharros,roman,,Tarrae,,,,,,,,,,,x
 c_cagliari,PROV326,,Cagliari,,,,,,,,,,,x
 c_cagliari,c_cagliari_adj,,Cagliarian,,,,,,,,,,,x
+c_cagliari,greek,,Karalis,,,,,,,,,,,x
+c_cagliari,roman,,Caralis,,,,,,,,,,,x
 c_cagliari,foa,,GIUDICATO_FOA,,,,,,,,,,,x
 c_cagliari,title,,GIUDICATO,,,,,,,,,,,x
 c_cagliari,title_female,,GIUDICATO_F,,,,,,,,,,,x
 c_cagliari,title_prefix,,GIUDICATO_OF,,,,,,,,,,,x
-c_cagliari,greek,,Karalis,,,,,,,,,,,x
-c_cagliari,roman,,Caralis,,,,,,,,,,,x
 b_cagliari,b_cagliari,,Casteddu,,,,,,,,,,,x
 b_cagliari,greek,,Karalis,,,,,,,,,,,x
 b_cagliari,roman,,Caralis,,,,,,,,,,,x
@@ -1200,9 +1200,9 @@ b_aquino,roman,,Aquinum,,,,,,,,,,,x
 b_pontecorvo,b_pontecorvo,,Pontecorvo,,,,,,,,,,,x
 c_gaeta,PROV1105,,Gaeta,,,,,,,,,,,x
 c_gaeta,c_gaeta_adj,,Gaetano,,,,,,,,,,,x
-c_gaeta,name_tier,,duke,,,,,,,,,,,x
 c_gaeta,greek,,Kaiete,,,,,,,,,,,x
 c_gaeta,roman,,Caieta,,,,,,,,,,,x
+c_gaeta,name_tier,,duke,,,,,,,,,,,x
 b_gaeta,b_gaeta,,Gaeta,,,,,,,,,,,x
 b_gaeta,greek,,Kaiete,,,,,,,,,,,x
 b_gaeta,roman,,Caieta,,,,,,,,,,,x
@@ -1435,7 +1435,6 @@ b_gerace,b_gerace,,Jeraci,,,,,,,,,,,x
 b_gerace,greek,,Gerakion,,,,,,,,,,,x
 d_sicily,d_sicily,,Sicilia,,,,,,,,,,,x
 d_sicily,d_sicily_adj,,Siciliani,,,,,,,,,,,x
-d_sicily,name_tier,,count,,,,,,,,,,,x
 d_sicily,andalusian_arabic,,Siqilliyah,,,,,,,,,,,x
 d_sicily,bedouin_arabic,,Siqilliyah,,,,,,,,,,,x
 d_sicily,egyptian_arabic,,Siqilliyah,,,,,,,,,,,x
@@ -1443,6 +1442,7 @@ d_sicily,greek,,Sikelias,,,,,,,,,,,x
 d_sicily,levantine_arabic,,Siqilliyah,,,,,,,,,,,x
 d_sicily,maghreb_arabic,,Siqilliyah,,,,,,,,,,,x
 d_sicily,sicilian_arabic,,Siqilliyah,,,,,,,,,,,x
+d_sicily,name_tier,,count,,,,,,,,,,,x
 c_palermo,PROV340,,Palermu,,,,,,,,,,,x
 c_palermo,c_palermo_adj,,Palermian,,,,,,,,,,,x
 c_palermo,andalusian_arabic,,Balharm,,,,,,,,,,,x

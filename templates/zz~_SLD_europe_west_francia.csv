@@ -68,9 +68,9 @@ b_andenne,b_andenne,,Andenne,,,,,,,,,,,x
 b_dinant,b_dinant,,Dinant,,,,,,,,,,,x
 d_hainaut,d_hainaut,,Hainaut,,,,,,,,,,,x
 d_hainaut,d_hainaut_adj,,Wallon,,,,,,,,,,,x
-d_hainaut,name_tier,,count,,,,,,,,,,,x
 d_hainaut,dutch,,Henegouwen,,,,,,,,,,,x
 d_hainaut,german,,Hennegau,,,,,,,,,,,x
+d_hainaut,name_tier,,count,,,,,,,,,,,x
 c_hainaut,PROV94,,Mons,,,,,,,,,,,x
 c_hainaut,c_hainaut_adj,,Hainautian,,,,,,,,,,,x
 c_hainaut,dutch,,Bergen,,,,,,,,,,,x
@@ -671,12 +671,12 @@ c_bourges,greek,,Avaricum,,,,,,,,,,,x
 c_bourges,roman,,Avaricum,,,,,,,,,,,x
 b_vierzon,b_vierzon,,Vierzon,,,,,,,,,,,x
 b_bourges,b_bourges,,Bourges,,,,,,,,,,,x
+b_bourges,greek,,Avaricum,,,,,,,,,,,x
+b_bourges,roman,,Avaricum,,,,,,,,,,,x
 b_bourges,foa,,VICOMTE_FOA,,,,,,,,,,,x
 b_bourges,title,,VICOMTE,,,,,,,,,,,x
 b_bourges,title_female,,VICOMTESSE,,,,,,,,,,,x
 b_bourges,title_prefix,,VICOMTE_OF,,,,,,,,,,,x
-b_bourges,greek,,Avaricum,,,,,,,,,,,x
-b_bourges,roman,,Avaricum,,,,,,,,,,,x
 b_chateauroux,b_chateauroux,,Châteauroux,,,,,,,,,,,x
 b_deols,b_deols,,Déols,,,,,,,,,,,x
 c_sancerre,PROV1160,,Sancerre,,,,,,,,,,,x
@@ -855,10 +855,10 @@ c_toulouse,greek,,Tolosa,,,,,,,,,,,x
 c_toulouse,roman,,Tolosa,,,,,,,,,,,x
 b_castelnaudary,b_castelnaudary,,Castèlnòu d'Arri,,,,,,,,,,,x
 b_toulouse,b_toulouse,,Tolosoa,,,,,,,,,,,x
-b_toulouse,foa,,CAPITOUL_FOA,,,,,,,,,,,x
-b_toulouse,title,,CAPITOUL,,,,,,,,,,,x
 b_toulouse,greek,,Tolosa,,,,,,,,,,,x
 b_toulouse,roman,,Tolosa,,,,,,,,,,,x
+b_toulouse,foa,,CAPITOUL_FOA,,,,,,,,,,,x
+b_toulouse,title,,CAPITOUL,,,,,,,,,,,x
 b_montauban,b_montauban,,Montalban,,,,,,,,,,,x
 b_lombez,b_lombez,,Lombèrs,,,,,,,,,,,x
 b_hautpoul,b_hautpoul,,Hautpoul,,,,,,,,,,,x
@@ -940,12 +940,12 @@ d_septimania,d_septimania,,Septimania,,,,,,,,,,,x
 d_septimania,d_septimania_adj,,Septimania,,,,,,,,,,,x
 c_narbonne,PROV212,,Narbona,,,,,,,,,,,x
 c_narbonne,c_narbonne_adj,,Narbonnian,,,,,,,,,,,x
+c_narbonne,greek,,Narbonesios,,,,,,,,,,,x
+c_narbonne,roman,,Narbo Martius,,,,,,,,,,,x
 c_narbonne,foa,,VICOMTE_FOA,,,,,,,,,,,x
 c_narbonne,title,,VICOMTE,,,,,,,,,,,x
 c_narbonne,title_female,,VICOMTESSE,,,,,,,,,,,x
 c_narbonne,title_prefix,,VICOMTE_OF,,,,,,,,,,,x
-c_narbonne,greek,,Narbonesios,,,,,,,,,,,x
-c_narbonne,roman,,Narbo Martius,,,,,,,,,,,x
 b_cruzycastle,b_cruzycastle,,Crusi,,,,,,,,,,,x
 b_narbonne_temple,b_narbonne_temple,,Narbona,,,,,,,,,,,x
 b_narbonne_temple,greek,,Narbonesios,,,,,,,,,,,x
@@ -961,12 +961,12 @@ b_brissac,b_brissac,,Briçac,,,,,,,,,,,x
 b_lodeve,b_lodeve,,Lodeva,,,,,,,,,,,x
 c_nimes,PROV1249,,Nimes,,,,,,,,,,,x
 c_nimes,c_nimes_adj,,Nimes,,,,,,,,,,,x
+c_nimes,greek,,Nemausos,,,,,,,,,,,x
+c_nimes,roman,,Nemausus,,,,,,,,,,,x
 c_nimes,foa,,VICOMTE_FOA,,,,,,,,,,,x
 c_nimes,title,,VICOMTE,,,,,,,,,,,x
 c_nimes,title_female,,VICOMTESSE,,,,,,,,,,,x
 c_nimes,title_prefix,,VICOMTE_OF,,,,,,,,,,,x
-c_nimes,greek,,Nemausos,,,,,,,,,,,x
-c_nimes,roman,,Nemausus,,,,,,,,,,,x
 b_nimes,b_nimes,,Nimes,,,,,,,,,,,x
 b_nimes,greek,,Nemausos,,,,,,,,,,,x
 b_nimes,roman,,Nemausus,,,,,,,,,,,x
@@ -987,12 +987,12 @@ b_lastours,b_lastours,,Las Tors,,,,,,,,,,,x
 b_chateaudetermes,b_chateaudetermes,,Tèrme,,,,,,,,,,,x
 c_beziers,PROV1168,,Béziers,,,,,,,,,,,x
 c_beziers,c_beziers_adj,,Besièrs,,,,,,,,,,,x
+c_beziers,greek,,Baitarra,,,,,,,,,,,x
+c_beziers,roman,,Baeterrae,,,,,,,,,,,x
 c_beziers,foa,,VICOMTE_FOA,,,,,,,,,,,x
 c_beziers,title,,VICOMTE,,,,,,,,,,,x
 c_beziers,title_female,,VICOMTESSE,,,,,,,,,,,x
 c_beziers,title_prefix,,VICOMTE_OF,,,,,,,,,,,x
-c_beziers,greek,,Baitarra,,,,,,,,,,,x
-c_beziers,roman,,Baeterrae,,,,,,,,,,,x
 b_beziers,b_beziers,,Besièrs,,,,,,,,,,,x
 b_beziers,greek,,Baitarra,,,,,,,,,,,x
 b_beziers,roman,,Baeterrae,,,,,,,,,,,x

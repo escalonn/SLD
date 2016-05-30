@@ -1,15 +1,15 @@
 #TITLE,KEY,VALUE,SWMH,,,,,,,,,,,x
 k_egypt,k_egypt,,Misr,,,,,,,,,,,x
 k_egypt,k_egypt_adj,,Misri,,,,,,,,,,,x
-k_egypt,k_egypt_adj_greek,,Aigyptian,,,,,,,,,,,x
 k_egypt,coptic,,Khemi,,,,,,,,,,,x
 k_egypt,greek,,Aigyptos,,,,,,,,,,,x
+k_egypt,k_egypt_adj_greek,,Aigyptian,,,,,,,,,,,x
 k_egypt,roman,,Aegyptus,,,,,,,,,,,x
 d_alexandria,d_alexandria,,Iskandariya,,,,,,,,,,,x
 d_alexandria,d_alexandria_adj,,Iskandariyi,,,,,,,,,,,x
-d_alexandria,d_alexandria_adj_greek,,Aigyptian,,,,,,,,,,,x
 d_alexandria,coptic,,Rakote,,,,,,,,,,,x
 d_alexandria,greek,,Aigyptos,,,,,,,,,,,x
+d_alexandria,d_alexandria_adj_greek,,Aigyptian,,,,,,,,,,,x
 d_alexandria,roman,,Aegyptus,,,,,,,,,,,x
 c_alexandria,PROV802,,Iskandarîya,,,,,,,,,,,x
 c_alexandria,c_alexandria_adj,,Iskandarîyî,,,,,,,,,,,x
@@ -25,8 +25,8 @@ b_marabout,b_marabout,,Marabout,,,,,,,,,,,x
 b_dukhayla,b_dukhayla,,Dukhayla,,,,,,,,,,,x
 c_al_alamayn,PROV804,,Sullum,,,,,,,,,,,x
 c_al_alamayn,c_al_alamayn_adj,,Sullumî,,,,,,,,,,,x
-c_al_alamayn,c_al_alamayn_adj_greek,,Paraitonian,,,,,,,,,,,x
 c_al_alamayn,greek,,Paraitonion,,,,,,,,,,,x
+c_al_alamayn,c_al_alamayn_adj_greek,,Paraitonian,,,,,,,,,,,x
 c_al_alamayn,roman,,Paraetonium,,,,,,,,,,,x
 b_sollum,b_sollum,,Sullum,,,,,,,,,,,x
 b_sollum,greek,,Katabathmos Megas,,,,,,,,,,,x
@@ -36,8 +36,8 @@ b_mersamatruh,greek,,Paraitonion,,,,,,,,,,,x
 b_mersamatruh,roman,,Paraetonium,,,,,,,,,,,x
 c_quattara,PROV803,,Sîwa,,,,,,,,,,,x
 c_quattara,c_quattara_adj,,Sîwî,,,,,,,,,,,x
-c_quattara,c_quattara_adj_greek,,Ammonian,,,,,,,,,,,x
 c_quattara,greek,,Ammonion,,,,,,,,,,,x
+c_quattara,c_quattara_adj_greek,,Ammonian,,,,,,,,,,,x
 c_quattara,roman,,Ammonium,,,,,,,,,,,x
 b_siwa,b_siwa,,Siwa,,,,,,,,,,,x
 b_siwa,greek,,Ammonion,,,,,,,,,,,x
@@ -48,41 +48,41 @@ b_santariya,roman,,Klimax,,,,,,,,,,,x
 b_quattara,b_quattara,,Quattara,,,,,,,,,,,x
 d_damietta,d_damietta,,Dumiyát,,,,,,,,,,,x
 d_damietta,d_damietta_adj,,Dumiyátí,,,,,,,,,,,x
-d_damietta,d_damietta_adj_greek,,Augustamnikan,,,,,,,,,,,x
 d_damietta,greek,,Augustamnike,,,,,,,,,,,x
+d_damietta,d_damietta_adj_greek,,Augustamnikan,,,,,,,,,,,x
 d_damietta,roman,,Augustamnica,,,,,,,,,,,x
 c_gabiyaha,PROV799,,Nastarâwa,,,,,,,,,,,x
 c_gabiyaha,c_gabiyaha_adj,,Nastaráwî,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_central_italian,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_corsican,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_dalmatian,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_frankish,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_greek,,Bolbitinan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_italian,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_ligurian,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_neapolitan,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_norman,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_sardinian,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_sicilian,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_southern_italian,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_tuscan,,Rosettan,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj_venetian,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,central_italian,,Rosetta,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_central_italian,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,coptic,,Rashit,,,,,,,,,,,x
 c_gabiyaha,corsican,,Rosetta,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_corsican,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,dalmatian,,Rosetta,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_dalmatian,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,frankish,,Rosette,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_frankish,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,greek,,Bolbitinon,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_greek,,Bolbitinan,,,,,,,,,,,x
 c_gabiyaha,italian,,Rosetta,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_italian,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,ligurian,,Rosetta,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_ligurian,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,neapolitan,,Rosetta,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_neapolitan,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,norman,,Rosette,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_norman,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,roman,,Bolbitinum,,,,,,,,,,,x
 c_gabiyaha,sardinian,,Rosetta,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_sardinian,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,sicilian,,Rosetta,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_sicilian,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,southern_italian,,Rosetta,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_southern_italian,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,tuscan,,Rosetta,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_tuscan,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,venetian,,Rosetta,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj_venetian,,Rosettan,,,,,,,,,,,x
 b_nastarawa,b_nastarawa,,Nastaráwa,,,,,,,,,,,x
 b_burullus,b_burullus,,Burullus,,,,,,,,,,,x
 b_burullus,greek,,Paralos,,,,,,,,,,,x
@@ -112,9 +112,9 @@ b_rashid,venetian,,Rosetta,,,,,,,,,,,x
 b_alshirak,b_alshirak,,al Shirák,,,,,,,,,,,x
 c_delta,PROV798,,Dimyât,,,,,,,,,,,x
 c_delta,c_delta_adj,,Dimyátî,,,,,,,,,,,x
-c_delta,c_delta_adj_greek,,Tamiathian,,,,,,,,,,,x
 c_delta,coptic,,Tamiati,,,,,,,,,,,x
 c_delta,greek,,Tamiathis,,,,,,,,,,,x
+c_delta,c_delta_adj_greek,,Tamiathian,,,,,,,,,,,x
 c_delta,roman,,Tamiathis,,,,,,,,,,,x
 b_damietta,b_damietta,,Dumiyát,,,,,,,,,,,x
 b_damietta,coptic,,Tamiati,,,,,,,,,,,x
@@ -126,8 +126,8 @@ b_shata,b_shata,,Shata,,,,,,,,,,,x
 b_daqahla,b_daqahla,,Daqahla,,,,,,,,,,,x
 c_pelusia,PROV789,,Ushmún Tannâh,,,,,,,,,,,x
 c_pelusia,c_pelusia_adj,,Ushmún Tannáhî,,,,,,,,,,,x
-c_pelusia,c_pelusia_adj_greek,,Thennesian,,,,,,,,,,,x
 c_pelusia,greek,,Thennesos,,,,,,,,,,,x
+c_pelusia,c_pelusia_adj_greek,,Thennesian,,,,,,,,,,,x
 c_pelusia,roman,,Thennisus,,,,,,,,,,,x
 b_ushmuntan,b_ushmuntan,,Ushmúm Tannáh,,,,,,,,,,,x
 b_ushmuntan,coptic,,Schmoun Erman,,,,,,,,,,,x
@@ -141,9 +141,9 @@ b_faqus,greek,,Phakoussai,,,,,,,,,,,x
 b_faqus,roman,,Phakoussae,,,,,,,,,,,x
 c_bilbays,PROV1331,,Bilbays,,,,,,,,,,,x
 c_bilbays,c_bilbays_adj,,Bilbaysî,,,,,,,,,,,x
-c_bilbays,c_bilbays_adj_greek,,Bilbeisi,,,,,,,,,,,x
 c_bilbays,coptic,,Phelbs,,,,,,,,,,,x
 c_bilbays,greek,,Bilbeis,,,,,,,,,,,x
+c_bilbays,c_bilbays_adj_greek,,Bilbeisi,,,,,,,,,,,x
 c_bilbays,roman,,Bilbeis,,,,,,,,,,,x
 b_bilbays,b_bilbays,,Bilbays,,,,,,,,,,,x
 b_bilbays,coptic,,Phelbs,,,,,,,,,,,x
@@ -162,14 +162,14 @@ b_samannud,greek,,Sebennytos,,,,,,,,,,,x
 b_samannud,roman,,Sebennytus,,,,,,,,,,,x
 d_cairo,d_cairo,,Qáhira,,,,,,,,,,,x
 d_cairo,d_cairo_adj,,Qáhirí,,,,,,,,,,,x
-d_cairo,d_cairo_adj_greek,,Arkadian,,,,,,,,,,,x
 d_cairo,greek,,Arkadia,,,,,,,,,,,x
+d_cairo,d_cairo_adj_greek,,Arkadian,,,,,,,,,,,x
 d_cairo,roman,,Arcadia,,,,,,,,,,,x
 c_cairo,PROV796,,Cairo,,,,,,,,,,,x
 c_cairo,c_cairo_adj,,Qáhirî,,,,,,,,,,,x
-c_cairo,c_cairo_adj_greek,,Phystatian,,,,,,,,,,,x
 c_cairo,coptic,,Phystaton,,,,,,,,,,,x
 c_cairo,greek,,Phystaton,,,,,,,,,,,x
+c_cairo,c_cairo_adj_greek,,Phystatian,,,,,,,,,,,x
 c_cairo,roman,,Babylon,,,,,,,,,,,x
 b_cairo,b_cairo,,al Qáhira,,,,,,,,,,,x
 b_cairo,coptic,,Kahire,,,,,,,,,,,x
@@ -190,9 +190,9 @@ b_ain_shams,b_ain_shams,,Ain Shams,,,,,,,,,,,x
 b_ghayfa,b_ghayfa,,Ghayfá,,,,,,,,,,,x
 c_manupura,PROV797,,Manúf,,,,,,,,,,,x
 c_manupura,c_manupura_adj,,Manúfî,,,,,,,,,,,x
-c_manupura,c_manupura_adj_greek,,Athriban,,,,,,,,,,,x
 c_manupura,coptic,,Panaho,,,,,,,,,,,x
 c_manupura,greek,,Athribis,,,,,,,,,,,x
+c_manupura,c_manupura_adj_greek,,Athriban,,,,,,,,,,,x
 c_manupura,roman,,Athribis,,,,,,,,,,,x
 b_manuf,b_manuf,,Manúf,,,,,,,,,,,x
 b_manuf,coptic,,Onufe,,,,,,,,,,,x
@@ -208,9 +208,9 @@ b_almahallah,b_almahallah,,Al-Mahallah,,,,,,,,,,,x
 b_zagazig,b_zagazig,,Zagazig,,,,,,,,,,,x
 c_buhairya,PROV801,,Hawf Gharbî,,,,,,,,,,,x
 c_buhairya,c_buhairya_adj,,Hawfî,,,,,,,,,,,x
-c_buhairya,c_buhairya_adj_greek,,Hermopolitan,,,,,,,,,,,x
 c_buhairya,coptic,,Timinhor,,,,,,,,,,,x
 c_buhairya,greek,,Hermopolis,,,,,,,,,,,x
+c_buhairya,c_buhairya_adj_greek,,Hermopolitan,,,,,,,,,,,x
 c_buhairya,roman,,Hermopolis,,,,,,,,,,,x
 b_damanhur,b_damanhur,,Damanhúr,,,,,,,,,,,x
 b_damanhur,coptic,,Timinhor,,,,,,,,,,,x
@@ -223,8 +223,8 @@ b_kharibta,roman,,Scetis,,,,,,,,,,,x
 b_qartasa,b_qartasa,,Qartasá,,,,,,,,,,,x
 c_gizeh,PROV800,,Gîza,,,,,,,,,,,x
 c_gizeh,c_gizeh_adj,,Gîzî,,,,,,,,,,,x
-c_gizeh,c_gizeh_adj_greek,,Memphian,,,,,,,,,,,x
 c_gizeh,greek,,Memphis,,,,,,,,,,,x
+c_gizeh,c_gizeh_adj_greek,,Memphian,,,,,,,,,,,x
 c_gizeh,roman,,Memphis,,,,,,,,,,,x
 b_gizeh,b_gizeh,,Gízeh,,,,,,,,,,,x
 b_gizeh,greek,,Memphis,,,,,,,,,,,x
@@ -235,8 +235,8 @@ b_saqqara,greek,,Monì tìs Apa Ieremias,,,,,,,,,,,x
 b_saqqara,roman,,Serapeum,,,,,,,,,,,x
 c_sarqihya,PROV790,,Quzlum,,,,,,,,,,,x
 c_sarqihya,c_sarqihya_adj,,Quzlumî,,,,,,,,,,,x
-c_sarqihya,c_sarqihya_adj_greek,,Klysman,,,,,,,,,,,x
 c_sarqihya,greek,,Klysma,,,,,,,,,,,x
+c_sarqihya,c_sarqihya_adj_greek,,Klysman,,,,,,,,,,,x
 c_sarqihya,roman,,Clysma,,,,,,,,,,,x
 b_quzlum,b_quzlum,,Quzlum,,,,,,,,,,,x
 b_quzlum,greek,,Klysma,,,,,,,,,,,x
@@ -245,9 +245,9 @@ b_sarqihya,b_sarqihya,,Sarqihya,,,,,,,,,,,x
 b_suez,b_suez,,Suez,,,,,,,,,,,x
 c_itfih,PROV1335,,Itfih,,,,,,,,,,,x
 c_itfih,c_itfih_adj,,Itfîhî,,,,,,,,,,,x
-c_itfih,c_itfih_adj_greek,,Aphroditoupolitan,,,,,,,,,,,x
 c_itfih,coptic,,Tpeh,,,,,,,,,,,x
 c_itfih,greek,,Aphroditoupolis,,,,,,,,,,,x
+c_itfih,c_itfih_adj_greek,,Aphroditoupolitan,,,,,,,,,,,x
 c_itfih,roman,,Aphroditopolis,,,,,,,,,,,x
 b_itfih,b_itfih,,Itfíh,,,,,,,,,,,x
 b_itfih,coptic,,Tpeh,,,,,,,,,,,x
@@ -262,9 +262,9 @@ b_lahun,roman,,Ptolemais Hormou,,,,,,,,,,,x
 b_alqababt,b_alqababt,,Al-Qababt,,,,,,,,,,,x
 c_bahnasa,PROV1336,,Bahnasa,,,,,,,,,,,x
 c_bahnasa,c_bahnasa_adj,,Bahnasî,,,,,,,,,,,x
-c_bahnasa,c_bahnasa_adj_greek,,Oxyrynchan,,,,,,,,,,,x
 c_bahnasa,coptic,,Pemdje,,,,,,,,,,,x
 c_bahnasa,greek,,Oxyrynchos,,,,,,,,,,,x
+c_bahnasa,c_bahnasa_adj_greek,,Oxyrynchan,,,,,,,,,,,x
 c_bahnasa,roman,,Oxyrhynchus,,,,,,,,,,,x
 b_bahnasa,b_bahnasa,,Al-Bahnasá,,,,,,,,,,,x
 b_bahnasa,coptic,,Pemdje,,,,,,,,,,,x
@@ -280,9 +280,9 @@ d_alwahat,d_alwahat,,Al Wahát,,,,,,,,,,,x
 d_alwahat,d_alwahat_adj,,Al Wahátí,,,,,,,,,,,x
 c_kharija,PROV1341,,Kharija,,,,,,,,,,,x
 c_kharija,c_kharija_adj,,Khárijî,,,,,,,,,,,x
-c_kharija,c_kharija_adj_greek,,Oasis Megan,,,,,,,,,,,x
 c_kharija,coptic,,Uhiresi,,,,,,,,,,,x
 c_kharija,greek,,Oasis Megas,,,,,,,,,,,x
+c_kharija,c_kharija_adj_greek,,Oasis Megan,,,,,,,,,,,x
 c_kharija,roman,,Oasis Magna,,,,,,,,,,,x
 b_kharija,b_kharija,,Al-Khárija,,,,,,,,,,,x
 b_kharija,greek,,Hibis,,,,,,,,,,,x
@@ -291,8 +291,8 @@ b_alkalamun,b_alkalamun,,Al-Kalamún,,,,,,,,,,,x
 b_alkasr,b_alkasr,,Al-Kasr,,,,,,,,,,,x
 c_dakhila,PROV1342,,Dakhila,,,,,,,,,,,x
 c_dakhila,c_dakhila_adj,,Dakhîlî,,,,,,,,,,,x
-c_dakhila,c_dakhila_adj_greek,,Mothisan,,,,,,,,,,,x
 c_dakhila,greek,,Mothis,,,,,,,,,,,x
+c_dakhila,c_dakhila_adj_greek,,Mothisan,,,,,,,,,,,x
 c_dakhila,roman,,Mothis,,,,,,,,,,,x
 b_dakhila,b_dakhila,,Al-Dákhila,,,,,,,,,,,x
 b_dakhila,greek,,Mothis,,,,,,,,,,,x
@@ -300,17 +300,17 @@ b_dakhila,roman,,Mothis,,,,,,,,,,,x
 b_farfarun,b_farfarun,,Farfárún,,,,,,,,,,,x
 c_bahriya,PROV1343,,Bahriya,,,,,,,,,,,x
 c_bahriya,c_bahriya_adj,,Bahrîyî,,,,,,,,,,,x
-c_bahriya,c_bahriya_adj_greek,,Oasis Mikran,,,,,,,,,,,x
 c_bahriya,greek,,Oasis Mikra,,,,,,,,,,,x
+c_bahriya,c_bahriya_adj_greek,,Oasis Mikran,,,,,,,,,,,x
 c_bahriya,roman,,Oasis Parva,,,,,,,,,,,x
 b_bahriya,b_bahriya,,Al-Báhriya,,,,,,,,,,,x
 b_bahriya,greek,,Oasis Mikra,,,,,,,,,,,x
 b_bahriya,roman,,Oasis Parva,,,,,,,,,,,x
 c_fayyum,PROV1334,,Fayyum,,,,,,,,,,,x
 c_fayyum,c_fayyum_adj,,Fayyúmî,,,,,,,,,,,x
-c_fayyum,c_fayyum_adj_greek,,Arsinoan,,,,,,,,,,,x
 c_fayyum,coptic,,Peiom,,,,,,,,,,,x
 c_fayyum,greek,,Arsinoë,,,,,,,,,,,x
+c_fayyum,c_fayyum_adj_greek,,Arsinoan,,,,,,,,,,,x
 c_fayyum,roman,,Arsinoë,,,,,,,,,,,x
 b_fayyum,b_fayyum,,Al-Fayyúm,,,,,,,,,,,x
 b_fayyum,coptic,,Peiom,,,,,,,,,,,x
@@ -320,13 +320,13 @@ b_fidaymin,b_fidaymin,,Fidaymín,,,,,,,,,,,x
 b_iqna,b_iqna,,Iqná,,,,,,,,,,,x
 d_aswan,d_aswan,,Al-Sa'íd,,,,,,,,,,,x
 d_aswan,d_aswan_adj,,Al-Sa'ídí,,,,,,,,,,,x
-d_aswan,d_aswan_adj_greek,,Thebaïan,,,,,,,,,,,x
 d_aswan,greek,,Thebaïs,,,,,,,,,,,x
+d_aswan,d_aswan_adj_greek,,Thebaïan,,,,,,,,,,,x
 d_aswan,roman,,Thebais,,,,,,,,,,,x
 c_quena,PROV791,,Qusayr,,,,,,,,,,,x
 c_quena,c_quena_adj,,Qusayrî,,,,,,,,,,,x
-c_quena,c_quena_adj_greek,,Myos Horman,,,,,,,,,,,x
 c_quena,greek,,Myos Hormos,,,,,,,,,,,x
+c_quena,c_quena_adj_greek,,Myos Horman,,,,,,,,,,,x
 c_quena,roman,,Myos Hormos,,,,,,,,,,,x
 b_quena,b_quena,,Quena,,,,,,,,,,,x
 b_kosseir,b_kosseir,,Qusayr,,,,,,,,,,,x
@@ -335,9 +335,9 @@ b_kosseir,roman,,Myos Hormos,,,,,,,,,,,x
 b_abughusun,b_abughusun,,Abu Ghusun,,,,,,,,,,,x
 c_manfalut,PROV1337,,Manfalut,,,,,,,,,,,x
 c_manfalut,c_manfalut_adj,,Manfalútî,,,,,,,,,,,x
-c_manfalut,c_manfalut_adj_greek,,Manbalotan,,,,,,,,,,,x
 c_manfalut,coptic,,Manbalot,,,,,,,,,,,x
 c_manfalut,greek,,Manbalot,,,,,,,,,,,x
+c_manfalut,c_manfalut_adj_greek,,Manbalotan,,,,,,,,,,,x
 c_manfalut,roman,,Manbalot,,,,,,,,,,,x
 b_manfalut,b_manfalut,,Manfalút,,,,,,,,,,,x
 b_manfalut,coptic,,Manbalot,,,,,,,,,,,x
@@ -349,9 +349,9 @@ b_ushmun,greek,,Hermopolis Megas,,,,,,,,,,,x
 b_ushmun,roman,,Hermopolis Magna,,,,,,,,,,,x
 c_ikhmin,PROV1339,,Ikhmin,,,,,,,,,,,x
 c_ikhmin,c_ikhmin_adj,,Ikhmînî,,,,,,,,,,,x
-c_ikhmin,c_ikhmin_adj_greek,,Panopolitan,,,,,,,,,,,x
 c_ikhmin,coptic,,Shmin,,,,,,,,,,,x
 c_ikhmin,greek,,Panopolis,,,,,,,,,,,x
+c_ikhmin,c_ikhmin_adj_greek,,Panopolitan,,,,,,,,,,,x
 c_ikhmin,roman,,Panopolis,,,,,,,,,,,x
 b_ikhmin,b_ikhmin,,Ikhmín,,,,,,,,,,,x
 b_ikhmin,coptic,,Shmin,,,,,,,,,,,x
@@ -363,9 +363,9 @@ b_hu,roman,,Diospolis Micra,,,,,,,,,,,x
 b_bulyana,b_bulyana,,Bulyána,,,,,,,,,,,x
 c_qus,PROV1340,,Qus,,,,,,,,,,,x
 c_qus,c_qus_adj,,Qúsî,,,,,,,,,,,x
-c_qus,c_qus_adj_greek,,Thebaian,,,,,,,,,,,x
 c_qus,coptic,,Ne,,,,,,,,,,,x
 c_qus,greek,,Thebai,,,,,,,,,,,x
+c_qus,c_qus_adj_greek,,Thebaian,,,,,,,,,,,x
 c_qus,roman,,Thebae,,,,,,,,,,,x
 b_qus,b_qus,,Qús,,,,,,,,,,,x
 b_qus,greek,,Apollinopolis Mikra,,,,,,,,,,,x
@@ -387,9 +387,9 @@ b_quft,roman,,Coptos,,,,,,,,,,,x
 b_faw,b_faw,,Fáw,,,,,,,,,,,x
 c_asyut,PROV795,,Asyut,,,,,,,,,,,x
 c_asyut,c_asyut_adj,,Asyútî,,,,,,,,,,,x
-c_asyut,c_asyut_adj_greek,,Lykopolitan,,,,,,,,,,,x
 c_asyut,coptic,,Siout,,,,,,,,,,,x
 c_asyut,greek,,Lykopolis,,,,,,,,,,,x
+c_asyut,c_asyut_adj_greek,,Lykopolitan,,,,,,,,,,,x
 c_asyut,roman,,Lycopolis,,,,,,,,,,,x
 b_asyut,b_asyut,,Asyút,,,,,,,,,,,x
 b_asyut,coptic,,Siout,,,,,,,,,,,x
@@ -404,9 +404,9 @@ b_butij,roman,,Apotheke,,,,,,,,,,,x
 b_bawit,b_bawit,,Bawít,,,,,,,,,,,x
 c_aswan,PROV794,,Aswan,,,,,,,,,,,x
 c_aswan,c_aswan_adj,,Aswánî,,,,,,,,,,,x
-c_aswan,c_aswan_adj_greek,,Syenan,,,,,,,,,,,x
 c_aswan,coptic,,Suan,,,,,,,,,,,x
 c_aswan,greek,,Syene,,,,,,,,,,,x
+c_aswan,c_aswan_adj_greek,,Syenan,,,,,,,,,,,x
 c_aswan,roman,,Syene,,,,,,,,,,,x
 b_aswan,b_aswan,,Aswán,,,,,,,,,,,x
 b_aswan,coptic,,Suan,,,,,,,,,,,x
@@ -421,13 +421,13 @@ b_armant,roman,,Hermonthis,,,,,,,,,,,x
 b_isna,b_isna,,Isná,,,,,,,,,,,x
 d_cyrenaica,d_cyrenaica,,Barqa,,,,,,,,,,,x
 d_cyrenaica,d_cyrenaica_adj,,Barqí,,,,,,,,,,,x
-d_cyrenaica,d_cyrenaica_adj_greek,,Lybia Pentapolitan,,,,,,,,,,,x
 d_cyrenaica,greek,,Libya Pentapolis,,,,,,,,,,,x
+d_cyrenaica,d_cyrenaica_adj_greek,,Lybia Pentapolitan,,,,,,,,,,,x
 d_cyrenaica,roman,,Libya Pentapolis,,,,,,,,,,,x
 c_senoussi,PROV807,,Awjîla,,,,,,,,,,,x
 c_senoussi,c_senoussi_adj,,Awjîlî,,,,,,,,,,,x
-c_senoussi,c_senoussi_adj_greek,,Augilan,,,,,,,,,,,x
 c_senoussi,greek,,Augila,,,,,,,,,,,x
+c_senoussi,c_senoussi_adj_greek,,Augilan,,,,,,,,,,,x
 c_senoussi,roman,,Augila,,,,,,,,,,,x
 b_awjila,b_awjila,,Awjíla,,,,,,,,,,,x
 b_awjila,greek,,Augila,,,,,,,,,,,x
@@ -436,8 +436,8 @@ b_jalu,b_jalu,,Jalu,,,,,,,,,,,x
 b_arzakiya,b_arzakiya,,Arzakíya,,,,,,,,,,,x
 c_ajadabiya,PROV1345,,Adjadabiya,,,,,,,,,,,x
 c_ajadabiya,c_ajadabiya_adj,,Ajadabîyî,,,,,,,,,,,x
-c_ajadabiya,c_ajadabiya_adj_greek,,Corniclanian,,,,,,,,,,,x
 c_ajadabiya,greek,,Corniclanum,,,,,,,,,,,x
+c_ajadabiya,c_ajadabiya_adj_greek,,Corniclanian,,,,,,,,,,,x
 c_ajadabiya,roman,,Corniclanum,,,,,,,,,,,x
 b_ajdabiya,b_ajdabiya,,Ajadabíya,,,,,,,,,,,x
 b_ajdabiya,greek,,Corniclanum,,,,,,,,,,,x
@@ -447,8 +447,8 @@ b_alaghaila,greek,,Anabucis,,,,,,,,,,,x
 b_alaghaila,roman,,Anabucis,,,,,,,,,,,x
 c_benghazi,PROV808,,Barqa,,,,,,,,,,,x
 c_benghazi,c_benghazi_adj,,Barqî,,,,,,,,,,,x
-c_benghazi,c_benghazi_adj_greek,,Kyrenian,,,,,,,,,,,x
 c_benghazi,greek,,Kyrene,,,,,,,,,,,x
+c_benghazi,c_benghazi_adj_greek,,Kyrenian,,,,,,,,,,,x
 c_benghazi,roman,,Cyrene,,,,,,,,,,,x
 b_barca,b_barca,,Barqa,,,,,,,,,,,x
 b_barca,greek,,Barke,,,,,,,,,,,x
@@ -467,8 +467,8 @@ b_tulmaytath,greek,,Ptolemais,,,,,,,,,,,x
 b_tulmaytath,roman,,Ptolemais,,,,,,,,,,,x
 c_tobruk,PROV805,,Tubrúk,,,,,,,,,,,x
 c_tobruk,c_tobruk_adj,,Tobrúkî,,,,,,,,,,,x
-c_tobruk,c_tobruk_adj_greek,,Antipyrgian,,,,,,,,,,,x
 c_tobruk,greek,,Antipyrgos,,,,,,,,,,,x
+c_tobruk,c_tobruk_adj_greek,,Antipyrgian,,,,,,,,,,,x
 c_tobruk,roman,,Antipyrgus,,,,,,,,,,,x
 b_tobruk,b_tobruk,,Tobruk,,,,,,,,,,,x
 b_tobruk,greek,,Antipyrgos,,,,,,,,,,,x
@@ -484,33 +484,33 @@ e_africa,e_africa,,Africa,,,,,,,,,,,x
 e_africa,e_africa_adj,,African,,,,,,,,,,,x
 k_africa,k_africa,,Ifriqiya,,,,,,,,,,,x
 k_africa,k_africa_adj,,Ifriqi,,,,,,,,,,,x
-k_africa,k_africa_adj_greek,,Africaian,,,,,,,,,,,x
-k_africa,k_africa_adj_roman,,Africaian,,,,,,,,,,,x
 k_africa,greek,,Africae,,,,,,,,,,,x
+k_africa,k_africa_adj_greek,,Africaian,,,,,,,,,,,x
 k_africa,roman,,Africae,,,,,,,,,,,x
+k_africa,k_africa_adj_roman,,Africaian,,,,,,,,,,,x
 d_tunis,d_tunis,,Ifriqiya,,,,,,,,,,,x
 d_tunis,d_tunis_adj,,Ifriqi,,,,,,,,,,,x
-d_tunis,d_tunis_adj_greek,,Africa Proconsularan,,,,,,,,,,,x
-d_tunis,d_tunis_adj_roman,,Africa Proconsularan,,,,,,,,,,,x
 d_tunis,greek,,Africa Proconsularis,,,,,,,,,,,x
+d_tunis,d_tunis_adj_greek,,Africa Proconsularan,,,,,,,,,,,x
 d_tunis,roman,,Africa Proconsularis,,,,,,,,,,,x
+d_tunis,d_tunis_adj_roman,,Africa Proconsularan,,,,,,,,,,,x
 c_tunis,PROV817,,Tunis,,,,,,,,,,,x
 c_tunis,c_tunis_adj,,Túnisî,,,,,,,,,,,x
 c_tunis,c_tunis_adj_andalusian_arabic,,Qartajan,,,,,,,,,,,x
 c_tunis,c_tunis_adj_bedouin_arabic,,Qartajan,,,,,,,,,,,x
 c_tunis,c_tunis_adj_egyptian_arabic,,Qartajan,,,,,,,,,,,x
+c_tunis,greek,,Karchedon,,,,,,,,,,,x
 c_tunis,c_tunis_adj_greek,,Carthaginian,,,,,,,,,,,x
 c_tunis,c_tunis_adj_levantine_arabic,,Qartajan,,,,,,,,,,,x
 c_tunis,c_tunis_adj_maghreb_arabic,,Qartajan,,,,,,,,,,,x
 c_tunis,c_tunis_adj_masmuda,,Kartajeni,,,,,,,,,,,x
+c_tunis,roman,,Carthago,,,,,,,,,,,x
 c_tunis,c_tunis_adj_roman,,Carthaginian,,,,,,,,,,,x
 c_tunis,c_tunis_adj_sanhaja,,Kartajeni,,,,,,,,,,,x
 c_tunis,c_tunis_adj_sicilian_arabic,,Qartajan,,,,,,,,,,,x
 c_tunis,c_tunis_adj_tagelmust,,Kartajeni,,,,,,,,,,,x
 c_tunis,c_tunis_adj_tuareg,,Kartajeni,,,,,,,,,,,x
 c_tunis,c_tunis_adj_zanata,,Kartajeni,,,,,,,,,,,x
-c_tunis,greek,,Karchedon,,,,,,,,,,,x
-c_tunis,roman,,Carthago,,,,,,,,,,,x
 b_tunis,b_tunis,,Tunis,,,,,,,,,,,x
 b_tunis,masmuda,,Tunes,,,,,,,,,,,x
 b_tunis,sanhaja,,Tunes,,,,,,,,,,,x
@@ -540,10 +540,10 @@ b_hammamet,greek,,Pupput,,,,,,,,,,,x
 b_hammamet,roman,,Pupput,,,,,,,,,,,x
 c_medjerda,PROV818,,Súsa,,,,,,,,,,,x
 c_medjerda,c_medjerda_adj,,Súsî,,,,,,,,,,,x
-c_medjerda,c_medjerda_adj_greek,,Hadrumetan,,,,,,,,,,,x
-c_medjerda,c_medjerda_adj_roman,,Hadrumetan,,,,,,,,,,,x
 c_medjerda,greek,,Hadrumetum,,,,,,,,,,,x
+c_medjerda,c_medjerda_adj_greek,,Hadrumetan,,,,,,,,,,,x
 c_medjerda,roman,,Hadrumetum,,,,,,,,,,,x
+c_medjerda,c_medjerda_adj_roman,,Hadrumetan,,,,,,,,,,,x
 b_monastir,b_monastir,,Múnastir,,,,,,,,,,,x
 b_monastir,greek,,Ruspina,,,,,,,,,,,x
 b_monastir,roman,,Ruspina,,,,,,,,,,,x
@@ -553,10 +553,10 @@ b_sousse,roman,,Hadrumetum,,,,,,,,,,,x
 b_siliana,b_siliana,,Siliana,,,,,,,,,,,x
 c_bizerte,PROV819,,Banzart,,,,,,,,,,,x
 c_bizerte,c_bizerte_adj,,Banzartî,,,,,,,,,,,x
-c_bizerte,c_bizerte_adj_greek,,Hippo Diarrhytan,,,,,,,,,,,x
-c_bizerte,c_bizerte_adj_roman,,Hippo Diarrhytan,,,,,,,,,,,x
 c_bizerte,greek,,Hippo Diarrhytos,,,,,,,,,,,x
+c_bizerte,c_bizerte_adj_greek,,Hippo Diarrhytan,,,,,,,,,,,x
 c_bizerte,roman,,Hippo Diarrhytus,,,,,,,,,,,x
+c_bizerte,c_bizerte_adj_roman,,Hippo Diarrhytan,,,,,,,,,,,x
 b_bizerte,b_bizerte,,Banzart,,,,,,,,,,,x
 b_bizerte,greek,,Hippo Diarrhytos,,,,,,,,,,,x
 b_bizerte,roman,,Hippo Diarrhytus,,,,,,,,,,,x
@@ -569,10 +569,10 @@ b_tabarqa,roman,,Thabraca,,,,,,,,,,,x
 b_marsaalkharaz,b_marsaalkharaz,,Marsa al-Kharaz,,,,,,,,,,,x
 c_kairwan,PROV815,,Kairwan,,,,,,,,,,,x
 c_kairwan,c_kairwan_adj,,Kairawánî,,,,,,,,,,,x
-c_kairwan,c_kairwan_adj_greek,,Thysdrian,,,,,,,,,,,x
-c_kairwan,c_kairwan_adj_roman,,Thysdrian,,,,,,,,,,,x
 c_kairwan,greek,,Thysdrus,,,,,,,,,,,x
+c_kairwan,c_kairwan_adj_greek,,Thysdrian,,,,,,,,,,,x
 c_kairwan,roman,,Thysdrus,,,,,,,,,,,x
+c_kairwan,c_kairwan_adj_roman,,Thysdrian,,,,,,,,,,,x
 b_kairouan,b_kairouan,,Kairawán,,,,,,,,,,,x
 b_kairouan,greek,,Kamounia,,,,,,,,,,,x
 b_kairouan,roman,,Kamounia,,,,,,,,,,,x
@@ -591,10 +591,10 @@ b_eljem,roman,,Aquae Regiae,,,,,,,,,,,x
 b_subaytila,b_subaytila,,Subaytíla,,,,,,,,,,,x
 c_sfax,PROV1353,,Sfax,,,,,,,,,,,x
 c_sfax,c_sfax_adj,,Sufáksî,,,,,,,,,,,x
-c_sfax,c_sfax_adj_greek,,Thapsian,,,,,,,,,,,x
-c_sfax,c_sfax_adj_roman,,Thapsian,,,,,,,,,,,x
 c_sfax,greek,,Thapsus,,,,,,,,,,,x
+c_sfax,c_sfax_adj_greek,,Thapsian,,,,,,,,,,,x
 c_sfax,roman,,Thapsus,,,,,,,,,,,x
+c_sfax,c_sfax_adj_roman,,Thapsian,,,,,,,,,,,x
 b_sfax,b_sfax,,Sufákis,,,,,,,,,,,x
 b_sfax,greek,,Taparura,,,,,,,,,,,x
 b_sfax,roman,,Taparura,,,,,,,,,,,x
@@ -610,16 +610,16 @@ b_alhamma,greek,,Thaenae,,,,,,,,,,,x
 b_alhamma,roman,,Thaenae,,,,,,,,,,,x
 d_qamuda,d_qamuda,,Qamuda,,,,,,,,,,,x
 d_qamuda,d_qamuda_adj,,Qamudi,,,,,,,,,,,x
-d_qamuda,d_qamuda_adj_greek,,Byzacenan,,,,,,,,,,,x
-d_qamuda,d_qamuda_adj_roman,,Byzacenan,,,,,,,,,,,x
 d_qamuda,greek,,Byzacena,,,,,,,,,,,x
+d_qamuda,d_qamuda_adj_greek,,Byzacenan,,,,,,,,,,,x
 d_qamuda,roman,,Byzacena,,,,,,,,,,,x
+d_qamuda,d_qamuda_adj_roman,,Byzacenan,,,,,,,,,,,x
 c_gabes,PROV814,,Gabes,,,,,,,,,,,x
 c_gabes,c_gabes_adj,,Qábisî,,,,,,,,,,,x
-c_gabes,c_gabes_adj_greek,,Tacapian,,,,,,,,,,,x
-c_gabes,c_gabes_adj_roman,,Tacapaian,,,,,,,,,,,x
 c_gabes,greek,,Tacape,,,,,,,,,,,x
+c_gabes,c_gabes_adj_greek,,Tacapian,,,,,,,,,,,x
 c_gabes,roman,,Tacapae,,,,,,,,,,,x
+c_gabes,c_gabes_adj_roman,,Tacapaian,,,,,,,,,,,x
 b_haddej,b_haddej,,Haddej,,,,,,,,,,,x
 b_haddej,greek,,Bezereos,,,,,,,,,,,x
 b_haddej,roman,,Bezereos,,,,,,,,,,,x
@@ -638,10 +638,10 @@ b_jarjis,roman,,Gergis,,,,,,,,,,,x
 b_steftimi,b_steftimi,,Steftimi,,,,,,,,,,,x
 c_djerba,PROV813,,Djerba,,,,,,,,,,,x
 c_djerba,c_djerba_adj,,Djerbî,,,,,,,,,,,x
-c_djerba,c_djerba_adj_greek,,Girban,,,,,,,,,,,x
-c_djerba,c_djerba_adj_roman,,Girban,,,,,,,,,,,x
 c_djerba,greek,,Girba,,,,,,,,,,,x
+c_djerba,c_djerba_adj_greek,,Girban,,,,,,,,,,,x
 c_djerba,roman,,Girba,,,,,,,,,,,x
+c_djerba,c_djerba_adj_roman,,Girban,,,,,,,,,,,x
 b_houmtsouk,b_houmtsouk,,Houmtsouk,,,,,,,,,,,x
 b_houmtsouk,greek,,Girba,,,,,,,,,,,x
 b_houmtsouk,roman,,Girba,,,,,,,,,,,x
@@ -651,10 +651,10 @@ b_ajim,greek,,Tipasa,,,,,,,,,,,x
 b_ajim,roman,,Tipasa,,,,,,,,,,,x
 c_nafzawa,PROV1351,,Jerid,,,,,,,,,,,x
 c_nafzawa,c_nafzawa_adj,,Nafzáwî,,,,,,,,,,,x
-c_nafzawa,c_nafzawa_adj_greek,,Neptian,,,,,,,,,,,x
-c_nafzawa,c_nafzawa_adj_roman,,Neptian,,,,,,,,,,,x
 c_nafzawa,greek,,Nepte,,,,,,,,,,,x
+c_nafzawa,c_nafzawa_adj_greek,,Neptian,,,,,,,,,,,x
 c_nafzawa,roman,,Nepte,,,,,,,,,,,x
+c_nafzawa,c_nafzawa_adj_roman,,Neptian,,,,,,,,,,,x
 b_nafta,b_nafta,,Nafta,,,,,,,,,,,x
 b_nafta,greek,,Nepte,,,,,,,,,,,x
 b_nafta,roman,,Nepte,,,,,,,,,,,x
@@ -667,10 +667,10 @@ b_kebili,roman,,Turris Tamalleni,,,,,,,,,,,x
 b_souf,b_souf,,Souf,,,,,,,,,,,x
 c_qashtiliya,PROV1352,,Qashtiliya,,,,,,,,,,,x
 c_qashtiliya,c_qashtiliya_adj,,Qashtilîyî,,,,,,,,,,,x
-c_qashtiliya,c_qashtiliya_adj_greek,,Capsian,,,,,,,,,,,x
-c_qashtiliya,c_qashtiliya_adj_roman,,Capsian,,,,,,,,,,,x
 c_qashtiliya,greek,,Capsa,,,,,,,,,,,x
+c_qashtiliya,c_qashtiliya_adj_greek,,Capsian,,,,,,,,,,,x
 c_qashtiliya,roman,,Capsa,,,,,,,,,,,x
+c_qashtiliya,c_qashtiliya_adj_roman,,Capsian,,,,,,,,,,,x
 b_qamuda,b_qamuda,,Qamúda,,,,,,,,,,,x
 b_qamuda,greek,,Thelepte,,,,,,,,,,,x
 b_qamuda,roman,,Thelepte,,,,,,,,,,,x
@@ -696,24 +696,24 @@ b_baniwaled,greek,,Assaria,,,,,,,,,,,x
 b_baniwaled,roman,,Assaria,,,,,,,,,,,x
 c_leptis_magna,PROV810,,Leptis Magna,,,,,,,,,,,x
 c_leptis_magna,c_leptis_magna_adj,,Misrátî,,,,,,,,,,,x
-c_leptis_magna,c_leptis_magna_adj_greek,,Lepcis Magnan,,,,,,,,,,,x
-c_leptis_magna,c_leptis_magna_adj_roman,,Lepcis Magnan,,,,,,,,,,,x
 c_leptis_magna,bedouin_arabic,,Labda,,,,,,,,,,,x
 c_leptis_magna,egyptian_arabic,,Labda,,,,,,,,,,,x
 c_leptis_magna,greek,,Lepcis Magna,,,,,,,,,,,x
+c_leptis_magna,c_leptis_magna_adj_greek,,Lepcis Magnan,,,,,,,,,,,x
 c_leptis_magna,levantine_arabic,,Labda,,,,,,,,,,,x
 c_leptis_magna,maghreb_arabic,,Labda,,,,,,,,,,,x
 c_leptis_magna,roman,,Lepcis Magna,,,,,,,,,,,x
+c_leptis_magna,c_leptis_magna_adj_roman,,Lepcis Magnan,,,,,,,,,,,x
 b_misratah,b_misratah,,Misurátah,,,,,,,,,,,x
 b_misratah,greek,,Thubactis,,,,,,,,,,,x
 b_misratah,roman,,Thubactis,,,,,,,,,,,x
 b_alhasun,b_alhasun,,Al-Hasún,,,,,,,,,,,x
 c_syrte,PROV809,,Syrte,,,,,,,,,,,x
 c_syrte,c_syrte_adj,,Surtî,,,,,,,,,,,x
-c_syrte,c_syrte_adj_greek,,Macomadian,,,,,,,,,,,x
-c_syrte,c_syrte_adj_roman,,Macomadian,,,,,,,,,,,x
 c_syrte,greek,,Macomades,,,,,,,,,,,x
+c_syrte,c_syrte_adj_greek,,Macomadian,,,,,,,,,,,x
 c_syrte,roman,,Macomades,,,,,,,,,,,x
+c_syrte,c_syrte_adj_roman,,Macomadian,,,,,,,,,,,x
 b_syrte,b_syrte,,Syrte,,,,,,,,,,,x
 b_syrte,greek,,Macomades,,,,,,,,,,,x
 b_syrte,roman,,Macomades,,,,,,,,,,,x
@@ -721,10 +721,10 @@ b_abuhadi,b_abuhadi,,Abu Hadi,,,,,,,,,,,x
 b_assultan,b_assultan,,As Sultan,,,,,,,,,,,x
 c_zawiya,PROV1349,,Zawiya,,,,,,,,,,,x
 c_zawiya,c_zawiya_adj,,Zawîyî,,,,,,,,,,,x
-c_zawiya,c_zawiya_adj_greek,,Abrotonan,,,,,,,,,,,x
-c_zawiya,c_zawiya_adj_roman,,Abrotonan,,,,,,,,,,,x
 c_zawiya,greek,,Abrotonon,,,,,,,,,,,x
+c_zawiya,c_zawiya_adj_greek,,Abrotonan,,,,,,,,,,,x
 c_zawiya,roman,,Abrotonum,,,,,,,,,,,x
+c_zawiya,c_zawiya_adj_roman,,Abrotonan,,,,,,,,,,,x
 b_zawiya,b_zawiya,,Zawíya,,,,,,,,,,,x
 b_zawiya,greek,,Pontos,,,,,,,,,,,x
 b_zawiya,roman,,Pontes,,,,,,,,,,,x
@@ -737,16 +737,16 @@ b_zuwara,roman,,Villa Aniciorum,,,,,,,,,,,x
 b_surman,b_surman,,Surman,,,,,,,,,,,x
 d_kabylia,d_kabylia,,Kabylia,,,,,,,,,,,x
 d_kabylia,d_kabylia_adj,,Kabyli,,,,,,,,,,,x
-d_kabylia,d_kabylia_adj_greek,,Numidia Cirtensian,,,,,,,,,,,x
-d_kabylia,d_kabylia_adj_roman,,Numidia Cirtensian,,,,,,,,,,,x
 d_kabylia,greek,,Numidia Cirtensis,,,,,,,,,,,x
+d_kabylia,d_kabylia_adj_greek,,Numidia Cirtensian,,,,,,,,,,,x
 d_kabylia,roman,,Numidia Cirtensis,,,,,,,,,,,x
+d_kabylia,d_kabylia_adj_roman,,Numidia Cirtensian,,,,,,,,,,,x
 c_beni_yanni,PROV825,,Jîjil,,,,,,,,,,,x
 c_beni_yanni,c_beni_yanni_adj,,Jijîlî,,,,,,,,,,,x
-c_beni_yanni,c_beni_yanni_adj_greek,,Igilgilan,,,,,,,,,,,x
-c_beni_yanni,c_beni_yanni_adj_roman,,Igilgilan,,,,,,,,,,,x
 c_beni_yanni,greek,,Igilgili,,,,,,,,,,,x
+c_beni_yanni,c_beni_yanni_adj_greek,,Igilgilan,,,,,,,,,,,x
 c_beni_yanni,roman,,Igilgili,,,,,,,,,,,x
+c_beni_yanni,c_beni_yanni_adj_roman,,Igilgilan,,,,,,,,,,,x
 b_jijel,b_jijel,,Jijáíl,,,,,,,,,,,x
 b_jijel,greek,,Igilgili,,,,,,,,,,,x
 b_jijel,roman,,Igilgili,,,,,,,,,,,x
@@ -754,10 +754,10 @@ b_tigzirt,b_tigzirt,,Tigzirt,,,,,,,,,,,x
 b_bujima,b_bujima,,Bujima,,,,,,,,,,,x
 c_constantine,PROV821,,Qustantiniyya,,,,,,,,,,,x
 c_constantine,c_constantine_adj,,Kustantînî,,,,,,,,,,,x
-c_constantine,c_constantine_adj_greek,,Cirtan,,,,,,,,,,,x
-c_constantine,c_constantine_adj_roman,,Cirtan,,,,,,,,,,,x
 c_constantine,greek,,Cirta,,,,,,,,,,,x
+c_constantine,c_constantine_adj_greek,,Cirtan,,,,,,,,,,,x
 c_constantine,roman,,Cirta,,,,,,,,,,,x
+c_constantine,c_constantine_adj_roman,,Cirtan,,,,,,,,,,,x
 b_constantine,b_constantine,,Qustantína,,,,,,,,,,,x
 b_constantine,greek,,Cirta,,,,,,,,,,,x
 b_constantine,roman,,Cirta,,,,,,,,,,,x
@@ -767,10 +767,10 @@ b_elkhroub,roman,,Tiddis,,,,,,,,,,,x
 b_guerrah,b_guerrah,,Guerrah,,,,,,,,,,,x
 c_bejaija,PROV822,,Bidjâya,,,,,,,,,,,x
 c_bejaija,c_bejaija_adj,,Bijayî,,,,,,,,,,,x
-c_bejaija,c_bejaija_adj_greek,,Saldaian,,,,,,,,,,,x
-c_bejaija,c_bejaija_adj_roman,,Saldaian,,,,,,,,,,,x
 c_bejaija,greek,,Saldai,,,,,,,,,,,x
+c_bejaija,c_bejaija_adj_greek,,Saldaian,,,,,,,,,,,x
 c_bejaija,roman,,Saldae,,,,,,,,,,,x
+c_bejaija,c_bejaija_adj_roman,,Saldaian,,,,,,,,,,,x
 b_bejaija,b_bejaija,,Bidjáya,,,,,,,,,,,x
 b_bejaija,greek,,Saldae,,,,,,,,,,,x
 b_bejaija,roman,,Saldae,,,,,,,,,,,x
@@ -780,10 +780,10 @@ b_tadallis,roman,,Rusuccuru,,,,,,,,,,,x
 b_elbekara,b_elbekara,,El Bekara,,,,,,,,,,,x
 c_annaba,PROV820,,Búna,,,,,,,,,,,x
 c_annaba,c_annaba_adj,,Annábî,,,,,,,,,,,x
-c_annaba,c_annaba_adj_greek,,Hippo Regian,,,,,,,,,,,x
-c_annaba,c_annaba_adj_roman,,Hippo Regian,,,,,,,,,,,x
 c_annaba,greek,,Hippo Regius,,,,,,,,,,,x
+c_annaba,c_annaba_adj_greek,,Hippo Regian,,,,,,,,,,,x
 c_annaba,roman,,Hippo Regius,,,,,,,,,,,x
+c_annaba,c_annaba_adj_roman,,Hippo Regian,,,,,,,,,,,x
 b_annabah,b_annabah,,Annába,,,,,,,,,,,x
 b_annabah,greek,,Hippo Regius,,,,,,,,,,,x
 b_annabah,roman,,Hippo Regius,,,,,,,,,,,x
@@ -795,10 +795,10 @@ b_mila,greek,,Chullu,,,,,,,,,,,x
 b_mila,roman,,Chullu,,,,,,,,,,,x
 c_setif,PROV1355,,Kabylia,,,,,,,,,,,x
 c_setif,c_setif_adj,,Setifî,,,,,,,,,,,x
-c_setif,c_setif_adj_greek,,Setifisan,,,,,,,,,,,x
-c_setif,c_setif_adj_roman,,Setifisan,,,,,,,,,,,x
 c_setif,greek,,Setifis,,,,,,,,,,,x
+c_setif,c_setif_adj_greek,,Setifisan,,,,,,,,,,,x
 c_setif,roman,,Setifis,,,,,,,,,,,x
+c_setif,c_setif_adj_roman,,Setifisan,,,,,,,,,,,x
 b_setif,b_setif,,Setif,,,,,,,,,,,x
 b_setif,greek,,Setifis,,,,,,,,,,,x
 b_setif,roman,,Setifis,,,,,,,,,,,x
@@ -807,16 +807,16 @@ b_qalatbhammad,greek,,Cuicul,,,,,,,,,,,x
 b_qalatbhammad,roman,,Cuicul,,,,,,,,,,,x
 d_zab,d_zab,,Zab,,,,,,,,,,,x
 d_zab,d_zab_adj,,Zabi,,,,,,,,,,,x
-d_zab,d_zab_adj_greek,,Numidia Militianan,,,,,,,,,,,x
-d_zab,d_zab_adj_roman,,Numidia Militianan,,,,,,,,,,,x
 d_zab,greek,,Numidia Militiana,,,,,,,,,,,x
+d_zab,d_zab_adj_greek,,Numidia Militianan,,,,,,,,,,,x
 d_zab,roman,,Numidia Militiana,,,,,,,,,,,x
+d_zab,d_zab_adj_roman,,Numidia Militianan,,,,,,,,,,,x
 c_ouled_nail,PROV828,,Bou Sa'ada,,,,,,,,,,,x
 c_ouled_nail,c_ouled_nail_adj,,Bou Saadî,,,,,,,,,,,x
-c_ouled_nail,c_ouled_nail_adj_greek,,Dimmidan,,,,,,,,,,,x
-c_ouled_nail,c_ouled_nail_adj_roman,,Dimmidan,,,,,,,,,,,x
 c_ouled_nail,greek,,Dimmidi,,,,,,,,,,,x
+c_ouled_nail,c_ouled_nail_adj_greek,,Dimmidan,,,,,,,,,,,x
 c_ouled_nail,roman,,Dimmidi,,,,,,,,,,,x
+c_ouled_nail,c_ouled_nail_adj_roman,,Dimmidan,,,,,,,,,,,x
 b_bousaada,b_bousaada,,Bou Sa'ada,,,,,,,,,,,x
 b_bousaada,greek,,Dimmidi,,,,,,,,,,,x
 b_bousaada,roman,,Dimmidi,,,,,,,,,,,x
@@ -825,10 +825,10 @@ b_ainzia,b_ainzia,,Ain Zia,,,,,,,,,,,x
 b_roumana,b_roumana,,Roumana,,,,,,,,,,,x
 c_biskra,PROV823,,Biskra,,,,,,,,,,,x
 c_biskra,c_biskra_adj,,Biskrî,,,,,,,,,,,x
-c_biskra,c_biskra_adj_greek,,Vesceran,,,,,,,,,,,x
-c_biskra,c_biskra_adj_roman,,Vesceran,,,,,,,,,,,x
 c_biskra,greek,,Vescera,,,,,,,,,,,x
+c_biskra,c_biskra_adj_greek,,Vesceran,,,,,,,,,,,x
 c_biskra,roman,,Vescera,,,,,,,,,,,x
+c_biskra,c_biskra_adj_roman,,Vesceran,,,,,,,,,,,x
 b_biskra,b_biskra,,Biskra,,,,,,,,,,,x
 b_biskra,greek,,Vescera,,,,,,,,,,,x
 b_biskra,roman,,Vescera,,,,,,,,,,,x
@@ -844,10 +844,10 @@ b_bigou,greek,,Mesarfelta,,,,,,,,,,,x
 b_bigou,roman,,Mesarfelta,,,,,,,,,,,x
 c_tell_atlas,PROV824,,Tabna,,,,,,,,,,,x
 c_tell_atlas,c_tell_atlas_adj,,Masîlî,,,,,,,,,,,x
-c_tell_atlas,c_tell_atlas_adj_greek,,Lambaesian,,,,,,,,,,,x
-c_tell_atlas,c_tell_atlas_adj_roman,,Lambaesian,,,,,,,,,,,x
 c_tell_atlas,greek,,Lambaesis,,,,,,,,,,,x
+c_tell_atlas,c_tell_atlas_adj_greek,,Lambaesian,,,,,,,,,,,x
 c_tell_atlas,roman,,Lambaesis,,,,,,,,,,,x
+c_tell_atlas,c_tell_atlas_adj_roman,,Lambaesian,,,,,,,,,,,x
 b_masila,b_masila,,Masíla,,,,,,,,,,,x
 b_masila,greek,,Lambaesis,,,,,,,,,,,x
 b_masila,roman,,Lambaesis,,,,,,,,,,,x
@@ -859,10 +859,10 @@ b_msila,b_msila,,Msila,,,,,,,,,,,x
 b_batna,b_batna,,Batna,,,,,,,,,,,x
 c_tabassa,PROV1354,,Tabassa,,,,,,,,,,,x
 c_tabassa,c_tabassa_adj,,Tabassî,,,,,,,,,,,x
-c_tabassa,c_tabassa_adj_greek,,Thevestan,,,,,,,,,,,x
-c_tabassa,c_tabassa_adj_roman,,Thevestan,,,,,,,,,,,x
 c_tabassa,greek,,Theveste,,,,,,,,,,,x
+c_tabassa,c_tabassa_adj_greek,,Thevestan,,,,,,,,,,,x
 c_tabassa,roman,,Theveste,,,,,,,,,,,x
+c_tabassa,c_tabassa_adj_roman,,Thevestan,,,,,,,,,,,x
 b_tabassa,b_tabassa,,Tabassa,,,,,,,,,,,x
 b_tabassa,greek,,Theveste,,,,,,,,,,,x
 b_tabassa,roman,,Theveste,,,,,,,,,,,x
@@ -1164,7 +1164,6 @@ d_canarias,portuguese,,Canárias,,,,,,,,,,,x
 d_canarias,zanata,,Kanar,,,,,,,,,,,x
 c_tenerife,PROV1365,,Tenerife,,,,,,,,,,,x
 c_tenerife,c_tenerife_adj,,Tenerife,,,,,,,,,,,x
-c_tenerife,c_tenerife_adj_zanata,,Ašenšen,,,,,,,,,,,x
 c_tenerife,aragonese,,Tenerife,,,,,,,,,,,x
 c_tenerife,basque,,Tenerife,,,,,,,,,,,x
 c_tenerife,canarian,,Achinet,,,,,,,,,,,x
@@ -1174,6 +1173,7 @@ c_tenerife,galician,,Tenerife,,,,,,,,,,,x
 c_tenerife,leonese,,Tenerife,,,,,,,,,,,x
 c_tenerife,portuguese,,Tenerife,,,,,,,,,,,x
 c_tenerife,zanata,,Ašenšen,,,,,,,,,,,x
+c_tenerife,c_tenerife_adj_zanata,,Ašenšen,,,,,,,,,,,x
 b_adeje,b_adeje,,Adeje,,,,,,,,,,,x
 b_taoro,b_taoro,,Taoro,,,,,,,,,,,x
 b_guimar,b_guimar,,Güimar,,,,,,,,,,,x
@@ -1282,10 +1282,10 @@ c_ghat,c_ghat_adj,,Ghátî,,,,,,,,,,,x
 b_ghat,b_ghat,,Ghát,,,,,,,,,,,x
 c_nafusa,PROV1398,,Nafusa,,,,,,,,,,,x
 c_nafusa,c_nafusa_adj,,Nafúsî,,,,,,,,,,,x
-c_nafusa,c_nafusa_adj_greek,,Thentean,,,,,,,,,,,x
-c_nafusa,c_nafusa_adj_roman,,Thentean,,,,,,,,,,,x
 c_nafusa,greek,,Thenteos,,,,,,,,,,,x
+c_nafusa,c_nafusa_adj_greek,,Thentean,,,,,,,,,,,x
 c_nafusa,roman,,Thenteos,,,,,,,,,,,x
+c_nafusa,c_nafusa_adj_roman,,Thentean,,,,,,,,,,,x
 b_nafusa,b_nafusa,,Nafúsa,,,,,,,,,,,x
 b_nafusa,greek,,Thenteos,,,,,,,,,,,x
 b_nafusa,roman,,Thenteos,,,,,,,,,,,x
