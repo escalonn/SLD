@@ -133,18 +133,18 @@ def read_prev():
             next(reader)
             if 'other_provinces' in path.name:
                 for row in reader:
-                    key, value = row[:2]
+                    key, *value = row[:3]
                     prev_other_locs[key] = value
             else:
                 for row in reader:
-                    title, key, value = row[:3]
+                    title, key, *value = row[:4]
                     prev_title_attrs[title][key] = value
     return prev_title_attrs, prev_other_locs
 
 def write_output(title_attrs, title_region, other_locs, prev_title_attrs,
                  prev_other_locs):
     out_row_lists = collections.defaultdict(
-        lambda: ['#TITLE;KEY;VALUE;SWMH;;;;;;;;;;;x'.split(';')])
+        lambda: ['#TITLE;KEY;VALUE;ALT VALUE;SWMH;;;;;;;;;;x'.split(';')])
     for title, pairs in title_attrs.items():
         out_rows = out_row_lists[title_region.get(title)]
         for key, value in pairs:
@@ -152,7 +152,8 @@ def write_output(title_attrs, title_region, other_locs, prev_title_attrs,
                 prev = prev_title_attrs[title][key]
             except KeyError:
                 prev = ''
-            out_rows.append([title, key, prev, value] + [''] * 10 + ['x'])
+            out_rows.append([title, key, prev[0], prev[1], value] +
+                            [''] * 9 + ['x'])
     with tempfile.TemporaryDirectory() as td:
         templates_t = pathlib.Path(td)
         for region, out_rows in out_row_lists.items():
@@ -161,11 +162,11 @@ def write_output(title_attrs, title_region, other_locs, prev_title_attrs,
             with out_path.open('w', encoding='cp1252', newline='') as csvfile:
                 csv.writer(csvfile).writerows(out_rows)
         out_path = templates_t / 'zz~_SLD_other_provinces.csv'
-        out_rows = ['#KEY;VALUE;SWMH;;;;;;;;;;;;x'.split(';')]
+        out_rows = ['#KEY;VALUE;ALT VALUE;SWMH;;;;;;;;;;;x'.split(';')]
         for key, value in sorted(other_locs.items(),
                                  key=lambda x: int(x[0][4:])):
-            prev = prev_other_locs.get(key, '')
-            out_rows.append([key, prev, value] + [''] * 11 + ['x'])
+            prev = prev_other_locs.get(key, ('', ''))
+            out_rows.append([key, prev[0], prev[1], value] + [''] * 10 + ['x'])
         with out_path.open('w', encoding='cp1252', newline='') as csvfile:
             csv.writer(csvfile).writerows(out_rows)
         templates = rootpath / 'SLD/templates'
