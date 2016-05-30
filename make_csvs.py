@@ -50,14 +50,14 @@ def process_landed_titles(parser, lt_keys, title_region):
     def recurse(tree, liege=None):
         for n, v in tree:
             if ck2parser.is_codename(n.val):
-                attrs = []
+                attrs = {}
                 for n2, v2 in v:
                     if n2.val in lt_keys:
                         try:
                             value = v2.val
                         except AttributeError:
                             value = ' '.join(s.val for s in v2)
-                        attrs.append((n2.val, value))
+                        attrs[n2.val] = value
                 title_attrs[n.val] = attrs
                 if liege:
                     title_vassals[liege].append(n.val)
@@ -87,7 +87,7 @@ def process_landed_titles(parser, lt_keys, title_region):
     return title_attrs
 
 def process_localisation(parser, title_attrs, prov_title):
-    other_locs = collections.OrderedDict()
+    other_locs = {}
     seen = set()
     for path in parser.files('localisation/*', reverse=True):
         for row in ck2parser.csv_rows(path):
@@ -106,7 +106,7 @@ def process_localisation(parser, title_attrs, prov_title):
                 else:
                     continue
                 try:
-                    title_attrs[title].append((key, value))
+                    title_attrs[title][key] = value
                 except KeyError:
                     pass
     return other_locs
@@ -148,10 +148,7 @@ def write_output(title_attrs, title_region, other_locs, prev_title_attrs,
     for title, pairs in title_attrs.items():
         out_rows = out_row_lists[title_region.get(title)]
         for key, value in pairs:
-            try:
-                prev = prev_title_attrs[title][key]
-            except KeyError:
-                prev = ''
+            prev = prev_title_attrs[title].get(key, '')
             out_rows.append([title, key, prev[0], prev[1], value] +
                             [''] * 9 + ['x'])
     with tempfile.TemporaryDirectory() as td:
@@ -163,8 +160,7 @@ def write_output(title_attrs, title_region, other_locs, prev_title_attrs,
                 csv.writer(csvfile).writerows(out_rows)
         out_path = templates_t / 'zz~_SLD_other_provinces.csv'
         out_rows = ['#KEY;VALUE;ALT VALUE;SWMH;;;;;;;;;;;x'.split(';')]
-        for key, value in sorted(other_locs.items(),
-                                 key=lambda x: int(x[0][4:])):
+        for key, value in other_locs:
             prev = prev_other_locs.get(key, ('', ''))
             out_rows.append([key, prev[0], prev[1], value] + [''] * 10 + ['x'])
         with out_path.open('w', encoding='cp1252', newline='') as csvfile:
@@ -186,9 +182,15 @@ def main():
     title_attrs = process_landed_titles(parser, lt_keys | cultures,
                                         title_region)
     other_locs = process_localisation(parser, title_attrs, prov_title)
-    for title, pairs in title_attrs.items():
-        pairs.sort(key=lambda x: attrs_sort_key(x, title, lt_keys, cultures))
     prev_title_attrs, prev_other_locs = read_prev()
+    for title, prev_attrs in prev_title_attrs.items():
+        title_attrs[title] = dict(((k, '') for k in prev_attrs),
+                                  **title_attrs[title])
+    for title, attrs in title_attrs.items():
+        title_attrs[title] = sorted(attrs.items(),
+            key=lambda x: attrs_sort_key(x, title, lt_keys, cultures))
+    other_locs = dict(((k, '') for k in prev_other_locs), **other_locs)
+    other_locs = sorted(other_locs.items(), key=lambda x: int(x[0][4:]))
     write_output(title_attrs, title_region, other_locs, prev_title_attrs,
                  prev_other_locs)
 
