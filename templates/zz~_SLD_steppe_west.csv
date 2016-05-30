@@ -1,4 +1,6 @@
 #TITLE,KEY,VALUE,ALT VALUE,SWMH,,,,,,,,,,x
+e_null,e_null,,,,,,,,,,,,,x
+e_null,e_null_adj,,,,,,,,,,,,,x
 e_null,short_name,,,yes,,,,,,,,,,x
 k_bagratid_grand_principality,k_bagratid_grand_principality,,,Hayk,,,,,,,,,,x
 k_bagratid_grand_principality,k_bagratid_grand_principality_adj,,,Haykian,,,,,,,,,,x
@@ -79,6 +81,7 @@ d_crimea,d_crimea_adj_serbian,,,Krymian,,,,,,,,,,x
 d_crimea,sicilian_greek,,,Taurike,,,,,,,,,,x
 d_crimea,d_crimea_adj_sicilian_greek,,,Taurikean,,,,,,,,,,x
 c_lukomorie,PROV557,,,Tokmak,,,,,,,,,,x
+c_lukomorie,c_lukomorie,,,,,,,,,,,,,x
 c_lukomorie,c_lukomorie_adj,,,Tokmakian,,,,,,,,,,x
 c_lukomorie,bavarian,,,Gerrhus,,,,,,,,,,x
 c_lukomorie,c_lukomorie_adj_bavarian,,,Gerrhusian,,,,,,,,,,x
@@ -119,7 +122,9 @@ c_lukomorie,c_lukomorie_adj_swabian,,,Gerrhusian,,,,,,,,,,x
 c_lukomorie,thuringian,,,Gerrhus,,,,,,,,,,x
 c_lukomorie,c_lukomorie_adj_thuringian,,,Gerrhusian,,,,,,,,,,x
 b_kalmius,b_kalmius,,,Kalmius,,,,,,,,,,x
+b_kalmius,b_kalmius_adj,,,,,,,,,,,,,x
 b_melitopol,b_melitopol,,,Kyzyl-Yar,,,,,,,,,,x
+b_melitopol,b_melitopol_adj,,,,,,,,,,,,,x
 b_melitopol,alan,,,Melita,,,,,,,,,,x
 b_melitopol,aragonese,,,Melita,,,,,,,,,,x
 b_melitopol,arberian,,,Melita,,,,,,,,,,x
@@ -173,6 +178,7 @@ b_melitopol,thuringian,,,Melita,,,,,,,,,,x
 b_melitopol,tuscan,,,Melita,,,,,,,,,,x
 b_melitopol,venetian,,,Melita,,,,,,,,,,x
 b_kakhovka,b_kakhovka,,,Kerman,,,,,,,,,,x
+b_kakhovka,b_kakhovka_adj,,,,,,,,,,,,,x
 b_kakhovka,bohemian,,,Aslangrad,,,,,,,,,,x
 b_kakhovka,bosnian,,,Aslangrad,,,,,,,,,,x
 b_kakhovka,bulgarian,,,Aslangrad,,,,,,,,,,x
@@ -188,6 +194,7 @@ b_kakhovka,serbian,,,Aslangrad,,,,,,,,,,x
 b_kakhovka,turkish,,,Kirman,,,,,,,,,,x
 b_kakhovka,turkmen,,,Kirman,,,,,,,,,,x
 c_crimea,PROV559,,,Qirim,,,,,,,,,,x
+c_crimea,c_crimea,,,,,,,,,,,,,x
 c_crimea,c_crimea_adj,,,Qirimian,,,,,,,,,,x
 c_crimea,alan,,,Taurike,,,,,,,,,,x
 c_crimea,arberian,,,Taurike,,,,,,,,,,x
@@ -225,6 +232,7 @@ c_crimea,c_crimea_adj_serbian,,,Krymian,,,,,,,,,,x
 c_crimea,sicilian_greek,,,Taurike,,,,,,,,,,x
 c_crimea,c_crimea_adj_sicilian_greek,,,Taurikean,,,,,,,,,,x
 b_chufut_kale,b_chufut_kale,,,Qirq-Yer,,,,,,,,,,x
+b_chufut_kale,b_chufut_kale_adj,,,,,,,,,,,,,x
 b_chufut_kale,alan,,,Phoullai,,,,,,,,,,x
 b_chufut_kale,arberian,,,Phoullai,,,,,,,,,,x
 b_chufut_kale,armenian,,,Phoullai,,,,,,,,,,x
@@ -233,6 +241,7 @@ b_chufut_kale,georgian,,,Phoullai,,,,,,,,,,x
 b_chufut_kale,greek,,,Phoullai,,,,,,,,,,x
 b_chufut_kale,sicilian_greek,,,Phoullai,,,,,,,,,,x
 b_kezlev,b_kezlev,,,Kezlev,,,,,,,,,,x
+b_kezlev,b_kezlev_adj,,,,,,,,,,,,,x
 b_kezlev,alan,,,Kerkinitis,,,,,,,,,,x
 b_kezlev,arberian,,,Kerkinitis,,,,,,,,,,x
 b_kezlev,armenian,,,Kerkinitis,,,,,,,,,,x
@@ -256,6 +265,7 @@ b_kezlev,sicilian_greek,,,Kerkinitis,,,,,,,,,,x
 b_kezlev,turkish,,,Gözleve,,,,,,,,,,x
 b_kezlev,turkmen,,,Gözleve,,,,,,,,,,x
 b_qarasuvbazar,b_qarasuvbazar,,,Qarasuvbazar,,,,,,,,,,x
+b_qarasuvbazar,b_qarasuvbazar_adj,,,,,,,,,,,,,x
 b_qarasuvbazar,bohemian,,,Karasubazar,,,,,,,,,,x
 b_qarasuvbazar,bosnian,,,Karasubazar,,,,,,,,,,x
 b_qarasuvbazar,bulgarian,,,Karasubazar,,,,,,,,,,x
@@ -267,6 +277,7 @@ b_qarasuvbazar,pommeranian,,,Karasubazar,,,,,,,,,,x
 b_qarasuvbazar,russian,,,Karasubazar,,,,,,,,,,x
 b_qarasuvbazar,serbian,,,Karasubazar,,,,,,,,,,x
 b_aqmescit,b_aqmescit,,,Aqmescit,,,,,,,,,,x
+b_aqmescit,b_aqmescit_adj,,,,,,,,,,,,,x
 b_aqmescit,alan,,,Sympheropolis,,,,,,,,,,x
 b_aqmescit,arberian,,,Sympheropolis,,,,,,,,,,x
 b_aqmescit,armenian,,,Sympheropolis,,,,,,,,,,x
@@ -276,6 +287,7 @@ b_aqmescit,greek,,,Sympheropolis,,,,,,,,,,x
 b_aqmescit,russian,,,Simferopol,,,,,,,,,,x
 b_aqmescit,sicilian_greek,,,Sympheropolis,,,,,,,,,,x
 b_kirim,b_kirim,,,Qirim,,,,,,,,,,x
+b_kirim,b_kirim_adj,,,,,,,,,,,,,x
 b_kirim,bohemian,,,Krym,,,,,,,,,,x
 b_kirim,bosnian,,,Krym,,,,,,,,,,x
 b_kirim,bulgarian,,,Krym,,,,,,,,,,x
@@ -396,6 +408,7 @@ d_sarkel,d_sarkel_adj_tuscan,,,Levedian,,,,,,,,,,x
 d_sarkel,venetian,,,Levedia,,,,,,,,,,x
 d_sarkel,d_sarkel_adj_venetian,,,Levedian,,,,,,,,,,x
 c_sarkel,PROV594,,,Sharkel,,,,,,,,,,x
+c_sarkel,c_sarkel,,,,,,,,,,,,,x
 c_sarkel,c_sarkel_adj,,,Sarkelian,,,,,,,,,,x
 c_sarkel,alan,,,Aspron Hospition,,,,,,,,,,x
 c_sarkel,arberian,,,Aspron Hospition,,,,,,,,,,x
@@ -460,8 +473,11 @@ c_sarkel,c_sarkel_adj_turkmen,,,Sharkilan,,,,,,,,,,x
 c_sarkel,uyghur,,,Sharkil,,,,,,,,,,x
 c_sarkel,c_sarkel_adj_uyghur,,,Sharkilan,,,,,,,,,,x
 b_starobilsk,b_starobilsk,,,Bel'skiy,,,,,,,,,,x
+b_starobilsk,b_starobilsk_adj,,,,,,,,,,,,,x
 b_upper_saltov,b_upper_saltov,,,Saltovo,,,,,,,,,,x
+b_upper_saltov,b_upper_saltov_adj,,,,,,,,,,,,,x
 b_sarkel,b_sarkel,,,Sarkel,,,,,,,,,,x
+b_sarkel,b_sarkel_adj,,,,,,,,,,,,,x
 b_sarkel,alan,,,Aspron Hospition,,,,,,,,,,x
 b_sarkel,arberian,,,Aspron Hospition,,,,,,,,,,x
 b_sarkel,armenian,,,Aspron Hospition,,,,,,,,,,x
@@ -495,8 +511,10 @@ b_sarkel,turkish,,,Sharkil,,,,,,,,,,x
 b_sarkel,turkmen,,,Sharkil,,,,,,,,,,x
 b_sarkel,uyghur,,,Sharkil,,,,,,,,,,x
 b_tsimlyansk,b_tsimlyansk,,,Al-Bayda,,,,,,,,,,x
+b_tsimlyansk,b_tsimlyansk_adj,,,,,,,,,,,,,x
 b_tsimlyansk,russian,,,Ust-Tsimla,,,,,,,,,,x
 c_sugrov,PROV566,,,Duna-Jük,,,,,,,,,,x
+c_sugrov,c_sugrov,,,,,,,,,,,,,x
 c_sugrov,c_sugrov_adj,,,Duna-Jükian,,,,,,,,,,x
 c_sugrov,avar,,,Buzan-Jük,,,,,,,,,,x
 c_sugrov,c_sugrov_adj_bashkir,,,Chingilousan,,,,,,,,,,x
@@ -534,9 +552,13 @@ c_sugrov,serbian,,,Donel',,,,,,,,,,x
 c_sugrov,c_sugrov_adj_serbian,,,Donel'ian,,,,,,,,,,x
 c_sugrov,c_sugrov_adj_szekely,,,Chingilousan,,,,,,,,,,x
 b_bakhmut,b_bakhmut,,,Bakhmut,,,,,,,,,,x
+b_bakhmut,b_bakhmut_adj,,,,,,,,,,,,,x
 b_balin,b_balin,,,Balin,,,,,,,,,,x
+b_balin,b_balin_adj,,,,,,,,,,,,,x
 b_sviatohirsk,b_sviatohirsk,,,Bannovskoe,,,,,,,,,,x
+b_sviatohirsk,b_sviatohirsk_adj,,,,,,,,,,,,,x
 b_sugrov,b_sugrov,,,Sugrov,,,,,,,,,,x
+b_sugrov,b_sugrov_adj,,,,,,,,,,,,,x
 b_sugrov,avar,,,Šugr',,,,,,,,,,x
 b_sugrov,bashkir,,,Chingilous,,,,,,,,,,x
 b_sugrov,bolghar,,,Šugr',,,,,,,,,,x
@@ -554,6 +576,7 @@ b_sugrov,turkish,,,Šugr',,,,,,,,,,x
 b_sugrov,turkmen,,,Šugr',,,,,,,,,,x
 b_sugrov,uyghur,,,Šugr',,,,,,,,,,x
 c_sharukan,PROV565,,,Uda,,,,,,,,,,x
+c_sharukan,c_sharukan,,,,,,,,,,,,,x
 c_sharukan,c_sharukan_adj,,,Udaian,,,,,,,,,,x
 c_sharukan,bashkir,,,Chidmas,,,,,,,,,,x
 c_sharukan,c_sharukan_adj_bashkir,,,Chidmasian,,,,,,,,,,x
@@ -566,6 +589,7 @@ c_sharukan,c_sharukan_adj_mongol,,,Šarukan'an,,,,,,,,,,x
 c_sharukan,szekely,,,Chidmas,,,,,,,,,,x
 c_sharukan,c_sharukan_adj_szekely,,,Chidmasian,,,,,,,,,,x
 b_isjum,b_isjum,,,Izjum,,,,,,,,,,x
+b_isjum,b_isjum_adj,,,,,,,,,,,,,x
 b_isjum,bohemian,,,Isjum,,,,,,,,,,x
 b_isjum,bosnian,,,Isjum,,,,,,,,,,x
 b_isjum,bulgarian,,,Isjum,,,,,,,,,,x
@@ -577,7 +601,9 @@ b_isjum,pommeranian,,,Isjum,,,,,,,,,,x
 b_isjum,russian,,,Isjum,,,,,,,,,,x
 b_isjum,serbian,,,Isjum,,,,,,,,,,x
 b_merefa,b_merefa,,,Merefa,,,,,,,,,,x
+b_merefa,b_merefa_adj,,,,,,,,,,,,,x
 b_chuhuiv,b_chuhuiv,,,Chuguyev,,,,,,,,,,x
+b_chuhuiv,b_chuhuiv_adj,,,,,,,,,,,,,x
 b_chuhuiv,bohemian,,,Chuguyev,,,,,,,,,,x
 b_chuhuiv,bosnian,,,Chuguyev,,,,,,,,,,x
 b_chuhuiv,bulgarian,,,Chuguyev,,,,,,,,,,x
@@ -589,6 +615,7 @@ b_chuhuiv,pommeranian,,,Chuguyev,,,,,,,,,,x
 b_chuhuiv,russian,,,Chuguyev,,,,,,,,,,x
 b_chuhuiv,serbian,,,Chuguyev,,,,,,,,,,x
 b_sharukan,b_sharukan,,,Sharukan,,,,,,,,,,x
+b_sharukan,b_sharukan_adj,,,,,,,,,,,,,x
 d_zaporizhia,d_zaporizhia,,,Özü,,,,,,,,,,x
 d_zaporizhia,d_zaporizhia_adj,,,Özüan,,,,,,,,,,x
 d_zaporizhia,alan,,,Danapris,,,,,,,,,,x
@@ -641,6 +668,7 @@ d_zaporizhia,d_zaporizhia_adj_turkish,,,Özian,,,,,,,,,,x
 d_zaporizhia,turkmen,,,Özi,,,,,,,,,,x
 d_zaporizhia,d_zaporizhia_adj_turkmen,,,Özian,,,,,,,,,,x
 c_lower_dniepr,PROV558,,,Özü,,,,,,,,,,x
+c_lower_dniepr,c_lower_dniepr,,,,,,,,,,,,,x
 c_lower_dniepr,c_lower_dniepr_adj,,,Özuan,,,,,,,,,,x
 c_lower_dniepr,alan,,,Danapris,,,,,,,,,,x
 c_lower_dniepr,arberian,,,Danapris,,,,,,,,,,x
@@ -694,12 +722,15 @@ c_lower_dniepr,c_lower_dniepr_adj_turkish,,,Özian,,,,,,,,,,x
 c_lower_dniepr,turkmen,,,Özi,,,,,,,,,,x
 c_lower_dniepr,c_lower_dniepr_adj_turkmen,,,Özian,,,,,,,,,,x
 b_mykytyn_nikopol,b_mykytyn_nikopol,,,Mykytyn,,,,,,,,,,x
+b_mykytyn_nikopol,b_mykytyn_nikopol_adj,,,,,,,,,,,,,x
 b_tomakiv,b_tomakiv,,,Tomakov,,,,,,,,,,x
+b_tomakiv,b_tomakiv_adj,,,,,,,,,,,,,x
 b_tomakiv,bohemian,,,Tomakov,,,,,,,,,,x
 b_tomakiv,moravian,,,Tomakov,,,,,,,,,,x
 b_tomakiv,polish,,,Tomakow,,,,,,,,,,x
 b_tomakiv,pommeranian,,,Tomakow,,,,,,,,,,x
 b_chyhyryn,b_chyhyryn,,,Chigirin,,,,,,,,,,x
+b_chyhyryn,b_chyhyryn_adj,,,,,,,,,,,,,x
 b_chyhyryn,avar,,,Cigirin,,,,,,,,,,x
 b_chyhyryn,bashkir,,,Cigirin,,,,,,,,,,x
 b_chyhyryn,bohemian,,,Czehryn,,,,,,,,,,x
@@ -719,6 +750,7 @@ b_chyhyryn,turkish,,,Cigirin,,,,,,,,,,x
 b_chyhyryn,turkmen,,,Cigirin,,,,,,,,,,x
 b_chyhyryn,uyghur,,,Cigirin,,,,,,,,,,x
 c_chortitza,PROV556,,,Aq Samar,,,,,,,,,,x
+c_chortitza,c_chortitza,,,,,,,,,,,,,x
 c_chortitza,c_chortitza_adj,,,Aq Samaran,,,,,,,,,,x
 c_chortitza,bohemian,,,Sneporod,,,,,,,,,,x
 c_chortitza,c_chortitza_adj_bohemian,,,Sneporodian,,,,,,,,,,x
@@ -749,11 +781,13 @@ c_chortitza,c_chortitza_adj_turkish,,,Ak Samaran,,,,,,,,,,x
 c_chortitza,turkmen,,,Ak Samar,,,,,,,,,,x
 c_chortitza,c_chortitza_adj_turkmen,,,Ak Samaran,,,,,,,,,,x
 b_kodak,b_kodak,,,Kodak,,,,,,,,,,x
+b_kodak,b_kodak_adj,,,,,,,,,,,,,x
 b_kodak,bohemian,,,Kudak,,,,,,,,,,x
 b_kodak,moravian,,,Kudak,,,,,,,,,,x
 b_kodak,polish,,,Kudak,,,,,,,,,,x
 b_kodak,pommeranian,,,Kudak,,,,,,,,,,x
 b_khortytsia,b_khortytsia,,,Khortyzja,,,,,,,,,,x
+b_khortytsia,b_khortytsia_adj,,,,,,,,,,,,,x
 b_khortytsia,bohemian,,,Chortyca,,,,,,,,,,x
 b_khortytsia,german,,,Gortiz,,,,,,,,,,x
 b_khortytsia,moravian,,,Chortyca,,,,,,,,,,x
@@ -772,6 +806,7 @@ d_vorksla,pommeranian,,,Worskla,,,,,,,,,,x
 d_vorksla,russian,,,Vor'skol,,,,,,,,,,x
 d_vorksla,serbian,,,Vor'skol,,,,,,,,,,x
 c_lower_don,PROV563,,,Orel,,,,,,,,,,x
+c_lower_don,c_lower_don,,,,,,,,,,,,,x
 c_lower_don,c_lower_don_adj,,,Orelian,,,,,,,,,,x
 c_lower_don,avar,,,Erel',,,,,,,,,,x
 c_lower_don,c_lower_don_adj_avar,,,Erel'ian,,,,,,,,,,x
@@ -821,13 +856,17 @@ c_lower_don,c_lower_don_adj_turkmen,,,Erel'ian,,,,,,,,,,x
 c_lower_don,uyghur,,,Erel',,,,,,,,,,x
 c_lower_don,c_lower_don_adj_uyghur,,,Erel'ian,,,,,,,,,,x
 b_zmiiv,b_zmiiv,,,Zmeevo,,,,,,,,,,x
+b_zmiiv,b_zmiiv_adj,,,,,,,,,,,,,x
 b_omel_niki,b_omel_niki,,,Omel'niki,,,,,,,,,,x
+b_omel_niki,b_omel_niki_adj,,,,,,,,,,,,,x
 b_poltava,b_poltava,,,Ltava,,,,,,,,,,x
+b_poltava,b_poltava_adj,,,,,,,,,,,,,x
 b_poltava,bohemian,,,Poltava,,,,,,,,,,x
 b_poltava,moravian,,,Poltava,,,,,,,,,,x
 b_poltava,polish,,,Poltawa,,,,,,,,,,x
 b_poltava,pommeranian,,,Poltawa,,,,,,,,,,x
 c_tana,PROV596,,,Vorskla,,,,,,,,,,x
+c_tana,c_tana,,,,,,,,,,,,,x
 c_tana,c_tana_adj,,,Vorsklan,,,,,,,,,,x
 c_tana,bohemian,,,Vorskla,,,,,,,,,,x
 c_tana,c_tana_adj_bohemian,,,Vorskolian,,,,,,,,,,x
@@ -850,7 +889,9 @@ c_tana,c_tana_adj_russian,,,Vorskla,,,,,,,,,,x
 c_tana,serbian,,,Vor'skol,,,,,,,,,,x
 c_tana,c_tana_adj_serbian,,,Vor'skolian,,,,,,,,,,x
 b_belgorod_vorskla,b_belgorod_vorskla,,,Belgorod,,,,,,,,,,x
+b_belgorod_vorskla,b_belgorod_vorskla_adj,,,,,,,,,,,,,x
 b_hotmysl,b_hotmysl,,,Hotmyšl',,,,,,,,,,x
+b_hotmysl,b_hotmysl_adj,,,,,,,,,,,,,x
 d_podolia,d_podolia,,,Yedisan,,,,,,,,,,x
 d_podolia,d_podolia_adj,,,Yedisanish,,,,,,,,,,x
 d_podolia,aragonese,,,Podolia,,,,,,,,,,x
@@ -949,6 +990,7 @@ d_podolia,d_podolia_adj_tuscan,,,Podolian,,,,,,,,,,x
 d_podolia,venetian,,,Podolia,,,,,,,,,,x
 d_podolia,d_podolia_adj_venetian,,,Podolian,,,,,,,,,,x
 c_olvia,PROV542,,,Yedisan,,,,,,,,,,x
+c_olvia,c_olvia,,,,,,,,,,,,,x
 c_olvia,c_olvia_adj,,,Yedisanian,,,,,,,,,,x
 c_olvia,bashkir,,,Troullos,,,,,,,,,,x
 c_olvia,c_olvia_adj_bashkir,,,Troullosian,,,,,,,,,,x
@@ -979,6 +1021,7 @@ c_olvia,c_olvia_adj_serbian,,,Beloberezhian,,,,,,,,,,x
 c_olvia,szekely,,,Troullos,,,,,,,,,,x
 c_olvia,c_olvia_adj_szekely,,,Troullosian,,,,,,,,,,x
 b_berezan,b_berezan,,,Berezan,,,,,,,,,,x
+b_berezan,b_berezan_adj,,,,,,,,,,,,,x
 b_berezan,alan,,,Borysthenes,,,,,,,,,,x
 b_berezan,arberian,,,Borysthenes,,,,,,,,,,x
 b_berezan,armenian,,,Borysthenes,,,,,,,,,,x
@@ -1002,6 +1045,7 @@ b_berezan,turkish,,,Pirezin,,,,,,,,,,x
 b_berezan,turkmen,,,Pirezin,,,,,,,,,,x
 b_berezan,uyghur,,,Pirezin,,,,,,,,,,x
 b_ochakiv,b_ochakiv,,,Ochakov,,,,,,,,,,x
+b_ochakiv,b_ochakiv_adj,,,,,,,,,,,,,x
 b_ochakiv,avar,,,Qara-Kerman,,,,,,,,,,x
 b_ochakiv,bashkir,,,Qara-Kerman,,,,,,,,,,x
 b_ochakiv,bolghar,,,Qara-Kerman,,,,,,,,,,x
@@ -1017,6 +1061,7 @@ b_ochakiv,turkish,,,Kara-Kirman,,,,,,,,,,x
 b_ochakiv,turkmen,,,Kara-Kirman,,,,,,,,,,x
 b_ochakiv,uyghur,,,Qara-Kerman,,,,,,,,,,x
 b_odessa,b_odessa,,,Cerngrad,,,,,,,,,,x
+b_odessa,b_odessa_adj,,,,,,,,,,,,,x
 b_odessa,alan,,,Tyras,,,,,,,,,,x
 b_odessa,aragonese,,,Ginestra,,,,,,,,,,x
 b_odessa,arberian,,,Tyras,,,,,,,,,,x
@@ -1074,6 +1119,7 @@ b_odessa,tuscan,,,Ginestra,,,,,,,,,,x
 b_odessa,uyghur,,,Hacibey,,,,,,,,,,x
 b_odessa,venetian,,,Ginestra,,,,,,,,,,x
 c_oleshye,PROV543,,,Boh,,,,,,,,,,x
+c_oleshye,c_oleshye,,,,,,,,,,,,,x
 c_oleshye,c_oleshye_adj,,,Bohian,,,,,,,,,,x
 c_oleshye,avar,,,Aq-Su,,,,,,,,,,x
 c_oleshye,c_oleshye_adj_avar,,,Aq-Suian,,,,,,,,,,x
@@ -1108,8 +1154,11 @@ c_oleshye,c_oleshye_adj_turkmen,,,Ak-Suian,,,,,,,,,,x
 c_oleshye,uyghur,,,Aq-Su,,,,,,,,,,x
 c_oleshye,c_oleshye_adj_uyghur,,,Aq-Suian,,,,,,,,,,x
 b_orlik_pervomaisk,b_orlik_pervomaisk,,,Orlik,,,,,,,,,,x
+b_orlik_pervomaisk,b_orlik_pervomaisk_adj,,,,,,,,,,,,,x
 b_oleshye,b_oleshye,,,Oleshye,,,,,,,,,,x
+b_oleshye,b_oleshye_adj,,,,,,,,,,,,,x
 c_peresechen,PROV541,,,Podolya,,,,,,,,,,x
+c_peresechen,c_peresechen,,,,,,,,,,,,,x
 c_peresechen,c_peresechen_adj,,,Podolyan,,,,,,,,,,x
 c_peresechen,aragonese,,,Podolia,,,,,,,,,,x
 c_peresechen,c_peresechen_adj_aragonese,,,Podolian,,,,,,,,,,x
@@ -1207,13 +1256,16 @@ c_peresechen,c_peresechen_adj_tuscan,,,Podolian,,,,,,,,,,x
 c_peresechen,venetian,,,Podolia,,,,,,,,,,x
 c_peresechen,c_peresechen_adj_venetian,,,Podolian,,,,,,,,,,x
 b_sokolak,b_sokolak,,,Sokolec,,,,,,,,,,x
+b_sokolak,b_sokolak_adj,,,,,,,,,,,,,x
 b_braclav,b_braclav,,,Braclav,,,,,,,,,,x
+b_braclav,b_braclav_adj,,,,,,,,,,,,,x
 b_braclav,bohemian,,,Braclav,,,,,,,,,,x
 b_braclav,lithuanian,,,Braclavas,,,,,,,,,,x
 b_braclav,moravian,,,Braclav,,,,,,,,,,x
 b_braclav,polish,,,Braclaw,,,,,,,,,,x
 b_braclav,pommeranian,,,Braclaw,,,,,,,,,,x
 b_bakota_ponyzzia,b_bakota_ponyzzia,,,Bakota,,,,,,,,,,x
+b_bakota_ponyzzia,b_bakota_ponyzzia_adj,,,,,,,,,,,,,x
 k_khazaria,k_khazaria,,,Qazarstan,,,,,,,,,,x
 k_khazaria,k_khazaria_adj,,,Qazar,,,,,,,,,,x
 k_khazaria,afghan,,,Xazarstán,,,,,,,,,,x
@@ -1529,6 +1581,7 @@ d_itil,vepsian,,,Jul,,,,,,,,,,x
 d_itil,zanata,,,Atil,,,,,,,,,,x
 d_itil,d_itil_adj_zanata,,,Atilian,,,,,,,,,,x
 c_itil,PROV620,,,Itil,,,,,,,,,,x
+c_itil,c_itil,,,,,,,,,,,,,x
 c_itil,c_itil_adj,,,Itilan,,,,,,,,,,x
 c_itil,afghan,,,Atil,,,,,,,,,,x
 c_itil,c_itil_adj_afghan,,,Atilian,,,,,,,,,,x
@@ -1715,6 +1768,7 @@ c_itil,vepsian,,,Jul,,,,,,,,,,x
 c_itil,zanata,,,Atil,,,,,,,,,,x
 c_itil,c_itil_adj_zanata,,,Atilian,,,,,,,,,,x
 b_saksin,b_saksin,,,Sarigshin,,,,,,,,,,x
+b_saksin,b_saksin_adj,,,,,,,,,,,,,x
 b_saksin,afghan,,,Saqsin,,,,,,,,,,x
 b_saksin,andalusian_arabic,,,Al-Bayda,,,,,,,,,,x
 b_saksin,aragonese,,,Saksin,,,,,,,,,,x
@@ -1785,6 +1839,7 @@ b_saksin,tuscan,,,Saksin,,,,,,,,,,x
 b_saksin,venetian,,,Saksin,,,,,,,,,,x
 b_saksin,zanata,,,Al-Bayda,,,,,,,,,,x
 b_khazaran,b_khazaran,,,Qanbaliq,,,,,,,,,,x
+b_khazaran,b_khazaran_adj,,,,,,,,,,,,,x
 b_khazaran,afghan,,,Xanmaliq,,,,,,,,,,x
 b_khazaran,andalusian_arabic,,,Khamlikh,,,,,,,,,,x
 b_khazaran,baloch,,,Xanmaliq,,,,,,,,,,x
@@ -1818,6 +1873,7 @@ b_khazaran,tajik,,,Xanmaliq,,,,,,,,,,x
 b_khazaran,tuareg,,,Khamlikh,,,,,,,,,,x
 b_khazaran,zanata,,,Khamlikh,,,,,,,,,,x
 b_chistibanka,b_chistibanka,,,Albat,,,,,,,,,,x
+b_chistibanka,b_chistibanka_adj,,,,,,,,,,,,,x
 b_chistibanka,bohemian,,,Chistibanka,,,,,,,,,,x
 b_chistibanka,bosnian,,,Chistibanka,,,,,,,,,,x
 b_chistibanka,bulgarian,,,Chistibanka,,,,,,,,,,x
@@ -1829,6 +1885,7 @@ b_chistibanka,pommeranian,,,Chistibanka,,,,,,,,,,x
 b_chistibanka,russian,,,Chistibanka,,,,,,,,,,x
 b_chistibanka,serbian,,,Chistibanka,,,,,,,,,,x
 b_atil,b_atil,,,Itil,,,,,,,,,,x
+b_atil,b_atil_adj,,,,,,,,,,,,,x
 b_atil,afghan,,,Atil,,,,,,,,,,x
 b_atil,alan,,,Atel,,,,,,,,,,x
 b_atil,andalusian_arabic,,,Atil,,,,,,,,,,x
@@ -1927,7 +1984,9 @@ b_atil,venetian,,,Atel,,,,,,,,,,x
 b_atil,vepsian,,,Jul,,,,,,,,,,x
 b_atil,zanata,,,Atil,,,,,,,,,,x
 b_jenotajewka,b_jenotajewka,,,Yenotay,,,,,,,,,,x
+b_jenotajewka,b_jenotajewka_adj,,,,,,,,,,,,,x
 b_astrakhan,b_astrakhan,,,Xacitarxan,,,,,,,,,,x
+b_astrakhan,b_astrakhan_adj,,,,,,,,,,,,,x
 b_astrakhan,afghan,,,Hajji Tarkhan,,,,,,,,,,x
 b_astrakhan,baloch,,,Hajji Tarkhan,,,,,,,,,,x
 b_astrakhan,bohemian,,,Astrachan',,,,,,,,,,x
@@ -1950,8 +2009,10 @@ b_astrakhan,serbian,,,Astrakhan',,,,,,,,,,x
 b_astrakhan,sogdian,,,Hajji Tarkhan,,,,,,,,,,x
 b_astrakhan,tajik,,,Hajji Tarkhan,,,,,,,,,,x
 c_kuma,PROV604,,,Kuma,,,,,,,,,,x
+c_kuma,c_kuma,,,,,,,,,,,,,x
 c_kuma,c_kuma_adj,,,Kuman,,,,,,,,,,x
 b_kizlyar,b_kizlyar,,,Kyzylyar,,,,,,,,,,x
+b_kizlyar,b_kizlyar_adj,,,,,,,,,,,,,x
 b_kizlyar,bohemian,,,Kizlyar,,,,,,,,,,x
 b_kizlyar,bosnian,,,Kizlyar,,,,,,,,,,x
 b_kizlyar,bulgarian,,,Kizlyar,,,,,,,,,,x
@@ -1963,8 +2024,11 @@ b_kizlyar,pommeranian,,,Kizlyar,,,,,,,,,,x
 b_kizlyar,russian,,,Kizlyar,,,,,,,,,,x
 b_kizlyar,serbian,,,Kizlyar,,,,,,,,,,x
 b_majar,b_majar,,,Madjara Suba,,,,,,,,,,x
+b_majar,b_majar_adj,,,,,,,,,,,,,x
 b_kuma,b_kuma,,,Kuma,,,,,,,,,,x
+b_kuma,b_kuma_adj,,,,,,,,,,,,,x
 c_semender,PROV675,,,Semender,,,,,,,,,,x
+c_semender,c_semender,,,,,,,,,,,,,x
 c_semender,c_semender_adj,,,Semenderain,,,,,,,,,,x
 c_semender,afghan,,,Samandar,,,,,,,,,,x
 c_semender,c_semender_adj_afghan,,,Samandarian,,,,,,,,,,x
@@ -2025,6 +2089,7 @@ c_semender,c_semender_adj_tuareg,,,Samandarian,,,,,,,,,,x
 c_semender,zanata,,,Samandar,,,,,,,,,,x
 c_semender,c_semender_adj_zanata,,,Samandarian,,,,,,,,,,x
 b_balanjar,b_balanjar,,,Belenjer,,,,,,,,,,x
+b_balanjar,b_balanjar_adj,,,,,,,,,,,,,x
 b_balanjar,afghan,,,Balanjar,,,,,,,,,,x
 b_balanjar,andalusian_arabic,,,Balanjar,,,,,,,,,,x
 b_balanjar,baloch,,,Balanjar,,,,,,,,,,x
@@ -2048,6 +2113,7 @@ b_balanjar,tajik,,,Balanjar,,,,,,,,,,x
 b_balanjar,tuareg,,,Balanjar,,,,,,,,,,x
 b_balanjar,zanata,,,Balanjar,,,,,,,,,,x
 b_semender,b_semender,,,Semender,,,,,,,,,,x
+b_semender,b_semender_adj,,,,,,,,,,,,,x
 b_semender,afghan,,,Samandar,,,,,,,,,,x
 b_semender,alan,,,Msndr,,,,,,,,,,x
 b_semender,andalusian_arabic,,,Samandar,,,,,,,,,,x
@@ -2078,14 +2144,20 @@ b_semender,tajik,,,Samandar,,,,,,,,,,x
 b_semender,tuareg,,,Samandar,,,,,,,,,,x
 b_semender,zanata,,,Samandar,,,,,,,,,,x
 b_tarqi,b_tarqi,,,Tarqi,,,,,,,,,,x
+b_tarqi,b_tarqi_adj,,,,,,,,,,,,,x
 b_buyanksk,b_buyanksk,,,Shura,,,,,,,,,,x
+b_buyanksk,b_buyanksk_adj,,,,,,,,,,,,,x
 b_enderi,b_enderi,,,Enderi,,,,,,,,,,x
+b_enderi,b_enderi_adj,,,,,,,,,,,,,x
 c_philan,PROV1695,,,Filan,,,,,,,,,,x
+c_philan,c_philan,,,,,,,,,,,,,x
 c_philan,c_philan_adj,,,Philan,,,,,,,,,,x
 c_philan,khazar,,,Varach'an,,,,,,,,,,x
 c_philan,c_philan_adj_khazar,,,Varach'an,,,,,,,,,,x
 b_kubachi,b_kubachi,,,Zirih-garan,,,,,,,,,,x
+b_kubachi,b_kubachi_adj,,,,,,,,,,,,,x
 b_varachan,b_varachan,,,Varach'an,,,,,,,,,,x
+b_varachan,b_varachan_adj,,,,,,,,,,,,,x
 b_varachan,afghan,,,V'hrarzan,,,,,,,,,,x
 b_varachan,andalusian_arabic,,,Warashan,,,,,,,,,,x
 b_varachan,ashkenazi,,,Varshan,,,,,,,,,,x
@@ -2113,7 +2185,9 @@ b_varachan,tajik,,,V'hrarzan,,,,,,,,,,x
 b_varachan,tuareg,,,Warashan,,,,,,,,,,x
 b_varachan,zanata,,,Warashan,,,,,,,,,,x
 b_aqusha,b_aqusha,,,Shandan,,,,,,,,,,x
+b_aqusha,b_aqusha_adj,,,,,,,,,,,,,x
 b_ur_karakh,b_ur_karakh,,,Karakh,,,,,,,,,,x
+b_ur_karakh,b_ur_karakh_adj,,,,,,,,,,,,,x
 d_saray,d_saray,,,Saray,,,,,,,,,,x
 d_saray,d_saray_adj,,,Sarayan,,,,,,,,,,x
 d_saray,afghan,,,Sarai,,,,,,,,,,x
@@ -2163,6 +2237,7 @@ d_saray,d_saray_adj_tuareg,,,Saraian,,,,,,,,,,x
 d_saray,zanata,,,Sarai,,,,,,,,,,x
 d_saray,d_saray_adj_zanata,,,Saraian,,,,,,,,,,x
 c_saray,PROV619,,,Saray,,,,,,,,,,x
+c_saray,c_saray,,,,,,,,,,,,,x
 c_saray,c_saray_adj,,,Sarayan,,,,,,,,,,x
 c_saray,afghan,,,Sarai,,,,,,,,,,x
 c_saray,c_saray_adj_afghan,,,Saraian,,,,,,,,,,x
@@ -2211,8 +2286,11 @@ c_saray,c_saray_adj_tuareg,,,Saraian,,,,,,,,,,x
 c_saray,zanata,,,Sarai,,,,,,,,,,x
 c_saray,c_saray_adj_zanata,,,Saraian,,,,,,,,,,x
 b_akhtuba,b_akhtuba,,,Akhtuba,,,,,,,,,,x
+b_akhtuba,b_akhtuba_adj,,,,,,,,,,,,,x
 b_baljiman,b_baljiman,,,Baljiman,,,,,,,,,,x
+b_baljiman,b_baljiman_adj,,,,,,,,,,,,,x
 b_sarai_berke,b_sarai_berke,,,Saray,,,,,,,,,,x
+b_sarai_berke,b_sarai_berke_adj,,,,,,,,,,,,,x
 b_sarai_berke,afghan,,,Sarai-al-Mahrusah,,,,,,,,,,x
 b_sarai_berke,andalusian_arabic,,,Sarai-al-Mahrusah,,,,,,,,,,x
 b_sarai_berke,baloch,,,Sarai-al-Mahrusah,,,,,,,,,,x
@@ -2236,6 +2314,7 @@ b_sarai_berke,tajik,,,Sarai-al-Mahrusah,,,,,,,,,,x
 b_sarai_berke,tuareg,,,Sarai-al-Mahrusah,,,,,,,,,,x
 b_sarai_berke,zanata,,,Sarai-al-Mahrusah,,,,,,,,,,x
 b_sarai_batu,b_sarai_batu,,,Yeni Saray,,,,,,,,,,x
+b_sarai_batu,b_sarai_batu_adj,,,,,,,,,,,,,x
 b_sarai_batu,afghan,,,Sarai-al-Jadid,,,,,,,,,,x
 b_sarai_batu,andalusian_arabic,,,Sarai-al-Jadid,,,,,,,,,,x
 b_sarai_batu,baloch,,,Sarai-al-Jadid,,,,,,,,,,x
@@ -2259,6 +2338,7 @@ b_sarai_batu,tajik,,,Sarai-al-Jadid,,,,,,,,,,x
 b_sarai_batu,tuareg,,,Sarai-al-Jadid,,,,,,,,,,x
 b_sarai_batu,zanata,,,Sarai-al-Jadid,,,,,,,,,,x
 b_tsaritsyn,b_tsaritsyn,,,Sary Su,,,,,,,,,,x
+b_tsaritsyn,b_tsaritsyn_adj,,,,,,,,,,,,,x
 b_tsaritsyn,bohemian,,,Caricyn,,,,,,,,,,x
 b_tsaritsyn,bosnian,,,Tsaritsyn,,,,,,,,,,x
 b_tsaritsyn,bulgarian,,,Tsaritsyn,,,,,,,,,,x
@@ -2270,10 +2350,14 @@ b_tsaritsyn,pommeranian,,,Caricyn,,,,,,,,,,x
 b_tsaritsyn,russian,,,Tsaritsyn,,,,,,,,,,x
 b_tsaritsyn,serbian,,,Tsaritsyn,,,,,,,,,,x
 c_sarpa,PROV607,,,Sarpa,,,,,,,,,,x
+c_sarpa,c_sarpa,,,,,,,,,,,,,x
 c_sarpa,c_sarpa_adj,,,Sarpan,,,,,,,,,,x
 b_sarpa,b_sarpa,,,Sarpa,,,,,,,,,,x
+b_sarpa,b_sarpa_adj,,,,,,,,,,,,,x
 b_ergeni,b_ergeni,,,Ergeni,,,,,,,,,,x
+b_ergeni,b_ergeni_adj,,,,,,,,,,,,,x
 c_manych,PROV605,,,Ugru,,,,,,,,,,x
+c_manych,c_manych,,,,,,,,,,,,,x
 c_manych,c_manych_adj,,,Ugruian,,,,,,,,,,x
 c_manych,bohemian,,,Manycz,,,,,,,,,,x
 c_manych,c_manych_adj_bohemian,,,Manyczian,,,,,,,,,,x
@@ -2296,6 +2380,7 @@ c_manych,c_manych_adj_russian,,,Manychian,,,,,,,,,,x
 c_manych,serbian,,,Manych,,,,,,,,,,x
 c_manych,c_manych_adj_serbian,,,Manychian,,,,,,,,,,x
 b_manych,b_manych,,,Ugru,,,,,,,,,,x
+b_manych,b_manych_adj,,,,,,,,,,,,,x
 b_manych,bohemian,,,Manycz,,,,,,,,,,x
 b_manych,bosnian,,,Manych,,,,,,,,,,x
 b_manych,bulgarian,,,Manych,,,,,,,,,,x
@@ -2307,10 +2392,14 @@ b_manych,pommeranian,,,Manycz,,,,,,,,,,x
 b_manych,russian,,,Manych,,,,,,,,,,x
 b_manych,serbian,,,Manych,,,,,,,,,,x
 b_semikarakary,b_semikarakary,,,Semikarakorskaya,,,,,,,,,,x
+b_semikarakary,b_semikarakary_adj,,,,,,,,,,,,,x
 c_yegorlyk,PROV606,,,Yegorlyk,,,,,,,,,,x
+c_yegorlyk,c_yegorlyk,,,,,,,,,,,,,x
 c_yegorlyk,c_yegorlyk_adj,,,Yegorlykian,,,,,,,,,,x
 b_yegorlyk,b_yegorlyk,,,Yegorlyk,,,,,,,,,,x
+b_yegorlyk,b_yegorlyk_adj,,,,,,,,,,,,,x
 b_kalaus,b_kalaus,,,Kylavys,,,,,,,,,,x
+b_kalaus,b_kalaus_adj,,,,,,,,,,,,,x
 b_kalaus,bohemian,,,Kalaus,,,,,,,,,,x
 b_kalaus,bosnian,,,Kalaus,,,,,,,,,,x
 b_kalaus,bulgarian,,,Kalaus,,,,,,,,,,x
@@ -2404,6 +2493,7 @@ d_azov,d_azov_adj_tuscan,,,Tanan,,,,,,,,,,x
 d_azov,venetian,,,Tana,,,,,,,,,,x
 d_azov,d_azov_adj_venetian,,,Tanan,,,,,,,,,,x
 c_azov,PROV597,,,Azaq,,,,,,,,,,x
+c_azov,c_azov,,,,,,,,,,,,,x
 c_azov,c_azov_adj,,,Azaqan,,,,,,,,,,x
 c_azov,alan,,,Tanais,,,,,,,,,,x
 c_azov,arberian,,,Tanais,,,,,,,,,,x
@@ -2487,6 +2577,7 @@ c_azov,c_azov_adj_tuscan,,,Tanan,,,,,,,,,,x
 c_azov,venetian,,,Tana,,,,,,,,,,x
 c_azov,c_azov_adj_venetian,,,Tanan,,,,,,,,,,x
 b_azov,b_azov,,,Azaq,,,,,,,,,,x
+b_azov,b_azov_adj,,,,,,,,,,,,,x
 b_azov,alan,,,Tanais,,,,,,,,,,x
 b_azov,arberian,,,Tanais,,,,,,,,,,x
 b_azov,armenian,,,Tanais,,,,,,,,,,x
@@ -2533,8 +2624,11 @@ b_azov,turkmen,,,Azak,,,,,,,,,,x
 b_azov,tuscan,,,Tana,,,,,,,,,,x
 b_azov,venetian,,,Tana,,,,,,,,,,x
 b_kagalnik,b_kagalnik,,,Kagalnik,,,,,,,,,,x
+b_kagalnik,b_kagalnik_adj,,,,,,,,,,,,,x
 b_cherkassk,b_cherkassk,,,Cherkassk,,,,,,,,,,x
+b_cherkassk,b_cherkassk_adj,,,,,,,,,,,,,x
 c_kuban,PROV599,,,Cuba,,,,,,,,,,x
+c_kuban,c_kuban,,,,,,,,,,,,,x
 c_kuban,c_kuban_adj,,,Cuban,,,,,,,,,,x
 c_kuban,alan,,,Oukrouch,,,,,,,,,,x
 c_kuban,arberian,,,Oukrouch,,,,,,,,,,x
@@ -2585,6 +2679,7 @@ c_kuban,c_kuban_adj_sicilian_greek,,,Oukrouchian,,,,,,,,,,x
 c_kuban,szekely,,,Kubány,,,,,,,,,,x
 c_kuban,c_kuban_adj_szekely,,,Kubányian,,,,,,,,,,x
 b_sapaksi,b_sapaksi,,,Sapaksi,,,,,,,,,,x
+b_sapaksi,b_sapaksi_adj,,,,,,,,,,,,,x
 b_sapaksi,alan,,,Zapaxi,,,,,,,,,,x
 b_sapaksi,arberian,,,Zapaxi,,,,,,,,,,x
 b_sapaksi,armenian,,,Zapaxi,,,,,,,,,,x
@@ -2593,6 +2688,7 @@ b_sapaksi,georgian,,,Zapaxi,,,,,,,,,,x
 b_sapaksi,greek,,,Zapaxi,,,,,,,,,,x
 b_sapaksi,sicilian_greek,,,Zapaxi,,,,,,,,,,x
 b_kuban,b_kuban,,,Papagi,,,,,,,,,,x
+b_kuban,b_kuban_adj,,,,,,,,,,,,,x
 b_kuban,alan,,,Papageno,,,,,,,,,,x
 b_kuban,armenian,,,Papageno,,,,,,,,,,x
 b_kuban,bohemian,,,Krasnodar,,,,,,,,,,x
@@ -2683,6 +2779,7 @@ d_tmutarakan,d_tmutarakan_adj_uyghur,,,Matrikan,,,,,,,,,,x
 d_tmutarakan,venetian,,,Cassaria,,,,,,,,,,x
 d_tmutarakan,d_tmutarakan_adj_venetian,,,Cassarian,,,,,,,,,,x
 c_tmutarakan,PROV598,,,Tamatarkha,,,,,,,,,,x
+c_tmutarakan,c_tmutarakan,,,,,,,,,,,,,x
 c_tmutarakan,c_tmutarakan_adj,,,Tamatarkhan,,,,,,,,,,x
 c_tmutarakan,arberian,,,Tamatarxa,,,,,,,,,,x
 c_tmutarakan,c_tmutarakan_adj_arberian,,,Tamatarxan,,,,,,,,,,x
@@ -2759,6 +2856,7 @@ c_tmutarakan,c_tmutarakan_adj_uyghur,,,Matrikan,,,,,,,,,,x
 c_tmutarakan,venetian,,,Matrega,,,,,,,,,,x
 c_tmutarakan,c_tmutarakan_adj_venetian,,,Matregan,,,,,,,,,,x
 b_tmutarakan,b_tmutarakan,,,Tamatarkha,,,,,,,,,,x
+b_tmutarakan,b_tmutarakan_adj,,,,,,,,,,,,,x
 b_tmutarakan,arberian,,,Tamatarxa,,,,,,,,,,x
 b_tmutarakan,armenian,,,Tamatarxa,,,,,,,,,,x
 b_tmutarakan,avar,,,Samkarsh,,,,,,,,,,x
@@ -2798,6 +2896,7 @@ b_tmutarakan,tuscan,,,Matrega,,,,,,,,,,x
 b_tmutarakan,uyghur,,,Matrika,,,,,,,,,,x
 b_tmutarakan,venetian,,,Matrega,,,,,,,,,,x
 b_bata,b_bata,,,Sogucak,,,,,,,,,,x
+b_bata,b_bata_adj,,,,,,,,,,,,,x
 b_bata,arberian,,,Bata,,,,,,,,,,x
 b_bata,armenian,,,Bata,,,,,,,,,,x
 b_bata,bohemian,,,Bata,,,,,,,,,,x
@@ -2830,6 +2929,7 @@ b_bata,southern_italian,,,Batario,,,,,,,,,,x
 b_bata,tuscan,,,Batario,,,,,,,,,,x
 b_bata,venetian,,,Batario,,,,,,,,,,x
 b_anapa,b_anapa,,,Chantchir,,,,,,,,,,x
+b_anapa,b_anapa_adj,,,,,,,,,,,,,x
 b_anapa,arberian,,,Gorgippia,,,,,,,,,,x
 b_anapa,armenian,,,Gorgippia,,,,,,,,,,x
 b_anapa,bohemian,,,Anápa,,,,,,,,,,x
@@ -2861,6 +2961,7 @@ b_anapa,southern_italian,,,Mapa,,,,,,,,,,x
 b_anapa,tuscan,,,Mapa,,,,,,,,,,x
 b_anapa,venetian,,,Mapa,,,,,,,,,,x
 b_temryk,b_temryk,,,Tumnev,,,,,,,,,,x
+b_temryk,b_temryk_adj,,,,,,,,,,,,,x
 b_temryk,arberian,,,Phanagóreia,,,,,,,,,,x
 b_temryk,armenian,,,Phanagóreia,,,,,,,,,,x
 b_temryk,bohemian,,,Temryk,,,,,,,,,,x
@@ -2893,6 +2994,7 @@ b_temryk,southern_italian,,,Copa,,,,,,,,,,x
 b_temryk,tuscan,,,Copa,,,,,,,,,,x
 b_temryk,venetian,,,Copa,,,,,,,,,,x
 c_korchev,PROV562,,,Kerch,,,,,,,,,,x
+c_korchev,c_korchev,,,,,,,,,,,,,x
 c_korchev,c_korchev_adj,,,Kerchian,,,,,,,,,,x
 c_korchev,arberian,,,Bospor,,,,,,,,,,x
 c_korchev,c_korchev_adj_arberian,,,Bosporian,,,,,,,,,,x
@@ -2959,6 +3061,7 @@ c_korchev,c_korchev_adj_tuscan,,,Vosporoian,,,,,,,,,,x
 c_korchev,venetian,,,Vosporo,,,,,,,,,,x
 c_korchev,c_korchev_adj_venetian,,,Vosporoian,,,,,,,,,,x
 b_kerch,b_kerch,,,Kerch,,,,,,,,,,x
+b_kerch,b_kerch_adj,,,,,,,,,,,,,x
 b_kerch,arberian,,,Bospor,,,,,,,,,,x
 b_kerch,armenian,,,Bospor,,,,,,,,,,x
 b_kerch,avar,,,Karcha,,,,,,,,,,x
@@ -2993,6 +3096,7 @@ b_kerch,southern_italian,,,Cerco,,,,,,,,,,x
 b_kerch,tuscan,,,Cerco,,,,,,,,,,x
 b_kerch,venetian,,,Cerco,,,,,,,,,,x
 b_kimmerikon,b_kimmerikon,,,Kimmerikon,,,,,,,,,,x
+b_kimmerikon,b_kimmerikon_adj,,,,,,,,,,,,,x
 b_kimmerikon,central_italian,,,Chimmero,,,,,,,,,,x
 b_kimmerikon,corsican,,,Chimmero,,,,,,,,,,x
 b_kimmerikon,dalmatian,,,Chimmero,,,,,,,,,,x
@@ -3008,6 +3112,7 @@ b_kimmerikon,southern_italian,,,Chimmero,,,,,,,,,,x
 b_kimmerikon,tuscan,,,Chimmero,,,,,,,,,,x
 b_kimmerikon,venetian,,,Chimmero,,,,,,,,,,x
 b_nymphaion_korchev,b_nymphaion_korchev,,,Nymphaion,,,,,,,,,,x
+b_nymphaion_korchev,b_nymphaion_korchev_adj,,,,,,,,,,,,,x
 k_alania,k_alania,,,Alania,,,,,,,,,,x
 k_alania,k_alania_adj,,,Alanian,,,,,,,,,,x
 k_alania,afghan,,,Al-Lan,,,,,,,,,,x
@@ -3161,6 +3266,7 @@ d_alania,d_alania_adj_uyghur,,,As,,,,,,,,,,x
 d_alania,zanata,,,Al-Lan,,,,,,,,,,x
 d_alania,d_alania_adj_zanata,,,Al-Lanian,,,,,,,,,,x
 c_alania,PROV603,,,Alania,,,,,,,,,,x
+c_alania,c_alania,,,,,,,,,,,,,x
 c_alania,c_alania_adj,,,Alanian,,,,,,,,,,x
 c_alania,afghan,,,Al-Lan,,,,,,,,,,x
 c_alania,c_alania_adj_afghan,,,Al-Lanian,,,,,,,,,,x
@@ -3238,6 +3344,7 @@ c_alania,c_alania_adj_uyghur,,,As,,,,,,,,,,x
 c_alania,zanata,,,Al-Lan,,,,,,,,,,x
 c_alania,c_alania_adj_zanata,,,Al-Lanian,,,,,,,,,,x
 b_maghas,b_maghas,,,Maks,,,,,,,,,,x
+b_maghas,b_maghas_adj,,,,,,,,,,,,,x
 b_maghas,afghan,,,Ma'as,,,,,,,,,,x
 b_maghas,andalusian_arabic,,,Ma'as,,,,,,,,,,x
 b_maghas,avar,,,Meket,,,,,,,,,,x
@@ -3275,12 +3382,14 @@ b_maghas,turkmen,,,Meket,,,,,,,,,,x
 b_maghas,uyghur,,,Meket,,,,,,,,,,x
 b_maghas,zanata,,,Ma'as,,,,,,,,,,x
 b_mirnyj_kislovodsk,b_mirnyj_kislovodsk,,,Samiran,,,,,,,,,,x
+b_mirnyj_kislovodsk,b_mirnyj_kislovodsk_adj,,,,,,,,,,,,,x
 b_mirnyj_kislovodsk,cuman,,,Qyran,,,,,,,,,,x
 b_mirnyj_kislovodsk,khitan,,,Qyran,,,,,,,,,,x
 b_mirnyj_kislovodsk,kirghiz,,,Qyran,,,,,,,,,,x
 b_mirnyj_kislovodsk,mongol,,,Qyran,,,,,,,,,,x
 b_mirnyj_kislovodsk,uyghur,,,Qyran,,,,,,,,,,x
 b_darial,b_darial,,,Dairani,,,,,,,,,,x
+b_darial,b_darial_adj,,,,,,,,,,,,,x
 b_darial,afghan,,,Dar-e Alan,,,,,,,,,,x
 b_darial,andalusian_arabic,,,Qal'at al-Lan,,,,,,,,,,x
 b_darial,baloch,,,Dar-e Alan,,,,,,,,,,x
@@ -3304,6 +3413,7 @@ b_darial,tajik,,,Dar-e Alan,,,,,,,,,,x
 b_darial,tuareg,,,Qal'at al-Lan,,,,,,,,,,x
 b_darial,zanata,,,Qal'at al-Lan,,,,,,,,,,x
 b_dedyakov,b_dedyakov,,,Dzauji-Qäu,,,,,,,,,,x
+b_dedyakov,b_dedyakov_adj,,,,,,,,,,,,,x
 b_dedyakov,avar,,,Samiran,,,,,,,,,,x
 b_dedyakov,bashkir,,,Samiran,,,,,,,,,,x
 b_dedyakov,bohemian,,,Detakov,,,,,,,,,,x
@@ -3329,10 +3439,14 @@ b_dedyakov,turkish,,,Samiran,,,,,,,,,,x
 b_dedyakov,turkmen,,,Samiran,,,,,,,,,,x
 b_dedyakov,uyghur,,,Samiran,,,,,,,,,,x
 c_malkhicho,PROV1697,,,Malkhicho,,,,,,,,,,x
+c_malkhicho,c_malkhicho,,,,,,,,,,,,,x
 c_malkhicho,c_malkhicho_adj,,,Malkhichoan,,,,,,,,,,x
 b_arkhyz,b_arkhyz,,,Arkhyz,,,,,,,,,,x
+b_arkhyz,b_arkhyz_adj,,,,,,,,,,,,,x
 b_rim_gora,b_rim_gora,,,Rim Gora,,,,,,,,,,x
+b_rim_gora,b_rim_gora_adj,,,,,,,,,,,,,x
 c_don_portage,PROV595,,,Terk,,,,,,,,,,x
+c_don_portage,c_don_portage,,,,,,,,,,,,,x
 c_don_portage,c_don_portage_adj,,,Terekian,,,,,,,,,,x
 c_don_portage,alan,,,Terk,,,,,,,,,,x
 c_don_portage,c_don_portage_adj_alan,,,Terkian,,,,,,,,,,x
@@ -3363,6 +3477,7 @@ c_don_portage,c_don_portage_adj_russian,,,Terk,,,,,,,,,,x
 c_don_portage,serbian,,,Terka,,,,,,,,,,x
 c_don_portage,c_don_portage_adj_serbian,,,Terkan,,,,,,,,,,x
 b_terek,b_terek,,,Terk,,,,,,,,,,x
+b_terek,b_terek_adj,,,,,,,,,,,,,x
 b_terek,alan,,,Terk,,,,,,,,,,x
 b_terek,armenian,,,Arm,,,,,,,,,,x
 b_terek,bohemian,,,Terka,,,,,,,,,,x
@@ -3378,6 +3493,7 @@ b_terek,pommeranian,,,Terka,,,,,,,,,,x
 b_terek,russian,,,Terka,,,,,,,,,,x
 b_terek,serbian,,,Terka,,,,,,,,,,x
 b_sunzha,b_sunzha,,,Sunzha,,,,,,,,,,x
+b_sunzha,b_sunzha_adj,,,,,,,,,,,,,x
 b_sunzha,alan,,,Sunžæ,,,,,,,,,,x
 b_sunzha,armenian,,,Svinj,,,,,,,,,,x
 b_sunzha,bohemian,,,Sevenc,,,,,,,,,,x
@@ -3555,6 +3671,7 @@ d_zichia,d_zichia_adj_venetian,,,Zichian,,,,,,,,,,x
 d_zichia,zanata,,,Sircasaa,,,,,,,,,,x
 d_zichia,d_zichia_adj_zanata,,,Sircasaan,,,,,,,,,,x
 c_kasogs,PROV602,,,Cherkezistan,,,,,,,,,,x
+c_kasogs,c_kasogs,,,,,,,,,,,,,x
 c_kasogs,c_kasogs_adj,,,Cherkezian,,,,,,,,,,x
 c_kasogs,alan,,,Kæsægia,,,,,,,,,,x
 c_kasogs,c_kasogs_adj_alan,,,Kæsægian,,,,,,,,,,x
@@ -3670,6 +3787,7 @@ c_kasogs,c_kasogs_adj_venetian,,,Cherkis,,,,,,,,,,x
 c_kasogs,zanata,,,Sircasaa,,,,,,,,,,x
 c_kasogs,c_kasogs_adj_zanata,,,Sircasaan,,,,,,,,,,x
 b_khumar,b_khumar,,,Khumar,,,,,,,,,,x
+b_khumar,b_khumar_adj,,,,,,,,,,,,,x
 b_khumar,arberian,,,Skhimar,,,,,,,,,,x
 b_khumar,armenian,,,Skhimar,,,,,,,,,,x
 b_khumar,caucasian_avar,,,Skhimar,,,,,,,,,,x
@@ -3678,10 +3796,14 @@ b_khumar,georgian,,,Skhimar,,,,,,,,,,x
 b_khumar,greek,,,Skhimar,,,,,,,,,,x
 b_khumar,sicilian_greek,,,Skhimar,,,,,,,,,,x
 b_sambalut,b_sambalut,,,Sambalut,,,,,,,,,,x
+b_sambalut,b_sambalut_adj,,,,,,,,,,,,,x
 c_jiqeti,PROV1086,,,Jiket'i,,,,,,,,,,x
+c_jiqeti,c_jiqeti,,,,,,,,,,,,,x
 c_jiqeti,c_jiqeti_adj,,,Jiqetian,,,,,,,,,,x
 b_zikh,b_zikh,,,Zikh,,,,,,,,,,x
+b_zikh,b_zikh_adj,,,,,,,,,,,,,x
 b_nicopsia,b_nicopsia,,,Nicopsia,,,,,,,,,,x
+b_nicopsia,b_nicopsia_adj,,,,,,,,,,,,,x
 d_sarir,d_sarir,,,Sarir,,,,,,,,,,x
 d_sarir,d_sarir_adj,,,Sariran,,,,,,,,,,x
 d_sarir,afghan,,,Al-Sarir,,,,,,,,,,x
@@ -3757,9 +3879,12 @@ d_sarir,d_sarir_adj_uyghur,,,Seriran,,,,,,,,,,x
 d_sarir,zanata,,,Al-Sarir,,,,,,,,,,x
 d_sarir,d_sarir_adj_zanata,,,Al-Sariran,,,,,,,,,,x
 c_sarir,PROV1096,,,Sarir,,,,,,,,,,x
+c_sarir,c_sarir,,,,,,,,,,,,,x
 c_sarir,c_sarir_adj,,,Saririan,,,,,,,,,,x
 b_arkas,b_arkas,,,Arkas,,,,,,,,,,x
+b_arkas,b_arkas_adj,,,,,,,,,,,,,x
 b_humraj,b_humraj,,,Humraj,,,,,,,,,,x
+b_humraj,b_humraj_adj,,,,,,,,,,,,,x
 b_humraj,afghan,,,Al-Jabal,,,,,,,,,,x
 b_humraj,andalusian_arabic,,,Al-Jabal,,,,,,,,,,x
 b_humraj,baloch,,,Al-Jabal,,,,,,,,,,x
@@ -3783,11 +3908,16 @@ b_humraj,tajik,,,Al-Jabal,,,,,,,,,,x
 b_humraj,tuareg,,,Al-Jabal,,,,,,,,,,x
 b_humraj,zanata,,,Al-Jabal,,,,,,,,,,x
 b_khunzakh,b_khunzakh,,,Khunzkh,,,,,,,,,,x
+b_khunzakh,b_khunzakh_adj,,,,,,,,,,,,,x
 c_simsir,PROV1089,,,Simsir,,,,,,,,,,x
+c_simsir,c_simsir,,,,,,,,,,,,,x
 c_simsir,c_simsir_adj,,,Simsirian,,,,,,,,,,x
 b_samkalako,b_samkalako,,,Samakha,,,,,,,,,,x
+b_samkalako,b_samkalako_adj,,,,,,,,,,,,,x
 b_nikaroi,b_nikaroi,,,Nikaroi,,,,,,,,,,x
+b_nikaroi,b_nikaroi_adj,,,,,,,,,,,,,x
 b_tetchick_ev,b_tetchick_ev,,,Tetchick-ev,,,,,,,,,,x
+b_tetchick_ev,b_tetchick_ev_adj,,,,,,,,,,,,,x
 k_volga_bulgaria,k_volga_bulgaria,,,Bolgar,,,,,,,,,,x
 k_volga_bulgaria,k_volga_bulgaria_adj,,,Bolgar,,,,,,,,,,x
 k_volga_bulgaria,bohemian,,,Bulgar,,,,,,,,,,x
@@ -3829,6 +3959,7 @@ d_bulgar,d_bulgar_adj_russian,,,Bulgar,,,,,,,,,,x
 d_bulgar,serbian,,,Bulgar,,,,,,,,,,x
 d_bulgar,d_bulgar_adj_serbian,,,Bulgar,,,,,,,,,,x
 c_qazan,PROV611,,,Qazan,,,,,,,,,,x
+c_qazan,c_qazan,,,,,,,,,,,,,x
 c_qazan,c_qazan_adj,,,Qazanian,,,,,,,,,,x
 c_qazan,bohemian,,,Kazan',,,,,,,,,,x
 c_qazan,c_qazan_adj_bohemian,,,Kazan'ian,,,,,,,,,,x
@@ -3849,6 +3980,7 @@ c_qazan,c_qazan_adj_russian,,,Kazan',,,,,,,,,,x
 c_qazan,serbian,,,Kazan',,,,,,,,,,x
 c_qazan,c_qazan_adj_serbian,,,Kazan'ian,,,,,,,,,,x
 b_arsk,b_arsk,,,Archa,,,,,,,,,,x
+b_arsk,b_arsk_adj,,,,,,,,,,,,,x
 b_arsk,bohemian,,,Arsk,,,,,,,,,,x
 b_arsk,bosnian,,,Arsk,,,,,,,,,,x
 b_arsk,bulgarian,,,Arsk,,,,,,,,,,x
@@ -3860,10 +3992,12 @@ b_arsk,pommeranian,,,Arsk,,,,,,,,,,x
 b_arsk,russian,,,Arsk,,,,,,,,,,x
 b_arsk,serbian,,,Arsk,,,,,,,,,,x
 b_kermenchuk,b_kermenchuk,,,Kermenchuk,,,,,,,,,,x
+b_kermenchuk,b_kermenchuk_adj,,,,,,,,,,,,,x
 b_kermenchuk,avar,,,Kermenchük,,,,,,,,,,x
 b_kermenchuk,bolghar,,,Kermenchük,,,,,,,,,,x
 b_kermenchuk,khazar,,,Kermenchük,,,,,,,,,,x
 b_brjahimov,b_brjahimov,,,Ibrahim,,,,,,,,,,x
+b_brjahimov,b_brjahimov_adj,,,,,,,,,,,,,x
 b_brjahimov,bohemian,,,Brjahimov,,,,,,,,,,x
 b_brjahimov,bosnian,,,Brjahimov,,,,,,,,,,x
 b_brjahimov,bulgarian,,,Brjahimov,,,,,,,,,,x
@@ -3875,7 +4009,9 @@ b_brjahimov,pommeranian,,,Brjahimov,,,,,,,,,,x
 b_brjahimov,russian,,,Brjahimov,,,,,,,,,,x
 b_brjahimov,serbian,,,Brjahimov,,,,,,,,,,x
 b_qasan,b_qasan,,,Qashan,,,,,,,,,,x
+b_qasan,b_qasan_adj,,,,,,,,,,,,,x
 b_qazan,b_qazan,,,Qazan,,,,,,,,,,x
+b_qazan,b_qazan_adj,,,,,,,,,,,,,x
 b_qazan,bohemian,,,Kazan',,,,,,,,,,x
 b_qazan,bosnian,,,Kazan',,,,,,,,,,x
 b_qazan,bulgarian,,,Kazan',,,,,,,,,,x
@@ -3887,6 +4023,7 @@ b_qazan,pommeranian,,,Kazan',,,,,,,,,,x
 b_qazan,russian,,,Kazan',,,,,,,,,,x
 b_qazan,serbian,,,Kazan',,,,,,,,,,x
 c_bulgar,PROV610,,,Bolgar,,,,,,,,,,x
+c_bulgar,c_bulgar,,,,,,,,,,,,,x
 c_bulgar,c_bulgar_adj,,,Bolgar,,,,,,,,,,x
 c_bulgar,bohemian,,,Bulgar,,,,,,,,,,x
 c_bulgar,c_bulgar_adj_bohemian,,,Bulgar,,,,,,,,,,x
@@ -3907,6 +4044,7 @@ c_bulgar,c_bulgar_adj_russian,,,Bulgar,,,,,,,,,,x
 c_bulgar,serbian,,,Bulgar,,,,,,,,,,x
 c_bulgar,c_bulgar_adj_serbian,,,Bulgar,,,,,,,,,,x
 b_tuxcin,b_tuxcin,,,Tuxcin,,,,,,,,,,x
+b_tuxcin,b_tuxcin_adj,,,,,,,,,,,,,x
 b_tuxcin,bohemian,,,Tuchczín,,,,,,,,,,x
 b_tuxcin,bosnian,,,Tukhchin,,,,,,,,,,x
 b_tuxcin,bulgarian,,,Tukhchin,,,,,,,,,,x
@@ -3918,7 +4056,9 @@ b_tuxcin,pommeranian,,,Tukhchin,,,,,,,,,,x
 b_tuxcin,russian,,,Tukhchin,,,,,,,,,,x
 b_tuxcin,serbian,,,Tukhchin,,,,,,,,,,x
 b_balimer,b_balimer,,,Balimer,,,,,,,,,,x
+b_balimer,b_balimer_adj,,,,,,,,,,,,,x
 b_cukataw,b_cukataw,,,Cükätaw,,,,,,,,,,x
+b_cukataw,b_cukataw_adj,,,,,,,,,,,,,x
 b_cukataw,avar,,,Jüke-tau,,,,,,,,,,x
 b_cukataw,bohemian,,,Žukotín,,,,,,,,,,x
 b_cukataw,bolghar,,,Jüke-tau,,,,,,,,,,x
@@ -3933,6 +4073,7 @@ b_cukataw,pommeranian,,,Zhukotin,,,,,,,,,,x
 b_cukataw,russian,,,Zhukotin,,,,,,,,,,x
 b_cukataw,serbian,,,Zhukotin,,,,,,,,,,x
 b_zainsk,b_zainsk,,,Zäy,,,,,,,,,,x
+b_zainsk,b_zainsk_adj,,,,,,,,,,,,,x
 b_zainsk,avar,,,Sëve,,,,,,,,,,x
 b_zainsk,bohemian,,,Zainsk,,,,,,,,,,x
 b_zainsk,bolghar,,,Sëve,,,,,,,,,,x
@@ -3947,6 +4088,7 @@ b_zainsk,pommeranian,,,Zainsk,,,,,,,,,,x
 b_zainsk,russian,,,Zainsk,,,,,,,,,,x
 b_zainsk,serbian,,,Zainsk,,,,,,,,,,x
 b_bulgar,b_bulgar,,,Bolghar,,,,,,,,,,x
+b_bulgar,b_bulgar_adj,,,,,,,,,,,,,x
 b_bulgar,bohemian,,,Bulgar,,,,,,,,,,x
 b_bulgar,bosnian,,,Bulgar,,,,,,,,,,x
 b_bulgar,bulgarian,,,Bulgar,,,,,,,,,,x
@@ -3958,6 +4100,7 @@ b_bulgar,pommeranian,,,Bulgar,,,,,,,,,,x
 b_bulgar,russian,,,Bulgar,,,,,,,,,,x
 b_bulgar,serbian,,,Bulgar,,,,,,,,,,x
 c_ashli,PROV614,,,Ashli,,,,,,,,,,x
+c_ashli,c_ashli,,,,,,,,,,,,,x
 c_ashli,c_ashli_adj,,,Ashlian,,,,,,,,,,x
 c_ashli,avar,,,Ishlë,,,,,,,,,,x
 c_ashli,c_ashli_adj_avar,,,Ishlëian,,,,,,,,,,x
@@ -3984,6 +4127,7 @@ c_ashli,c_ashli_adj_russian,,,Oshel,,,,,,,,,,x
 c_ashli,serbian,,,Oshel,,,,,,,,,,x
 c_ashli,c_ashli_adj_serbian,,,Oshelian,,,,,,,,,,x
 b_sviyazhsk,b_sviyazhsk,,,Zöyä,,,,,,,,,,x
+b_sviyazhsk,b_sviyazhsk_adj,,,,,,,,,,,,,x
 b_sviyazhsk,avar,,,Sëve,,,,,,,,,,x
 b_sviyazhsk,bohemian,,,Svijažsk,,,,,,,,,,x
 b_sviyazhsk,bolghar,,,Sëve,,,,,,,,,,x
@@ -3998,6 +4142,7 @@ b_sviyazhsk,pommeranian,,,Sviyazhsk,,,,,,,,,,x
 b_sviyazhsk,russian,,,Sviyazhsk,,,,,,,,,,x
 b_sviyazhsk,serbian,,,Sviyazhsk,,,,,,,,,,x
 b_tetyushi,b_tetyushi,,,Tätesh,,,,,,,,,,x
+b_tetyushi,b_tetyushi_adj,,,,,,,,,,,,,x
 b_tetyushi,avar,,,Techchë,,,,,,,,,,x
 b_tetyushi,bohemian,,,Tetušská zástava,,,,,,,,,,x
 b_tetyushi,bolghar,,,Techchë,,,,,,,,,,x
@@ -4012,6 +4157,7 @@ b_tetyushi,pommeranian,,,Tetyushskaya Zastava,,,,,,,,,,x
 b_tetyushi,russian,,,Tetyushskaya Zastava,,,,,,,,,,x
 b_tetyushi,serbian,,,Tetyushskaya Zastava,,,,,,,,,,x
 b_buinsk,b_buinsk,,,Bua,,,,,,,,,,x
+b_buinsk,b_buinsk_adj,,,,,,,,,,,,,x
 b_buinsk,avar,,,Päva,,,,,,,,,,x
 b_buinsk,bohemian,,,Buinsk,,,,,,,,,,x
 b_buinsk,bolghar,,,Päva,,,,,,,,,,x
@@ -4026,6 +4172,7 @@ b_buinsk,pommeranian,,,Buinsk,,,,,,,,,,x
 b_buinsk,russian,,,Buinsk,,,,,,,,,,x
 b_buinsk,serbian,,,Buinsk,,,,,,,,,,x
 b_ashli,b_ashli,,,Ashli,,,,,,,,,,x
+b_ashli,b_ashli_adj,,,,,,,,,,,,,x
 b_ashli,avar,,,Ishlë,,,,,,,,,,x
 b_ashli,bohemian,,,Ošel,,,,,,,,,,x
 b_ashli,bolghar,,,Ishlë,,,,,,,,,,x
@@ -4040,6 +4187,7 @@ b_ashli,pommeranian,,,Oshel,,,,,,,,,,x
 b_ashli,russian,,,Oshel,,,,,,,,,,x
 b_ashli,serbian,,,Oshel,,,,,,,,,,x
 c_bilyar,PROV613,,,Bilär,,,,,,,,,,x
+c_bilyar,c_bilyar,,,,,,,,,,,,,x
 c_bilyar,c_bilyar_adj,,,Bilärian,,,,,,,,,,x
 c_bilyar,avar,,,Büler,,,,,,,,,,x
 c_bilyar,c_bilyar_adj_avar,,,Bülerian,,,,,,,,,,x
@@ -4066,6 +4214,7 @@ c_bilyar,c_bilyar_adj_russian,,,Bilir,,,,,,,,,,x
 c_bilyar,serbian,,,Bilir,,,,,,,,,,x
 c_bilyar,c_bilyar_adj_serbian,,,Bilirian,,,,,,,,,,x
 b_menzelinsk,b_menzelinsk,,,Minzälä,,,,,,,,,,x
+b_menzelinsk,b_menzelinsk_adj,,,,,,,,,,,,,x
 b_menzelinsk,bohemian,,,Menzelinsk,,,,,,,,,,x
 b_menzelinsk,bosnian,,,Menzelinsk,,,,,,,,,,x
 b_menzelinsk,bulgarian,,,Menzelinsk,,,,,,,,,,x
@@ -4077,6 +4226,7 @@ b_menzelinsk,pommeranian,,,Menzelinsk,,,,,,,,,,x
 b_menzelinsk,russian,,,Menzelinsk,,,,,,,,,,x
 b_menzelinsk,serbian,,,Menzelinsk,,,,,,,,,,x
 b_alabuga,b_alabuga,,,Alabuga,,,,,,,,,,x
+b_alabuga,b_alabuga_adj,,,,,,,,,,,,,x
 b_alabuga,bohemian,,,Jelabuga,,,,,,,,,,x
 b_alabuga,bosnian,,,Yelabuga,,,,,,,,,,x
 b_alabuga,bulgarian,,,Yelabuga,,,,,,,,,,x
@@ -4088,6 +4238,7 @@ b_alabuga,pommeranian,,,Jelabuga,,,,,,,,,,x
 b_alabuga,russian,,,Yelabuga,,,,,,,,,,x
 b_alabuga,serbian,,,Yelabuga,,,,,,,,,,x
 b_bilyar,b_bilyar,,,Bilär,,,,,,,,,,x
+b_bilyar,b_bilyar_adj,,,,,,,,,,,,,x
 b_bilyar,avar,,,Büler,,,,,,,,,,x
 b_bilyar,bohemian,,,Bilir,,,,,,,,,,x
 b_bilyar,bolghar,,,Büler,,,,,,,,,,x
@@ -4102,6 +4253,7 @@ b_bilyar,pommeranian,,,Bilir,,,,,,,,,,x
 b_bilyar,russian,,,Bilir,,,,,,,,,,x
 b_bilyar,serbian,,,Bilir,,,,,,,,,,x
 c_tyumen,PROV891,,,Suar,,,,,,,,,,x
+c_tyumen,c_tyumen,,,,,,,,,,,,,x
 c_tyumen,c_tyumen_adj,,,Suarian,,,,,,,,,,x
 c_tyumen,c_tyumen_adj_afghan,,,Suwarian,,,,,,,,,,x
 c_tyumen,c_tyumen_adj_andalusian_arabic,,,Swazian,,,,,,,,,,x
@@ -4147,8 +4299,11 @@ c_tyumen,c_tyumen_adj_tajik,,,Suwarian,,,,,,,,,,x
 c_tyumen,c_tyumen_adj_tuareg,,,Swazian,,,,,,,,,,x
 c_tyumen,c_tyumen_adj_zanata,,,Swazian,,,,,,,,,,x
 b_arbuga,b_arbuga,,,Arbuga,,,,,,,,,,x
+b_arbuga,b_arbuga_adj,,,,,,,,,,,,,x
 b_simbirsk_ulyanovsk,b_simbirsk_ulyanovsk,,,Simbirsk,,,,,,,,,,x
+b_simbirsk_ulyanovsk,b_simbirsk_ulyanovsk_adj,,,,,,,,,,,,,x
 b_suar,b_suar,,,Suvar,,,,,,,,,,x
+b_suar,b_suar_adj,,,,,,,,,,,,,x
 b_suar,afghan,,,Suwar,,,,,,,,,,x
 b_suar,andalusian_arabic,,,Swaz,,,,,,,,,,x
 b_suar,avar,,,Sävär,,,,,,,,,,x
@@ -4204,6 +4359,7 @@ d_samara,d_samara_adj_russian,,,Samaraian,,,,,,,,,,x
 d_samara,serbian,,,Samara,,,,,,,,,,x
 d_samara,d_samara_adj_serbian,,,Samaraian,,,,,,,,,,x
 c_khantia,PROV890,,,Samar,,,,,,,,,,x
+c_khantia,c_khantia,,,,,,,,,,,,,x
 c_khantia,c_khantia_adj,,,Samarian,,,,,,,,,,x
 c_khantia,bohemian,,,Samara,,,,,,,,,,x
 c_khantia,c_khantia_adj_bohemian,,,Samaraian,,,,,,,,,,x
@@ -4226,6 +4382,7 @@ c_khantia,c_khantia_adj_russian,,,Samaraian,,,,,,,,,,x
 c_khantia,serbian,,,Samara,,,,,,,,,,x
 c_khantia,c_khantia_adj_serbian,,,Samaraian,,,,,,,,,,x
 b_moran,b_moran,,,Mörän,,,,,,,,,,x
+b_moran,b_moran_adj,,,,,,,,,,,,,x
 b_moran,bohemian,,,Morkvashi,,,,,,,,,,x
 b_moran,bosnian,,,Morkvashi,,,,,,,,,,x
 b_moran,bulgarian,,,Morkvashi,,,,,,,,,,x
@@ -4236,7 +4393,9 @@ b_moran,polish,,,Morkvashi,,,,,,,,,,x
 b_moran,pommeranian,,,Morkvashi,,,,,,,,,,x
 b_moran,serbian,,,Morkvashi,,,,,,,,,,x
 b_syzran,b_syzran,,,Syzran,,,,,,,,,,x
+b_syzran,b_syzran_adj,,,,,,,,,,,,,x
 b_samara,b_samara,,,Samar,,,,,,,,,,x
+b_samara,b_samara_adj,,,,,,,,,,,,,x
 b_samara,bohemian,,,Samara,,,,,,,,,,x
 b_samara,bosnian,,,Samara,,,,,,,,,,x
 b_samara,bulgarian,,,Samara,,,,,,,,,,x
@@ -4246,6 +4405,7 @@ b_samara,moravian,,,Samara,,,,,,,,,,x
 b_samara,polish,,,Samara,,,,,,,,,,x
 b_samara,serbian,,,Samara,,,,,,,,,,x
 c_uzens,PROV617,,,Usens,,,,,,,,,,x
+c_uzens,c_uzens,,,,,,,,,,,,,x
 c_uzens,c_uzens_adj,,,Uzensian,,,,,,,,,,x
 c_uzens,avar,,,Qaraösen,,,,,,,,,,x
 c_uzens,c_uzens_adj_avar,,,Qaraösenian,,,,,,,,,,x
@@ -4277,6 +4437,7 @@ c_uzens,c_uzens_adj_turkmen,,,Qaraösenian,,,,,,,,,,x
 c_uzens,uyghur,,,Qaraösen,,,,,,,,,,x
 c_uzens,c_uzens_adj_uyghur,,,Qaraösenian,,,,,,,,,,x
 b_saratov,b_saratov,,,Ükäk,,,,,,,,,,x
+b_saratov,b_saratov_adj,,,,,,,,,,,,,x
 b_saratov,bohemian,,,Saratov,,,,,,,,,,x
 b_saratov,bosnian,,,Saratov,,,,,,,,,,x
 b_saratov,bulgarian,,,Saratov,,,,,,,,,,x
@@ -4287,6 +4448,7 @@ b_saratov,polish,,,Saratov,,,,,,,,,,x
 b_saratov,pommeranian,,,Saratov,,,,,,,,,,x
 b_saratov,serbian,,,Saratov,,,,,,,,,,x
 b_uzens,b_uzens,,,Qaraösen,,,,,,,,,,x
+b_uzens,b_uzens_adj,,,,,,,,,,,,,x
 b_uzens,avar,,,Qaraösen,,,,,,,,,,x
 b_uzens,bashkir,,,Qaraösen,,,,,,,,,,x
 b_uzens,bolghar,,,Qaraösen,,,,,,,,,,x
@@ -4303,6 +4465,7 @@ b_uzens,turkish,,,Qaraösen,,,,,,,,,,x
 b_uzens,turkmen,,,Qaraösen,,,,,,,,,,x
 b_uzens,uyghur,,,Qaraösen,,,,,,,,,,x
 c_syrt,PROV609,,,Syrt,,,,,,,,,,x
+c_syrt,c_syrt,,,,,,,,,,,,,x
 c_syrt,c_syrt_adj,,,Syrtian,,,,,,,,,,x
 c_syrt,avar,,,Tëp Särt,,,,,,,,,,x
 c_syrt,c_syrt_adj_avar,,,Tëp Särtian,,,,,,,,,,x
@@ -4336,7 +4499,9 @@ c_syrt,c_syrt_adj_turkmen,,,Töp Sirtian,,,,,,,,,,x
 c_syrt,uyghur,,,Töp Sirt,,,,,,,,,,x
 c_syrt,c_syrt_adj_uyghur,,,Töp Sirtian,,,,,,,,,,x
 b_buzuluk,b_buzuluk,,,Buzulukskaya,,,,,,,,,,x
+b_buzuluk,b_buzuluk_adj,,,,,,,,,,,,,x
 b_karakiya,b_karakiya,,,Karakiya,,,,,,,,,,x
+b_karakiya,b_karakiya_adj,,,,,,,,,,,,,x
 d_bashkirs,d_bashkirs,,,Bashqurdlar,,,,,,,,,,x
 d_bashkirs,d_bashkirs_adj,,,Bashqurd,,,,,,,,,,x
 d_bashkirs,afghan,,,Bashghirdistan,,,,,,,,,,x
@@ -4407,6 +4572,7 @@ d_bashkirs,d_bashkirs_adj_tuareg,,,Bashghird,,,,,,,,,,x
 d_bashkirs,zanata,,,al-Bashghird,,,,,,,,,,x
 d_bashkirs,d_bashkirs_adj_zanata,,,Bashghird,,,,,,,,,,x
 c_bashkirs,PROV615,,,Aghidhel,,,,,,,,,,x
+c_bashkirs,c_bashkirs,,,,,,,,,,,,,x
 c_bashkirs,c_bashkirs_adj,,,Aghidhelian,,,,,,,,,,x
 c_bashkirs,bohemian,,,Belá,,,,,,,,,,x
 c_bashkirs,c_bashkirs_adj_bohemian,,,Belayan,,,,,,,,,,x
@@ -4427,9 +4593,13 @@ c_bashkirs,c_bashkirs_adj_russian,,,Belayan,,,,,,,,,,x
 c_bashkirs,serbian,,,Belaya,,,,,,,,,,x
 c_bashkirs,c_bashkirs_adj_serbian,,,Belayan,,,,,,,,,,x
 b_ufa,b_ufa,,,Tura-Tau,,,,,,,,,,x
+b_ufa,b_ufa_adj,,,,,,,,,,,,,x
 b_gurkhan,b_gurkhan,,,Gurkhan,,,,,,,,,,x
+b_gurkhan,b_gurkhan_adj,,,,,,,,,,,,,x
 b_nemzhan,b_nemzhan,,,Nemzhan,,,,,,,,,,x
+b_nemzhan,b_nemzhan_adj,,,,,,,,,,,,,x
 c_pecheneg,PROV616,,,Haqmar,,,,,,,,,,x
+c_pecheneg,c_pecheneg,,,,,,,,,,,,,x
 c_pecheneg,c_pecheneg_adj,,,Haqmaran,,,,,,,,,,x
 c_pecheneg,bohemian,,,Sakmar,,,,,,,,,,x
 c_pecheneg,c_pecheneg_adj_bohemian,,,Sakmarian,,,,,,,,,,x
@@ -4450,7 +4620,9 @@ c_pecheneg,c_pecheneg_adj_russian,,,Sakmarian,,,,,,,,,,x
 c_pecheneg,serbian,,,Sakmar,,,,,,,,,,x
 c_pecheneg,c_pecheneg_adj_serbian,,,Sakmarian,,,,,,,,,,x
 b_masra_sakmar,b_masra_sakmar,,,Masra,,,,,,,,,,x
+b_masra_sakmar,b_masra_sakmar_adj,,,,,,,,,,,,,x
 b_kasra_sakmar,b_kasra_sakmar,,,Kasra,,,,,,,,,,x
+b_kasra_sakmar,b_kasra_sakmar_adj,,,,,,,,,,,,,x
 d_mordva,d_mordva,,,Mokša,,,,,,,,,,x
 d_mordva,d_mordva_adj,,,Mokšan,,,,,,,,,,x
 d_mordva,avar,,,Mäqshä,,,,,,,,,,x
@@ -4505,6 +4677,7 @@ d_mordva,d_mordva_adj_uyghur,,,Muqshian,,,,,,,,,,x
 d_mordva,vepsian,,,Jov,,,,,,,,,,x
 d_mordva,d_mordva_adj_vepsian,,,Jovian,,,,,,,,,,x
 c_burtasy,PROV592,,,Barysh,,,,,,,,,,x
+c_burtasy,c_burtasy,,,,,,,,,,,,,x
 c_burtasy,c_burtasy_adj,,,Baryshian,,,,,,,,,,x
 c_burtasy,avar,,,Barish,,,,,,,,,,x
 c_burtasy,c_burtasy_adj_avar,,,Barishian,,,,,,,,,,x
@@ -4541,6 +4714,7 @@ c_burtasy,c_burtasy_adj_turkmen,,,Barishian,,,,,,,,,,x
 c_burtasy,uyghur,,,Barish,,,,,,,,,,x
 c_burtasy,c_burtasy_adj_uyghur,,,Barishian,,,,,,,,,,x
 b_penza,b_penza,,,Penza,,,,,,,,,,x
+b_penza,b_penza_adj,,,,,,,,,,,,,x
 b_penza,avar,,,Kazarki,,,,,,,,,,x
 b_penza,bashkir,,,Kazarki,,,,,,,,,,x
 b_penza,bolghar,,,Kazarki,,,,,,,,,,x
@@ -4556,7 +4730,9 @@ b_penza,turkish,,,Kazarki,,,,,,,,,,x
 b_penza,turkmen,,,Kazarki,,,,,,,,,,x
 b_penza,uyghur,,,Kazarki,,,,,,,,,,x
 b_khvalynsk,b_khvalynsk,,,Sosnovy Ostrov,,,,,,,,,,x
+b_khvalynsk,b_khvalynsk_adj,,,,,,,,,,,,,x
 b_barysh,b_barysh,,,Baryš,,,,,,,,,,x
+b_barysh,b_barysh_adj,,,,,,,,,,,,,x
 b_barysh,avar,,,Barish,,,,,,,,,,x
 b_barysh,bashkir,,,Barish,,,,,,,,,,x
 b_barysh,bolghar,,,Barish,,,,,,,,,,x
@@ -4575,6 +4751,7 @@ b_barysh,turkish,,,Barish,,,,,,,,,,x
 b_barysh,turkmen,,,Barish,,,,,,,,,,x
 b_barysh,uyghur,,,Barish,,,,,,,,,,x
 c_khopyor,PROV593,,,Khoper,,,,,,,,,,x
+c_khopyor,c_khopyor,,,,,,,,,,,,,x
 c_khopyor,c_khopyor_adj,,,Khoperian,,,,,,,,,,x
 c_khopyor,avar,,,Khopër,,,,,,,,,,x
 c_khopyor,c_khopyor_adj_avar,,,Khopërian,,,,,,,,,,x
@@ -4635,6 +4812,7 @@ c_khopyor,c_khopyor_adj_uyghur,,,Khopërian,,,,,,,,,,x
 c_khopyor,vepsian,,,Khopra,,,,,,,,,,x
 c_khopyor,c_khopyor_adj_vepsian,,,Khopran,,,,,,,,,,x
 b_atkarsk,b_atkarsk,,,Atkara,,,,,,,,,,x
+b_atkarsk,b_atkarsk_adj,,,,,,,,,,,,,x
 b_atkarsk,avar,,,Ïtkar,,,,,,,,,,x
 b_atkarsk,bashkir,,,Ïtkar,,,,,,,,,,x
 b_atkarsk,bolghar,,,Ïtkar,,,,,,,,,,x
@@ -4654,7 +4832,9 @@ b_atkarsk,turkish,,,Ïtkar,,,,,,,,,,x
 b_atkarsk,turkmen,,,Ïtkar,,,,,,,,,,x
 b_atkarsk,uyghur,,,Ïtkar,,,,,,,,,,x
 b_bezdezh,b_bezdezh,,,Bezdezh,,,,,,,,,,x
+b_bezdezh,b_bezdezh_adj,,,,,,,,,,,,,x
 b_medveditsa,b_medveditsa,,,Medveditsa,,,,,,,,,,x
+b_medveditsa,b_medveditsa_adj,,,,,,,,,,,,,x
 b_medveditsa,avar,,,Medvedïca,,,,,,,,,,x
 b_medveditsa,bashkir,,,Medvedïca,,,,,,,,,,x
 b_medveditsa,bavarian,,,Medwediza,,,,,,,,,,x
@@ -4685,6 +4865,7 @@ b_medveditsa,turkish,,,Medvedïca,,,,,,,,,,x
 b_medveditsa,turkmen,,,Medvedïca,,,,,,,,,,x
 b_medveditsa,uyghur,,,Medvedïca,,,,,,,,,,x
 c_mordva,PROV579,,,Moksha,,,,,,,,,,x
+c_mordva,c_mordva,,,,,,,,,,,,,x
 c_mordva,c_mordva_adj,,,Mokshan,,,,,,,,,,x
 c_mordva,avar,,,Mäqshä,,,,,,,,,,x
 c_mordva,c_mordva_adj_avar,,,Mäqshän,,,,,,,,,,x
@@ -4739,8 +4920,11 @@ c_mordva,c_mordva_adj_uyghur,,,Muqshian,,,,,,,,,,x
 c_mordva,vepsian,,,Jov,,,,,,,,,,x
 c_mordva,c_mordva_adj_vepsian,,,Jovian,,,,,,,,,,x
 b_michurinsk,b_michurinsk,,,Kozlov,,,,,,,,,,x
+b_michurinsk,b_michurinsk_adj,,,,,,,,,,,,,x
 b_tambov,b_tambov,,,Tambov,,,,,,,,,,x
+b_tambov,b_tambov_adj,,,,,,,,,,,,,x
 b_mokshi,b_mokshi,,,Muqši,,,,,,,,,,x
+b_mokshi,b_mokshi_adj,,,,,,,,,,,,,x
 b_mokshi,bohemian,,,Naruchad',,,,,,,,,,x
 b_mokshi,bosnian,,,Naruchad',,,,,,,,,,x
 b_mokshi,bulgarian,,,Naruchad',,,,,,,,,,x
@@ -4813,6 +4997,7 @@ d_podonye,d_podonye_adj_thuringian,,,Woroneschian,,,,,,,,,,x
 d_podonye,d_podonye_adj_turkish,,,Karatayakan,,,,,,,,,,x
 d_podonye,d_podonye_adj_turkmen,,,Karatayakan,,,,,,,,,,x
 c_lower_volga,PROV608,,,Qaratayak,,,,,,,,,,x
+c_lower_volga,c_lower_volga,,,,,,,,,,,,,x
 c_lower_volga,c_lower_volga_adj,,,Qaratayakan,,,,,,,,,,x
 c_lower_volga,bavarian,,,Woronesch,,,,,,,,,,x
 c_lower_volga,c_lower_volga_adj_bavarian,,,Woroneschian,,,,,,,,,,x
@@ -4862,8 +5047,10 @@ c_lower_volga,c_lower_volga_adj_thuringian,,,Woroneschian,,,,,,,,,,x
 c_lower_volga,c_lower_volga_adj_turkish,,,Karatayakan,,,,,,,,,,x
 c_lower_volga,c_lower_volga_adj_turkmen,,,Karatayakan,,,,,,,,,,x
 b_lipetsk,b_lipetsk,,,Yauchy,,,,,,,,,,x
+b_lipetsk,b_lipetsk_adj,,,,,,,,,,,,,x
 b_lipetsk,russian,,,Lipeck,,,,,,,,,,x
 b_korotoyak,b_korotoyak,,,Qaratayak,,,,,,,,,,x
+b_korotoyak,b_korotoyak_adj,,,,,,,,,,,,,x
 b_korotoyak,bohemian,,,Korotoyak,,,,,,,,,,x
 b_korotoyak,bosnian,,,Korotoyak,,,,,,,,,,x
 b_korotoyak,bulgarian,,,Korotoyak,,,,,,,,,,x
@@ -4879,6 +5066,7 @@ b_korotoyak,serbian,,,Korotoyak,,,,,,,,,,x
 b_korotoyak,turkish,,,Karatyak,,,,,,,,,,x
 b_korotoyak,turkmen,,,Karatyak,,,,,,,,,,x
 b_voronezh,b_voronezh,,,Voronej,,,,,,,,,,x
+b_voronezh,b_voronezh_adj,,,,,,,,,,,,,x
 b_voronezh,bavarian,,,Woronesch,,,,,,,,,,x
 b_voronezh,bohemian,,,Voronež,,,,,,,,,,x
 b_voronezh,bosnian,,,Voronež,,,,,,,,,,x
@@ -4901,6 +5089,7 @@ b_voronezh,serbian,,,Voronež,,,,,,,,,,x
 b_voronezh,swabian,,,Woronesch,,,,,,,,,,x
 b_voronezh,thuringian,,,Woronesch,,,,,,,,,,x
 c_desht-i-kipchak,PROV564,,,Vskol',,,,,,,,,,x
+c_desht-i-kipchak,c_desht-i-kipchak,,,,,,,,,,,,,x
 c_desht-i-kipchak,c_desht-i-kipchak_adj,,,Vskol',,,,,,,,,,x
 c_desht-i-kipchak,avar,,,Esen,,,,,,,,,,x
 c_desht-i-kipchak,c_desht-i-kipchak_adj_avar,,,Esenian,,,,,,,,,,x
@@ -4938,12 +5127,16 @@ c_desht-i-kipchak,c_desht-i-kipchak_adj_turkmen,,,Esenian,,,,,,,,,,x
 c_desht-i-kipchak,uyghur,,,Esen,,,,,,,,,,x
 c_desht-i-kipchak,c_desht-i-kipchak_adj_uyghur,,,Esenian,,,,,,,,,,x
 b_stary_oskol,b_stary_oskol,,,Vskol',,,,,,,,,,x
+b_stary_oskol,b_stary_oskol_adj,,,,,,,,,,,,,x
 b_stary_oskol,lettigallish,,,Oskolas,,,,,,,,,,x
 b_stary_oskol,lithuanian,,,Oskolas,,,,,,,,,,x
 b_stary_oskol,prussian,,,Oskolas,,,,,,,,,,x
 b_korshev,b_korshev,,,Korshev,,,,,,,,,,x
+b_korshev,b_korshev_adj,,,,,,,,,,,,,x
 b_mayaki,b_mayaki,,,Mayaki,,,,,,,,,,x
+b_mayaki,b_mayaki_adj,,,,,,,,,,,,,x
 b_osen,b_osen,,,Osen',,,,,,,,,,x
+b_osen,b_osen_adj,,,,,,,,,,,,,x
 b_osen,avar,,,Esen,,,,,,,,,,x
 b_osen,bashkir,,,Esen,,,,,,,,,,x
 b_osen,bolghar,,,Esen,,,,,,,,,,x
@@ -5011,6 +5204,7 @@ d_sura,d_sura_adj_uyghur,,,Sarian,,,,,,,,,,x
 d_sura,vepsian,,,Šur,,,,,,,,,,x
 d_sura,d_sura_adj_vepsian,,,Šurian,,,,,,,,,,x
 c_chuvash,PROV590,,,Sura,,,,,,,,,,x
+c_chuvash,c_chuvash,,,,,,,,,,,,,x
 c_chuvash,c_chuvash_adj,,,Suran,,,,,,,,,,x
 c_chuvash,avar,,,Sär,,,,,,,,,,x
 c_chuvash,c_chuvash_adj_avar,,,Särian,,,,,,,,,,x
@@ -5063,6 +5257,7 @@ c_chuvash,c_chuvash_adj_uyghur,,,Sarian,,,,,,,,,,x
 c_chuvash,vepsian,,,Šur,,,,,,,,,,x
 c_chuvash,c_chuvash_adj_vepsian,,,Šurian,,,,,,,,,,x
 b_kurmysh,b_kurmysh,,,Kurmyš,,,,,,,,,,x
+b_kurmysh,b_kurmysh_adj,,,,,,,,,,,,,x
 b_kurmysh,avar,,,Kärmäš,,,,,,,,,,x
 b_kurmysh,bashkir,,,Kormyš,,,,,,,,,,x
 b_kurmysh,bolghar,,,Kärmäš,,,,,,,,,,x
@@ -5078,6 +5273,7 @@ b_kurmysh,turkish,,,Kormyš,,,,,,,,,,x
 b_kurmysh,turkmen,,,Kormyš,,,,,,,,,,x
 b_kurmysh,uyghur,,,Kormyš,,,,,,,,,,x
 b_yadrin,b_yadrin,,,Yadrin,,,,,,,,,,x
+b_yadrin,b_yadrin_adj,,,,,,,,,,,,,x
 b_yadrin,avar,,,Yeterne,,,,,,,,,,x
 b_yadrin,bashkir,,,Yeterne,,,,,,,,,,x
 b_yadrin,bolghar,,,Yeterne,,,,,,,,,,x
@@ -5104,6 +5300,7 @@ b_yadrin,ugricbaltic,,,Yadyrna,,,,,,,,,,x
 b_yadrin,uyghur,,,Yeterne,,,,,,,,,,x
 b_yadrin,vepsian,,,Yadyrna,,,,,,,,,,x
 b_tsivislsk,b_tsivislsk,,,Tsivilsk,,,,,,,,,,x
+b_tsivislsk,b_tsivislsk_adj,,,,,,,,,,,,,x
 b_tsivislsk,avar,,,Serpü,,,,,,,,,,x
 b_tsivislsk,bashkir,,,Chuyel,,,,,,,,,,x
 b_tsivislsk,bolghar,,,Serpü,,,,,,,,,,x
@@ -5119,6 +5316,7 @@ b_tsivislsk,turkish,,,Chuyel,,,,,,,,,,x
 b_tsivislsk,turkmen,,,Chuyel,,,,,,,,,,x
 b_tsivislsk,uyghur,,,Chuyel,,,,,,,,,,x
 b_cheboksary,b_cheboksary,,,Cheboksar,,,,,,,,,,x
+b_cheboksary,b_cheboksary_adj,,,,,,,,,,,,,x
 b_cheboksary,avar,,,Šupaškär,,,,,,,,,,x
 b_cheboksary,bashkir,,,Šupaškar,,,,,,,,,,x
 b_cheboksary,bolghar,,,Šupaškär,,,,,,,,,,x
@@ -5145,6 +5343,7 @@ b_cheboksary,ugricbaltic,,,Šaravar,,,,,,,,,,x
 b_cheboksary,uyghur,,,Šupaškar,,,,,,,,,,x
 b_cheboksary,vepsian,,,Šaravar,,,,,,,,,,x
 c_mountain_cheremisa,PROV591,,,Alatyr',,,,,,,,,,x
+c_mountain_cheremisa,c_mountain_cheremisa,,,,,,,,,,,,,x
 c_mountain_cheremisa,c_mountain_cheremisa_adj,,,Alatyr'an,,,,,,,,,,x
 c_mountain_cheremisa,avar,,,Ulatär,,,,,,,,,,x
 c_mountain_cheremisa,c_mountain_cheremisa_adj_avar,,,Ulatäran,,,,,,,,,,x
@@ -5181,6 +5380,7 @@ c_mountain_cheremisa,c_mountain_cheremisa_adj_ugricbaltic,,,Ratorian,,,,,,,,,,x
 c_mountain_cheremisa,vepsian,,,Rator,,,,,,,,,,x
 c_mountain_cheremisa,c_mountain_cheremisa_adj_vepsian,,,Ratorian,,,,,,,,,,x
 b_saransk,b_saransk,,,Saransk,,,,,,,,,,x
+b_saransk,b_saransk_adj,,,,,,,,,,,,,x
 b_saransk,finnish,,,Saranosh,,,,,,,,,,x
 b_saransk,karelian,,,Saranosh,,,,,,,,,,x
 b_saransk,khanty,,,Saranosh,,,,,,,,,,x
@@ -5196,6 +5396,7 @@ b_saransk,samoyed,,,Saranosh,,,,,,,,,,x
 b_saransk,ugricbaltic,,,Saranosh,,,,,,,,,,x
 b_saransk,vepsian,,,Saranosh,,,,,,,,,,x
 b_alatyr,b_alatyr,,,Alatarem,,,,,,,,,,x
+b_alatyr,b_alatyr_adj,,,,,,,,,,,,,x
 b_alatyr,finnish,,,Ratorosh,,,,,,,,,,x
 b_alatyr,karelian,,,Ratorosh,,,,,,,,,,x
 b_alatyr,khanty,,,Ratorosh,,,,,,,,,,x
@@ -5267,6 +5468,7 @@ d_perm,d_perm_adj_russian,,,Perm'ian,,,,,,,,,,x
 d_perm,serbian,,,Perm,,,,,,,,,,x
 d_perm,d_perm_adj_serbian,,,Permian,,,,,,,,,,x
 c_perm,PROV886,,,Viser,,,,,,,,,,x
+c_perm,c_perm,,,,,,,,,,,,,x
 c_perm,c_perm_adj,,,Viserian,,,,,,,,,,x
 c_perm,bohemian,,,Višera,,,,,,,,,,x
 c_perm,c_perm_adj_bohemian,,,Višeran,,,,,,,,,,x
@@ -5291,7 +5493,9 @@ c_perm,c_perm_adj_russian,,,Višeran,,,,,,,,,,x
 c_perm,serbian,,,Višera,,,,,,,,,,x
 c_perm,c_perm_adj_serbian,,,Višeran,,,,,,,,,,x
 b_uros,b_uros,,,Uros,,,,,,,,,,x
+b_uros,b_uros_adj,,,,,,,,,,,,,x
 b_solikamsk,b_solikamsk,,,Sovkar,,,,,,,,,,x
+b_solikamsk,b_solikamsk_adj,,,,,,,,,,,,,x
 b_solikamsk,bohemian,,,Usolye-na-Kamskom,,,,,,,,,,x
 b_solikamsk,bosnian,,,Usolye-na-Kamskom,,,,,,,,,,x
 b_solikamsk,bulgarian,,,Usolye-na-Kamskom,,,,,,,,,,x
@@ -5303,7 +5507,9 @@ b_solikamsk,pommeranian,,,Usolye-na-Kamskom,,,,,,,,,,x
 b_solikamsk,russian,,,Usolye-na-Kamskom,,,,,,,,,,x
 b_solikamsk,serbian,,,Usolye-na-Kamskom,,,,,,,,,,x
 b_iskor,b_iskor,,,Iskor,,,,,,,,,,x
+b_iskor,b_iskor_adj,,,,,,,,,,,,,x
 b_cherdyn,b_cherdyn,,,Cherdín,,,,,,,,,,x
+b_cherdyn,b_cherdyn_adj,,,,,,,,,,,,,x
 b_cherdyn,avar,,,Çärdän,,,,,,,,,,x
 b_cherdyn,bashkir,,,Çärdän,,,,,,,,,,x
 b_cherdyn,bohemian,,,Cherdyn,,,,,,,,,,x
@@ -5329,6 +5535,7 @@ b_cherdyn,turkish,,,Çärdän,,,,,,,,,,x
 b_cherdyn,turkmen,,,Çärdän,,,,,,,,,,x
 b_cherdyn,uyghur,,,Çärdän,,,,,,,,,,x
 b_pokcha,b_pokcha,,,Pokcha,,,,,,,,,,x
+b_pokcha,b_pokcha_adj,,,,,,,,,,,,,x
 b_pokcha,avar,,,Pokça,,,,,,,,,,x
 b_pokcha,bashkir,,,Pokça,,,,,,,,,,x
 b_pokcha,bolghar,,,Pokça,,,,,,,,,,x
@@ -5344,6 +5551,7 @@ b_pokcha,turkish,,,Pokça,,,,,,,,,,x
 b_pokcha,turkmen,,,Pokça,,,,,,,,,,x
 b_pokcha,uyghur,,,Pokça,,,,,,,,,,x
 c_votyaki,PROV612,,,Otš,,,,,,,,,,x
+c_votyaki,c_votyaki,,,,,,,,,,,,,x
 c_votyaki,c_votyaki_adj,,,Otšian,,,,,,,,,,x
 c_votyaki,avar,,,Ij,,,,,,,,,,x
 c_votyaki,c_votyaki_adj_avar,,,Ijian,,,,,,,,,,x
@@ -5394,10 +5602,14 @@ c_votyaki,c_votyaki_adj_turkmen,,,Ijian,,,,,,,,,,x
 c_votyaki,uyghur,,,Ij,,,,,,,,,,x
 c_votyaki,c_votyaki_adj_uyghur,,,Ijian,,,,,,,,,,x
 b_izhevsk,b_izhevsk,,,Otš,,,,,,,,,,x
+b_izhevsk,b_izhevsk_adj,,,,,,,,,,,,,x
 b_sarapul,b_sarapul,,,Sarapul,,,,,,,,,,x
+b_sarapul,b_sarapul_adj,,,,,,,,,,,,,x
 c_komi,PROV888,,,Inva,,,,,,,,,,x
+c_komi,c_komi,,,,,,,,,,,,,x
 c_komi,c_komi_adj,,,Ivan,,,,,,,,,,x
 b_kudymkar,b_kudymkar,,,Kudymkör,,,,,,,,,,x
+b_kudymkar,b_kudymkar_adj,,,,,,,,,,,,,x
 b_kudymkar,bohemian,,,Kudymkar,,,,,,,,,,x
 b_kudymkar,bosnian,,,Kudymkar,,,,,,,,,,x
 b_kudymkar,bulgarian,,,Kudymkar,,,,,,,,,,x
@@ -5459,6 +5671,7 @@ d_vyatka,d_vyatka_adj_turkmen,,,Noqratan,,,,,,,,,,x
 d_vyatka,uyghur,,,Noqrat,,,,,,,,,,x
 d_vyatka,d_vyatka_adj_uyghur,,,Noqratan,,,,,,,,,,x
 c_hlynov,PROV401,,,Vice,,,,,,,,,,x
+c_hlynov,c_hlynov,,,,,,,,,,,,,x
 c_hlynov,c_hlynov_adj,,,Vicean,,,,,,,,,,x
 c_hlynov,avar,,,Nukhrat,,,,,,,,,,x
 c_hlynov,c_hlynov_adj_avar,,,Nukhratan,,,,,,,,,,x
@@ -5509,6 +5722,7 @@ c_hlynov,c_hlynov_adj_turkmen,,,Noqratan,,,,,,,,,,x
 c_hlynov,uyghur,,,Noqrat,,,,,,,,,,x
 c_hlynov,c_hlynov_adj_uyghur,,,Noqratan,,,,,,,,,,x
 b_kotelnich,b_kotelnich,,,K?kš?r,,,,,,,,,,x
+b_kotelnich,b_kotelnich_adj,,,,,,,,,,,,,x
 b_kotelnich,bohemian,,,Kokšarova,,,,,,,,,,x
 b_kotelnich,bosnian,,,Kokšarova,,,,,,,,,,x
 b_kotelnich,bulgarian,,,Kokšarova,,,,,,,,,,x
@@ -5520,6 +5734,7 @@ b_kotelnich,pommeranian,,,Kokšarova,,,,,,,,,,x
 b_kotelnich,russian,,,Kokšarova,,,,,,,,,,x
 b_kotelnich,serbian,,,Kokšarova,,,,,,,,,,x
 b_kaigorod,b_kaigorod,,,Kaykar,,,,,,,,,,x
+b_kaigorod,b_kaigorod_adj,,,,,,,,,,,,,x
 b_kaigorod,bohemian,,,Kaigorod,,,,,,,,,,x
 b_kaigorod,bosnian,,,Kaigorod,,,,,,,,,,x
 b_kaigorod,bulgarian,,,Kaigorod,,,,,,,,,,x
@@ -5531,6 +5746,7 @@ b_kaigorod,pommeranian,,,Kaigorod,,,,,,,,,,x
 b_kaigorod,russian,,,Kaigorod,,,,,,,,,,x
 b_kaigorod,serbian,,,Kaigorod,,,,,,,,,,x
 b_bolvansky,b_bolvansky,,,Kukarka,,,,,,,,,,x
+b_bolvansky,b_bolvansky_adj,,,,,,,,,,,,,x
 b_bolvansky,bohemian,,,Bolvansky,,,,,,,,,,x
 b_bolvansky,bosnian,,,Bolvansky,,,,,,,,,,x
 b_bolvansky,bulgarian,,,Bolvansky,,,,,,,,,,x
@@ -5542,6 +5758,7 @@ b_bolvansky,pommeranian,,,Bolvansky,,,,,,,,,,x
 b_bolvansky,russian,,,Bolvansky,,,,,,,,,,x
 b_bolvansky,serbian,,,Bolvansky,,,,,,,,,,x
 b_kirov,b_kirov,,,Vice,,,,,,,,,,x
+b_kirov,b_kirov_adj,,,,,,,,,,,,,x
 b_kirov,avar,,,Hilin,,,,,,,,,,x
 b_kirov,bashkir,,,Hilin,,,,,,,,,,x
 b_kirov,bohemian,,,Khlynov,,,,,,,,,,x
@@ -5567,6 +5784,7 @@ b_kirov,turkish,,,Hilin,,,,,,,,,,x
 b_kirov,turkmen,,,Hilin,,,,,,,,,,x
 b_kirov,uyghur,,,Hilin,,,,,,,,,,x
 c_merya,PROV588,,,Šošma,,,,,,,,,,x
+c_merya,c_merya,,,,,,,,,,,,,x
 c_merya,c_merya_adj,,,Šošman,,,,,,,,,,x
 c_merya,avar,,,Shushma,,,,,,,,,,x
 c_merya,c_merya_adj_avar,,,Shushman,,,,,,,,,,x
@@ -5597,6 +5815,7 @@ c_merya,c_merya_adj_turkmen,,,Shushman,,,,,,,,,,x
 c_merya,uyghur,,,Shushma,,,,,,,,,,x
 c_merya,c_merya_adj_uyghur,,,Shushman,,,,,,,,,,x
 b_urzhum,b_urzhum,,,Bürzym,,,,,,,,,,x
+b_urzhum,b_urzhum_adj,,,,,,,,,,,,,x
 b_urzhum,bohemian,,,Urzhum,,,,,,,,,,x
 b_urzhum,bosnian,,,Urzhum,,,,,,,,,,x
 b_urzhum,bulgarian,,,Urzhum,,,,,,,,,,x
@@ -5608,7 +5827,9 @@ b_urzhum,pommeranian,,,Urzhum,,,,,,,,,,x
 b_urzhum,russian,,,Urzhum,,,,,,,,,,x
 b_urzhum,serbian,,,Urzhum,,,,,,,,,,x
 b_porec_shoshma,b_porec_shoshma,,,Porec,,,,,,,,,,x
+b_porec_shoshma,b_porec_shoshma_adj,,,,,,,,,,,,,x
 b_malmyzh,b_malmyzh,,,Malmyž,,,,,,,,,,x
+b_malmyzh,b_malmyzh_adj,,,,,,,,,,,,,x
 b_malmyzh,avar,,,Malmash,,,,,,,,,,x
 b_malmyzh,bashkir,,,Malmash,,,,,,,,,,x
 b_malmyzh,bolghar,,,Malmash,,,,,,,,,,x
@@ -5624,6 +5845,7 @@ b_malmyzh,turkish,,,Malmash,,,,,,,,,,x
 b_malmyzh,turkmen,,,Malmash,,,,,,,,,,x
 b_malmyzh,uyghur,,,Malmash,,,,,,,,,,x
 c_grassland_cheremisa,PROV589,,,Vütla,,,,,,,,,,x
+c_grassland_cheremisa,c_grassland_cheremisa,,,,,,,,,,,,,x
 c_grassland_cheremisa,c_grassland_cheremisa_adj,,,Vütlan,,,,,,,,,,x
 c_grassland_cheremisa,bohemian,,,Vetluga,,,,,,,,,,x
 c_grassland_cheremisa,c_grassland_cheremisa_adj_bohemian,,,Vetlugan,,,,,,,,,,x
@@ -5646,6 +5868,7 @@ c_grassland_cheremisa,c_grassland_cheremisa_adj_russian,,,Vetlugan,,,,,,,,,,x
 c_grassland_cheremisa,serbian,,,Vetluga,,,,,,,,,,x
 c_grassland_cheremisa,c_grassland_cheremisa_adj_serbian,,,Vetlugan,,,,,,,,,,x
 b_staro_shangskoye,b_staro_shangskoye,,,Shangskoye,,,,,,,,,,x
+b_staro_shangskoye,b_staro_shangskoye_adj,,,,,,,,,,,,,x
 b_staro_shangskoye,bohemian,,,Shangskoye,,,,,,,,,,x
 b_staro_shangskoye,bosnian,,,Shangskoye,,,,,,,,,,x
 b_staro_shangskoye,bulgarian,,,Shangskoye,,,,,,,,,,x
@@ -5657,6 +5880,7 @@ b_staro_shangskoye,pommeranian,,,Shangskoye,,,,,,,,,,x
 b_staro_shangskoye,russian,,,Shangskoye,,,,,,,,,,x
 b_staro_shangskoye,serbian,,,Shangskoye,,,,,,,,,,x
 b_kazhirovo,b_kazhirovo,,,Kazhirovo,,,,,,,,,,x
+b_kazhirovo,b_kazhirovo_adj,,,,,,,,,,,,,x
 b_kazhirovo,bohemian,,,Kazhirovo,,,,,,,,,,x
 b_kazhirovo,bosnian,,,Kazhirovo,,,,,,,,,,x
 b_kazhirovo,bulgarian,,,Kazhirovo,,,,,,,,,,x
@@ -5668,6 +5892,7 @@ b_kazhirovo,pommeranian,,,Kazhirovo,,,,,,,,,,x
 b_kazhirovo,russian,,,Kazhirovo,,,,,,,,,,x
 b_kazhirovo,serbian,,,Kazhirovo,,,,,,,,,,x
 b_vetluga,b_vetluga,,,Yur,,,,,,,,,,x
+b_vetluga,b_vetluga_adj,,,,,,,,,,,,,x
 b_vetluga,bohemian,,,Vetluga,,,,,,,,,,x
 b_vetluga,bosnian,,,Vetluga,,,,,,,,,,x
 b_vetluga,bulgarian,,,Vetluga,,,,,,,,,,x
@@ -5679,6 +5904,7 @@ b_vetluga,pommeranian,,,Vetluga,,,,,,,,,,x
 b_vetluga,russian,,,Vetluga,,,,,,,,,,x
 b_vetluga,serbian,,,Vetluga,,,,,,,,,,x
 c_kokshaga,PROV1831,,,Kakšan,,,,,,,,,,x
+c_kokshaga,c_kokshaga,,,,,,,,,,,,,x
 c_kokshaga,c_kokshaga_adj,,,Kakšanish,,,,,,,,,,x
 c_kokshaga,avar,,,Kaksha,,,,,,,,,,x
 c_kokshaga,c_kokshaga_adj_avar,,,Kakšan,,,,,,,,,,x
@@ -5729,6 +5955,7 @@ c_kokshaga,c_kokshaga_adj_turkmen,,,Kakšan,,,,,,,,,,x
 c_kokshaga,uyghur,,,Kaksha,,,,,,,,,,x
 c_kokshaga,c_kokshaga_adj_uyghur,,,Kakšan,,,,,,,,,,x
 b_yoshkar_ola,b_yoshkar_ola,,,Izi Kakšan,,,,,,,,,,x
+b_yoshkar_ola,b_yoshkar_ola_adj,,,,,,,,,,,,,x
 b_yoshkar_ola,avar,,,Kaksha-Jük,,,,,,,,,,x
 b_yoshkar_ola,bashkir,,,Kaksha-Jük,,,,,,,,,,x
 b_yoshkar_ola,bohemian,,,Malaya Kokšaga,,,,,,,,,,x
@@ -5754,6 +5981,7 @@ b_yoshkar_ola,turkish,,,Kaksha-Jük,,,,,,,,,,x
 b_yoshkar_ola,turkmen,,,Kaksha-Jük,,,,,,,,,,x
 b_yoshkar_ola,uyghur,,,Kaksha-Jük,,,,,,,,,,x
 b_kokshaysk,b_kokshaysk,,,Kakšanla,,,,,,,,,,x
+b_kokshaysk,b_kokshaysk_adj,,,,,,,,,,,,,x
 b_kokshaysk,avar,,,Kaksha,,,,,,,,,,x
 b_kokshaysk,bashkir,,,Kaksha,,,,,,,,,,x
 b_kokshaysk,bohemian,,,Kokšaysk,,,,,,,,,,x
@@ -5801,6 +6029,7 @@ d_pelym,d_pelym_adj_russian,,,Pelyman,,,,,,,,,,x
 d_pelym,serbian,,,Pelym,,,,,,,,,,x
 d_pelym,d_pelym_adj_serbian,,,Pelyman,,,,,,,,,,x
 c_mansia,PROV892,,,Polum,,,,,,,,,,x
+c_mansia,c_mansia,,,,,,,,,,,,,x
 c_mansia,c_mansia_adj,,,Polumish,,,,,,,,,,x
 c_mansia,bohemian,,,Pelym,,,,,,,,,,x
 c_mansia,c_mansia_adj_bohemian,,,Pelymish,,,,,,,,,,x
@@ -5823,10 +6052,14 @@ c_mansia,c_mansia_adj_russian,,,Pelymish,,,,,,,,,,x
 c_mansia,serbian,,,Pelym,,,,,,,,,,x
 c_mansia,c_mansia_adj_serbian,,,Pelymish,,,,,,,,,,x
 b_leushi,b_leushi,,,Leuši,,,,,,,,,,x
+b_leushi,b_leushi_adj,,,,,,,,,,,,,x
 b_tabary,b_tabary,,,Tabary,,,,,,,,,,x
+b_tabary,b_tabary_adj,,,,,,,,,,,,,x
 b_ivdel,b_ivdel,,,Ivdel,,,,,,,,,,x
+b_ivdel,b_ivdel_adj,,,,,,,,,,,,,x
 b_ivdel,khanty,,,Sapsaus,,,,,,,,,,x
 b_pelym,b_pelym,,,Polum,,,,,,,,,,x
+b_pelym,b_pelym_adj,,,,,,,,,,,,,x
 b_pelym,bohemian,,,Pelym,,,,,,,,,,x
 b_pelym,bosnian,,,Pelym,,,,,,,,,,x
 b_pelym,bulgarian,,,Pelym,,,,,,,,,,x
@@ -5838,6 +6071,7 @@ b_pelym,pommeranian,,,Pelym,,,,,,,,,,x
 b_pelym,russian,,,Pelym,,,,,,,,,,x
 b_pelym,serbian,,,Pelym,,,,,,,,,,x
 c_ural,PROV889,,,Chusovaya,,,,,,,,,,x
+c_ural,c_ural,,,,,,,,,,,,,x
 c_ural,c_ural_adj,,,,,,,,,,,,,x
 c_ural,avar,,,Çusovaya,,,,,,,,,,x
 c_ural,c_ural_adj_avar,,,Çusovayan,,,,,,,,,,x
@@ -5868,7 +6102,9 @@ c_ural,c_ural_adj_turkmen,,,Çusovayan,,,,,,,,,,x
 c_ural,uyghur,,,Çusovaya,,,,,,,,,,x
 c_ural,c_ural_adj_uyghur,,,Çusovayan,,,,,,,,,,x
 b_nizhnechusovskie_gorodki,b_nizhnechusovskie_gorodki,,,Nizhnechusovskie Gorodki,,,,,,,,,,x
+b_nizhnechusovskie_gorodki,b_nizhnechusovskie_gorodki_adj,,,,,,,,,,,,,x
 b_verkhoturye,b_verkhoturye,,,Neromkar,,,,,,,,,,x
+b_verkhoturye,b_verkhoturye_adj,,,,,,,,,,,,,x
 d_perm_vychegda,d_perm_vychegda,,,Ežva,,,,,,,,,,x
 d_perm_vychegda,d_perm_vychegda_adj,,,Ežva,,,,,,,,,,x
 d_perm_vychegda,avar,,,Viçegda,,,,,,,,,,x
@@ -5920,6 +6156,7 @@ d_perm_vychegda,d_perm_vychegda_adj_turkmen,,,Viçegdan,,,,,,,,,,x
 d_perm_vychegda,uyghur,,,Viçegda,,,,,,,,,,x
 d_perm_vychegda,d_perm_vychegda_adj_uyghur,,,Viçegdan,,,,,,,,,,x
 c_syrj,PROV399,,,Jemva,,,,,,,,,,x
+c_syrj,c_syrj,,,,,,,,,,,,,x
 c_syrj,c_syrj_adj,,,Jemvan,,,,,,,,,,x
 c_syrj,bohemian,,,Vym,,,,,,,,,,x
 c_syrj,c_syrj_adj_bohemian,,,Vymish,,,,,,,,,,x
@@ -5942,6 +6179,7 @@ c_syrj,c_syrj_adj_russian,,,Vymish,,,,,,,,,,x
 c_syrj,serbian,,,Vym,,,,,,,,,,x
 c_syrj,c_syrj_adj_serbian,,,Vymish,,,,,,,,,,x
 b_ust_vym,b_ust_vym,,,Jemdyn,,,,,,,,,,x
+b_ust_vym,b_ust_vym_adj,,,,,,,,,,,,,x
 b_ust_vym,bohemian,,,Ust-Vym,,,,,,,,,,x
 b_ust_vym,bosnian,,,Ust-Vym,,,,,,,,,,x
 b_ust_vym,bulgarian,,,Ust-Vym,,,,,,,,,,x
@@ -5953,6 +6191,7 @@ b_ust_vym,pommeranian,,,Ust-Vym,,,,,,,,,,x
 b_ust_vym,russian,,,Ust-Vym,,,,,,,,,,x
 b_ust_vym,serbian,,,Ust-Vym,,,,,,,,,,x
 c_zyriane,PROV400,,,Ežva,,,,,,,,,,x
+c_zyriane,c_zyriane,,,,,,,,,,,,,x
 c_zyriane,c_zyriane_adj,,,Ežvan,,,,,,,,,,x
 c_zyriane,avar,,,Viçegda,,,,,,,,,,x
 c_zyriane,c_zyriane_adj_avar,,,Viçegdan,,,,,,,,,,x
@@ -6003,6 +6242,7 @@ c_zyriane,c_zyriane_adj_turkmen,,,Viçegdan,,,,,,,,,,x
 c_zyriane,uyghur,,,Viçegda,,,,,,,,,,x
 c_zyriane,c_zyriane_adj_uyghur,,,Viçegdan,,,,,,,,,,x
 b_koryazhma,b_koryazhma,,,Koräžm,,,,,,,,,,x
+b_koryazhma,b_koryazhma_adj,,,,,,,,,,,,,x
 b_koryazhma,bohemian,,,Koryažma,,,,,,,,,,x
 b_koryazhma,bosnian,,,Koryažma,,,,,,,,,,x
 b_koryazhma,bulgarian,,,Koryažma,,,,,,,,,,x
@@ -6014,6 +6254,7 @@ b_koryazhma,pommeranian,,,Koryažma,,,,,,,,,,x
 b_koryazhma,russian,,,Koryažma,,,,,,,,,,x
 b_koryazhma,serbian,,,Koryažma,,,,,,,,,,x
 b_solvychegodsk,b_solvychegodsk,,,Sov-dor,,,,,,,,,,x
+b_solvychegodsk,b_solvychegodsk_adj,,,,,,,,,,,,,x
 b_solvychegodsk,bohemian,,,Usolsk,,,,,,,,,,x
 b_solvychegodsk,bosnian,,,Usolsk,,,,,,,,,,x
 b_solvychegodsk,bulgarian,,,Usolsk,,,,,,,,,,x
@@ -6025,6 +6266,7 @@ b_solvychegodsk,pommeranian,,,Usolsk,,,,,,,,,,x
 b_solvychegodsk,russian,,,Usolsk,,,,,,,,,,x
 b_solvychegodsk,serbian,,,Usolsk,,,,,,,,,,x
 b_yarensk,b_yarensk,,,Yerin,,,,,,,,,,x
+b_yarensk,b_yarensk_adj,,,,,,,,,,,,,x
 b_yarensk,bohemian,,,Yarensk,,,,,,,,,,x
 b_yarensk,bosnian,,,Yarensk,,,,,,,,,,x
 b_yarensk,bulgarian,,,Yarensk,,,,,,,,,,x

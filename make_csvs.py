@@ -50,7 +50,7 @@ def process_landed_titles(parser, lt_keys, title_region):
     def recurse(tree, liege=None):
         for n, v in tree:
             if ck2parser.is_codename(n.val):
-                attrs = {}
+                attrs = {n.val: '', n.val + '_adj': ''}
                 for n2, v2 in v:
                     if n2.val in lt_keys:
                         try:
@@ -148,7 +148,7 @@ def write_output(title_attrs, title_region, other_locs, prev_title_attrs,
     for title, pairs in title_attrs.items():
         out_rows = out_row_lists[title_region.get(title)]
         for key, value in pairs:
-            prev = prev_title_attrs[title].get(key, '')
+            prev = prev_title_attrs[title].get(key, ('', ''))
             out_rows.append([title, key, prev[0], prev[1], value] +
                             [''] * 9 + ['x'])
     with tempfile.TemporaryDirectory() as td:
